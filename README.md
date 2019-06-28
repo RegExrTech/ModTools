@@ -1,8 +1,8 @@
-##Mod Tools
+## Mod Tools
 
 These are handy little mod tools for reddit moderators. Each tool will be described below. Please follow the setup guide if you wish to  run this on your own. If you wish to have your subreddit included in these tools, please contact [u/RegExr](https://www.reddit.com/r/regexr) on reddit.
 
-###Setting up
+### Setting up
 
 First off, create a reddit account and give it full mod permissions in your sub. Then, create a script and generate the secret keys needed to log into PRAW.
 
@@ -26,7 +26,7 @@ Once you have a directory, run `nano config/<your-sub-name>-config.txt` and ente
 
 With this config file set, you're ready to start running the scripts.
 
-###modmail.py
+### modmail.py
 
 This script parses through modmail and builds a database of removals and bans. The key features are as follows:
 
@@ -53,7 +53,7 @@ This script parses through modmail and builds a database of removals and bans. T
   * If using the mod toolbox, please add `<removal reason> - ` before each removal reason you configure with the name of the removal reason replacing <removal reason>
 
 
-###post_timeframe.py
+### post_timeframe.py
 
 This script checks recent posts on your sub to see if anyone has been posting too frequently. Many subs only allow people to post every X days. Running this script will prevent people from making too many posts in your chosen timeframe. The key features are as follows:
 
@@ -66,7 +66,7 @@ This script checks recent posts on your sub to see if anyone has been posting to
 * Posts made by mods will be ignored by default.
 
 
-###Suggested crontab Expressions
+### Suggested crontab Expressions
 
 Run this using the crontab on your machine using `crontab -e`. The suggested expressions are as follows:
 
