@@ -1,0 +1,6 @@
+*.pyc
+config
+config/*
+database
+database/*
+
