@@ -21,9 +21,11 @@ def remove_reported_posts(sub):
 
 			try:
 	                        item.mod.remove()
-			except:
+			except Exception as e:
 				print("Unable to remove post.")
+				print(e)
 			try:
 	                        item.mod.send_removal_message(message, title=title, type='private')
-			except:
+			except Exception as e:
 				print("Unable to send removal reason.")
+				print(e)
