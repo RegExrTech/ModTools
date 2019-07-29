@@ -1,4 +1,4 @@
-import os.mkdir
+from os import mkdir
 import os.path
 import math
 import json
@@ -10,7 +10,7 @@ parser.add_argument('config_file_name', metavar='C', type=str)
 args = parser.parse_args()
 fname = 'config/' + args.config_file_name
 if not os.path.exists("config"):
-	os.mkdir("config")
+	mkdir("config")
 
 debug = False
 
