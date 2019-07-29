@@ -5,7 +5,7 @@ debug = False
 def remove_reported_posts(sub):
         for item in sub.mod.reports():
                 if item.mod_reports:
-                        report_reason = str(item.mod_reports[0][0])
+                        report_reason = item.mod_reports[0][0]
                         try:
                                 message = removal_reasons.removal_reasons[report_reason]['message']
                                 title = removal_reasons.removal_reasons[report_reason]['title']
