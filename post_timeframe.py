@@ -88,8 +88,6 @@ def main():
 		else:
 			if timestamp > last_timestamp:
 				db[author] = timestamp
-		if submission.approved:
-			continue
 
 	dump(db)
 
