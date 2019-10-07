@@ -53,7 +53,7 @@ def main(subreddit_name):
 	sub = reddit.subreddit(subreddit_name)
 
 	# Want to run this script to handle mod reporting for easier mobile modding
-	report.remove_reported_posts(sub)
+	report.remove_reported_posts(sub, subreddit_name)
 
 	queries = []
 	queries.append(sub.modmail.conversations(state='all', limit=num_messages))
