@@ -35,5 +35,5 @@ def remove_reported_posts(sub, sub_name):
 
 def save_report_data(mod_name, report_reason, sub_name):
 	f = open('database/report_log-' + sub_name + ".txt", 'a')
-	f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason)
+	f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
 	f.close()
