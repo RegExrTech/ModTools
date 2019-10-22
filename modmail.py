@@ -86,13 +86,13 @@ def main(subreddit_name):
 				days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
 				user = message.user.name
 				removal_reason = "BANNED - " + days_banned + " days."
-			elif mod_conv.subject == "You've been banned from participating in r/" + subreddit_name:
+			elif mod_conv.subject == "You've been permanently banned from participating in r/" + subreddit_name:
 				message = reddit.subreddit('redditdev').modmail(mod_conv.id)
 				user = message.user.name
 				removal_reason = "PERM-BANNED"
 			elif mod_conv.subject == "Your ban from r/" + subreddit_name + " has changed":
 				message = reddit.subreddit('redditdev').modmail(mod_conv.id)
-				if 'You have been banned from participating in' in message.messages[0].body_markdown:
+				if 'You have been permanently banned from participating in' in message.messages[0].body_markdown:
 					removal_reason = "PERM-BANNED"
 				else:
 					days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
