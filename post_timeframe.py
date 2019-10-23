@@ -18,13 +18,19 @@ f = open(fname, "r")
 info = f.read().splitlines()
 f.close()
 
-subreddit_name = info[0]
-client_id = info[1]
-client_secret = info[2]
-bot_username = info[3]
-bot_password = info[4]
-days_between_posts = int(math.ceil(float(info[5])))
-seconds_between_posts = float(info[5]) * 24 * 60 * 60
+config = {}
+for item in info:
+	pair = item.split(":")
+	config[pair[0]] = pair[1]
+
+subreddit_name = config['subreddit_name']
+client_id = config['client_id']
+client_secret = config['client_secret']
+bot_username = config['bot_username']
+bot_password = config['bot_password']
+days_between_posts = int(math.ceil(config['hours_per_post'])))
+seconds_between_posts = float(config['hours_per_post']) * 24 * 60 * 60
+whitelisted_words = config['whitelisted_words'].split(',')
 
 FNAME = 'database/recent_posts-' + subreddit_name + '.txt'
 if not os.path.exists('database'):
@@ -64,6 +70,9 @@ def main():
 
 	for submission in sub.new(limit=10):
 		if submission.distinguished:
+			continue
+
+		if whitelisted_words[0] and any([word in submission.title.lower() for word in whitelisted_words]):
 			continue
 
 		author = str(submission.author)

@@ -19,12 +19,16 @@ debug = False
 f = open(fname, "r")
 info = f.read().splitlines()
 f.close()
+config = {}
+for item in info:
+        pair = item.split(":")
+        config[pair[0]] = pair[1]
 
-subreddit_name = info[0]
-client_id = info[1]
-client_secret = info[2]
-bot_username = info[3]
-bot_password = info[4]
+subreddit_name = config['subreddit_name']
+client_id = config['client_id']
+client_secret = config['client_secret']
+bot_username = config['bot_username']
+bot_password = config['bot_password']
 
 debug = False
 
