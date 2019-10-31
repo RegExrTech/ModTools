@@ -28,7 +28,7 @@ client_id = config['client_id']
 client_secret = config['client_secret']
 bot_username = config['bot_username']
 bot_password = config['bot_password']
-days_between_posts = int(math.ceil(config['hours_per_post'])))
+days_between_posts = int(math.ceil(float(config['hours_per_post'])))
 seconds_between_posts = float(config['hours_per_post']) * 24 * 60 * 60
 whitelisted_words = config['whitelisted_words'].split(',')
 
