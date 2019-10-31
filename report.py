@@ -1,14 +1,21 @@
-import datetime
+import time
 import removal_reasons
+from collections import defaultdict
 
 debug = False
 
 def remove_reported_posts(sub, sub_name):
-        for item in sub.mod.reports():
+	ids_to_mods = defaultdict(lambda: [])
+	try:
+		reports = sub.mod.reports()
+	except Exception as e:
+		print("Unable to read reports for " + sub_name)
+		print(e)
+		return
+        for item in reports:
                 if item.mod_reports:
                         report_reason = item.mod_reports[0][0]
 			mod_name = item.mod_reports[0][1]
-			save_report_data(mod_name, report_reason, sub_name)
                         try:
                                 message = removal_reasons.removal_reasons[report_reason]['message']
                                 title = removal_reasons.removal_reasons[report_reason]['title']
@@ -19,7 +26,7 @@ def remove_reported_posts(sub, sub_name):
 					if rule['short_name'] == report_reason:
 						message = rule['description']
 				if not message:
-	                                continue
+	                                messasge = "Your post has been removed."
 				message = "\n\n" + message + "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
 
 			try:
@@ -27,13 +34,21 @@ def remove_reported_posts(sub, sub_name):
 			except Exception as e:
 				print("Unable to remove post.")
 				print(e)
-			try:
-	                        item.mod.send_removal_message(message, title=title, type='private')
-			except Exception as e:
-				print("Unable to send removal reason.")
-				print(e)
+				continue
+			# Take three attempts at sending removal reason
+			removal_reason_sent = False
+			for i in range(3):
+				if removal_reason_sent:
+					break
+				try:
+		                        item.mod.send_removal_message(message, title=title, type='private')
+					removal_reason_sent = True
+					ids_to_mods[title].append(mod_name)
+				except Exception as e:
+					if i == 2:
+						print("Unable to send removal reason.")
+						print(e)
+					else:
+						time.sleep(3)
+	return ids_to_mods
 
-def save_report_data(mod_name, report_reason, sub_name):
-	f = open('database/report_log-' + sub_name + ".txt", 'a')
-	f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
-	f.close()
