@@ -34,6 +34,11 @@ debug = False
 
 num_messages = 10
 
+def save_report_data(mod_name, report_reason, sub_name):
+        f = open('database/report_log-' + sub_name + ".txt", 'a')
+        f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
+        f.close()
+
 def ascii_encode_dict(data):
 	ascii_encode = lambda x: x.encode('ascii') if isinstance(x, unicode) else x
 	return dict(map(ascii_encode, pair) for pair in data.items())
@@ -57,7 +62,7 @@ def main(subreddit_name):
 	sub = reddit.subreddit(subreddit_name)
 
 	# Want to run this script to handle mod reporting for easier mobile modding
-	report.remove_reported_posts(sub, subreddit_name)
+	ids_to_mods = report.remove_reported_posts(sub, subreddit_name)
 
 	queries = []
 	queries.append(sub.modmail.conversations(state='all', limit=num_messages))
@@ -77,7 +82,7 @@ def main(subreddit_name):
 				except Exception as e:  #  Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
 					print("Error for Mod Mail Message: " + str(message))
 					print(str(e))
-					print("===========================================")
+					print("======================================================================")
 					continue
 				if "Your submission was removed from /r/" + subreddit_name == mod_conv.subject or "Your comment was removed from /r/" + subreddit_name == mod_conv.subject:
 					removal_reason = message.messages[0].body_markdown.split(" - ")[0]
@@ -105,18 +110,20 @@ def main(subreddit_name):
 			else:
 				continue
 
-			removal_reason = str(datetime.datetime.now()).split(" ")[0] + " - " + removal_reason
+			removal_reason_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + removal_reason
 
 			if user not in users:
 				users[user] = {}
 
-			new = False
 			if mod_conv.id not in users[user]:
-				users[user][mod_conv.id] = removal_reason
-				new = True
-
-			if new:
-				print(user + " - " + removal_reason + " - " + mod_conv.id)
+				users[user][mod_conv.id] = removal_reason_and_date
+				if removal_reason in ids_to_mods:
+					removing_mod = ids_to_mods[removal_reason][0]
+					ids_to_mods[removal_reason] = ids_to_mods[removal_reason][1:]
+				else:
+					removing_mod = mod_conv.authors[-1].name
+				save_report_data(removing_mod, removal_reason, subreddit_name)
+				print(user + " - " + removal_reason_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod)
 				print("===========================================")
 				replies = []
 				removal_ids = users[user].keys()
