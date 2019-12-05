@@ -90,7 +90,11 @@ def main():
 		if timestamp - last_timestamp < seconds_between_posts and not submission.approved:
 			if not debug:
 				submission.mod.remove()
-				reply = submission.reply("This post has been removed because you have made more than one post in " + str(days_between_posts) +" days. Please message the mods if you have any questions.")
+				if days_between_posts == 1:
+					time_string = "24 hours"
+				else:
+					time_string = str(days_between_posts) + " days"
+				reply = submission.reply("This post has been removed because you have made more than one post in " + time_string + ". Please message the mods if you have any questions.")
 				reply.mod.distinguish(sticky=True)
 			else:
 				print("Would have removed post " + submission.id)
