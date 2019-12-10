@@ -1,3 +1,4 @@
+import time
 from os import mkdir
 import os.path
 import math
@@ -31,6 +32,7 @@ bot_password = config['bot_password']
 days_between_posts = int(math.ceil(float(config['days_per_post'])))
 seconds_between_posts = float(config['days_per_post']) * 24 * 60 * 60
 whitelisted_words = config['whitelisted_words'].split(',')
+num_minutes_flair = config['minutes_no_flair']
 
 FNAME = 'database/recent_posts-' + subreddit_name + '.txt'
 if not os.path.exists('database'):
@@ -68,25 +70,39 @@ def main():
 	db = get_data()
 	mods = [str(x) for x in sub.moderator()]
 
-	for submission in sub.new(limit=10):
-		if submission.distinguished:
+	for submission in sub.new(limit=100):
+		# Checks if flaired within time range
+		missing_flair = submission.link_flair_text == None
+		time_diff= time.time() - submission.created_utc
+		if not submission.link_flair_text and time_diff > num_minutes_flair*60:
+			submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
+			submission.mod.remove()
 			continue
 
+		# Ignore posts with whitelisted words
 		if whitelisted_words[0] and any([word in submission.title.lower() for word in whitelisted_words]):
 			continue
 
+		# Ignore posts made by mods
 		author = str(submission.author)
 		if author in mods:
 			continue
 
+		# Get timestamp info and make sure we have seen posts from this author before
 		timestamp = submission.created_utc
 		if author not in db:
 			db[author] = 0
 
+		# If this post was the most recent post from this author, we're good
 		last_timestamp = db[author]
 		if last_timestamp == timestamp:
 			continue
 
+		# If we manage to see an older post after a newer post, skip the older post
+		if last_timestamp > timestamp:
+			continue
+
+		# If this postt was made too recently
 		if timestamp - last_timestamp < seconds_between_posts and not submission.approved:
 			if not debug:
 				submission.mod.remove()
@@ -98,7 +114,7 @@ def main():
 				reply.mod.distinguish(sticky=True)
 			else:
 				print("Would have removed post " + submission.id)
-		else:
+		else: # If this is a new post and is valid, update the saved timestamp
 			if timestamp > last_timestamp:
 				db[author] = timestamp
 
