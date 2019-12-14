@@ -70,10 +70,11 @@ def main():
 	db = get_data()
 	mods = [str(x) for x in sub.moderator()]
 
-	for submission in sub.new(limit=100):
+	for submission in [x for x in sub.new(limit=100)][::-1]: # reverse the list to view oldest first.
 		# Checks if flaired within time range
 		missing_flair = submission.link_flair_text == None
 		time_diff= time.time() - submission.created_utc
+		print(time_diff)
 		past_time_limit = time_diff > num_minutes_flair*60
 		if missing_flair and past_time_limit:
 			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
