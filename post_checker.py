@@ -32,7 +32,7 @@ bot_password = config['bot_password']
 days_between_posts = int(math.ceil(float(config['days_per_post'])))
 seconds_between_posts = float(config['days_per_post']) * 24 * 60 * 60
 whitelisted_words = config['whitelisted_words'].split(',')
-num_minutes_flair = int(config['minutes_no_flair'])
+num_minutes_flair = float(config['minutes_no_flair'])
 
 FNAME = 'database/recent_posts-' + subreddit_name + '.txt'
 if not os.path.exists('database'):
