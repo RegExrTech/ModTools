@@ -6,9 +6,9 @@ debug = False
 def get_reports(sub, sub_name):
 	try:
 		return sub.mod.reports()
-	except:
+	except Exception as e:
 		print("Unable to read reports for " + sub_name)
-		print(e)
+#		print(e)
 		return []
 
 def get_rule_text(report_reason, sub):
@@ -35,7 +35,7 @@ def remove_post(item):
 		return False
 	return True
 
-def send_removal_reason(item, message, title, mod_name, ids_to_mods):
+def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 	removal_reason_sent = False
 	for i in range(3):  # Take three attempts at sending removal reason
 		if removal_reason_sent:
@@ -49,7 +49,7 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods):
 				print("Unable to send removal reason for sub " + sub_name + ".")
 				print(e)
 			else:
-				print("Failed to send removal message: " + message + ". Sleeping for 3 seconds and trying again...")
+				print("Failed to send removal message: " + str(message) + "Sleeping for 3 seconds and trying again...")
 				time.sleep(3)
 
 def remove_reported_posts(sub, sub_name):
@@ -66,7 +66,7 @@ def remove_reported_posts(sub, sub_name):
 		message +=  "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
 
 		if remove_post(item):
-			send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods)
+			send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
 
 	return ids_to_mods
 
