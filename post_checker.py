@@ -74,13 +74,19 @@ def main():
 		# Checks if flaired within time range
 		missing_flair = submission.link_flair_text == None
 		time_diff= time.time() - submission.created_utc
-		print(time_diff)
 		past_time_limit = time_diff > num_minutes_flair*60
 		if missing_flair and past_time_limit:
-			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
-			reply.mod.lock()
-			reply.mod.distinguish(how="yes", sticky=True)
-			submission.mod.remove()
+			try:
+				submission.mod.remove()
+			except Exception as e:
+				print("Unable to remove - " + str(e))
+				continue
+			try:
+				reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
+				reply.mod.lock()
+				reply.mod.distinguish(how="yes", sticky=True)
+			except Exception as e:
+				print("Unable to reply, lock, and distinguish - " + str(e))
 			continue
 
 		# Ignore posts with whitelisted words
