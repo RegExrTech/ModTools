@@ -162,7 +162,6 @@ def main():
 
 		# Check for Imgur freshness
 		if imgur_freshness_days > 0 and (currently_checking_count > num_posts_to_check - num_imgur_posts_to_check):
-			print("here")
 			imgur = ImgurClient(imgur_client, imgur_secret)
 			check_imgur_freshness(imgur, sub)
 
