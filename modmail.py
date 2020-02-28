@@ -14,8 +14,6 @@ fname = 'config/' + args.config_file_name
 if not os.path.exists("config"):
         os.mkdir("config")
 
-debug = False
-
 f = open(fname, "r")
 info = f.read().splitlines()
 f.close()
