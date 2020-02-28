@@ -1,3 +1,6 @@
+import re
+from imgurpython import ImgurClient
+
 import time
 from os import mkdir
 import os.path
@@ -5,6 +8,9 @@ import math
 import json
 import praw
 import argparse
+import report
+
+debug = False
 
 parser = argparse.ArgumentParser()
 parser.add_argument('config_file_name', metavar='C', type=str)
@@ -12,8 +18,6 @@ args = parser.parse_args()
 fname = 'config/' + args.config_file_name
 if not os.path.exists("config"):
 	mkdir("config")
-
-debug = False
 
 f = open(fname, "r")
 info = f.read().splitlines()
@@ -33,6 +37,11 @@ days_between_posts = int(math.ceil(float(config['days_per_post'])))
 seconds_between_posts = float(config['days_per_post']) * 24 * 60 * 60
 whitelisted_words = config['whitelisted_words'].split(',')
 num_minutes_flair = float(config['minutes_no_flair'])
+imgur_freshness_days = float(config['imgur_freshness_days'])
+imgur_client = config['imgur_client']
+imgur_secret = config['imgur_secret']
+
+current_time = time.time()
 
 FNAME = 'database/recent_posts-' + subreddit_name + '.txt'
 if not os.path.exists('database'):
@@ -63,6 +72,53 @@ def dump(swap_data):
                         .replace('{u"', '{"')
                         .encode('ascii','ignore'))
 
+######################
+##                  ##
+## Helper Functions ##
+##                  ##
+######################
+
+## IMGUR RELATED
+
+def get_image_from_album(client, hash):
+	gallery = client.get_album_images(hash)
+	return client.get_image(gallery[0].id)
+
+def check_date(imgur, url):
+	check_time = current_time - (imgur_freshness_days*24*60*60)
+	if url[-1] == "/":
+		url = url[:-1]
+	if url[-4] == ".":
+		url = url [:-4]
+
+	items = url.split("/")
+	hash = items[-1]
+	type = items[-2].lower()
+
+	if type in ['gallery', 'a']:
+		img = get_image_from_album(imgur, hash)
+	else:
+		img = imgur.get_image(hash)
+
+	if img.datetime < check_time:
+		return False
+	return True
+
+def extract_imgur_urls(text):
+	match = re.compile("([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?")
+	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
+
+def check_imgur_freshness(imgur, sub):
+	for submission in sub.new(limit=5):
+		text = submission.selftext
+		imgur_urls = list(set(extract_imgur_urls(text)))
+		if not imgur_urls:
+			continue
+		if not any([check_date(imgur, url) for url in imgur_urls]):
+			if report.remove_post(submission):
+				removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls)
+				report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
+
 def main():
 	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='UserAgent', username=bot_username, password=bot_password)
 	sub = reddit.subreddit(subreddit_name)
@@ -70,10 +126,16 @@ def main():
 	db = get_data()
 	mods = [str(x) for x in sub.moderator()]
 
-	for submission in [x for x in sub.new(limit=100)][::-1]: # reverse the list to view oldest first.
+	num_posts_to_check = 100
+	num_imgur_posts_to_check = 5  # only want to check the 5 most recent posts for imgur issues so we don't get rate limited
+	currently_checking_count = 0
+
+	for submission in [x for x in sub.new(limit=num_posts_to_check)][::-1]: # reverse the list to view oldest first.
+		currently_checking_count += 1
+
 		# Checks if flaired within time range
 		missing_flair = submission.link_flair_text == None
-		time_diff= time.time() - submission.created_utc
+		time_diff= current_time - submission.created_utc
 		past_time_limit = time_diff > num_minutes_flair*60
 		if missing_flair and past_time_limit:
 			try:
@@ -97,6 +159,12 @@ def main():
 		author = str(submission.author)
 		if author in mods:
 			continue
+
+		# Check for Imgur freshness
+		if imgur_freshness_days > 0 and (currently_checking_count > num_posts_to_check - num_imgur_posts_to_check):
+			print("here")
+			imgur = ImgurClient(imgur_client, imgur_secret)
+			check_imgur_freshness(imgur, sub)
 
 		# Get timestamp info and make sure we have seen posts from this author before
 		timestamp = submission.created_utc
