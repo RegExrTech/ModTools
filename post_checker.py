@@ -80,6 +80,24 @@ def dump(swap_data):
 
 ## IMGUR RELATED
 
+def get_last_reddit_post_time_for_imgur_check(sub_name):
+	try:
+		f = open("database/imgur_check_" + sub_name + ".txt", "r")
+		text = f.read()
+		f.close()
+		print("got timestamp from database as " + str(text))
+		return float(text)
+	except:
+		current_time = time.time()
+		update_last_reddit_post_time_for_imgur_check(sub_name, current_time)
+		print("Had to make new timestamp")
+		return current_time
+
+def update_last_reddit_post_time_for_imgur_check(sub_name, current_time):
+	f = open("database/imgur_check_" + sub_name + ".txt", "w")
+	f.write(str(current_time))
+	f.close()
+
 def get_image_from_album(client, hash):
 	gallery = client.get_album_images(hash)
 	return client.get_image(gallery[0].id)
@@ -108,16 +126,16 @@ def extract_imgur_urls(text):
 	match = re.compile("([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?")
 	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
 
-def check_imgur_freshness(imgur, sub):
-	for submission in sub.new(limit=5):
-		text = submission.selftext
-		imgur_urls = list(set(extract_imgur_urls(text)))
-		if not imgur_urls:
-			continue
-		if not any([check_date(imgur, url) for url in imgur_urls]):
-			if report.remove_post(submission):
-				removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls)
-				report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
+def check_imgur_freshness(imgur, sub, submission):
+	print("Checking imgur freshness for " + str(submission.id))
+	text = submission.selftext
+	imgur_urls = list(set(extract_imgur_urls(text)))
+	if not imgur_urls:
+		return
+	if not any([check_date(imgur, url) for url in imgur_urls]):
+		if report.remove_post(submission):
+			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls)
+			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
 
 def main():
 	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='UserAgent', username=bot_username, password=bot_password)
@@ -127,11 +145,9 @@ def main():
 	mods = [str(x) for x in sub.moderator()]
 
 	num_posts_to_check = 100
-	num_imgur_posts_to_check = 5  # only want to check the 5 most recent posts for imgur issues so we don't get rate limited
-	currently_checking_count = 0
+	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name)
 
 	for submission in [x for x in sub.new(limit=num_posts_to_check)][::-1]: # reverse the list to view oldest first.
-		currently_checking_count += 1
 
 		# Checks if flaired within time range
 		missing_flair = submission.link_flair_text == None
@@ -161,9 +177,10 @@ def main():
 			continue
 
 		# Check for Imgur freshness
-		if imgur_freshness_days > 0 and (currently_checking_count > num_posts_to_check - num_imgur_posts_to_check):
+		if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
 			imgur = ImgurClient(imgur_client, imgur_secret)
-			check_imgur_freshness(imgur, sub)
+			check_imgur_freshness(imgur, sub, submission)
+			update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
 
 		# Get timestamp info and make sure we have seen posts from this author before
 		timestamp = submission.created_utc
