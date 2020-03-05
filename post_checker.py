@@ -85,12 +85,9 @@ def get_last_reddit_post_time_for_imgur_check(sub_name):
 		f = open("database/imgur_check_" + sub_name + ".txt", "r")
 		text = f.read()
 		f.close()
-		print("got timestamp from database as " + str(text))
 		return float(text)
 	except:
-		current_time = time.time()
 		update_last_reddit_post_time_for_imgur_check(sub_name, current_time)
-		print("Had to make new timestamp")
 		return current_time
 
 def update_last_reddit_post_time_for_imgur_check(sub_name, current_time):
@@ -102,8 +99,9 @@ def get_image_from_album(client, hash):
 	gallery = client.get_album_images(hash)
 	return client.get_image(gallery[0].id)
 
-def check_date(imgur, url):
-	check_time = current_time - (imgur_freshness_days*24*60*60)
+def check_date(imgur, url, post_time):
+	check_time = post_time - (imgur_freshness_days*24*60*60)
+	url = url.split("?")[0]
 	if url[-1] == "/":
 		url = url[:-1]
 	if url[-4] == ".":
@@ -116,6 +114,7 @@ def check_date(imgur, url):
 	if type in ['gallery', 'a']:
 		img = get_image_from_album(imgur, hash)
 	else:
+		print(url)
 		img = imgur.get_image(hash)
 
 	if img.datetime < check_time:
@@ -127,12 +126,11 @@ def extract_imgur_urls(text):
 	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
 
 def check_imgur_freshness(imgur, sub, submission):
-	print("Checking imgur freshness for " + str(submission.id))
 	text = submission.selftext
 	imgur_urls = list(set(extract_imgur_urls(text)))
 	if not imgur_urls:
 		return
-	if not any([check_date(imgur, url) for url in imgur_urls]):
+	if not any([check_date(imgur, url, submission.created_utc) for url in imgur_urls]):
 		if report.remove_post(submission):
 			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls)
 			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
@@ -171,16 +169,16 @@ def main():
 		if whitelisted_words[0] and any([word in submission.title.lower() for word in whitelisted_words]):
 			continue
 
-		# Ignore posts made by mods
-		author = str(submission.author)
-		if author in mods:
-			continue
-
 		# Check for Imgur freshness
 		if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
 			imgur = ImgurClient(imgur_client, imgur_secret)
 			check_imgur_freshness(imgur, sub, submission)
 			update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
+
+		# Ignore posts made by mods
+		author = str(submission.author)
+		if author in mods:
+			continue
 
 		# Get timestamp info and make sure we have seen posts from this author before
 		timestamp = submission.created_utc
