@@ -46,10 +46,10 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 			ids_to_mods[title].append(mod_name)
 		except Exception as e:
 			if i == 2:
-				print("Unable to send removal reason for sub " + sub_name + ".")
+				print("Unable to send removal reason for sub " + sub_name + ":\n" + str(message))
 				print(e)
 			else:
-				print("Failed to send removal message: " + str(message) + "\nSleeping for 3 seconds and trying again...")
+				print("Failed to send removal message to " + sub_name +  "\nSleeping for 3 seconds and trying again...")
 				time.sleep(3)
 
 def remove_reported_posts(sub, sub_name):

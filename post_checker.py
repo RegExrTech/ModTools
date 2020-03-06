@@ -114,7 +114,6 @@ def check_date(imgur, url, post_time):
 	if type in ['gallery', 'a']:
 		img = get_image_from_album(imgur, hash)
 	else:
-		print(url)
 		img = imgur.get_image(hash)
 
 	if img.datetime < check_time:
