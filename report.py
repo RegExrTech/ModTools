@@ -36,6 +36,7 @@ def remove_post(item):
 	return True
 
 def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
+	title = title[:50]
 	removal_reason_sent = False
 	for i in range(3):  # Take three attempts at sending removal reason
 		if removal_reason_sent:
@@ -43,14 +44,15 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 		try:
 			item.mod.send_removal_message(message, title=title, type='private')
 			removal_reason_sent = True
-			ids_to_mods[title].append(mod_name)
 		except Exception as e:
 			if i == 2:
-				print("Unable to send removal reason for sub " + sub_name + ":\n" + str(message))
+				print("Unable to send removal reason for sub " + sub_name + ":\nTitle: " + title + "\nMessage: \n" + str(message))
 				print(e)
 			else:
 				print("Failed to send removal message to " + sub_name +  "\nSleeping for 3 seconds and trying again...")
 				time.sleep(3)
+	ids_to_mods[title].append(mod_name)
+
 
 def remove_reported_posts(sub, sub_name):
 	ids_to_mods = defaultdict(lambda: [])
