@@ -108,6 +108,11 @@ def main(subreddit_name):
 			else:
 				continue
 
+		        try:
+                		removal_reason = removal_reason.encode('utf-8').decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+		        except:
+                		removal_reason = removal_reason.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+
 			removal_reason_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + removal_reason
 
 			if user not in users:
