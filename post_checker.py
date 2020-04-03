@@ -9,7 +9,7 @@ import report
 
 ## IMGUR RELATED
 
-def get_last_reddit_post_time_for_imgur_check(sub_name):
+def get_last_reddit_post_time_for_imgur_check(sub_name, current_time):
 	try:
 		f = open("database/imgur_check_" + sub_name + ".txt", "r")
 		text = f.read()
@@ -99,9 +99,9 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 		if timestamp > last_timestamp:
 			frequency_database[author] = timestamp
 
-def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days):
+def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time):
 	# Check for Imgur freshness
-	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name)
+	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name, current_time)
 	if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
 		check_imgur_freshness(imgur, sub, submission)
 		update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
