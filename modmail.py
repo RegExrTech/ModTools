@@ -174,14 +174,15 @@ def main(subreddit_name):
 			continue
 
 		# Ignore posts with whitelisted words
-		if whitelisted_words[0] and any([word in submission.title.lower() for word in whitelisted_words]):
+		title_and_flair = submission.title.lower() + " - flair=" + submission.link_flair_text.lower()
+		if whitelisted_words[0] and any([word in title_and_flair for word in whitelisted_words]):
 			continue
 		# Ignore posts made by mods
 		author = str(submission.author)
 		if author in mods:
 			continue
 
-		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days)
+		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time)
 		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts)
 
 	if not debug:
