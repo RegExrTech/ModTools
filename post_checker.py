@@ -25,8 +25,11 @@ def update_last_reddit_post_time_for_imgur_check(sub_name, current_time):
 	f.close()
 
 def get_image_from_album(client, hash):
-	gallery = client.get_album_images(hash)
-	return client.get_image(gallery[0].id)
+	try:
+		gallery = client.get_album_images(hash)
+		return client.get_image(gallery[0].id)
+	except:
+		return None
 
 def check_date(imgur, url, post_time, imgur_freshness_days):
 	check_time = post_time - (imgur_freshness_days*24*60*60)
@@ -37,13 +40,17 @@ def check_date(imgur, url, post_time, imgur_freshness_days):
 		url = url [:-4]
 
 	items = url.split("/")
-	hash = items[-1]
+	hash = items[-1].replace("~", "")
 	type = items[-2].lower()
 
 	if type in ['gallery', 'a']:
 		img = get_image_from_album(imgur, hash)
 	else:
 		img = imgur.get_image(hash)
+
+	# If we can't find the hash for whatever reason, just skip this one.
+	if not img:
+		return True
 
 	if img.datetime < check_time:
 		return False
@@ -60,7 +67,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 		return
 	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days) for url in imgur_urls]):
 		if report.remove_post(submission):
-			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls + "\n\n---\n\n")
+			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls) + "\n\n---\n\n"
 			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
 
 ## OTHER
