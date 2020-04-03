@@ -53,7 +53,7 @@ def extract_imgur_urls(text):
 	match = re.compile("([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?")
 	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
 
-def check_imgur_freshness(imgur, sub, submission):
+def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 	text = submission.selftext
 	imgur_urls = list(set(extract_imgur_urls(text)))
 	if not imgur_urls:
@@ -103,7 +103,7 @@ def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshne
 	# Check for Imgur freshness
 	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name, current_time)
 	if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
-		check_imgur_freshness(imgur, sub, submission)
+		check_imgur_freshness(imgur, sub, submission, imgur_freshness_days)
 		update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
 
 
