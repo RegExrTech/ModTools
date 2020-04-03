@@ -174,7 +174,9 @@ def main(subreddit_name):
 			continue
 
 		# Ignore posts with whitelisted words
-		title_and_flair = submission.title.lower() + " - flair=" + submission.link_flair_text.lower()
+		title_and_flair = submission.title.lower()
+		if submission.link_flair_text:
+			title_and_flair += " - flair=" + submission.link_flair_text.lower()
 		if whitelisted_words[0] and any([word in title_and_flair for word in whitelisted_words]):
 			continue
 		# Ignore posts made by mods
