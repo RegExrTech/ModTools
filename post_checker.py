@@ -1,3 +1,4 @@
+from collections import defauldict
 import re
 import report
 
@@ -68,7 +69,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days) for url in imgur_urls]):
 		if report.remove_post(submission):
 			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls) + "\n\n---\n\n"
-			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", {}, "FunkoSwap")
+			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", defaultdict(lambda: []), "FunkoSwap")
 
 ## OTHER
 
