@@ -94,7 +94,7 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 
 	# If this post was made too recently
 	delta = timestamp - last_timestamp
-	if deltat < seconds_between_posts and not submission.approved:
+	if delta < seconds_between_posts and not submission.approved:
 		if not debug:
 			submission.mod.remove()
 			if days_between_posts == 1:
