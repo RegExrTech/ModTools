@@ -1,3 +1,4 @@
+import datetime
 from collections import defaultdict
 import re
 import report
@@ -92,14 +93,24 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 		return
 
 	# If this post was made too recently
-	if timestamp - last_timestamp < seconds_between_posts and not submission.approved:
+	delta = timestamp - last_timestamp
+	if deltat < seconds_between_posts and not submission.approved:
 		if not debug:
 			submission.mod.remove()
 			if days_between_posts == 1:
 				time_string = "24 hours"
 			else:
 				time_string = str(days_between_posts) + " days"
-			reply = submission.reply("This post has been removed because you have made more than one post in " + time_string + ". Please message the mods if you have any questions.")
+
+			delta_string = str(datetime.timedelta(seconds=delta))
+			delta_string = delta_string.replace(":", " hours, ", 1)
+			delta_string = delta_string.replace(":", " minutes, and ", 1)
+			delta_string += " seconds"
+
+			reply_text = "This post has been removed because you have made more than one post in " + time_string + ".  "
+			reply_text += "You can make another post in " + delta_string + ". "
+			reply_text += "Please message the mods if you have any questions."
+			reply = submission.reply(reply_text)
 			reply.mod.distinguish(sticky=True)
 		else:
 			print("Would have removed post " + submission.id)
