@@ -102,7 +102,8 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			else:
 				time_string = str(days_between_posts) + " days"
 
-			delta_string = str(datetime.timedelta(seconds=delta))
+			# User can post again in total_seconds_allowed - amount_of_time_between_post_attempts
+			delta_string = str(datetime.timedelta(seconds=seconds_between_posts-delta))
 			delta_string = delta_string.replace(":", " hours, ", 1)
 			delta_string = delta_string.replace(":", " minutes, and ", 1)
 			delta_string += " seconds"
