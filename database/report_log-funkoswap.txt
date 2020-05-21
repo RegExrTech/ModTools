@@ -580,3 +580,7 @@
 2020-05-19 - Petercartman89 - Picture w/ hand written Username and Date
 2020-05-19 - FreddySwapBot - Timestamp out of date
 2020-05-19 - Alex_Keaton - Timestamp out of date
+2020-05-20 - Alex_Keaton - Trading no photo
+2020-05-20 - FreddySwapBot - Timestamp out of date
+2020-05-20 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-05-20 - Petercartman89 - Picture w/ hand written Username and Date
