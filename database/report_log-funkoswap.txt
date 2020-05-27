@@ -606,3 +606,6 @@
 2020-05-25 - Alex_Keaton - Timestamp
 2020-05-25 - Petercartman89 - All pops must be displayed in timestamp
 2020-05-25 - Petercartman89 - Picture w/ hand written Username and Date
+2020-05-26 - Alex_Keaton - Timestamp
+2020-05-26 - Alex_Keaton - Only Paypal
+2020-05-26 - FreddySwapBot - Timestamp out of date
