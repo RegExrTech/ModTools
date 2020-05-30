@@ -613,3 +613,6 @@
 2020-05-27 - Petercartman89 - Title must follow the correct format
 2020-05-28 - Alex_Keaton - Timestamp
 2020-05-28 - USLBot - PERM-BANNED
+2020-05-29 - Petercartman89 - Picture w/ hand written Username and Date
+2020-05-29 - Alex_Keaton - Timestamp out of date
+2020-05-29 - Alex_Keaton - No prices
