@@ -616,3 +616,6 @@
 2020-05-29 - Petercartman89 - Picture w/ hand written Username and Date
 2020-05-29 - Alex_Keaton - Timestamp out of date
 2020-05-29 - Alex_Keaton - No prices
+2020-05-30 - Alex_Keaton - No prices
+2020-05-30 - Alex_Keaton - Trading no photo
+2020-05-30 - Alex_Keaton - Timestamp
