@@ -631,3 +631,6 @@
 2020-06-05 - Petercartman89 - Timestamp
 2020-06-05 - Petercartman89 - Timestamp
 2020-06-05 - Petercartman89 - Review the Rules
+2020-06-06 - Alex_Keaton - Timestamp
+2020-06-06 - Petercartman89 - Title must follow the correct format
+2020-06-06 - Alex_Keaton - Timestamp
