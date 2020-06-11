@@ -652,3 +652,8 @@
 2020-06-09 - Alex_Keaton - No prices
 2020-06-09 - Alex_Keaton - Trading no photo
 2020-06-09 - Petercartman89 - Picture w/ hand written Username and Date
+2020-06-10 - Alex_Keaton - Title must follow the correct format
+2020-06-10 - Alex_Keaton - No prices
+2020-06-10 - Alex_Keaton - Timestamp unreadable
+2020-06-10 - Alex_Keaton - No prices
+2020-06-10 - DrShadyTree - Timestamp
