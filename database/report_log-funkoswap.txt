@@ -661,3 +661,6 @@
 2020-06-11 - Alex_Keaton - Timestamp
 2020-06-11 - Alex_Keaton - Timestamp
 2020-06-11 - Alex_Keaton - No prices
+2020-06-13 - DrShadyTree - Timestamp
+2020-06-13 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-06-13 - Petercartman89 - All BST must contain a price if asking for paypal.
