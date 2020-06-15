@@ -664,3 +664,7 @@
 2020-06-13 - DrShadyTree - Timestamp
 2020-06-13 - Petercartman89 - All BST must contain a price if asking for paypal.
 2020-06-13 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-06-14 - USLBot - PERM-BANNED
+2020-06-14 - DrShadyTree - Timestamp
+2020-06-14 - FreddySwapBot - Timestamp out of date
+2020-06-14 - FreddySwapBot - Timestamp out of date
