@@ -4355,3 +4355,12 @@
 2020-06-13 - RegExr - No posts that belong in megathreads or are answere
 2020-06-13 - DrShadyTree - Weekly Q&A
 2020-06-13 - DrShadyTree - Weekly Q&A
+2020-06-14 - kali546 - Multiples
+2020-06-14 - kali546 - Weekly Q&A
+2020-06-14 - kali546 - Daily Sticky
+2020-06-14 - kali546 - Off Topic
+2020-06-14 - Pulpurri - No Duplicate Posts
+2020-06-14 - Pulpurri - No posts that belong in megathreads or are answere
+2020-06-14 - RegExr - No Self Promotion out of specific posts
+2020-06-14 - DrShadyTree - Weekly Q&A
+2020-06-14 - DrShadyTree - Off Topic
