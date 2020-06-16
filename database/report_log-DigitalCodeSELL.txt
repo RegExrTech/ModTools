@@ -169,3 +169,4 @@
 2020-06-07 - FireAbyss - CHANGED BAN - 3 days.
 2020-06-07 - FireAbyss - PERM-BANNED
 2020-06-14 - RegExr - Other
+2020-06-15 - FireAbyss - PERM-BANNED
