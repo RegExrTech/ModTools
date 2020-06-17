@@ -670,3 +670,5 @@
 2020-06-14 - FreddySwapBot - Timestamp out of date
 2020-06-15 - Alex_Keaton - Timestamp
 2020-06-15 - Alex_Keaton - Timestamp
+2020-06-16 - Petercartman89 - No prices
+2020-06-16 - Petercartman89 - All pops must be listed if selling or trading
