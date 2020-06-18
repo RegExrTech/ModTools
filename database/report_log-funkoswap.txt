@@ -672,3 +672,6 @@
 2020-06-15 - Alex_Keaton - Timestamp
 2020-06-16 - Petercartman89 - No prices
 2020-06-16 - Petercartman89 - All pops must be listed if selling or trading
+2020-06-17 - Alex_Keaton - No prices
+2020-06-17 - Alex_Keaton - Timestamp
+2020-06-17 - Petercartman89 - Items must be listed if selling or trading
