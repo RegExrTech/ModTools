@@ -708,3 +708,8 @@
 2020-06-24 - Petercartman89 - Picture w/ hand written Username and Date
 2020-06-24 - Petercartman89 - Items must be listed if trading/buying
 2020-06-24 - Petercartman89 - Picture w/ hand written Username and Date
+2020-06-25 - FreddySwapBot - Timestamp out of date
+2020-06-25 - Alex_Keaton - Timestamp
+2020-06-25 - FreddySwapBot - Timestamp out of date
+2020-06-25 - Alex_Keaton - Timestamp
+2020-06-25 - Alex_Keaton - Trading no photo
