@@ -71,3 +71,4 @@
 2020-06-22 - TapouT32 - Do not spam or hijack other people
 2020-06-22 - TapouT32 - Do not spam or hijack other people
 2020-06-22 - TapouT32 - All items for sale must include a price
+2020-06-28 - TapouT32 - All items for sale must include a price
