@@ -738,3 +738,6 @@
 2020-06-29 - Alex_Keaton - Timestamp unreadable
 2020-06-29 - Alex_Keaton - Timestamp
 2020-06-29 - Alex_Keaton - Timestamp
+2020-06-30 - USLBot - PERM-BANNED
+2020-06-30 - Alex_Keaton - Timestamp
+2020-06-30 - Alex_Keaton - Timestamp
