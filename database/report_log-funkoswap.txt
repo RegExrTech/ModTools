@@ -759,3 +759,7 @@
 2020-07-04 - Alex_Keaton - Timestamp
 2020-07-04 - Alex_Keaton - No prices
 2020-07-04 - Alex_Keaton - Timestamp
+2020-07-05 - Alex_Keaton - Timestamp
+2020-07-05 - Alex_Keaton - Timestamp out of date
+2020-07-05 - DrShadyTree - Timestamp
+2020-07-05 - Alex_Keaton - Trading no photo
