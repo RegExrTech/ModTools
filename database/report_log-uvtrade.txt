@@ -75,3 +75,4 @@
 2020-06-21 - thegreatunitor - PERM-BANNED
 2020-06-22 - RegExr - Rule 1 - Selling/Instawatch/Account Trade/Begging
 2020-06-23 - USLBot - PERM-BANNED
+2020-07-06 - USLBot - PERM-BANNED
