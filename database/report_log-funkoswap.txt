@@ -769,3 +769,7 @@
 2020-07-06 - Alex_Keaton - Timestamp
 2020-07-07 - Petercartman89 - All BST must contain a price if asking for paypal.
 2020-07-07 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-07-08 - Petercartman89 - Timestamp
+2020-07-08 - Petercartman89 - Timestamp
+2020-07-08 - Petercartman89 - Picture w/ hand written Username and Date
+2020-07-08 - Alex_Keaton - Timestamp
