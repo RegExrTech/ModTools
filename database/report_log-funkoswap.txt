@@ -789,3 +789,8 @@
 2020-07-11 - Alex_Keaton - Timestamp unreadable
 2020-07-11 - Alex_Keaton - No prices
 2020-07-11 - Alex_Keaton - Timestamp
+2020-07-12 - Alex_Keaton - No prices
+2020-07-12 - Alex_Keaton - Review the Rules
+2020-07-12 - Alex_Keaton - Timestamp
+2020-07-12 - Petercartman89 - Trading: List each item you are trading
+2020-07-12 - Alex_Keaton - Timestamp
