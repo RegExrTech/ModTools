@@ -794,3 +794,5 @@
 2020-07-12 - Alex_Keaton - Timestamp
 2020-07-12 - Petercartman89 - Trading: List each item you are trading
 2020-07-12 - Alex_Keaton - Timestamp
+2020-07-13 - Alex_Keaton - Review the Rules
+2020-07-13 - DrShadyTree - Timestamp
