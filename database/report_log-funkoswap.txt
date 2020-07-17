@@ -805,3 +805,6 @@
 2020-07-15 - USLBot - PERM-BANNED
 2020-07-15 - DrShadyTree - Timestamp
 2020-07-15 - DrShadyTree - No prices
+2020-07-16 - Alex_Keaton - Timestamp
+2020-07-16 - DrShadyTree - No prices
+2020-07-16 - FreddySwapBot - Timestamp out of date
