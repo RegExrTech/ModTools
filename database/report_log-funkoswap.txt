@@ -822,3 +822,7 @@
 2020-07-19 - Alex_Keaton - Timestamp
 2020-07-19 - Alex_Keaton - No prices
 2020-07-19 - Alex_Keaton - Timestamp
+2020-07-20 - Alex_Keaton - Timestamp
+2020-07-20 - FreddySwapBot - Timestamp out of date
+2020-07-20 - Petercartman89 - Picture w/ hand written Username and Date
+2020-07-20 - RegExr - No prices
