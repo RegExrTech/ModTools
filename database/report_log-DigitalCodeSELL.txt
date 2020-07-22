@@ -188,3 +188,4 @@
 2020-07-13 - USLBot - PERM-BANNED
 2020-07-14 - FireAbyss - List Requirements and Formatting
 2020-07-19 - USLBot - PERM-BANNED
+2020-07-21 - FireAbyss - PERM-BANNED
