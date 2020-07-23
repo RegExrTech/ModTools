@@ -826,3 +826,6 @@
 2020-07-20 - FreddySwapBot - Timestamp out of date
 2020-07-20 - Petercartman89 - Picture w/ hand written Username and Date
 2020-07-20 - RegExr - No prices
+2020-07-22 - Petercartman89 - All items must appear in the first album or photo
+2020-07-22 - Alex_Keaton - Timestamp
+2020-07-22 - DrShadyTree - No prices
