@@ -42,3 +42,6 @@
 2020-07-24 - mairin2009 - No/Invalid Timestamp
 2020-07-24 - elbowteen - Missing Location, No Timestamp
 2020-07-24 - elbowteen - Missing Location, No Timestamp, Asking to PM befor
+2020-07-25 - elbowteen - Missing/Incorrect Location Format
+2020-07-25 - mairin2009 - No/Invalid Timestamp
+2020-07-25 - mairin2009 - Missing/Incorrect Location Format
