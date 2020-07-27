@@ -891,3 +891,7 @@
 2020-07-25 - Alex_Keaton - Timestamp
 2020-07-25 - Alex_Keaton - No prices
 2020-07-25 - Alex_Keaton - Timestamp
+2020-07-26 - Petercartman89 - Timestamp is unreadable
+2020-07-26 - Alex_Keaton - Timestamp out of date
+2020-07-26 - USLBot - PERM-BANNED
+2020-07-26 - Alex_Keaton - Only Paypal
