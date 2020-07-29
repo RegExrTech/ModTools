@@ -903,3 +903,6 @@
 2020-07-27 - DrShadyTree - Timestamp
 2020-07-27 - DrShadyTree - Megathread
 2020-07-27 - Alex_Keaton - Timestamp
+2020-07-28 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-07-28 - Petercartman89 - All pops must be displayed with timestamp
+2020-07-28 - FreddySwapBot - Timestamp out of date
