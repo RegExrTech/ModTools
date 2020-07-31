@@ -910,3 +910,10 @@
 2020-07-29 - Alex_Keaton - Trading no photo
 2020-07-29 - Alex_Keaton - Timestamp
 2020-07-29 - Alex_Keaton - Timestamp unreadable
+2020-07-30 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-07-30 - Alex_Keaton - Timestamp
+2020-07-30 - FreddySwapBot - Timestamp out of date
+2020-07-30 - DrShadyTree - Timestamp
+2020-07-30 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-07-30 - Alex_Keaton - Trading no photo
+2020-07-30 - Alex_Keaton - Timestamp
