@@ -78,3 +78,4 @@
 2020-07-14 - TapouT32 - Do not spam or hijack other people
 2020-07-14 - TapouT32 - Do not spam or hijack other people
 2020-07-25 - RegExr - No eBay or other website links or references
+2020-08-01 - RegExr - All items for sale must include a price
