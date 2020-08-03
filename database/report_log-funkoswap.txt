@@ -930,3 +930,6 @@
 2020-08-01 - Alex_Keaton - Timestamp
 2020-08-01 - Alex_Keaton - Timestamp
 2020-08-01 - Alex_Keaton - Timestamp
+2020-08-02 - Alex_Keaton - BANNED - 7 days.
+2020-08-02 - Alex_Keaton - Timestamp
+2020-08-02 - USLBot - PERM-BANNED
