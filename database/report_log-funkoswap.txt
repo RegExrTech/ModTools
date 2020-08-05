@@ -945,3 +945,5 @@
 2020-08-03 - Petercartman89 - Timestamp
 2020-08-03 - Petercartman89 - Rule 2. If selling: list each item you are selling
 2020-08-03 - Petercartman89 - Rule 3/ If trading: list each item you are trading
+2020-08-04 - Alex_Keaton - Timestamp
+2020-08-04 - Alex_Keaton - Timestamp
