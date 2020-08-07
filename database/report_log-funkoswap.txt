@@ -947,3 +947,7 @@
 2020-08-03 - Petercartman89 - Rule 3/ If trading: list each item you are trading
 2020-08-04 - Alex_Keaton - Timestamp
 2020-08-04 - Alex_Keaton - Timestamp
+2020-08-06 - Alex_Keaton - Timestamp
+2020-08-06 - Alex_Keaton - Timestamp
+2020-08-06 - Alex_Keaton - Missing prices
+2020-08-06 - FreddySwapBot - Timestamp out of date
