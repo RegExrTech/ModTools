@@ -72,3 +72,10 @@
 2020-08-05 - elbowteen - Asking to PM before deal is finalized
 2020-08-06 - elbowteen - No/Invalid Timestamp
 2020-08-06 - mairin2009 - No/Invalid Timestamp
+2020-08-07 - elbowteen - No/Invalid Timestamp
+2020-08-07 - elbowteen - No/Invalid Timestamp
+2020-08-07 - mairin2009 - No/Invalid Timestamp
+2020-08-07 - elbowteen - No/Invalid Timestamp
+2020-08-07 - mairin2009 - No/Invalid Timestamp
+2020-08-07 - mairin2009 - Multiple Rule Violations
+2020-08-07 - mairin2009 - No/Invalid Timestamp
