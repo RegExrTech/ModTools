@@ -955,3 +955,9 @@
 2020-08-07 - Alex_Keaton - Timestamp
 2020-08-07 - Alex_Keaton - Timestamp out of date
 2020-08-07 - Alex_Keaton - Timestamp
+2020-08-08 - Petercartman89 - Picture w/ hand written Username and Date
+2020-08-08 - ruemeridian - Pricing
+2020-08-08 - Alex_Keaton - Timestamp
+2020-08-08 - Alex_Keaton - Timestamp
+2020-08-08 - Alex_Keaton - Timestamp unreadable
+2020-08-08 - USLBot - PERM-BANNED
