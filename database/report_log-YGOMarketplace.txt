@@ -85,3 +85,7 @@
 2020-08-10 - mairin2009 - No/Invalid Timestamp
 2020-08-10 - elbowteen - No/Invalid Timestamp
 2020-08-10 - elbowteen - Advertising, Unrelated Links, Feedback from other 
+2020-08-11 - elbowteen - No/Invalid Timestamp
+2020-08-11 - elbowteen - No/Invalid Timestamp
+2020-08-11 - elbowteen - No/Invalid Timestamp
+2020-08-11 - elbowteen - Multiple Rule Violations
