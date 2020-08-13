@@ -978,3 +978,10 @@
 2020-08-10 - Alex_Keaton - Timestamp
 2020-08-11 - Alex_Keaton - No timestamp
 2020-08-11 - Alex_Keaton - Pricing
+2020-08-12 - Alex_Keaton - Timestamp
+2020-08-12 - Alex_Keaton - Timestamp
+2020-08-12 - FreddySwapBot - Timestamp out of date
+2020-08-12 - Alex_Keaton - Timestamp out of date
+2020-08-12 - Alex_Keaton - Timestamp
+2020-08-12 - Alex_Keaton - Missing prices
+2020-08-12 - Alex_Keaton - Timestamp

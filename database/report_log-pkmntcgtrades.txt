@@ -80,3 +80,4 @@
 2020-07-25 - RegExr - No eBay or other website links or references
 2020-08-01 - RegExr - All items for sale must include a price
 2020-08-03 - RegExr - All items for sale must include a price
+2020-08-12 - HammyFresh - PERM-BANNED
