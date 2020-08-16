@@ -98,3 +98,8 @@
 2020-08-13 - mairin2009 - No/Invalid Timestamp
 2020-08-13 - elbowteen - No/Invalid Timestamp
 2020-08-14 - elbowteen - Advertising, Unrelated Links, Feedback from other 
+2020-08-15 - elbowteen - No/Invalid Timestamp
+2020-08-15 - elbowteen - Multiple Rule Violations
+2020-08-15 - mairin2009 - Advertising, Unrelated Links, Feedback from other 
+2020-08-15 - elbowteen - No/Invalid Timestamp
+2020-08-15 - mairin2009 - Timestamps
