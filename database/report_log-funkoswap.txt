@@ -992,3 +992,9 @@
 2020-08-14 - Alex_Keaton - Timestamp unreadable
 2020-08-14 - Alex_Keaton - Timestamp
 2020-08-14 - Alex_Keaton - Timestamp
+2020-08-15 - FreddySwapBot - Timestamp out of date
+2020-08-15 - Alex_Keaton - Timestamp
+2020-08-15 - Alex_Keaton - Timestamp
+2020-08-15 - Alex_Keaton - Timestamp
+2020-08-15 - Alex_Keaton - Missing prices
+2020-08-15 - Alex_Keaton - Timestamp
