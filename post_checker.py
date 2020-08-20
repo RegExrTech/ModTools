@@ -33,7 +33,7 @@ def get_image_from_album(client, hash):
 	except:
 		return None
 
-def check_date(imgur, url, post_time, imgur_freshness_days):
+def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 	check_time = post_time - (imgur_freshness_days*24*60*60)
 	url = url.split("?")[0]
 	if url[-1] == "/":
@@ -43,16 +43,25 @@ def check_date(imgur, url, post_time, imgur_freshness_days):
 
 	items = url.split("/")
 	hash = items[-1].replace("~", "")
+	hash = hash.split("/comment")[0]  # if someone links to a comment on their imgur post, we get fucked
 	type = items[-2].lower()
 
-	if type in ['gallery', 'a']:
-		img = get_image_from_album(imgur, hash)
-	else:
-		img = imgur.get_image(hash)
+	try:
+		if type in ['gallery', 'a']:
+			img = get_image_from_album(imgur, hash)
+		else:
+			img = imgur.get_image(hash)
+	except Exception as e:
+		print("Failed to get images with the following hash: " + hash)
+		print("    url: " + url)
+		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
 	if not img:
 		return True
+
+	if newest_timestamp[0] < img.datetime:
+		newest_timestamp[0] = img.datetime
 
 	if img.datetime < check_time:
 		return False
@@ -67,9 +76,21 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 	imgur_urls = list(set(extract_imgur_urls(text)))
 	if not imgur_urls:
 		return
-	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days) for url in imgur_urls]):
+	newest_timestamp = [0]
+	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days, newest_timestamp) for url in imgur_urls]):
 		if report.remove_post(submission):
-			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls) + "\n\n---\n\n"
+			upload_string = str(datetime.timedelta(seconds=submission.created_utc - newest_timestamp[0]))
+			upload_string = upload_string.replace(":", " hours, ", 1)
+			upload_string = upload_string.replace(":", " minutes, and ", 1)
+			upload_string += " seconds"
+			stale_delta_string = str(datetime.timedelta(seconds=submission.created_utc - newest_timestamp[0] - (imgur_freshness_days*24*60*60)))
+			stale_delta_string = stale_delta_string.replace(":", " hours, ", 1)
+			stale_delta_string = stale_delta_string.replace(":", " minutes, and ", 1)
+			stale_delta_string += " seconds"
+			removal_message = "This post has been removed because the following links contain out of date timestamps: \n\n" + "\n\n".join("* https://www." + url for url in imgur_urls) + "\n\n"
+			removal_message += "The newest image was uploaded " + upload_string  + " before this reddit post was made.\n\n"
+			removal_message += "This means that your most recent submission is " + stale_delta_string + " past the allowed limit of " + str(int(imgur_freshness_days)) + " days from when this post was first made.\n\n"
+			removal_message += "\n\n---\n\n"
 			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", defaultdict(lambda: []), "FunkoSwap")
 
 ## OTHER
