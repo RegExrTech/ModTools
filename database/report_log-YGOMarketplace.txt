@@ -110,3 +110,5 @@
 2020-08-17 - elbowteen - Timestamps
 2020-08-17 - elbowteen - Rule Violations
 2020-08-17 - elbowteen - Timestamps
+2020-08-19 - mairin2009 - Rule Violations
+2020-08-19 - elbowteen - Timestamps
