@@ -82,3 +82,5 @@
 2020-08-03 - RegExr - All items for sale must include a price
 2020-08-12 - HammyFresh - PERM-BANNED
 2020-08-18 - RegExr - All items for sale must include a price
+2020-08-19 - Arcashine - PERM-BANNED
+2020-08-19 - Arcashine - PERM-BANNED
