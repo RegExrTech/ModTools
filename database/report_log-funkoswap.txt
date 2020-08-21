@@ -1022,3 +1022,6 @@
 2020-08-19 - Alex_Keaton - Timestamp out of date
 2020-08-19 - Alex_Keaton - Timestamp
 2020-08-19 - Alex_Keaton - Missing prices
+2020-08-20 - Alex_Keaton - Timestamp
+2020-08-20 - DrShadyTree - Missing prices
+2020-08-20 - DrShadyTree - Timestamp
