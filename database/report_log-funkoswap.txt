@@ -1025,3 +1025,9 @@
 2020-08-20 - Alex_Keaton - Timestamp
 2020-08-20 - DrShadyTree - Missing prices
 2020-08-20 - DrShadyTree - Timestamp
+2020-08-21 - Alex_Keaton - Trading no photo
+2020-08-21 - Alex_Keaton - Timestamp
+2020-08-21 - RegExr - No timestamp
+2020-08-21 - Petercartman89 - Picture w/ hand written Username and Date
+2020-08-21 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-08-21 - Petercartman89 - Picture w/ hand written Username and Date
