@@ -87,3 +87,4 @@
 2020-08-24 - RegExr - All items for sale must include a price
 2020-08-26 - RegExr - Timestamps required for items over $50
 2020-08-27 - RegExr - All items for sale must include a price
+2020-08-30 - RegExr - Timestamps required for items over $50
