@@ -1070,3 +1070,6 @@
 2020-09-02 - Petercartman89 - Picture w/ hand written Username and Date
 2020-09-02 - Alex_Keaton - Only Paypal
 2020-09-02 - FreddySwapBot - Timestamp out of date
+2020-09-03 - Petercartman89 - Picture w/ hand written Username and Date
+2020-09-03 - Alex_Keaton - PERM-BANNED
+2020-09-03 - Alex_Keaton - Timestamp
