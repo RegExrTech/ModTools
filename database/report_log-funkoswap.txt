@@ -1081,3 +1081,12 @@
 2020-09-04 - Alex_Keaton - Timestamp
 2020-09-04 - Alex_Keaton - Timestamp
 2020-09-04 - Alex_Keaton - No Selling of Replica or Fake items
+2020-09-05 - Alex_Keaton - Timestamp
+2020-09-05 - Alex_Keaton - 30 Day Limit
+2020-09-05 - Alex_Keaton - 30 Day Limit
+2020-09-05 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-09-05 - Alex_Keaton - Timestamp
+2020-09-05 - Alex_Keaton - Trading no photo
+2020-09-05 - Alex_Keaton - Timestamp
+2020-09-05 - Alex_Keaton - Missing prices
+2020-09-05 - Alex_Keaton - Timestamp
