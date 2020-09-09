@@ -1095,3 +1095,7 @@
 2020-09-06 - Petercartman89 - Picture w/ hand written Username and Date
 2020-09-07 - Alex_Keaton - Missing prices
 2020-09-07 - DrShadyTree - Missing prices
+2020-09-08 - Petercartman89 - No more than Cost+Shipping for 1st month
+2020-09-08 - Petercartman89 - Timestamp
+2020-09-08 - Petercartman89 - Timestamp
+2020-09-08 - Petercartman89 - Timestamp
