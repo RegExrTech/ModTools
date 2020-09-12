@@ -46,3 +46,6 @@
 2020-09-10 - Pseudophryne - Transaction feedback
 2020-09-10 - Pseudophryne - PERM-BANNED
 2020-09-10 - zeroair - Price and/or trade value required
+2020-09-11 - Powerline77 - BANNED - 7 days.
+2020-09-11 - USLBot - PERM-BANNED
+2020-09-11 - zeroair - PERM-BANNED
