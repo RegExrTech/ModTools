@@ -1111,3 +1111,6 @@
 2020-09-11 - Alex_Keaton - Trading no photo
 2020-09-11 - FreddySwapBot - Timestamp out of date
 2020-09-12 - Alex_Keaton - Timestamp unreadable
+2020-09-13 - FreddySwapBot - Timestamp out of date
+2020-09-13 - Petercartman89 - Picture w/ hand written Username and Date
+2020-09-13 - Alex_Keaton - Timestamp
