@@ -1131,3 +1131,5 @@
 2020-09-17 - Petercartman89 - Title must follow the correct format
 2020-09-17 - Petercartman89 - Picture w/ hand written Username and Date
 2020-09-17 - Petercartman89 - BANNED - 3 days.
+2020-09-18 - RegExr - PERM-BANNED
+2020-09-18 - RegExr - PERM-BANNED
