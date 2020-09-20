@@ -74,3 +74,8 @@
 2020-09-18 - zeroair - CHANGED BAN - 21 days.
 2020-09-18 - RegExr - PERM-BANNED
 2020-09-18 - Powerline77 - BANNED - 7 days.
+2020-09-19 - Powerline77 - BANNED - 14 days.
+2020-09-19 - Powerline77 - PERM-BANNED
+2020-09-19 - zeroair - Timestamp
+2020-09-19 - Powerline77 - BANNED - 7 days.
+2020-09-19 - zeroair - Reposts are allowed after 7 days
