@@ -1135,3 +1135,8 @@
 2020-09-18 - RegExr - PERM-BANNED
 2020-09-19 - Alex_Keaton - Timestamp out of date
 2020-09-19 - Alex_Keaton - Timestamp
+2020-09-20 - DrShadyTree - Timestamp
+2020-09-20 - DrShadyTree - Timestamp out of date
+2020-09-20 - Alex_Keaton - Timestamp
+2020-09-20 - Alex_Keaton - Timestamp
+2020-09-20 - FreddySwapBot - Timestamp out of date
