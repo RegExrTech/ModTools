@@ -1149,3 +1149,9 @@
 2020-09-21 - Alex_Keaton - Timestamp
 2020-09-22 - Petercartman89 - No more than Cost+Shipping for 1st month
 2020-09-22 - DrShadyTree - Timestamp
+2020-09-23 - Alex_Keaton - Timestamp
+2020-09-23 - Alex_Keaton - Timestamp unreadable
+2020-09-23 - Alex_Keaton - Timestamp
+2020-09-23 - Petercartman89 - Picture w/ hand written Username and Date
+2020-09-23 - FreddySwapBot - Timestamp out of date
+2020-09-23 - FreddySwapBot - Timestamp out of date
