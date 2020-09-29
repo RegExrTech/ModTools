@@ -1170,3 +1170,7 @@
 2020-09-27 - USLBot - PERM-BANNED
 2020-09-27 - Alex_Keaton - Missing prices
 2020-09-27 - Alex_Keaton - Review the Rules
+2020-09-28 - FreddySwapBot - Timestamp out of date
+2020-09-28 - Alex_Keaton - NonFunko
+2020-09-28 - Alex_Keaton - Timestamp
+2020-09-28 - Alex_Keaton - Timestamp unreadable
