@@ -95,8 +95,11 @@ def build_infraction_text(message, subject, subreddit_name, reddit):
 	if subject == 'Your post from ' + subreddit_name + ' was removed' or subject == 'Your comment from ' + subreddit_name + ' was removed' or subject == "Your submission was removed from /r/" + subreddit_name or subject == "Your comment was removed from /r/" + subreddit_name:
 		infraction = build_removal_reason_text(reddit, message, subject)
 	elif subject == "You've been temporarily banned from participating in r/" + subreddit_name:
-		days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
-		infraction = "BANNED - " + days_banned + " days."
+		try:
+			days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
+			infraction = "BANNED - " + days_banned + " days."
+		except:
+			infraction = "BANNED - Unknown amount of time."
 	elif subject == "You've been permanently banned from participating in r/" + subreddit_name:
 		infraction = "PERM-BANNED"
 	elif subject == "Your ban from r/" + subreddit_name + " has changed":
@@ -159,8 +162,11 @@ def main(subreddit_name):
 		imgur = ImgurClient(imgur_client, imgur_secret)
 	else:
 		imgur = None
-	mods = [str(x) for x in sub.moderator()]
-
+	try:
+		mods = [str(x) for x in sub.moderator()]
+	except Exception as e:
+		print("Unable to get list of moderators from " + subreddit_name + " with error: " + str(e))
+		return
 	# Remove all submissions with mod reports and send removal reasons. Return a dict of who handeled each report.
 	ids_to_mods = report.remove_reported_posts(sub, subreddit_name)
 
@@ -196,11 +202,17 @@ def main(subreddit_name):
 	queries = get_mod_mail_messages(sub, num_messages)
 
 	for query in queries:
-		for mod_conv in query:
+		try:
+			mod_convs = [x for x in query]
+		except Exception as e:
+			print("Unable to read mod conversations from query on r/" + subreddit_name + " with error: " + str(e))
+			continue
+		for mod_conv in mod_convs:
 			message = reddit.subreddit('redditdev').modmail(mod_conv.id)
 
 			# Get the text of the infraction to store in the database
 			infraction = build_infraction_text(message, mod_conv.subject, subreddit_name, reddit)
+
 			# If no infracion was detected, we don't want to do anything
 			if not infraction:
 				continue
