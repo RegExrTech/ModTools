@@ -1174,3 +1174,6 @@
 2020-09-28 - Alex_Keaton - NonFunko
 2020-09-28 - Alex_Keaton - Timestamp
 2020-09-28 - Alex_Keaton - Timestamp unreadable
+2020-09-29 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-09-29 - Petercartman89 - No more than Cost+Shipping for 1st month
+2020-09-29 - Petercartman89 - Only funko items are allowed to be traded/sold
