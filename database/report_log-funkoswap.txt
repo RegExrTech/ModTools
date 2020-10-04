@@ -1184,3 +1184,5 @@
 2020-10-02 - Alex_Keaton - Missing prices
 2020-10-02 - Alex_Keaton - Timestamp
 2020-10-02 - Alex_Keaton - Timestamp
+2020-10-03 - Alex_Keaton - Missing prices
+2020-10-03 - FreddySwapBot - Timestamp out of date
