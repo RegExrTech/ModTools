@@ -1193,3 +1193,5 @@
 2020-10-04 - Alex_Keaton - Timestamp
 2020-10-04 - Alex_Keaton - Trading no photo
 2020-10-04 - Alex_Keaton - Timestamp
+2020-10-05 - Petercartman89 - Timestamp
+2020-10-05 - USLBot - PERM-BANNED
