@@ -1202,3 +1202,10 @@
 2020-10-06 - USLBot - PERM-BANNED
 2020-10-06 - FreddySwapBot - Timestamp out of date
 2020-10-06 - Alex_Keaton - Timestamp
+2020-10-07 - DrShadyTree - Off Topic
+2020-10-07 - DrShadyTree - Timestamp
+2020-10-07 - DrShadyTree - Off Topic
+2020-10-07 - RegExr - No timestamp
+2020-10-07 - Petercartman89 - Timestamp
+2020-10-07 - Petercartman89 - Timestamp
+2020-10-07 - Petercartman89 - All BST must contain a price if asking for paypal.
