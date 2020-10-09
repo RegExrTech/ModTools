@@ -1209,3 +1209,8 @@
 2020-10-07 - Petercartman89 - Timestamp
 2020-10-07 - Petercartman89 - Timestamp
 2020-10-07 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-10-08 - Alex_Keaton - Timestamp
+2020-10-08 - Alex_Keaton - Timestamp
+2020-10-08 - Alex_Keaton - Timestamp
+2020-10-08 - Petercartman89 - Missing prices
+2020-10-08 - Petercartman89 - Timestamp
