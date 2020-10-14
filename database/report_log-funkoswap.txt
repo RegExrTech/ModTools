@@ -1261,3 +1261,10 @@
 2020-10-12 - DrShadyTree - NonFunko
 2020-10-12 - Alex_Keaton - PERM-BANNED
 2020-10-12 - Petercartman89 - Picture w/ hand written Username and Date
+2020-10-13 - DrShadyTree - Missing prices
+2020-10-13 - RegExr - PERM-BANNED
+2020-10-13 - Alex_Keaton - Timestamp unreadable
+2020-10-13 - Alex_Keaton - Megathread
+2020-10-13 - Alex_Keaton - Timestamp
+2020-10-13 - Alex_Keaton - Timestamp
+2020-10-13 - Alex_Keaton - Location
