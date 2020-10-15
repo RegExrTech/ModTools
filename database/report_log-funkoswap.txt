@@ -1268,3 +1268,6 @@
 2020-10-13 - Alex_Keaton - Timestamp
 2020-10-13 - Alex_Keaton - Timestamp
 2020-10-13 - Alex_Keaton - Location
+2020-10-14 - USLBot - PERM-BANNED
+2020-10-14 - Alex_Keaton - PERM-BANNED
+2020-10-14 - DrShadyTree - Timestamp
