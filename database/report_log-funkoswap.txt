@@ -1271,3 +1271,5 @@
 2020-10-14 - USLBot - PERM-BANNED
 2020-10-14 - Alex_Keaton - PERM-BANNED
 2020-10-14 - DrShadyTree - Timestamp
+2020-10-15 - RegExr - No prices
+2020-10-15 - Petercartman89 - Picture w/ hand written Username and Date
