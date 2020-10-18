@@ -97,3 +97,4 @@
 2020-10-13 - RegExr - All items for sale must include a price
 2020-10-15 - RegExr - Timestamps required for items over $50
 2020-10-15 - Arcashine - PERM-BANNED
+2020-10-17 - Voltolos - PERM-BANNED

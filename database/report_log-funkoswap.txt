@@ -1282,3 +1282,10 @@
 2020-10-16 - DrShadyTree - Missing prices
 2020-10-16 - Alex_Keaton - Timestamp
 2020-10-16 - FreddySwapBot - Timestamp out of date
+2020-10-17 - DrShadyTree - Timestamp
+2020-10-17 - Alex_Keaton - Flipping
+2020-10-17 - Alex_Keaton - Missing prices
+2020-10-17 - Alex_Keaton - Flipping
+2020-10-17 - Alex_Keaton - Flipping
+2020-10-17 - Alex_Keaton - Flipping
+2020-10-17 - Petercartman89 - All BST must contain a price if asking for paypal.
