@@ -1289,3 +1289,8 @@
 2020-10-17 - Alex_Keaton - Flipping
 2020-10-17 - Alex_Keaton - Flipping
 2020-10-17 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-10-18 - DrShadyTree - Missing prices
+2020-10-18 - DrShadyTree - Timestamp
+2020-10-18 - Alex_Keaton - Timestamp
+2020-10-18 - Alex_Keaton - Trading no photo
+2020-10-18 - Alex_Keaton - Timestamp
