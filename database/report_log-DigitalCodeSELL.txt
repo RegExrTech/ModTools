@@ -233,3 +233,4 @@
 2020-10-07 - stetsonaw - Suggestions and Reporting
 2020-10-08 - thegreatunitor - PERM-BANNED
 2020-10-14 - USLBot - PERM-BANNED
+2020-10-20 - USLBot - PERM-BANNED
