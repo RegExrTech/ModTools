@@ -1304,3 +1304,5 @@
 2020-10-21 - Alex_Keaton - Timestamp unreadable
 2020-10-21 - Alex_Keaton - Flipping
 2020-10-21 - FreddySwapBot - All BST must contain a price if asking for paypal.
+2020-10-22 - Alex_Keaton - Timestamp
+2020-10-22 - ruemeridian - No prices

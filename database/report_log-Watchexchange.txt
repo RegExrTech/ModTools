@@ -162,3 +162,4 @@
 2020-10-20 - zeroair - Transaction feedback
 2020-10-20 - zeroair - Price related comments
 2020-10-21 - zeroair - PERM-BANNED
+2020-10-22 - Powerline77 - PERM-BANNED
