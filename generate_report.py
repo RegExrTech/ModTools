@@ -1,8 +1,11 @@
 from datetime import datetime
 from collections import defaultdict
 
-cutoff_date = datetime.strptime("2020-01-01", "%Y-%m-%d")
-sub_name = "funkoswap"
+cutoff_date = datetime.strptime("2020-10-09", "%Y-%m-%d")
+#sub_name = "pkmntcgtrades"
+sub_name= 'funkoswap'
+sub_name = "Watchexchange"
+sub_name = "funkopop"
 report_file_name = "database/report_log-" + sub_name + ".txt"
 
 f = open(report_file_name, 'r')
@@ -23,7 +26,8 @@ for line in lines:
 	mods[mod] += 1
 	reasons[reason] += 1
 
-
+print("\nTotal removals: " + str(sum([mods[x] for x in mods])))
+print("\n=====\n")
 print("\n".join([str(x[0]) + " - " + str(x[1]) for x in sorted(mods.items(), key=lambda x: x[1], reverse=True)]))
 print("\n=====\n")
 print("\n".join([str(x[0]) + " - " + str(x[1]) for x in sorted(reasons.items(), key=lambda x: x[1], reverse=True)]))
