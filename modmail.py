@@ -34,6 +34,7 @@ client_secret = config['client_secret']
 bot_username = config['bot_username']
 bot_password = config['bot_password']
 days_between_posts = int(math.ceil(float(config['days_per_post'])))
+lock_post = config['lock_post'] == "True"
 seconds_between_posts = float(config['days_per_post']) * 24 * 60 * 60
 whitelisted_words = config['whitelisted_words'].split(',')
 num_minutes_flair = float(config['minutes_no_flair'])
@@ -191,7 +192,7 @@ def main(subreddit_name):
 			continue
 
 		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time)
-		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts)
+		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post)
 
 	if not debug:
 		dump(frequency_database, frequency_fname)

@@ -98,7 +98,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 def get_submissions(sub, num_posts_to_check):
 	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
 
-def handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts):
+def handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post):
 	# Get timestamp info and make sure we have seen posts from this author before
 	timestamp = submission.created_utc
 	if author not in frequency_database:
@@ -117,13 +117,14 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 	delta = timestamp - last_timestamp
 	if delta < seconds_between_posts and not submission.approved:
 		if not debug:
+			# Remove post
 			submission.mod.remove()
+
+			# Inform when user can post again: total_seconds_allowed - amount_of_time_between_post_attempts
 			if days_between_posts == 1:
 				time_string = "24 hours"
 			else:
 				time_string = str(days_between_posts) + " days"
-
-			# User can post again in total_seconds_allowed - amount_of_time_between_post_attempts
 			delta_string = str(datetime.timedelta(seconds=seconds_between_posts-delta))
 			delta_string = delta_string.replace(":", " hours, ", 1)
 			delta_string = delta_string.replace(":", " minutes, and ", 1)
@@ -134,6 +135,10 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			reply_text += "Please message the mods if you have any questions."
 			reply = submission.reply(reply_text)
 			reply.mod.distinguish(sticky=True)
+
+			# Lock post
+			if lock_post:
+				submission.mod.lock()
 		else:
 			print("Would have removed post " + submission.id)
 	else: # If this is a new post and is valid, update the saved timestamp
@@ -154,11 +159,13 @@ def handle_post_flair(submission, current_time, num_minutes_flair):
 	time_diff = current_time - submission.created_utc
 	past_time_limit = time_diff > num_minutes_flair*60
 	if missing_flair and past_time_limit:
+		# Remove post
 		try:
 			submission.mod.remove()
 		except Exception as e:
 			print("Unable to remove - " + str(e))
 			return True
+		# Inform post removed
 		try:
 			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
 			reply.mod.lock()

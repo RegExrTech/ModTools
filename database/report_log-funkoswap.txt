@@ -1306,3 +1306,7 @@
 2020-10-21 - FreddySwapBot - All BST must contain a price if asking for paypal.
 2020-10-22 - Alex_Keaton - Timestamp
 2020-10-22 - ruemeridian - No prices
+2020-10-23 - FreddySwapBot - Timestamp out of date
+2020-10-23 - Petercartman89 - Timestamp
+2020-10-23 - Petercartman89 - 30 Day Limit
+2020-10-23 - FreddySwapBot - Timestamp out of date
