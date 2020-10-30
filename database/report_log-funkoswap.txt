@@ -1330,3 +1330,7 @@
 2020-10-27 - Alex_Keaton - Trading no photo
 2020-10-28 - Alex_Keaton - Timestamp
 2020-10-28 - FreddySwapBot - Timestamp out of date
+2020-10-29 - Petercartman89 - Picture w/ hand written Username and Date
+2020-10-29 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-10-29 - Petercartman89 - 30 Day Limit
+2020-10-29 - DrShadyTree - Timestamp
