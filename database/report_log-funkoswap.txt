@@ -1334,3 +1334,9 @@
 2020-10-29 - Petercartman89 - All BST must contain a price if asking for paypal.
 2020-10-29 - Petercartman89 - 30 Day Limit
 2020-10-29 - DrShadyTree - Timestamp
+2020-10-30 - DrShadyTree - Timestamp
+2020-10-30 - Alex_Keaton - Trading no photo
+2020-10-30 - FreddySwapBot - Timestamp out of date
+2020-10-30 - Alex_Keaton - Missing prices
+2020-10-30 - Alex_Keaton - Timestamp
+2020-10-30 - Alex_Keaton - Timestamp unreadable
