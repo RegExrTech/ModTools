@@ -1340,3 +1340,7 @@
 2020-10-30 - Alex_Keaton - Missing prices
 2020-10-30 - Alex_Keaton - Timestamp
 2020-10-30 - Alex_Keaton - Timestamp unreadable
+2020-10-31 - Alex_Keaton - Timestamp unreadable
+2020-10-31 - FreddySwapBot - Timestamp out of date
+2020-10-31 - FreddySwapBot - Timestamp out of date
+2020-10-31 - Alex_Keaton - Only Paypal
