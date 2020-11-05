@@ -1354,3 +1354,8 @@
 2020-11-03 - FreddySwapBot - Timestamp out of date
 2020-11-03 - Alex_Keaton - Trading no photo
 2020-11-03 - Alex_Keaton - BANNED - 30 days.
+2020-11-04 - Alex_Keaton - Timestamp
+2020-11-04 - Alex_Keaton - Timestamp unreadable
+2020-11-04 - Alex_Keaton - Missing prices
+2020-11-04 - Alex_Keaton - NonFunko
+2020-11-04 - Alex_Keaton - PERM-BANNED
