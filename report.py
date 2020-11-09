@@ -53,7 +53,6 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 				time.sleep(3)
 	ids_to_mods[title].append(mod_name)
 
-
 def remove_reported_posts(sub, sub_name):
 	ids_to_mods = defaultdict(lambda: [])
         for item in get_reports(sub, sub_name):

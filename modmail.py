@@ -176,7 +176,7 @@ def main(subreddit_name):
 	frequency_database = get_db(frequency_fname)
 	submissions = post_checker.get_submissions(sub, num_posts_to_check)
 	for submission in submissions:
-		missing_flair = post_checker.handle_post_flair(submission, current_time, num_minutes_flair)
+		missing_flair = post_checker.handle_post_flair(submission, current_time, num_minutes_flair, subreddit_name)
 		if missing_flair:  # We already removed so no need to check anything else
 			continue
 
@@ -191,7 +191,7 @@ def main(subreddit_name):
 		if author in mods:
 			continue
 
-		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time)
+		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username)
 		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post)
 
 	if not debug:

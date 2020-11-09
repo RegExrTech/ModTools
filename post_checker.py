@@ -71,7 +71,7 @@ def extract_imgur_urls(text):
 	match = re.compile("([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?")
 	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
 
-def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
+def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username):
 	text = submission.selftext
 	imgur_urls = list(set(extract_imgur_urls(text)))
 	if not imgur_urls:
@@ -91,7 +91,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days):
 			removal_message += "The newest image was uploaded " + upload_string  + " before this reddit post was made.\n\n"
 			removal_message += "This means that your most recent submission is " + stale_delta_string + " past the allowed limit of " + str(int(imgur_freshness_days)) + " days from when this post was first made.\n\n"
 			removal_message += "\n\n---\n\n"
-			report.send_removal_reason(submission, removal_message, "Timestamp out of date", "RegExrBot", defaultdict(lambda: []), "FunkoSwap")
+			report.send_removal_reason(submission, removal_message, "Timestamp out of date", bot_username, defaultdict(lambda: []), subreddit_name)
 
 ## OTHER
 
@@ -145,15 +145,15 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 		if timestamp > last_timestamp:
 			frequency_database[author] = timestamp
 
-def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time):
+def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username):
 	# Check for Imgur freshness
 	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name, current_time)
 	if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
-		check_imgur_freshness(imgur, sub, submission, imgur_freshness_days)
+		check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username)
 		update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
 
 
-def handle_post_flair(submission, current_time, num_minutes_flair):
+def handle_post_flair(submission, current_time, num_minutes_flair, subreddit_name):
 	# Checks if flaired within time range
 	missing_flair = submission.link_flair_text == None
 	time_diff = current_time - submission.created_utc
@@ -167,7 +167,7 @@ def handle_post_flair(submission, current_time, num_minutes_flair):
 			return True
 		# Inform post removed
 		try:
-			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nIf you're unfamiliar with how to flair please check the wiki on [how to flair your posts](https://www.reddit.com/r/funkopop/wiki/flairing) then feel free to repost.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffunkopop).")
+			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nPlease feel free to repost with flair added to your post. Adding flair to yoir original post will do nothing.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2F)" + subreddit_name + ".")
 			reply.mod.lock()
 			reply.mod.distinguish(how="yes", sticky=True)
 		except Exception as e:
