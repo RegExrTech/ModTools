@@ -1401,3 +1401,9 @@
 2020-11-15 - Alex_Keaton - Timestamp
 2020-11-15 - Alex_Keaton - Timestamp
 2020-11-16 - Petercartman89 - Picture w/ hand written Username and Date
+2020-11-17 - Alex_Keaton - Missing prices
+2020-11-17 - Alex_Keaton - Timestamp
+2020-11-17 - Alex_Keaton - Timestamp
+2020-11-17 - FreddySwapBot - Timestamp out of date
+2020-11-17 - Petercartman89 - Timestamp
+2020-11-17 - Petercartman89 - Timestamp
