@@ -1407,3 +1407,7 @@
 2020-11-17 - FreddySwapBot - Timestamp out of date
 2020-11-17 - Petercartman89 - Timestamp
 2020-11-17 - Petercartman89 - Timestamp
+2020-11-18 - Alex_Keaton - Timestamp unreadable
+2020-11-18 - Alex_Keaton - Timestamp
+2020-11-18 - Alex_Keaton - Timestamp unreadable
+2020-11-18 - USLBot - PERM-BANNED
