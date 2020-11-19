@@ -107,3 +107,6 @@
 2020-11-07 - RegExr - All items for sale must include a price
 2020-11-07 - Arcashine - PERM-BANNED
 2020-11-16 - RegExr - All items for sale must include a price
+2020-11-18 - Arcashine - PERM-BANNED
+2020-11-18 - Arcashine - PERM-BANNED
+2020-11-18 - Arcashine - PERM-BANNED
