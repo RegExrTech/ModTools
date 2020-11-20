@@ -1411,3 +1411,8 @@
 2020-11-18 - Alex_Keaton - Timestamp
 2020-11-18 - Alex_Keaton - Timestamp unreadable
 2020-11-18 - USLBot - PERM-BANNED
+2020-11-19 - Alex_Keaton - Missing prices
+2020-11-19 - Alex_Keaton - Timestamp
+2020-11-19 - Alex_Keaton - Timestamp
+2020-11-19 - Alex_Keaton - Review the Rules
+2020-11-19 - Alex_Keaton - Timestamp
