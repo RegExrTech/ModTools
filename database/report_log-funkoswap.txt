@@ -1419,3 +1419,4 @@
 2020-11-20 - Alex_Keaton - Timestamp unreadable
 2020-11-20 - Alex_Keaton - 30 Day Limit
 2020-11-20 - FreddySwapBot - Timestamp out of date
+2020-11-21 - Alex_Keaton - Missing prices
