@@ -1420,3 +1420,5 @@
 2020-11-20 - Alex_Keaton - 30 Day Limit
 2020-11-20 - FreddySwapBot - Timestamp out of date
 2020-11-21 - Alex_Keaton - Missing prices
+2020-11-22 - Alex_Keaton - Timestamp
+2020-11-22 - Alex_Keaton - Timestamp
