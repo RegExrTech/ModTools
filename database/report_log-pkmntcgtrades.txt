@@ -111,3 +111,6 @@
 2020-11-18 - Arcashine - PERM-BANNED
 2020-11-18 - Arcashine - PERM-BANNED
 2020-11-22 - RegExr - All items for sale must include a price
+2020-11-25 - RegExr - Keep Trade Offers in Comments
+2020-11-25 - RegExr - Keep Trade Offers in Comments
+2020-11-25 - RegExr - All items for sale must include a price
