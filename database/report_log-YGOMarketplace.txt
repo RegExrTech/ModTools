@@ -277,3 +277,5 @@
 2020-11-23 - mairin2009 - Advertising, Unrelated Links, Feedback from other 
 2020-11-24 - RegExr - PERM-BANNED
 2020-11-25 - a_w_e_s_o_m_e - Timestamps
+2020-11-26 - RegExr - Payments
+2020-11-26 - RegExr - PERM-BANNED
