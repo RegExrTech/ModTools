@@ -1434,3 +1434,7 @@
 2020-11-26 - Alex_Keaton - Timestamp
 2020-11-27 - Alex_Keaton - Timestamp
 2020-11-27 - Alex_Keaton - Timestamp unreadable
+2020-11-28 - Alex_Keaton - Missing prices
+2020-11-28 - Alex_Keaton - Trading no photo
+2020-11-28 - Alex_Keaton - Review the Rules
+2020-11-28 - Alex_Keaton - Trading no photo
