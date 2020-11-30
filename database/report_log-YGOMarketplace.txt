@@ -279,3 +279,5 @@
 2020-11-25 - a_w_e_s_o_m_e - Timestamps
 2020-11-26 - RegExr - Payments
 2020-11-26 - RegExr - PERM-BANNED
+2020-11-29 - mairin2009 - Rule Violations
+2020-11-29 - a_w_e_s_o_m_e - Timestamps
