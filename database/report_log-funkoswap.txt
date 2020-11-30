@@ -1438,3 +1438,10 @@
 2020-11-28 - Alex_Keaton - Trading no photo
 2020-11-28 - Alex_Keaton - Review the Rules
 2020-11-28 - Alex_Keaton - Trading no photo
+2020-11-29 - Petercartman89 - No more than Cost+Shipping for 1st month
+2020-11-29 - Alex_Keaton - Timestamp
+2020-11-29 - Petercartman89 - No more than Cost+Shipping for 1st month
+2020-11-29 - Petercartman89 - All BST must contain a price if asking for paypal.
+2020-11-29 - Petercartman89 - Picture w/ hand written Username and Date
+2020-11-29 - Alex_Keaton - Timestamp unreadable
+2020-11-29 - Alex_Keaton - Only Paypal
