@@ -1445,3 +1445,10 @@
 2020-11-29 - Petercartman89 - Picture w/ hand written Username and Date
 2020-11-29 - Alex_Keaton - Timestamp unreadable
 2020-11-29 - Alex_Keaton - Only Paypal
+2020-11-30 - Petercartman89 - Timestamp
+2020-11-30 - Alex_Keaton - Missing prices
+2020-11-30 - Alex_Keaton - Missing prices
+2020-11-30 - Alex_Keaton - Timestamp
+2020-11-30 - Alex_Keaton - Only Paypal
+2020-11-30 - Alex_Keaton - Missing prices
+2020-11-30 - Alex_Keaton - Timestamp
