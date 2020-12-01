@@ -260,3 +260,4 @@
 2020-11-22 - thegreatunitor - BANNED - 1 days.
 2020-11-27 - RegExr - PERM-BANNED
 2020-11-29 - FireAbyss - PERM-BANNED
+2020-11-30 - FireAbyss - List Requirements and Formatting
