@@ -114,3 +114,5 @@
 2020-11-25 - RegExr - Keep Trade Offers in Comments
 2020-11-25 - RegExr - Keep Trade Offers in Comments
 2020-11-25 - RegExr - All items for sale must include a price
+2020-12-01 - SageLikesPokemon - PERM-BANNED
+2020-12-01 - AutoModerator - Only PayPal as a form of payment
