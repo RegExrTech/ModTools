@@ -1452,3 +1452,12 @@
 2020-11-30 - Alex_Keaton - Only Paypal
 2020-11-30 - Alex_Keaton - Missing prices
 2020-11-30 - Alex_Keaton - Timestamp
+2020-12-01 - Alex_Keaton - Timestamp unreadable
+2020-12-01 - Alex_Keaton - Timestamp
+2020-12-01 - Alex_Keaton - Review the Rules
+2020-12-01 - Alex_Keaton - Timestamp
+2020-12-01 - Alex_Keaton - PERM-BANNED
+2020-12-01 - Alex_Keaton - Timestamp
+2020-12-01 - FreddySwapBot - Timestamp out of date
+2020-12-01 - Alex_Keaton - Timestamp
+2020-12-01 - Alex_Keaton - Timestamp
