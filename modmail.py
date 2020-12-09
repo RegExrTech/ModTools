@@ -36,7 +36,7 @@ bot_password = config['bot_password']
 days_between_posts = int(math.ceil(float(config['days_per_post'])))
 lock_post = config['lock_post'] == "True"
 seconds_between_posts = float(config['days_per_post']) * 24 * 60 * 60
-whitelisted_words = config['whitelisted_words'].split(',')
+whitelisted_words = [x.lower() for x in config['whitelisted_words'].split(',')]
 num_minutes_flair = float(config['minutes_no_flair'])
 imgur_freshness_days = float(config['imgur_freshness_days'])
 imgur_client = config['imgur_client']
@@ -115,7 +115,9 @@ def get_username_from_message(message):
 	user = ""
 	try:
 		user = message.user.name
-	except Exception as e:  #  Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
+	except Exception as e:
+		# Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
+		# Also, sometimes a message literally doesn't have a user attribute. See https://mod.reddit.com/mail/all/immhx
 		print("Error for Mod Mail Message: " + str(message))
 		print(str(e))
 		print("======================================================================")
@@ -169,7 +171,7 @@ def main(subreddit_name):
 		print("Unable to get list of moderators from " + subreddit_name + " with error: " + str(e))
 		return
 	# Remove all submissions with mod reports and send removal reasons. Return a dict of who handeled each report.
-	ids_to_mods = report.remove_reported_posts(sub, subreddit_name)
+	ids_to_mods = report.remove_reported_posts(sub, subreddit_name, lock_post)
 
 	# Check posts for various violations
 	frequency_fname = 'database/recent_posts-' + subreddit_name + '.txt'
@@ -191,7 +193,7 @@ def main(subreddit_name):
 		if author in mods:
 			continue
 
-		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username)
+		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username, lock_post)
 		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post)
 
 	if not debug:

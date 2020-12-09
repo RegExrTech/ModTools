@@ -26,13 +26,18 @@ def get_submission_text(item):
 		except:  # Comment
 			return "Comment: " + item.body
 
-def remove_post(item):
+def remove_post(item, lock_post):
 	try:
 		item.mod.remove()
 	except:
 		print("Unable to remove post.")
 		print(e)
 		return False
+	if lock_post:
+		try:
+			item.mod.lock()
+		except:
+			print("Unable to lock offender: " + str(item))
 	return True
 
 def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
@@ -53,7 +58,7 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 				time.sleep(3)
 	ids_to_mods[title].append(mod_name)
 
-def remove_reported_posts(sub, sub_name):
+def remove_reported_posts(sub, sub_name, lock_post):
 	ids_to_mods = defaultdict(lambda: [])
         for item in get_reports(sub, sub_name):
                 if not item.mod_reports:
@@ -69,7 +74,7 @@ def remove_reported_posts(sub, sub_name):
 		message += "\n\n---\n\nSubmission:\n\n" + submission_text
 		message +=  "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
 
-		if remove_post(item):
+		if remove_post(item, lock_post):
 			send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
 
 	return ids_to_mods

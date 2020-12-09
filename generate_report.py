@@ -1,11 +1,11 @@
 from datetime import datetime
 from collections import defaultdict
 
-cutoff_date = datetime.strptime("2020-10-09", "%Y-%m-%d")
+cutoff_date = datetime.strptime("2019-10-01", "%Y-%m-%d")
 #sub_name = "pkmntcgtrades"
 sub_name= 'funkoswap'
 sub_name = "Watchexchange"
-sub_name = "funkopop"
+#sub_name = "funkopop"
 report_file_name = "database/report_log-" + sub_name + ".txt"
 
 f = open(report_file_name, 'r')
@@ -23,6 +23,7 @@ for line in lines:
 	if date < cutoff_date:
 		continue
 
+	print(str(date) + " - " + mod + " - " + reason)
 	mods[mod] += 1
 	reasons[reason] += 1
 

@@ -71,14 +71,14 @@ def extract_imgur_urls(text):
 	match = re.compile("([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?")
 	return ["".join(x) for x in match.findall(text) if 'imgur' in x[0].lower()]
 
-def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username):
+def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username, lock_post):
 	text = submission.selftext
 	imgur_urls = list(set(extract_imgur_urls(text)))
 	if not imgur_urls:
 		return
 	newest_timestamp = [0]
 	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days, newest_timestamp) for url in imgur_urls]):
-		if report.remove_post(submission):
+		if report.remove_post(submission, lock_post):
 			upload_string = str(datetime.timedelta(seconds=submission.created_utc - newest_timestamp[0]))
 			upload_string = upload_string.replace(":", " hours, ", 1)
 			upload_string = upload_string.replace(":", " minutes, and ", 1)
@@ -145,11 +145,11 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 		if timestamp > last_timestamp:
 			frequency_database[author] = timestamp
 
-def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username):
+def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username, lock_post):
 	# Check for Imgur freshness
 	last_imgur_post_check_timestamp = get_last_reddit_post_time_for_imgur_check(subreddit_name, current_time)
 	if imgur_freshness_days > 0 and submission.created_utc > last_imgur_post_check_timestamp:
-		check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username)
+		check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddit_name, bot_username, lock_post)
 		update_last_reddit_post_time_for_imgur_check(subreddit_name, submission.created_utc)
 
 
