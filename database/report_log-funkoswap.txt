@@ -1483,3 +1483,5 @@
 2020-12-07 - Alex_Keaton - Review the Rules
 2020-12-07 - Alex_Keaton - Trading no photo
 2020-12-07 - Alex_Keaton - Missing prices
+2020-12-08 - Alex_Keaton - Review the Rules
+2020-12-08 - Petercartman89 - No more than Cost+Shipping for 1st month
