@@ -146,7 +146,7 @@ def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
 	removal_ids = user_infraction_db[user].keys()
 	removal_ids.sort()
 	replies = ["* " + user_infraction_db[user][removal_id] + " - https://mod.reddit.com/mail/all/" + removal_id for removal_id in removal_ids]
-	removing_mod_text = "This submission was removed by u/" + removing_mod + "\n\n---\n\n"
+	removing_mod_text = "This action was performed by u/" + removing_mod + "\n\n---\n\n"
 	return removing_mod_text + "History of u/" + user + " on r/" + subreddit_name + ":\n\n" + "\n\n".join(replies)
 
 def send_reply(message, reply):
