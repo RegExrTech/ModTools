@@ -141,12 +141,13 @@ def get_removing_mod(ids_to_mods, infraction, mod_conv):
 		return mod_conv.authors[-1].name
 
 
-def get_summary_text(user_infraction_db, user, subreddit_name):
+def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
 	replies = []
 	removal_ids = user_infraction_db[user].keys()
 	removal_ids.sort()
 	replies = ["* " + user_infraction_db[user][removal_id] + " - https://mod.reddit.com/mail/all/" + removal_id for removal_id in removal_ids]
-	return "History of u/" + user + " on r/" + subreddit_name + ":\n\n" + "\n\n".join(replies)
+	removing_mod_text = "This submission was removed by u/" + removing_mod + "\n\n---\n\n"
+	return removing_mod_text + "History of u/" + user + " on r/" + subreddit_name + ":\n\n" + "\n\n".join(replies)
 
 def send_reply(message, reply):
 	if not debug:
@@ -162,7 +163,10 @@ def main(subreddit_name):
 	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='UserAgent', username=bot_username, password=bot_password)
 	sub = reddit.subreddit(subreddit_name)
 	if imgur_client and imgur_secret:
-		imgur = ImgurClient(imgur_client, imgur_secret)
+		try:
+			imgur = ImgurClient(imgur_client, imgur_secret)
+		except:
+			imgur = None
 	else:
 		imgur = None
 	try:
@@ -246,7 +250,7 @@ def main(subreddit_name):
 			save_report_data(removing_mod, infraction, subreddit_name)
 
 			# Handle replying to the message with our private summary
-			reply = get_summary_text(user_infraction_db, user, subreddit_name)
+			reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
 			send_reply(message, reply)
 
 			# Write off some info to the logs
