@@ -7799,3 +7799,5 @@
 2020-12-11 - kali546 - Duplicate Post
 2020-12-11 - Petercartman89 - BANNED - 3 days.
 2020-12-11 - RegExr - No posts that belong in megathreads or are answere
+2020-12-11 - RegExr - No Customer Service Questions
+2020-12-11 - FunkoUniverse - No Self Promotion out of specific posts
