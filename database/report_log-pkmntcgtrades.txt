@@ -127,3 +127,4 @@
 2020-12-12 - AutoModerator - Only PayPal as a form of payment
 2020-12-13 - RegExr - Timestamps required for items over $50
 2020-12-14 - RegExr - All items for sale must include a price
+2020-12-16 - RegExr - All items for sale must include a price
