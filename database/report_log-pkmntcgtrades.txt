@@ -144,3 +144,4 @@
 2020-12-17 - RegExr - All items for sale must include a price
 2020-12-18 - RegExr - All items for sale must include a price
 2020-12-18 - RegExr - All items for sale must include a price
+2020-12-21 - Arcashine - PERM-BANNED
