@@ -1516,3 +1516,6 @@
 2020-12-19 - Alex_Keaton - Review the Rules
 2020-12-20 - Alex_Keaton - Timestamp out of date
 2020-12-21 - Alex_Keaton - Missing prices
+2020-12-22 - Alex_Keaton - Timestamp unreadable
+2020-12-22 - FreddySwapBot - Timestamp out of date
+2020-12-22 - Petercartman89 - Timestamp
