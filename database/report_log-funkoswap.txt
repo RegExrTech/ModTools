@@ -1519,3 +1519,5 @@
 2020-12-22 - Alex_Keaton - Timestamp unreadable
 2020-12-22 - FreddySwapBot - Timestamp out of date
 2020-12-22 - Petercartman89 - Timestamp
+2020-12-23 - Alex_Keaton - Missing prices
+2020-12-23 - Alex_Keaton - PERM-BANNED
