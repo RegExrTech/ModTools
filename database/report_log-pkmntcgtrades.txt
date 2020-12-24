@@ -145,3 +145,5 @@
 2020-12-18 - RegExr - All items for sale must include a price
 2020-12-18 - RegExr - All items for sale must include a price
 2020-12-21 - Arcashine - PERM-BANNED
+2020-12-23 - AutoModerator - Only PayPal as a form of payment
+2020-12-23 - Arcashine - PERM-BANNED
