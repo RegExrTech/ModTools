@@ -1524,3 +1524,9 @@
 2020-12-24 - Alex_Keaton - Timestamp
 2020-12-24 - Alex_Keaton - Timestamp
 2020-12-25 - Alex_Keaton - Timestamp
+2020-12-27 - Alex_Keaton - BANNED - 30 days.
+2020-12-27 - Alex_Keaton - PERM-BANNED
+2020-12-27 - Alex_Keaton - Missing prices
+2020-12-27 - Alex_Keaton - Timestamp
+2020-12-27 - Alex_Keaton - BANNED - 999 days.
+2020-12-27 - RegExr - Picture w/ hand written Username and Date
