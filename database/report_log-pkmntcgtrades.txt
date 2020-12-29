@@ -150,3 +150,7 @@
 2020-12-24 - AutoModerator - Only PayPal as a form of payment
 2020-12-24 - RegExr - All items for sale must include a price
 2020-12-26 - RegExr - All items for sale must include a price
+2020-12-28 - AutoModerator - Only PayPal as a form of payment
+2020-12-28 - RegExr - All items for sale must include a price
+2020-12-28 - RegExr - All items for sale must include a price
+2020-12-28 - RegExr - All items for sale must include a price
