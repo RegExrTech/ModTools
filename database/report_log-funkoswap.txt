@@ -1532,3 +1532,6 @@
 2020-12-27 - RegExr - Picture w/ hand written Username and Date
 2020-12-28 - USLBot - PERM-BANNED
 2020-12-28 - Alex_Keaton - Timestamp
+2020-12-29 - RegExr - Only Paypal
+2020-12-29 - Alex_Keaton - Timestamp unreadable
+2020-12-29 - Alex_Keaton - Timestamp unreadable
