@@ -1535,3 +1535,7 @@
 2020-12-29 - RegExr - Only Paypal
 2020-12-29 - Alex_Keaton - Timestamp unreadable
 2020-12-29 - Alex_Keaton - Timestamp unreadable
+2020-12-30 - USLBot - PERM-BANNED
+2020-12-30 - Petercartman89 - Timestamp unreadable
+2020-12-30 - Alex_Keaton - Timestamp unreadable
+2020-12-30 - Petercartman89 - No more than Cost+Shipping for 1st month
