@@ -1539,3 +1539,9 @@
 2020-12-30 - Petercartman89 - Timestamp unreadable
 2020-12-30 - Alex_Keaton - Timestamp unreadable
 2020-12-30 - Petercartman89 - No more than Cost+Shipping for 1st month
+2020-12-31 - Alex_Keaton - Timestamp
+2020-12-31 - Alex_Keaton - Timestamp
+2020-12-31 - Petercartman89 - Timestamp does not match username
+2020-12-31 - Alex_Keaton - Timestamp unreadable
+2020-12-31 - Alex_Keaton - Timestamp
+2020-12-31 - Alex_Keaton - Missing prices
