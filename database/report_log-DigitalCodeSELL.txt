@@ -384,3 +384,5 @@
 2020-12-29 - thegreatunitor - Proper Transaction Etiquette
 2020-12-29 - thegreatunitor - No Trading, Instawatch, Screenpass, Sale of Accoun
 2020-12-30 - Mafnas22 - List Requirements and Formatting
+2020-12-31 - RegExr - PERM-BANNED
+2020-12-31 - Mafnas22 - List Requirements and Formatting
