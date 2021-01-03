@@ -1547,3 +1547,5 @@
 2020-12-31 - Alex_Keaton - Missing prices
 2021-01-01 - Alex_Keaton - Missing prices
 2021-01-01 - Alex_Keaton - Timestamp
+2021-01-02 - Alex_Keaton - Trading no photo
+2021-01-02 - Alex_Keaton - Timestamp unreadable
