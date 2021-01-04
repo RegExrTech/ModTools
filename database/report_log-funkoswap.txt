@@ -1549,3 +1549,9 @@
 2021-01-01 - Alex_Keaton - Timestamp
 2021-01-02 - Alex_Keaton - Trading no photo
 2021-01-02 - Alex_Keaton - Timestamp unreadable
+2021-01-03 - Alex_Keaton - Missing prices
+2021-01-03 - Alex_Keaton - Missing prices
+2021-01-03 - Alex_Keaton - Only Paypal
+2021-01-03 - Alex_Keaton - Timestamp
+2021-01-03 - Alex_Keaton - Timestamp
+2021-01-03 - Alex_Keaton - 30 Day Limit
