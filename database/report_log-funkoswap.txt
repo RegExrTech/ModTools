@@ -1557,3 +1557,9 @@
 2021-01-03 - Alex_Keaton - 30 Day Limit
 2021-01-04 - Alex_Keaton - Review the Rules
 2021-01-04 - Petercartman89 - Timestamp
+2021-01-05 - Alex_Keaton - Timestamp out of date
+2021-01-05 - Alex_Keaton - Timestamp
+2021-01-05 - Alex_Keaton - Missing prices
+2021-01-05 - FreddySwapBot - Timestamp out of date
+2021-01-05 - Petercartman89 - 30 Day Limit
+2021-01-05 - Petercartman89 - Timestamp
