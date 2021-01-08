@@ -1568,3 +1568,6 @@
 2021-01-06 - Petercartman89 - Missing prices
 2021-01-06 - Alex_Keaton - Timestamp unreadable
 2021-01-06 - Alex_Keaton - Trading no photo
+2021-01-07 - Petercartman89 - Picture w/ hand written Username and Date
+2021-01-07 - Petercartman89 - 30 Day Limit
+2021-01-07 - Petercartman89 - Timestamp
