@@ -170,3 +170,7 @@
 2021-01-08 - RegExr - All items for sale must include a price
 2021-01-08 - RegExr - All items for sale must include a price
 2021-01-09 - RegExr - All items for sale must include a price
+2021-01-10 - AutoModerator - Only PayPal as a form of payment
+2021-01-10 - AutoModerator - Only PayPal as a form of payment
+2021-01-10 - RegExr - All items for sale must include a price
+2021-01-10 - RegExr - Timestamps required for items over $50
