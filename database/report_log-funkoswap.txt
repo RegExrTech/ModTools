@@ -1577,3 +1577,9 @@
 2021-01-09 - Alex_Keaton - Timestamp
 2021-01-10 - Alex_Keaton - Timestamp unreadable
 2021-01-10 - Petercartman89 - Must list all items you are selling
+2021-01-11 - DrShadyTree - Review the Rules
+2021-01-11 - DrShadyTree - Timestamp
+2021-01-11 - DrShadyTree - Review the Rules
+2021-01-11 - Alex_Keaton - Timestamp
+2021-01-11 - FreddySwapBot - Timestamp out of date
+2021-01-11 - Alex_Keaton - Timestamp
