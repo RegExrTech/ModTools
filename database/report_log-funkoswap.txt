@@ -1587,3 +1587,5 @@
 2021-01-12 - Alex_Keaton - Timestamp
 2021-01-13 - Alex_Keaton - Timestamp
 2021-01-13 - Alex_Keaton - Timestamp
+2021-01-14 - Petercartman89 - Missing prices
+2021-01-14 - Alex_Keaton - Timestamp unreadable
