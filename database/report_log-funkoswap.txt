@@ -1589,3 +1589,6 @@
 2021-01-13 - Alex_Keaton - Timestamp
 2021-01-14 - Petercartman89 - Missing prices
 2021-01-14 - Alex_Keaton - Timestamp unreadable
+2021-01-15 - Petercartman89 - Timestamp
+2021-01-15 - Petercartman89 - Missing prices
+2021-01-15 - Alex_Keaton - Only Paypal
