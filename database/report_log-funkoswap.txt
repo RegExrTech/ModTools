@@ -1595,3 +1595,8 @@
 2021-01-17 - FreddySwapBot - Timestamp out of date
 2021-01-17 - Alex_Keaton - Timestamp
 2021-01-18 - Petercartman89 - If selling multiples all pops must be in timestamp
+2021-01-19 - DrShadyTree - Only Paypal
+2021-01-19 - USLBot - PERM-BANNED
+2021-01-19 - Petercartman89 - Timestamp
+2021-01-19 - Petercartman89 - Timestamp
+2021-01-19 - FreddySwapBot - Timestamp out of date
