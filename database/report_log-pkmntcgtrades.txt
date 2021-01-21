@@ -190,3 +190,4 @@
 2021-01-17 - DRAZZILB1424 - Timestamps required for items over $50
 2021-01-17 - AutoModerator - Only PayPal as a form of payment
 2021-01-18 - DRAZZILB1424 - Timestamps required for items over $50
+2021-01-20 - Lightning00 - Timestamps required for items over $50
