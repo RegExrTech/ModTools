@@ -1600,3 +1600,8 @@
 2021-01-19 - Petercartman89 - Timestamp
 2021-01-19 - Petercartman89 - Timestamp
 2021-01-19 - FreddySwapBot - Timestamp out of date
+2021-01-21 - DrShadyTree - Review the Rules
+2021-01-21 - Petercartman89 - Timestamp
+2021-01-21 - Petercartman89 - Timestamp
+2021-01-21 - Petercartman89 - Timestamp
+2021-01-21 - RegExr - PERM-BANNED
