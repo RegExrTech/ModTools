@@ -192,3 +192,6 @@
 2021-01-18 - DRAZZILB1424 - Timestamps required for items over $50
 2021-01-20 - Lightning00 - Timestamps required for items over $50
 2021-01-21 - Lightning00 - Timestamps required for items over $50
+2021-01-22 - AutoModerator - Only PayPal as a form of payment
+2021-01-22 - ronsoman - Price policing
+2021-01-22 - PokeSwapBot - Do not spam or hijack other people
