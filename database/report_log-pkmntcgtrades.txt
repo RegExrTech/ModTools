@@ -195,3 +195,4 @@
 2021-01-22 - AutoModerator - Only PayPal as a form of payment
 2021-01-22 - ronsoman - Price policing
 2021-01-22 - PokeSwapBot - Do not spam or hijack other people
+2021-01-23 - RegExr - No eBay or other website links or references
