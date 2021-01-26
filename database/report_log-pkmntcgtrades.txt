@@ -197,3 +197,8 @@
 2021-01-22 - PokeSwapBot - Do not spam or hijack other people
 2021-01-23 - RegExr - No eBay or other website links or references
 2021-01-24 - AutoModerator - Only PayPal as a form of payment
+2021-01-25 - Lightning00 - Only Pokemon Cards or Money on your side
+2021-01-25 - Lightning00 - Timestamps required for items over $50
+2021-01-25 - Lightning00 - Timestamps required for items over $50
+2021-01-25 - Lightning00 - Timestamps required for items over $50
+2021-01-25 - Lightning00 - Timestamps required for items over $50
