@@ -205,3 +205,9 @@
 2021-01-27 - Lightning00 - No eBay or other website links or references
 2021-01-28 - Lightning00 - PERM-BANNED
 2021-01-28 - Arcashine - BANNED - 7 days.
+2021-01-29 - Lightning00 - Timestamps required for items over $50
+2021-01-29 - RegExr - All items for sale must include a price
+2021-01-29 - RegExr - Timestamps required for items over $50
+2021-01-29 - Lightning00 - Timestamps required for items over $50
+2021-01-29 - Lightning00 - Timestamps required for items over $50
+2021-01-29 - AutoModerator - Only PayPal as a form of payment
