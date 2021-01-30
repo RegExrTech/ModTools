@@ -1619,3 +1619,7 @@
 2021-01-28 - Alex_Keaton - Timestamp
 2021-01-28 - DrShadyTree - Timestamp
 2021-01-28 - Alex_Keaton - Timestamp
+2021-01-29 - Petercartman89 - Review the Rules
+2021-01-29 - FreddySwapBot - Timestamp out of date
+2021-01-29 - Petercartman89 - Title must follow the correct format
+2021-01-29 - Alex_Keaton - Only Paypal
