@@ -211,3 +211,5 @@
 2021-01-29 - Lightning00 - Timestamps required for items over $50
 2021-01-29 - Lightning00 - Timestamps required for items over $50
 2021-01-29 - AutoModerator - Only PayPal as a form of payment
+2021-01-30 - Lightning00 - Timestamps required for items over $50
+2021-01-30 - Lightning00 - Timestamps required for items over $50

@@ -7,3 +7,5 @@
 2021-01-29 - ksbot - Flair: Age
 2021-01-29 - RegExr - Timestamp
 2021-01-29 - dooms25 - PERM-BANNED
+2021-01-30 - dooms25 - Timestamp
+2021-01-30 - USLBot - PERM-BANNED
