@@ -1623,3 +1623,7 @@
 2021-01-29 - FreddySwapBot - Timestamp out of date
 2021-01-29 - Petercartman89 - Title must follow the correct format
 2021-01-29 - Alex_Keaton - Only Paypal
+2021-01-31 - USLBot - PERM-BANNED
+2021-01-31 - Alex_Keaton - Timestamp
+2021-01-31 - Petercartman89 - Picture w/ hand written Username and Date
+2021-01-31 - Alex_Keaton - Timestamp
