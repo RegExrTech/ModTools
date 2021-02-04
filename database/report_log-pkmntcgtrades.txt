@@ -215,3 +215,4 @@
 2021-01-30 - Lightning00 - Timestamps required for items over $50
 2021-01-31 - Lightning00 - Timestamps required for items over $50
 2021-02-02 - RegExr - All items for sale must include a price
+2021-02-03 - AutoModerator - Only PayPal as a form of payment
