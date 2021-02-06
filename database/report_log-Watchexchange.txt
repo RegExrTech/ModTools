@@ -1728,3 +1728,13 @@
 2021-02-04 - Pseudophryne - Timestamp
 2021-02-04 - WatchExBot - It
 2021-02-04 - USLBot - PERM-BANNED
+2021-02-05 - Pseudophryne - Price and/or trade value required
+2021-02-05 - WatchExBot - It
+2021-02-05 - Pseudophryne - Timestamp
+2021-02-05 - Pseudophryne - BANNED - 7 days.
+2021-02-05 - Pseudophryne - PERM-BANNED
+2021-02-05 - zeroair - Timestamp
+2021-02-05 - zeroair - Reposts are allowed after 7 days
+2021-02-05 - zeroair - BANNED - 7 days.
+2021-02-05 - zeroair - Timestamp
+2021-02-05 - zeroair - Price related comments
