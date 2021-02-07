@@ -220,3 +220,6 @@
 2021-02-05 - AutoModerator - Only PayPal as a form of payment
 2021-02-05 - AutoModerator - Only PayPal as a form of payment
 2021-02-05 - ronsoman - Timestamps required for items over $50
+2021-02-06 - AutoModerator - Only PayPal as a form of payment
+2021-02-06 - AutoModerator - Only PayPal as a form of payment
+2021-02-06 - AutoModerator - Only PayPal as a form of payment
