@@ -1653,3 +1653,4 @@
 2021-02-06 - Alex_Keaton - Timestamp unreadable
 2021-02-07 - USLBot - PERM-BANNED
 2021-02-07 - Alex_Keaton - Timestamp
+2021-02-08 - Petercartman89 - Missing prices
