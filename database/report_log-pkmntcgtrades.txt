@@ -227,3 +227,7 @@
 2021-02-07 - Lightning00 - Timestamps required for items over $50
 2021-02-08 - Lightning00 - Timestamps required for items over $50
 2021-02-09 - SageLikesPokemon - PERM-BANNED
+2021-02-10 - RegExr - Keep trade offers in the comments, and personal in
+2021-02-10 - RegExr - All items for sale must include a price
+2021-02-10 - RegExr - Only Pokemon Cards or Money on your side
+2021-02-10 - ronsoman - No eBay or other website links or references
