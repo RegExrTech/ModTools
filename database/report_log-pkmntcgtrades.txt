@@ -240,3 +240,4 @@
 2021-02-12 - RegExr - PERM-BANNED
 2021-02-13 - RegExr - Only PayPal as a form of payment
 2021-02-13 - RegExr - Timestamps required for items over $50
+2021-02-14 - AutoModerator - Only PayPal as a form of payment
