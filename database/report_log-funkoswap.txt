@@ -1673,3 +1673,6 @@
 2021-02-14 - Alex_Keaton - Review the Rules
 2021-02-14 - Alex_Keaton - Timestamp
 2021-02-14 - Alex_Keaton - Timestamp
+2021-02-15 - RegExr - Only Paypal
+2021-02-15 - DrShadyTree - Only Paypal
+2021-02-15 - Petercartman89 - Missing timestamp in 2nd and 3rd pictures
