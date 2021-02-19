@@ -1686,3 +1686,7 @@
 2021-02-17 - Petercartman89 - Timestamp out of date
 2021-02-17 - Petercartman89 - Timestamp
 2021-02-17 - DrShadyTree - Timestamp out of date
+2021-02-18 - Alex_Keaton - Only Paypal
+2021-02-18 - Alex_Keaton - Missing prices
+2021-02-18 - FreddySwapBot - Timestamp out of date
+2021-02-18 - Alex_Keaton - Trading no photo
