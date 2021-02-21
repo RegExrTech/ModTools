@@ -1691,3 +1691,7 @@
 2021-02-18 - FreddySwapBot - Timestamp out of date
 2021-02-18 - Alex_Keaton - Trading no photo
 2021-02-19 - DrShadyTree - Timestamp
+2021-02-20 - Petercartman89 - Title must follow the correct format
+2021-02-20 - Alex_Keaton - Timestamp
+2021-02-20 - Alex_Keaton - Timestamp
+2021-02-20 - FreddySwapBot - Timestamp out of date
