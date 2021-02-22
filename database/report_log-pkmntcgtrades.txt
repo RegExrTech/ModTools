@@ -252,3 +252,6 @@
 2021-02-20 - ronsoman - Threatening, harassing, or inciting violence
 2021-02-20 - ronsoman - Threatening, harassing, or inciting violence
 2021-02-20 - SageLikesPokemon - Only PayPal as a form of payment
+2021-02-21 - RegExr - Timestamps required for items over $50
+2021-02-21 - RegExr - Timestamps required for items over $50
+2021-02-21 - SageLikesPokemon - All items for sale must include a price
