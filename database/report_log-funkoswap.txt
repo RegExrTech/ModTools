@@ -1696,3 +1696,7 @@
 2021-02-20 - Alex_Keaton - Timestamp
 2021-02-20 - FreddySwapBot - Timestamp out of date
 2021-02-21 - DrShadyTree - Missing prices
+2021-02-22 - USLBot - PERM-BANNED
+2021-02-22 - Alex_Keaton - PERM-BANNED
+2021-02-22 - Alex_Keaton - Review the Rules
+2021-02-22 - Alex_Keaton - Timestamp
