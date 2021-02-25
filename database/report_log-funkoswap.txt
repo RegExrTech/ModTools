@@ -1707,3 +1707,6 @@
 2021-02-23 - Petercartman89 - Timestamp out of date
 2021-02-23 - DrShadyTree - Timestamp
 2021-02-23 - DrShadyTree - Review the Rules
+2021-02-24 - DrShadyTree - Missing prices
+2021-02-24 - Alex_Keaton - Timestamp
+2021-02-24 - ruemeridian - No prices
