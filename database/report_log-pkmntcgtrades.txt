@@ -261,3 +261,5 @@
 2021-02-24 - AutoModerator - Only PayPal as a form of payment
 2021-02-24 - RegExr - Timestamps required for items over $50
 2021-02-24 - Lightning00 - All items for sale must include a price
+2021-02-25 - RegExr - All items for sale must include a price
+2021-02-25 - ronsoman - No eBay or other website links or references
