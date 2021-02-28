@@ -1712,3 +1712,6 @@
 2021-02-24 - ruemeridian - No prices
 2021-02-25 - Alex_Keaton - Timestamp
 2021-02-25 - Alex_Keaton - Timestamp
+2021-02-27 - Alex_Keaton - Missing prices
+2021-02-27 - Alex_Keaton - Timestamp
+2021-02-27 - Alex_Keaton - Timestamp
