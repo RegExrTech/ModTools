@@ -267,3 +267,6 @@
 2021-02-26 - RegExr - All items for sale must include a price
 2021-02-27 - AutoModerator - Only PayPal as a form of payment
 2021-02-27 - AutoModerator - Only PayPal as a form of payment
+2021-02-28 - RegExr - Timestamps required for items over $50
+2021-02-28 - RegExr - Timestamps required for items over $50
+2021-02-28 - AutoModerator - Only PayPal as a form of payment
