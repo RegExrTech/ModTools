@@ -1734,3 +1734,6 @@
 2021-03-06 - Alex_Keaton - Timestamp
 2021-03-06 - Alex_Keaton - Missing prices
 2021-03-06 - Alex_Keaton - Trading no photo
+2021-03-07 - Alex_Keaton - Timestamp
+2021-03-07 - Alex_Keaton - Only Paypal
+2021-03-07 - Alex_Keaton - Timestamp
