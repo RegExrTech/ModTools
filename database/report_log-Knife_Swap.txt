@@ -97,3 +97,7 @@
 2021-03-10 - maugust09 - Timestamp
 2021-03-10 - merkon - Timestamp
 2021-03-10 - merkon - BANNED - 3 days.
+2021-03-11 - merkon - BANNED - 1 days.
+2021-03-11 - merkon - PERM-BANNED
+2021-03-11 - merkon - Flair
+2021-03-11 - merkon - BANNED - 1 days.
