@@ -283,3 +283,4 @@
 2021-03-09 - AutoModerator - Only PayPal as a form of payment
 2021-03-09 - RegExr - Timestamps required for items over $50
 2021-03-11 - Lightning00 - Timestamps required for items over $50
+2021-03-12 - AutoModerator - Only PayPal as a form of payment
