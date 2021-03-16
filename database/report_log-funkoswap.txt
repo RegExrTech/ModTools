@@ -1778,3 +1778,5 @@
 2021-03-14 - Alex_Keaton - Timestamp
 2021-03-14 - Alex_Keaton - Timestamp
 2021-03-14 - Alex_Keaton - BANNED - 30 days.
+2021-03-15 - Alex_Keaton - Missing prices
+2021-03-15 - Petercartman89 - Timestamp
