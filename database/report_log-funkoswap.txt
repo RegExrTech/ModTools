@@ -1780,3 +1780,6 @@
 2021-03-14 - Alex_Keaton - BANNED - 30 days.
 2021-03-15 - Alex_Keaton - Missing prices
 2021-03-15 - Petercartman89 - Timestamp
+2021-03-16 - FreddySwapBot - Timestamp out of date
+2021-03-16 - Petercartman89 - Timestamp
+2021-03-16 - Alex_Keaton - PERM-BANNED
