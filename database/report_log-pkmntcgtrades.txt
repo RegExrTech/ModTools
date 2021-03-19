@@ -287,3 +287,4 @@
 2021-03-15 - Lightning00 - All items for sale must include a price
 2021-03-17 - AutoModerator - Only PayPal as a form of payment
 2021-03-17 - Lightning00 - No eBay or other website links or references
+2021-03-18 - RegExr - Timestamps required for items over $50
