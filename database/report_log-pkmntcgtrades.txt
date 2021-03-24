@@ -292,3 +292,4 @@
 2021-03-20 - AutoModerator - Only PayPal as a form of payment
 2021-03-20 - Lightning00 - Timestamps required for items over $50
 2021-03-21 - AutoModerator - Only PayPal as a form of payment
+2021-03-23 - Lightning00 - All items for sale must include a price
