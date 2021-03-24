@@ -129,7 +129,7 @@ def build_removal_reason_text(reddit, message, subject):
 		if len(infraction) > 50:
 			infraction = "Mod Tool Box Removal"
 	else:
-		infraction = "'".join(message.messages[0].body_markdown.split("'")[1:)]
+		infraction = "'".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])[:-1]
 	return infraction
 
 def get_removing_mod(ids_to_mods, infraction, mod_conv):
@@ -205,7 +205,11 @@ def main(subreddit_name):
 
 	# Begin handling modmail related actions
 	infractions_fname = 'database/userbans-' + subreddit_name + '.json'
-	user_infraction_db = get_db(infractions_fname)
+	try:
+		user_infraction_db = get_db(infractions_fname)
+	except:
+		print("Unable to load database for " + infractions_fname)
+		return
 	queries = get_mod_mail_messages(sub, num_messages)
 
 	for query in queries:
