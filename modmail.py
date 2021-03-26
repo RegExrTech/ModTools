@@ -129,7 +129,7 @@ def build_removal_reason_text(reddit, message, subject):
 		if len(infraction) > 50:
 			infraction = "Mod Tool Box Removal"
 	else:
-		infraction = "'".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])[:-1]
+		infraction = "".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])
 	return infraction
 
 def get_removing_mod(ids_to_mods, infraction, mod_conv):
