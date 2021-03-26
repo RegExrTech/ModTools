@@ -3,6 +3,12 @@ from collections import defaultdict
 
 debug = False
 
+def decode(text):
+        try:
+                return text.encode('utf-8').decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+        except:
+                return text.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+
 def get_reports(sub, sub_name):
 	try:
 		return sub.mod.reports()
@@ -75,6 +81,7 @@ def remove_reported_posts(sub, sub_name, lock_post):
 
 		message += "\n\n---\n\nSubmission:\n\n" + submission_text
 		message +=  "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
+		message = decode(message)
 
 		if remove_post(item, lock_post):
 			send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
