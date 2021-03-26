@@ -1812,3 +1812,4 @@
 2021-03-23 - Alex_Keaton - Flipping
 2021-03-24 - Alex_Keaton - Flipping
 2021-03-24 - Alex_Keaton - BANNED - 7 days.
+2021-03-25 - Petercartman89 - All BST must contain a price if asking for paypal.
