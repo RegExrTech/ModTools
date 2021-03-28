@@ -49,6 +49,7 @@ def remove_post(item, lock_post):
 def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 	title = title[:50]
 	removal_reason_sent = False
+	message = message[:8096]  # Reddit has a hard limit of 8096 characters for messages, so ensure we cap it here.
 	for i in range(3):  # Take three attempts at sending removal reason
 		if removal_reason_sent:
 			break
@@ -64,6 +65,9 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 				time.sleep(3)
 	ids_to_mods[title].append(mod_name)
 
+def truncate_text(text, limit):
+	return text[:limit] + "\n\nTruncated..."
+
 def remove_reported_posts(sub, sub_name, lock_post):
 	ids_to_mods = defaultdict(lambda: [])
         for item in get_reports(sub, sub_name):
@@ -78,6 +82,7 @@ def remove_reported_posts(sub, sub_name, lock_post):
 		title = report_reason
 		message = get_rule_text(report_reason, sub)
 		submission_text = get_submission_text(item)
+		submission_text = truncate_text(submission_text, 7800)
 
 		message += "\n\n---\n\nSubmission:\n\n" + submission_text
 		message +=  "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
