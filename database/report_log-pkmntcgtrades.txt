@@ -300,3 +300,5 @@
 2021-03-26 - Lightning00 - All items for sale must include a price
 2021-03-26 - Lightning00 - Timestamps required for items over $50
 2021-03-27 - AutoModerator - Only PayPal as a form of payment
+2021-03-28 - RegExr - All items for sale must include a price
+2021-03-28 - Lightning00 - All items for sale must include a price
