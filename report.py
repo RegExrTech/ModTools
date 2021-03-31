@@ -66,7 +66,9 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 	ids_to_mods[title].append(mod_name)
 
 def truncate_text(text, limit):
-	return text[:limit] + "\n\nTruncated..."
+	if len(text) >= limit:
+		return text[:limit] + "\n\nTruncated..."
+	return text
 
 def remove_reported_posts(sub, sub_name, lock_post):
 	ids_to_mods = defaultdict(lambda: [])
