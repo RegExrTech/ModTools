@@ -1824,3 +1824,9 @@
 2021-03-29 - DrShadyTree - Missing prices
 2021-03-29 - Petercartman89 - Timestamp unreadable
 2021-03-29 - Alex_Keaton - Review the Rules
+2021-03-30 - Alex_Keaton - Timestamp
+2021-03-30 - FreddySwapBot - Timestamp out of date
+2021-03-30 - USLBot - PERM-BANNED
+2021-03-30 - Alex_Keaton - Trading no photo
+2021-03-30 - Alex_Keaton - Missing prices
+2021-03-30 - Alex_Keaton - Missing prices
