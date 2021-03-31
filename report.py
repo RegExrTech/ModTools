@@ -1,4 +1,5 @@
 import time
+import praw
 from collections import defaultdict
 
 debug = False
@@ -24,13 +25,13 @@ def get_rule_text(report_reason, sub):
 	return "\n\nYour post has been removed."
 
 def get_submission_text(item):
-	try:  # Text post
-		return "Title: " + item.title + "\n\nBody: " + item.selftext
-	except:
-		try:  # Link Post
+	if isinstance(item, praw.models.Submission):
+		if item.is_self:  # Text Post
+			return "Title: " + item.title + "\n\nBody: " + item.selftext
+		else:  # Link post
 			return "Title: " + item.title + "\n\nLink: " + item.url
-		except:  # Comment
-			return "Comment: " + item.body
+	else:  # Comment
+		return "Comment: " + item.body
 
 def remove_post(item, lock_post):
 	try:
@@ -86,8 +87,8 @@ def remove_reported_posts(sub, sub_name, lock_post):
 		submission_text = get_submission_text(item)
 		submission_text = truncate_text(submission_text, 7800)
 
-		message += "\n\n---\n\nSubmission:\n\n" + submission_text
-		message +=  "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
+		message += "\n\n---\n\n" + submission_text
+		message += "\n\n---\n\nIf you have any questions or can make changes to your post that would allow it to be approved, please reply to this message.\n\n---\n\n"
 		message = decode(message)
 
 		if remove_post(item, lock_post):
