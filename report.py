@@ -25,7 +25,9 @@ def get_rule_text(report_reason, sub):
 	return "\n\nYour post has been removed."
 
 def get_submission_text(item):
-	if isinstance(item, praw.models.Submission):
+	if "poll_data" in dir(item):  # Submission Post
+		return "Title: " + item.title + "\n\nBody: " + item.selftext + "\n\nPoll Options: \n\n* " + "\n\n* ".join([option['text'] for option in item.poll_data['options']])
+	elif isinstance(item, praw.models.Submission):
 		if item.is_self:  # Text Post
 			return "Title: " + item.title + "\n\nBody: " + item.selftext
 		else:  # Link post
