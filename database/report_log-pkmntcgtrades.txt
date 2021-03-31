@@ -304,3 +304,4 @@
 2021-03-28 - Lightning00 - All items for sale must include a price
 2021-03-29 - RegExr - BANNED - 7 days.
 2021-03-29 - RegExr - Only Pokemon Cards or Money on your side
+2021-03-30 - AutoModerator - Only PayPal as a form of payment
