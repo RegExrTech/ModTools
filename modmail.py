@@ -160,7 +160,7 @@ def send_reply(message, reply):
 
 
 def main(subreddit_name):
-	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='UserAgent', username=bot_username, password=bot_password)
+	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Mod Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', username=bot_username, password=bot_password)
 	sub = reddit.subreddit(subreddit_name)
 	if imgur_client and imgur_secret:
 		try:

@@ -49,7 +49,7 @@ def dump(db, fname):
                 outfile.write(str(db).replace("'", '"').replace('{u"', '{"').replace(' u"', ' "').encode('ascii','ignore'))
 
 def main():
-	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='UserAgent', username=bot_username, password=bot_password)
+	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Post Logging Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', username=bot_username, password=bot_password)
 	sub = reddit.subreddit(subreddit_name)
 	db = get_db(db_fname)
 	if subreddit_name not in db:
