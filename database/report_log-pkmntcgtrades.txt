@@ -308,3 +308,5 @@
 2021-03-31 - Lightning00 - All items for sale must include a price
 2021-03-31 - Lightning00 - BANNED - 30 days.
 2021-03-31 - RegExr - All items for sale must include a price
+2021-04-02 - RegExr - PERM-BANNED
+2021-04-02 - Lightning00 - Only PayPal as a form of payment
