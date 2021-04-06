@@ -1846,3 +1846,7 @@
 2021-04-03 - Alex_Keaton - Timestamp
 2021-04-04 - Alex_Keaton - Trading no photo
 2021-04-04 - Petercartman89 - Timestamp unreadable
+2021-04-05 - FreddySwapBot - Timestamp out of date
+2021-04-05 - FreddySwapBot - Timestamp out of date
+2021-04-05 - Petercartman89 - Timestamp does not match username
+2021-04-05 - Petercartman89 - Timestamp is unreadable
