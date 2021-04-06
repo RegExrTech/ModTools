@@ -154,3 +154,5 @@
 2021-04-04 - maugust09 - Timestamp
 2021-04-04 - merkon - PERM-BANNED
 2021-04-04 - maugust09 - Paypal Goods and Services
+2021-04-05 - maugust09 - Cost of Shipping
+2021-04-05 - maugust09 - Post Formatting
