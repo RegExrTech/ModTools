@@ -133,8 +133,11 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			reply_text = "This post has been removed because you have made more than one post in " + time_string + ".  "
 			reply_text += "You can make another post in " + delta_string + ". "
 			reply_text += "Please message the mods if you have any questions."
-			reply = submission.reply(reply_text)
-			reply.mod.distinguish(sticky=True)
+			try:
+				reply = submission.reply(reply_text)
+				reply.mod.distinguish(sticky=True)
+			except:
+				print("Unable to reply to post: redd.it/" + (submission.id))
 
 			# Lock post
 			if lock_post:
