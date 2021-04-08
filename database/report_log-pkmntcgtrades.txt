@@ -315,3 +315,4 @@
 2021-04-06 - AutoModerator - Only PayPal as a form of payment
 2021-04-06 - AutoModerator - Only PayPal as a form of payment
 2021-04-07 - AutoModerator - Only PayPal as a form of payment
+2021-04-07 - Lightning00 - Timestamps required for items over $50
