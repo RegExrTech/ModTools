@@ -1866,3 +1866,9 @@
 2021-04-08 - Alex_Keaton - BANNED - 7 days.
 2021-04-08 - Alex_Keaton - Timestamp
 2021-04-08 - FreddySwapBot - Timestamp out of date
+2021-04-09 - Alex_Keaton - Timestamp unreadable
+2021-04-09 - Alex_Keaton - Timestamp
+2021-04-09 - Alex_Keaton - Missing prices
+2021-04-09 - Alex_Keaton - Timestamp
+2021-04-09 - Alex_Keaton - Timestamp
+2021-04-09 - Alex_Keaton - Timestamp
