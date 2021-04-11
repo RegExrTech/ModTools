@@ -321,3 +321,6 @@
 2021-04-09 - Lightning00 - Remove the requesting for F&F payment
 2021-04-09 - Lightning00 - Cannot request/ask for F&F payment unless 25 feedb
 2021-04-09 - Lightning00 - Need prices on $50+ and timestamp
+2021-04-10 - Lightning00 - Timestamps required for items over $50
+2021-04-10 - Lightning00 - Timestamps required for items over $50
+2021-04-10 - Lightning00 - Timestamps required for items over $50
