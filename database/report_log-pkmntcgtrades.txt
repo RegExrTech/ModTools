@@ -324,3 +324,6 @@
 2021-04-10 - Lightning00 - Timestamps required for items over $50
 2021-04-10 - Lightning00 - Timestamps required for items over $50
 2021-04-10 - Lightning00 - Timestamps required for items over $50
+2021-04-11 - Lightning00 - Timestamps required for items over $50
+2021-04-11 - Lightning00 - All items for sale must include a price
+2021-04-11 - RegExr - Timestamps required for items over $50
