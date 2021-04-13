@@ -1877,3 +1877,7 @@
 2021-04-10 - Alex_Keaton - Timestamp unreadable
 2021-04-10 - DrShadyTree - Timestamp
 2021-04-11 - DrShadyTree - Timestamp
+2021-04-12 - Petercartman89 - Missing prices
+2021-04-12 - Petercartman89 - Timestamp
+2021-04-12 - Petercartman89 - Must list each item if selling
+2021-04-12 - Alex_Keaton - Timestamp
