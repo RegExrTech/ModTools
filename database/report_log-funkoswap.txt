@@ -1881,3 +1881,11 @@
 2021-04-12 - Petercartman89 - Timestamp
 2021-04-12 - Petercartman89 - Must list each item if selling
 2021-04-12 - Alex_Keaton - Timestamp
+2021-04-13 - FreddySwapBot - Timestamp out of date
+2021-04-13 - Alex_Keaton - Missing prices
+2021-04-13 - Alex_Keaton - Trading no photo
+2021-04-13 - Alex_Keaton - Timestamp unreadable
+2021-04-13 - Alex_Keaton - Trading no photo
+2021-04-13 - Alex_Keaton - PERM-BANNED
+2021-04-13 - Alex_Keaton - PERM-BANNED
+2021-04-13 - Alex_Keaton - Timestamp
