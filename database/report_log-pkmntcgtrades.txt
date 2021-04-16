@@ -335,3 +335,4 @@
 2021-04-12 - RegExr - Timestamps required for items over $50
 2021-04-12 - RegExr - Keep trade offers in the comments, and personal in
 2021-04-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-04-15 - Lightning00 - Timestamp photo needed and price
