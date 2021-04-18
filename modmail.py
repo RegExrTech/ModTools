@@ -107,8 +107,11 @@ def build_infraction_text(message, subject, subreddit_name, reddit):
 		if 'You have been permanently banned from participating in' in message.messages[0].body_markdown:
 			infraction = "PERM-BANNED"
 		else:
-			days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
-			infraction = "CHANGED BAN - " + days_banned + " days."
+			try:
+				days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
+				infraction = "CHANGED BAN - " + days_banned + " days."
+			except:
+				infraction = "BANNED - Unknown amount of time."
 	return decode(infraction)
 
 def get_username_from_message(message):
