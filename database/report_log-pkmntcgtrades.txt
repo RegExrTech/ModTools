@@ -336,3 +336,7 @@
 2021-04-12 - RegExr - Keep trade offers in the comments, and personal in
 2021-04-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-04-15 - Lightning00 - Timestamp photo needed and price
+2021-04-17 - Lightning00 - Timestamps required for items over $50
+2021-04-17 - Lightning00 - Prices needed and timestamp
+2021-04-17 - AutoModerator - Only PayPal as a form of payment
+2021-04-17 - Lightning00 - Timestamp and price needed
