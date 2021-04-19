@@ -340,3 +340,4 @@
 2021-04-17 - Lightning00 - Prices needed and timestamp
 2021-04-17 - AutoModerator - Only PayPal as a form of payment
 2021-04-17 - Lightning00 - Timestamp and price needed
+2021-04-18 - Lightning00 - Only Pokemon Cards or Money on your side
