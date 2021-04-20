@@ -1904,3 +1904,5 @@
 2021-04-18 - DrShadyTree - Flipping
 2021-04-18 - Petercartman89 - Timestamp is unreadable
 2021-04-18 - Petercartman89 - BANNED - 3 days.
+2021-04-19 - Petercartman89 - Timestamp missing date
+2021-04-19 - DrShadyTree - Review the Rules
