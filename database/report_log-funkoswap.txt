@@ -1906,3 +1906,5 @@
 2021-04-18 - Petercartman89 - BANNED - 3 days.
 2021-04-19 - Petercartman89 - Timestamp missing date
 2021-04-19 - DrShadyTree - Review the Rules
+2021-04-20 - Petercartman89 - Timestamp
+2021-04-20 - FreddySwapBot - Timestamp out of date
