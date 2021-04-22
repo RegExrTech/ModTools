@@ -1,1 +1,1 @@
-{"cobnar": 1604021471.0, "restedup": 1603305170.0, "KingTropicanLeaderNA": 1616628375.0, "Araganz": 1606133657.0, "Automatic_Pop7018": 1616598071.0, "cybey": 1605258899.0}
+{"tcgtrends": 1619044552.0, "cobnar": 1604021471.0, "restedup": 1603305170.0, "KingTropicanLeaderNA": 1616628375.0, "Araganz": 1606133657.0, "Automatic_Pop7018": 1616598071.0, "cybey": 1605258899.0}

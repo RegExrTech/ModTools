@@ -1908,3 +1908,8 @@
 2021-04-19 - DrShadyTree - Review the Rules
 2021-04-20 - Petercartman89 - Timestamp
 2021-04-20 - FreddySwapBot - Timestamp out of date
+2021-04-21 - Petercartman89 - Timestamp unreadable
+2021-04-21 - Petercartman89 - Missing prices
+2021-04-21 - Petercartman89 - Timestamp
+2021-04-21 - Petercartman89 - Review the Rules
+2021-04-21 - DrShadyTree - Timestamp
