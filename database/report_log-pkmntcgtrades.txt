@@ -343,3 +343,4 @@
 2021-04-18 - Lightning00 - Only Pokemon Cards or Money on your side
 2021-04-21 - RegExr - All items for sale must include a price
 2021-04-21 - Lightning00 - Only PayPal as a form of payment
+2021-04-22 - Lightning00 - Timestamps required for items over $50
