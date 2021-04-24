@@ -1914,3 +1914,7 @@
 2021-04-21 - Petercartman89 - Review the Rules
 2021-04-21 - DrShadyTree - Timestamp
 2021-04-22 - RegExr - PERM-BANNED
+2021-04-23 - DrShadyTree - Timestamp
+2021-04-23 - DrShadyTree - Missing prices
+2021-04-23 - Alex_Keaton - Timestamp
+2021-04-23 - Alex_Keaton - Timestamp unreadable
