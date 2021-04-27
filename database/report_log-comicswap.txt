@@ -55,3 +55,5 @@
 2021-04-07 - RegExr - Weekly Limit and Additional Rules
 2021-04-07 - RegExr - Weekly Limit and Additional Rules
 2021-04-07 - RegExr - BANNED - 1 days.
+2021-04-26 - RegExr - Weekly Limit and Additional Rules
+2021-04-26 - USLBot - PERM-BANNED
