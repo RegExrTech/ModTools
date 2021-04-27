@@ -12,3 +12,4 @@
 2021-04-13 - RegExr - PERM-BANNED
 2021-04-22 - AutoModerator - Review the Rules
 2021-04-24 - AutoModerator - Review the Rules
+2021-04-26 - RegExr - PERM-BANNED

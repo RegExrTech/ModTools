@@ -346,3 +346,4 @@
 2021-04-22 - Lightning00 - Timestamps required for items over $50
 2021-04-23 - Lightning00 - All items for sale must include a price
 2021-04-25 - Lightning00 - Timestamps required for items over $50
+2021-04-26 - drewuptown - Timestamps required for items over $50
