@@ -347,3 +347,12 @@
 2021-04-23 - Lightning00 - All items for sale must include a price
 2021-04-25 - Lightning00 - Timestamps required for items over $50
 2021-04-26 - drewuptown - Timestamps required for items over $50
+2021-04-27 - Jas_Jass - All items for sale must include a price
+2021-04-27 - drewuptown - Keep trade offers in the comments, and personal in
+2021-04-27 - drewuptown - Keep trade offers in the comments, and personal in
+2021-04-27 - Jas_Jass - Timestamps required for items over $50
+2021-04-27 - drewuptown - Timestamps required for items over $50
+2021-04-27 - drewuptown - Review the rules
+2021-04-27 - drewuptown - Timestamps required for items over $50
+2021-04-27 - drewuptown - Timestamps required for items over $50
+2021-04-27 - C011ECT0R - Timestamps required for items over $50
