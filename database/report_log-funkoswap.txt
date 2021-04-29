@@ -1940,3 +1940,6 @@
 2021-04-27 - Alex_Keaton - Timestamp
 2021-04-27 - Alex_Keaton - Timestamp
 2021-04-27 - DrShadyTree - Missing prices
+2021-04-28 - Petercartman89 - PERM-BANNED
+2021-04-28 - DrShadyTree - Flipping
+2021-04-28 - Petercartman89 - Timestamp
