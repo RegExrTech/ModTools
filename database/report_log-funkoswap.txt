@@ -1943,3 +1943,8 @@
 2021-04-28 - Petercartman89 - PERM-BANNED
 2021-04-28 - DrShadyTree - Flipping
 2021-04-28 - Petercartman89 - Timestamp
+2021-04-29 - FreddySwapBot - Timestamp out of date
+2021-04-29 - DrShadyTree - Timestamp
+2021-04-29 - Alex_Keaton - Timestamp
+2021-04-29 - Alex_Keaton - Timestamp unreadable
+2021-04-29 - Alex_Keaton - Missing prices
