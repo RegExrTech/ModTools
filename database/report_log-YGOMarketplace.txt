@@ -501,3 +501,6 @@
 2021-04-30 - elbowteen - Timestamps
 2021-04-30 - elbowteen - Rule Violations
 2021-04-30 - elbowteen - Timestamps
+2021-05-01 - AutoModerator - Payments
+2021-05-01 - AutoModerator - Payments
+2021-05-01 - elbowteen - PERM-BANNED
