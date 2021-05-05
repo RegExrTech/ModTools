@@ -1964,3 +1964,9 @@
 2021-05-03 - Alex_Keaton - Trading no photo
 2021-05-03 - Alex_Keaton - Flipping
 2021-05-03 - Alex_Keaton - Flipping
+2021-05-04 - DrShadyTree - Timestamp
+2021-05-04 - DrShadyTree - Only Paypal
+2021-05-04 - Alex_Keaton - Only Paypal
+2021-05-04 - Alex_Keaton - Missing prices
+2021-05-04 - Alex_Keaton - Timestamp
+2021-05-04 - Alex_Keaton - Missing prices
