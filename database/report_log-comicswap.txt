@@ -57,3 +57,4 @@
 2021-04-07 - RegExr - BANNED - 1 days.
 2021-04-26 - RegExr - Weekly Limit and Additional Rules
 2021-04-26 - USLBot - PERM-BANNED
+2021-05-08 - rabidmonkeys - PERM-BANNED
