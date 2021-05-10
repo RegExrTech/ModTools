@@ -1976,3 +1976,6 @@
 2021-05-08 - Alex_Keaton - Timestamp
 2021-05-08 - Alex_Keaton - Timestamp
 2021-05-08 - Alex_Keaton - Flipping
+2021-05-09 - DrShadyTree - Flipping
+2021-05-09 - Alex_Keaton - Timestamp out of date
+2021-05-09 - Alex_Keaton - Trading no photo
