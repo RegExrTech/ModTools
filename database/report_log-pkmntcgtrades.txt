@@ -427,3 +427,10 @@
 2021-05-08 - drewuptown - Timestamps required for items over $50
 2021-05-08 - drewuptown - Timestamps required for items over $50
 2021-05-08 - teogeorgiou - Timestamps required for items over $50
+2021-05-09 - drewuptown - Only Pokemon Cards or Money on your side
+2021-05-09 - teogeorgiou - Timestamps required for items over $50
+2021-05-09 - teogeorgiou - All items for sale must include a price
+2021-05-09 - teogeorgiou - Timestamps required for items over $50
+2021-05-09 - drewuptown - Timestamps required for items over $50
+2021-05-09 - teogeorgiou - Per the sub rules, items priced more than $50 need
+2021-05-09 - drewuptown - Timestamps required for items over $50
