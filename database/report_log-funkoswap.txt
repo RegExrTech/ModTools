@@ -1979,3 +1979,5 @@
 2021-05-09 - DrShadyTree - Flipping
 2021-05-09 - Alex_Keaton - Timestamp out of date
 2021-05-09 - Alex_Keaton - Trading no photo
+2021-05-10 - DrShadyTree - Timestamp
+2021-05-10 - Petercartman89 - Flipping
