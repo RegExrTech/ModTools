@@ -1985,3 +1985,7 @@
 2021-05-12 - DrShadyTree - Review the Rules
 2021-05-13 - Alex_Keaton - Timestamp
 2021-05-13 - FreddySwapBot - Timestamp out of date
+2021-05-14 - DrShadyTree - Missing prices
+2021-05-14 - Petercartman89 - Timestamp
+2021-05-14 - Petercartman89 - Only Paypal
+2021-05-14 - FreddySwapBot - Timestamp out of date
