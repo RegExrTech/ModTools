@@ -551,3 +551,10 @@
 2021-05-18 - teogeorgiou - Timestamps required for items over $50
 2021-05-18 - drewuptown - Timestamps required for items over $50
 2021-05-18 - teogeorgiou - Please add new timestamps at least at the first pa
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - drewuptown - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - All items for sale must include a price
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - drewuptown - Timestamps required for items over $50
