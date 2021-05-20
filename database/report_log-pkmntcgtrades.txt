@@ -558,3 +558,14 @@
 2021-05-19 - teogeorgiou - All items for sale must include a price
 2021-05-19 - teogeorgiou - Timestamps required for items over $50
 2021-05-19 - drewuptown - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Only PayPal as a form of payment
+2021-05-19 - AutoModerator - Only PayPal as a form of payment
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Timestamps must include your reddit username
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - drewuptown - All items for sale must include a price
+2021-05-19 - teogeorgiou - All items for sale must include a price
+2021-05-19 - drewuptown - Timestamps required for items over $50
+2021-05-19 - drewuptown - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Timestamps required for items over $50
+2021-05-19 - teogeorgiou - Timestamps required for items over $50

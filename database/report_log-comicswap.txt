@@ -58,3 +58,5 @@
 2021-04-26 - RegExr - Weekly Limit and Additional Rules
 2021-04-26 - USLBot - PERM-BANNED
 2021-05-08 - rabidmonkeys - PERM-BANNED
+2021-05-19 - Komatoz - PERM-BANNED
+2021-05-19 - rabidmonkeys - PERM-BANNED
