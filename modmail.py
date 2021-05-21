@@ -258,6 +258,7 @@ def main(subreddit_name):
 
 			# Handle replying to the message with our private summary
 			# ...but don'r reply if the action was taken by USL Bot
+			# this is because it will send way too many notices about USLBot bans when most mods don't care
 			if removing_mod != "USLBot" :
 				reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
 				send_reply(message, reply)
