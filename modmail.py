@@ -257,8 +257,10 @@ def main(subreddit_name):
 			save_report_data(removing_mod, infraction, subreddit_name)
 
 			# Handle replying to the message with our private summary
-			reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
-			send_reply(message, reply)
+			# ...but don'r reply if the action was taken by USL Bot
+			if removing_mod != "USLBot" :
+				reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
+				send_reply(message, reply)
 
 			# Write off some info to the logs
 			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod)
