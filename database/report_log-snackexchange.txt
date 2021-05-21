@@ -17,3 +17,4 @@
 2021-05-17 - SnackExchangeBot - I got a personal PM about rule 4. But this doesnt
 2021-05-17 - Carnifex - Do we want this bot here?
 2021-05-17 - RegExr - PERM-BANNED
+2021-05-20 - USLBot - PERM-BANNED
