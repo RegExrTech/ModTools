@@ -264,6 +264,8 @@ def main(subreddit_name):
 			# Handle replying to the message with our private summary
 			reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
 			send_reply(message, reply)
+			
+			# Archive if action is from USLBot. Prevents clutter in modmail
 			if removing_mod == "USLBot" :
 				message.archive()
 
