@@ -160,7 +160,12 @@ def send_reply(message, reply):
 			print("Unable to reply to message " + str(message))
 	else:
 		print(reply)
-
+def archive(message) :
+	if not debug :
+		try :
+			message.archive()
+		except :
+			print ("Unable to archive message " + message.body)
 
 def main(subreddit_name):
 	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Mod Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', username=bot_username, password=bot_password)
@@ -257,11 +262,10 @@ def main(subreddit_name):
 			save_report_data(removing_mod, infraction, subreddit_name)
 
 			# Handle replying to the message with our private summary
-			# ...but don'r reply if the action was taken by USL Bot
-			# this is because it will send way too many notices about USLBot bans when most mods don't care
-			if removing_mod != "USLBot" :
-				reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
-				send_reply(message, reply)
+			reply = get_summary_text(user_infraction_db, user, subreddit_name, removing_mod)
+			send_reply(message, reply)
+			if removing_mod == "USLBot" :
+				message.archive()
 
 			# Write off some info to the logs
 			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod)
