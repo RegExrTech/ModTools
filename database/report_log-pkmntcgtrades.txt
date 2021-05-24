@@ -608,3 +608,15 @@
 2021-05-22 - teogeorgiou - Timestamps required for items over $50
 2021-05-22 - drewuptown - PERM-BANNED
 2021-05-22 - drewuptown - PERM-BANNED
+2021-05-23 - teogeorgiou - All items for sale must include a price
+2021-05-23 - teogeorgiou - Review the rules
+2021-05-23 - teogeorgiou - Timestamps required for items over $50
+2021-05-23 - teogeorgiou - Timestamp and prices missing
+2021-05-23 - teogeorgiou - All items for sale must include a price
+2021-05-23 - teogeorgiou - Review the rules
+2021-05-23 - teogeorgiou - Only PayPal as a form of payment
+2021-05-23 - teogeorgiou - All items for sale must include a price
+2021-05-23 - teogeorgiou - Timestamps required for items over $50
+2021-05-23 - drewuptown - Timestamps required for items over $50
+2021-05-23 - teogeorgiou - Timestamps required for items over $50
+2021-05-23 - teogeorgiou - Timestamps required for items over $50
