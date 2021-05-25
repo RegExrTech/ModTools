@@ -2013,3 +2013,7 @@
 2021-05-22 - Alex_Keaton - Timestamp
 2021-05-22 - Alex_Keaton - Timestamp
 2021-05-23 - Petercartman89 - Timestamp out of date
+2021-05-24 - Petercartman89 - Only Funko items allowed
+2021-05-24 - Petercartman89 - Must display all pops in timestamps, not sorter bo
+2021-05-24 - FreddySwapBot - Timestamp out of date
+2021-05-24 - DrShadyTree - Flipping
