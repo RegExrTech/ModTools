@@ -34,3 +34,6 @@
 2021-05-28 - RegExr - PERM-BANNED
 2021-05-29 - USLBot - PERM-BANNED
 2021-05-29 - jidonskii - BANNED - 30 days.
+2021-05-30 - jidonskii - BANNED - 7 days.
+2021-05-30 - jidonskii - CHANGED BAN - 30 days.
+2021-05-30 - jidonskii - BANNED - 30 days.
