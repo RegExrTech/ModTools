@@ -2029,3 +2029,4 @@
 2021-05-29 - Alex_Keaton - Timestamp
 2021-05-29 - Alex_Keaton - Timestamp
 2021-05-30 - Alex_Keaton - Missing prices
+2021-05-31 - FreddySwapBot - Timestamp out of date
