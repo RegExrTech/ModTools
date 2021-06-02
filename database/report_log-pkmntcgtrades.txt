@@ -675,3 +675,8 @@
 2021-05-31 - drewuptown - PERM-BANNED
 2021-05-31 - drewuptown - BANNED - 7 days.
 2021-05-31 - drewuptown - PERM-BANNED
+2021-06-01 - Jas_Jass - Timestamps required for items over $50
+2021-06-01 - drewuptown - All items for sale must include a price
+2021-06-01 - teogeorgiou - Timestamps required for items over $50
+2021-06-01 - teogeorgiou - Timestamps required for items over $50
+2021-06-01 - teogeorgiou - Timestamps required for items over $50

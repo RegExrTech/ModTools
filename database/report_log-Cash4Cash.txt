@@ -37,3 +37,5 @@
 2021-05-30 - jidonskii - BANNED - 7 days.
 2021-05-30 - jidonskii - CHANGED BAN - 30 days.
 2021-05-30 - jidonskii - BANNED - 30 days.
+2021-06-01 - jidonskii - PERM-BANNED
+2021-06-01 - USLBot - PERM-BANNED
