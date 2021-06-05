@@ -2046,3 +2046,6 @@
 2021-06-02 - Petercartman89 - Timestamp unreadable
 2021-06-02 - Petercartman89 - Timestamp out of date
 2021-06-03 - USLBot - PERM-BANNED
+2021-06-04 - Petercartman89 - Timestamp
+2021-06-04 - Petercartman89 - Flipping
+2021-06-04 - FreddySwapBot - Timestamp out of date
