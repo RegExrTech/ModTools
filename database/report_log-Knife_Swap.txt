@@ -344,3 +344,6 @@
 2021-06-07 - dooms25 - Timestamp
 2021-06-07 - dooms25 - Paypal Goods and Services
 2021-06-07 - USLBot - PERM-BANNED
+2021-06-08 - merkon - Flair
+2021-06-08 - merkon - BANNED - 3 days.
+2021-06-08 - merkon - PERM-BANNED
