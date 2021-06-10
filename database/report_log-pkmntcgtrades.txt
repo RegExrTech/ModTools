@@ -731,3 +731,15 @@
 2021-06-08 - teogeorgiou - Timestamps required for items over $50
 2021-06-08 - teogeorgiou - Timestamps required for items over $50
 2021-06-08 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-06-09 - drewuptown - Timestamps required for items over $50
+2021-06-09 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-06-09 - teogeorgiou - All items for sale must include a price
+2021-06-09 - drewuptown - Timestamps required for items over $50
+2021-06-09 - drewuptown - Timestamps required for items over $50
+2021-06-09 - drewuptown - Timestamps required for items over $50
+2021-06-09 - drewuptown - Keep trade offers in the comments, and personal in
+2021-06-09 - teogeorgiou - Timestamps required for items over $50
+2021-06-09 - teogeorgiou - Timestamps required for items over $50
+2021-06-09 - teogeorgiou - Timestamps required for items over $50
+2021-06-09 - drewuptown - Timestamps required for items over $50
+2021-06-09 - teogeorgiou - Timestamp is more than a month old.
