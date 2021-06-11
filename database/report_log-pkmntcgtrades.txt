@@ -743,3 +743,10 @@
 2021-06-09 - teogeorgiou - Timestamps required for items over $50
 2021-06-09 - drewuptown - Timestamps required for items over $50
 2021-06-09 - teogeorgiou - Timestamp is more than a month old.
+2021-06-10 - drewuptown - Timestamps required for items over $50
+2021-06-10 - drewuptown - Timestamps required for items over $50
+2021-06-10 - drewuptown - Timestamps required for items over $50
+2021-06-10 - drewuptown - All items for sale must include a price
+2021-06-10 - teogeorgiou - Timestamps required for items over $50
+2021-06-10 - teogeorgiou - All items for sale must include a price
+2021-06-10 - teogeorgiou - Timestamps required for items over $50
