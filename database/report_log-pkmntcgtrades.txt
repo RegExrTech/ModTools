@@ -750,3 +750,9 @@
 2021-06-10 - teogeorgiou - Timestamps required for items over $50
 2021-06-10 - teogeorgiou - All items for sale must include a price
 2021-06-10 - teogeorgiou - Timestamps required for items over $50
+2021-06-11 - teogeorgiou - All items for sale must include a price
+2021-06-11 - drewuptown - Timestamps required for items over $50
+2021-06-11 - teogeorgiou - Timestamps required for items over $50
+2021-06-11 - teogeorgiou - Timestamps required for items over $50
+2021-06-11 - Lightning00 - Timestamp and need price
+2021-06-11 - teogeorgiou - Timestamp missing date
