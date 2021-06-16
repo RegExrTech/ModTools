@@ -2086,3 +2086,11 @@
 2021-06-14 - Petercartman89 - Timestamp is unreadable
 2021-06-14 - Petercartman89 - All BST must contain a price if asking for paypal.
 2021-06-14 - Petercartman89 - All BST must contain a price if asking for paypal.
+2021-06-15 - Petercartman89 - Timestamp out of date
+2021-06-15 - Petercartman89 - Timestamp
+2021-06-15 - Petercartman89 - Timestamp
+2021-06-15 - Petercartman89 - Timestamp
+2021-06-15 - Petercartman89 - Missing prices
+2021-06-15 - Petercartman89 - Timestamp out of date
+2021-06-15 - Petercartman89 - Timestamp
+2021-06-15 - FreddySwapBot - Timestamp out of date
