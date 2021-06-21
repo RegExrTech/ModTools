@@ -13,3 +13,8 @@
 2021-04-22 - AutoModerator - Only PayPal G&S as a form of payment
 2021-05-10 - Spyderr8 - Paypal G&S Only
 2021-05-11 - RegExr - PERM-BANNED
+2021-06-20 - RegExr - PERM-BANNED
+2021-06-20 - Spyderr8 - Paypal G&S Only
+2021-06-20 - FishingSwapBot - Only PayPal G&S as a form of payment
+2021-06-20 - Spyderr8 - Paypal G&S Only
+2021-06-20 - FishingSwapBot - Only PayPal G&S as a form of payment
