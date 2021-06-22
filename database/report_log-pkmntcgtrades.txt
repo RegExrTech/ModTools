@@ -861,3 +861,13 @@
 2021-06-20 - drewuptown - Timestamps required for items over $50
 2021-06-20 - teogeorgiou - No selling or trading of PTCGO cards or codes
 2021-06-20 - teogeorgiou - All items for sale must include a price
+2021-06-21 - drewuptown - All items for sale must include a price
+2021-06-21 - drewuptown - Timestamps required for items over $50
+2021-06-21 - drewuptown - Keep trade offers in the comments, and personal in
+2021-06-21 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-06-21 - teogeorgiou - All items for sale must include a price
+2021-06-21 - teogeorgiou - No eBay or other website links or references
+2021-06-21 - drewuptown - No eBay or other website links or references
+2021-06-21 - drewuptown - No eBay or other website links or references
+2021-06-21 - drewuptown - All items for sale must include a price
+2021-06-21 - drewuptown - All items for sale must include a price
