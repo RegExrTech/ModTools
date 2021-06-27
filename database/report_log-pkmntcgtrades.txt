@@ -911,3 +911,11 @@
 2021-06-25 - teogeorgiou - Timestamps required for items over $50
 2021-06-25 - teogeorgiou - All items for sale must include a price
 2021-06-25 - teogeorgiou - Timestamps required for items over $50
+2021-06-26 - teogeorgiou - Timestamps required for items over $50
+2021-06-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-06-26 - drewuptown - No selling or trading of PTCGO cards or codes
+2021-06-26 - teogeorgiou - Timestamps required for items over $50
+2021-06-26 - teogeorgiou - Timestamps required for items over $50
+2021-06-26 - teogeorgiou - Timestamps required for items over $50
+2021-06-26 - drewuptown - Timestamps required for items over $50
+2021-06-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
