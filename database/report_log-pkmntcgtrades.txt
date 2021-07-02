@@ -949,3 +949,13 @@
 2021-06-30 - drewuptown - No selling or trading of PTCGO cards or codes
 2021-06-30 - drewuptown - Keep trade offers in the comments, and personal in
 2021-06-30 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-01 - drewuptown - Timestamps required for items over $50
+2021-07-01 - teogeorgiou - Timestamps required for items over $50
+2021-07-01 - teogeorgiou - Timestamps required for items over $50
+2021-07-01 - drewuptown - All items for sale must include a price
+2021-07-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-01 - teogeorgiou - Timestamps required for items over $50
+2021-07-01 - teogeorgiou - Inauthentic cards for sale
+2021-07-01 - teogeorgiou - Not enough karma to post/comment
