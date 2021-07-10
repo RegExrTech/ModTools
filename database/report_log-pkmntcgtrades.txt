@@ -1003,3 +1003,11 @@
 2021-07-08 - teogeorgiou - Price Policing/Shaming
 2021-07-08 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-07-08 - teogeorgiou - Prices missing and keep negotiations in comments.
+2021-07-09 - teogeorgiou - Timestamps required for items over $50
+2021-07-09 - drewuptown - Timestamps required for items over $50
+2021-07-09 - teogeorgiou - Timestamps required for items over $50
+2021-07-09 - teogeorgiou - Only PayPal as a form of payment
+2021-07-09 - drewuptown - All items for sale must include a price
+2021-07-09 - drewuptown - All items for sale must include a price
+2021-07-09 - teogeorgiou - Timestamps required for items over $50
+2021-07-09 - teogeorgiou - Timestamps required for items over $50
