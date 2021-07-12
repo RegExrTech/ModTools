@@ -2181,3 +2181,6 @@
 2021-07-09 - Petercartman89 - Timestamp out of date
 2021-07-09 - Petercartman89 - Timestamp unreadable
 2021-07-10 - FreddySwapBot - Timestamp out of date
+2021-07-11 - Petercartman89 - If offering trades must provide timestamp
+2021-07-11 - DrShadyTree - Missing prices
+2021-07-11 - FreddySwapBot - Timestamp out of date
