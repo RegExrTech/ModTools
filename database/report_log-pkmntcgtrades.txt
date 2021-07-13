@@ -1024,3 +1024,13 @@
 2021-07-11 - teogeorgiou - Timestamps required for items over $50
 2021-07-11 - teogeorgiou - Timestamps required for items over $50
 2021-07-11 - drewuptown - PERM-BANNED
+2021-07-12 - teogeorgiou - All items for sale must include a price
+2021-07-12 - teogeorgiou - Timestamps required for items over $50
+2021-07-12 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-07-12 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-07-12 - teogeorgiou - All items for sale must include a price
+2021-07-12 - teogeorgiou - All items for sale must include a price
+2021-07-12 - drewuptown - All items for sale must include a price
+2021-07-12 - drewuptown - All items for sale must include a price
+2021-07-12 - teogeorgiou - Timestamps required for items over $50
+2021-07-12 - teogeorgiou - Keep trade offers in the comments, and personal in
