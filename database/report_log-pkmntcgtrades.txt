@@ -1034,3 +1034,9 @@
 2021-07-12 - drewuptown - All items for sale must include a price
 2021-07-12 - teogeorgiou - Timestamps required for items over $50
 2021-07-12 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-07-13 - teogeorgiou - Timestamps required for items over $50
+2021-07-13 - teogeorgiou - No codes allowed, and need timestamps
+2021-07-13 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-13 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-13 - drewuptown - Timestamps required for items over $50
+2021-07-13 - drewuptown - Timestamps required for items over $50
