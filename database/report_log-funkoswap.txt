@@ -2185,3 +2185,11 @@
 2021-07-11 - DrShadyTree - Missing prices
 2021-07-11 - FreddySwapBot - Timestamp out of date
 2021-07-12 - DrShadyTree - Missing prices
+2021-07-14 - DrShadyTree - Timestamp out of date
+2021-07-14 - Petercartman89 - Missing prices
+2021-07-14 - Petercartman89 - Timestamp
+2021-07-14 - Petercartman89 - Timestamp
+2021-07-14 - Petercartman89 - Timestamp out of date
+2021-07-14 - Petercartman89 - Timestamp
+2021-07-14 - Petercartman89 - Review the Rules
+2021-07-14 - USLBot - PERM-BANNED
