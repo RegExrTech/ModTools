@@ -1052,3 +1052,9 @@
 2021-07-14 - teogeorgiou - All items for sale must include a price
 2021-07-14 - drewuptown - All items for sale must include a price
 2021-07-14 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-15 - drewuptown - Timestamps required for items over $50
+2021-07-15 - teogeorgiou - All items for sale must include a price
+2021-07-15 - drewuptown - All items for sale must include a price
+2021-07-15 - teogeorgiou - Timestamps required for items over $50
+2021-07-15 - teogeorgiou - Timestamps required for items over $50
+2021-07-15 - teogeorgiou - No selling or trading of PTCGO cards or codes
