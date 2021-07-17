@@ -1058,3 +1058,12 @@
 2021-07-15 - teogeorgiou - Timestamps required for items over $50
 2021-07-15 - teogeorgiou - Timestamps required for items over $50
 2021-07-15 - teogeorgiou - No selling or trading of PTCGO cards or codes
+2021-07-16 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-16 - drewuptown - Timestamps required for items over $50
+2021-07-16 - teogeorgiou - Timestamps required for items over $50
+2021-07-16 - teogeorgiou - Timestamps required for items over $50
+2021-07-16 - teogeorgiou - Timestamps required for items over $50
+2021-07-16 - teogeorgiou - Timestamps required for items over $50
+2021-07-16 - teogeorgiou - Timestamps required for items over $50
+2021-07-16 - drewuptown - All items for sale must include a price
+2021-07-17 - AutoModerator - Only PayPal as a form of payment
