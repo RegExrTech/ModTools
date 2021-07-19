@@ -1073,3 +1073,4 @@
 2021-07-17 - drewuptown - Timestamps required for items over $50
 2021-07-17 - teogeorgiou - Timestamps required for items over $50
 2021-07-17 - drewuptown - Timestamps required for items over $50
+2021-07-18 - teogeorgiou - Keep trade offers in the comments, and personal in
