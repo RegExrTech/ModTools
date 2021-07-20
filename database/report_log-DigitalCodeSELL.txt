@@ -1025,3 +1025,5 @@
 2021-07-18 - DCSbot - Dont Third-Party an Ongoing Transaction
 2021-07-18 - DCSbot - Dont Abandon Your Posts, No Ghosting, and Timely 
 2021-07-18 - TheHamGamer - Proper Transaction Etiquette
+2021-07-19 - TheHamGamer - List Formatting Requirements
+2021-07-19 - USLBot - PERM-BANNED

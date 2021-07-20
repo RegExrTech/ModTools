@@ -2198,3 +2198,5 @@
 2021-07-16 - Petercartman89 - Review the Rules
 2021-07-17 - FreddySwapBot - Timestamp out of date
 2021-07-17 - FreddySwapBot - Timestamp out of date
+2021-07-19 - DrShadyTree - Missing prices
+2021-07-19 - DrShadyTree - Missing prices
