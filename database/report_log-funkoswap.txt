@@ -2200,3 +2200,5 @@
 2021-07-17 - FreddySwapBot - Timestamp out of date
 2021-07-19 - DrShadyTree - Missing prices
 2021-07-19 - DrShadyTree - Missing prices
+2021-07-21 - USLBot - PERM-BANNED
+2021-07-21 - DrShadyTree - Timestamp
