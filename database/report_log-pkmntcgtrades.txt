@@ -1098,3 +1098,14 @@
 2021-07-20 - teogeorgiou - All items for sale must include a price
 2021-07-20 - drewuptown - Keep trade offers in the comments, and personal in
 2021-07-20 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-21 - teogeorgiou - PERM-BANNED
+2021-07-21 - drewuptown - No eBay or other website links or references
+2021-07-21 - teogeorgiou - All items for sale must include a price
+2021-07-21 - teogeorgiou - Timestamps required for items over $50
+2021-07-21 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-21 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-21 - teogeorgiou - Timestamps required for items over $50
+2021-07-21 - PokeSwapBot - Prices missing, cant ask for F&F only
+2021-07-21 - drewuptown - All items for sale must include a price
+2021-07-21 - AutoModerator - Only PayPal as a form of payment
+2021-07-21 - teogeorgiou - BANNED - 14 days.
