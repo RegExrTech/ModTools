@@ -1115,3 +1115,5 @@
 2021-07-22 - Jas_Jass - Timestamps required for items over $50
 2021-07-22 - teogeorgiou - All items for sale must include a price
 2021-07-22 - Lightning00 - Timestamp must have your reddit username
+2021-07-23 - teogeorgiou - Timestamps required for items over $50
+2021-07-23 - PokeSwapBot - Do not spam or hijack other peoples trade offers
