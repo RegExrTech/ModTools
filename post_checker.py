@@ -136,8 +136,8 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			try:
 				reply = submission.reply(reply_text)
 				reply.mod.distinguish(sticky=True)
-			except:
-				print("Unable to reply to post: redd.it/" + (submission.id))
+			except Exception as e:
+				print("Unable to reply to post: redd.it/" + (submission.id) + " with error " + str(e))
 
 			# Lock post
 			if lock_post:
