@@ -1117,3 +1117,5 @@
 2021-07-22 - Lightning00 - Timestamp must have your reddit username
 2021-07-23 - teogeorgiou - Timestamps required for items over $50
 2021-07-23 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-23 - drewuptown - Timestamps required for items over $50
+2021-07-23 - drewuptown - No eBay or other website links or references

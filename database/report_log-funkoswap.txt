@@ -2203,3 +2203,6 @@
 2021-07-21 - USLBot - PERM-BANNED
 2021-07-21 - DrShadyTree - Timestamp
 2021-07-22 - FreddySwapBot - Timestamp out of date
+2021-07-23 - USLBot - PERM-BANNED
+2021-07-23 - Petercartman89 - Review the Rules
+2021-07-23 - DrShadyTree - Timestamp
