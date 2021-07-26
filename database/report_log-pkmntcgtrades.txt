@@ -1128,3 +1128,14 @@
 2021-07-24 - drewuptown - Keep trade offers in the comments, and personal in
 2021-07-24 - drewuptown - BANNED - 14 days.
 2021-07-24 - teogeorgiou - Price Policing/Shaming
+2021-07-25 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-25 - drewuptown - Timestamps required for items over $50
+2021-07-25 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-25 - drewuptown - All items for sale must include a price
+2021-07-25 - teogeorgiou - All items for sale must include a price
+2021-07-25 - teogeorgiou - Timestamps required for items over $50
+2021-07-25 - teogeorgiou - Timestamps required for items over $50
+2021-07-25 - teogeorgiou - All items for sale must include a price
+2021-07-25 - teogeorgiou - All items for sale must include a price
+2021-07-25 - teogeorgiou - All items for sale must include a price
+2021-07-25 - teogeorgiou - All items for sale must include a price
