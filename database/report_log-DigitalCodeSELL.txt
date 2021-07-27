@@ -1062,3 +1062,6 @@
 2021-07-25 - TheHamGamer - Wrong thread. Use ISO please.
 2021-07-25 - TheHamGamer - List Formatting Requirements
 2021-07-25 - TheHamGamer - List Formatting Requirements
+2021-07-26 - TheHamGamer - List Formatting Requirements
+2021-07-26 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-07-26 - DCSbot - Dont Third-Party an Ongoing Transaction
