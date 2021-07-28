@@ -18,3 +18,4 @@
 2021-06-20 - FishingSwapBot - Only PayPal G&S as a form of payment
 2021-06-20 - Spyderr8 - Paypal G&S Only
 2021-06-20 - FishingSwapBot - Only PayPal G&S as a form of payment
+2021-07-27 - AutoModerator - Only PayPal G&S as a form of payment

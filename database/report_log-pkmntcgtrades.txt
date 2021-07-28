@@ -1152,3 +1152,13 @@
 2021-07-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-07-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-07-26 - Lightning00 - Price Policing/Shaming
+2021-07-27 - AutoModerator - Only PayPal as a form of payment
+2021-07-27 - teogeorgiou - All items for sale must include a price
+2021-07-27 - drewuptown - All items for sale must include a price
+2021-07-27 - drewuptown - All items for sale must include a price
+2021-07-27 - teogeorgiou - All items for sale must include a price
+2021-07-27 - teogeorgiou - No prices and no timestamp
+2021-07-27 - teogeorgiou - All items for sale must include a price
+2021-07-27 - teogeorgiou - Timestamps required for items over $50
+2021-07-27 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-07-28 - teogeorgiou - Timestamps required for items over $50
