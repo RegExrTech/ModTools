@@ -1073,3 +1073,4 @@
 2021-07-27 - Mafnas22 - List Formatting Requirements
 2021-07-27 - DCSbot - Dont Third-Party an Ongoing Transaction
 2021-07-27 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-07-28 - TheHamGamer - List Formatting Requirements
