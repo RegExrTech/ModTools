@@ -1179,3 +1179,17 @@
 2021-07-29 - teogeorgiou - All items for sale must include a price
 2021-07-29 - teogeorgiou - Timestamps required for items over $50
 2021-07-29 - teogeorgiou - All items for sale must include a price
+2021-07-30 - teogeorgiou - All items for sale must include a price
+2021-07-30 - teogeorgiou - All items for sale must include a price
+2021-07-30 - drewuptown - All items for sale must include a price
+2021-07-30 - teogeorgiou - Timestamps required for items over $50
+2021-07-30 - teogeorgiou - Timestamps required for items over $50
+2021-07-30 - teogeorgiou - All items for sale must include a price
+2021-07-30 - teogeorgiou - All items for sale must include a price
+2021-07-30 - teogeorgiou - Timestamps required for items over $50
+2021-07-30 - drewuptown - All items for sale must include a price
+2021-07-30 - teogeorgiou - No asking Paypal F&F for users with few trades
+2021-07-30 - teogeorgiou - All items for sale must include a price
+2021-07-30 - drewuptown - Timestamps required for items over $50
+2021-07-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-30 - drewuptown - Keep trade offers in the comments, and personal in
