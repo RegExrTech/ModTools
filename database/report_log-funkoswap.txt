@@ -2256,3 +2256,6 @@
 2021-07-30 - Petercartman89 - Missing prices
 2021-07-30 - Petercartman89 - Timestamp unreadable
 2021-07-30 - Petercartman89 - Flipping
+2021-07-31 - DrShadyTree - Timestamp
+2021-07-31 - DrShadyTree - Timestamp
+2021-07-31 - Petercartman89 - Timestamp and missing prices
