@@ -1193,3 +1193,10 @@
 2021-07-30 - drewuptown - Timestamps required for items over $50
 2021-07-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-07-30 - drewuptown - Keep trade offers in the comments, and personal in
+2021-07-31 - teogeorgiou - Timestamps required for items over $50
+2021-07-31 - Lightning00 - Timestamps required for items over $50
+2021-07-31 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-31 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-07-31 - teogeorgiou - Only PayPal as a form of payment
+2021-07-31 - teogeorgiou - All items for sale must include a price
+2021-07-31 - teogeorgiou - All items for sale must include a price
