@@ -1215,3 +1215,20 @@
 2021-08-01 - teogeorgiou - Timestamps required for items over $50
 2021-08-01 - drewuptown - Keep trade offers in the comments, and personal in
 2021-08-01 - teogeorgiou - Timestamps required for items over $50
+2021-08-02 - teogeorgiou - Timestamps required for items over $50
+2021-08-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-02 - teogeorgiou - No selling or trading of PTCGO cards or codes
+2021-08-02 - teogeorgiou - Timestamps required for items over $50
+2021-08-02 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-02 - drewuptown - No eBay or other website links or references
+2021-08-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-02 - drewuptown - BANNED - 14 days.
+2021-08-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-02 - drewuptown - Only Pokemon Cards or Money on your side
+2021-08-02 - drewuptown - Price Policing/Shaming
+2021-08-02 - drewuptown - All items for sale must include a price
+2021-08-02 - teogeorgiou - Timestamps required for items over $50
+2021-08-02 - teogeorgiou - All items for sale must include a price
+2021-08-02 - drewuptown - CHANGED BAN - 7 days.
+2021-08-02 - AutoModerator - Only PayPal as a form of payment
+2021-08-02 - teogeorgiou - Timestamps required for items over $50
