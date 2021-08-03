@@ -2260,3 +2260,9 @@
 2021-07-31 - DrShadyTree - Timestamp
 2021-07-31 - Petercartman89 - Timestamp and missing prices
 2021-08-01 - USLBot - PERM-BANNED
+2021-08-02 - ruemeridian - No prices
+2021-08-02 - Petercartman89 - Picture w/ hand written Username and Date
+2021-08-02 - Petercartman89 - Picture w/ hand written Username and Date
+2021-08-02 - Petercartman89 - Picture w/ hand written Username and Date
+2021-08-02 - Petercartman89 - All BST must contain a price if asking for paypal.
+2021-08-02 - Petercartman89 - Picture w/ hand written Username and Date
