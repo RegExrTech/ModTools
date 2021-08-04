@@ -1232,3 +1232,12 @@
 2021-08-02 - drewuptown - CHANGED BAN - 7 days.
 2021-08-02 - AutoModerator - Only PayPal as a form of payment
 2021-08-02 - teogeorgiou - Timestamps required for items over $50
+2021-08-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-03 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-08-03 - teogeorgiou - Timestamps required for items over $50
+2021-08-03 - teogeorgiou - Timestamps required for items over $50
+2021-08-03 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-03 - drewuptown - Timestamps required for items over $50
+2021-08-03 - drewuptown - Timestamps required for items over $50
+2021-08-03 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-03 - drewuptown - All items for sale must include a price
