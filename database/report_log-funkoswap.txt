@@ -2281,3 +2281,5 @@
 2021-08-05 - Petercartman89 - Missing prices
 2021-08-05 - Petercartman89 - Megathread
 2021-08-05 - Petercartman89 - Flipping
+2021-08-06 - FreddySwapBot - Timestamp out of date
+2021-08-06 - DrShadyTree - Review the Rules
