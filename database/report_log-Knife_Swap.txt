@@ -511,3 +511,4 @@
 2021-08-05 - dooms25 - Repost Price Reductions
 2021-08-05 - dooms25 - Deletion (Posts and Prices)
 2021-08-05 - maugust09 - Timestamp and Description
+2021-08-06 - maugust09 - Formatting and Detailed Description Requirements
