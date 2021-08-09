@@ -1282,3 +1282,13 @@
 2021-08-07 - teogeorgiou - Timestamps required for items over $50
 2021-08-07 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-08-07 - Jas_Jass - All items for sale must include a price
+2021-08-08 - teogeorgiou - Timestamps required for items over $50
+2021-08-08 - teogeorgiou - Only PayPal as a form of payment
+2021-08-08 - teogeorgiou - All items for sale must include a price
+2021-08-08 - teogeorgiou - Timestamps required for items over $50
+2021-08-08 - teogeorgiou - Timestamps required for items over $50
+2021-08-08 - teogeorgiou - PERM-BANNED
+2021-08-08 - teogeorgiou - All items for sale must include a price
+2021-08-08 - teogeorgiou - Timestamps required for items over $50
+2021-08-08 - teogeorgiou - Timestamps required for items over $50
+2021-08-08 - teogeorgiou - No selling or trading of PTCGO cards or codes
