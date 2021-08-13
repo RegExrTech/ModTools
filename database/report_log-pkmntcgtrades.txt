@@ -1329,3 +1329,11 @@
 2021-08-11 - teogeorgiou - Timestamps required for items over $50
 2021-08-11 - Jas_Jass - No eBay or other website links or references
 2021-08-11 - AutoModerator - Only PayPal as a form of payment
+2021-08-12 - Lightning00 - Timestamps required for items over $50
+2021-08-12 - Lightning00 - Timestamps required for items over $50
+2021-08-12 - teogeorgiou - All items for sale must include a price
+2021-08-12 - drewuptown - All items for sale must include a price
+2021-08-12 - teogeorgiou - Timestamps required for items over $50
+2021-08-12 - drewuptown - Timestamps required for items over $50
+2021-08-12 - teogeorgiou - All items for sale must include a price
+2021-08-12 - teogeorgiou - Timestamps required for items over $50
