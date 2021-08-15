@@ -1115,3 +1115,4 @@
 2021-08-11 - TheHamGamer - List Formatting Requirements
 2021-08-11 - TheHamGamer - Proper Transaction Etiquette
 2021-08-13 - Mafnas22 - Price Caps
+2021-08-14 - TheHamGamer - List Formatting Requirements
