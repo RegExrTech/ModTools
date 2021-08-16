@@ -2299,3 +2299,5 @@
 2021-08-09 - FreddySwapBot - Timestamp out of date
 2021-08-10 - DrShadyTree - Timestamp
 2021-08-13 - FreddySwapBot - Timestamp out of date
+2021-08-15 - DrShadyTree - Timestamp
+2021-08-15 - DrShadyTree - Missing prices
