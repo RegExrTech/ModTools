@@ -1372,3 +1372,13 @@
 2021-08-15 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-08-15 - drewuptown - Timestamps required for items over $50
 2021-08-15 - drewuptown - All items for sale must include a price
+2021-08-16 - teogeorgiou - All items for sale must include a price
+2021-08-16 - teogeorgiou - Only Pokemon Cards or Money on your side
+2021-08-16 - drewuptown - All items for sale must include a price
+2021-08-16 - teogeorgiou - Timestamps required for items over $50
+2021-08-16 - AutoModerator - Only PayPal as a form of payment
+2021-08-16 - drewuptown - PERM-BANNED
+2021-08-16 - drewuptown - Timestamps required for items over $50
+2021-08-16 - teogeorgiou - Account not active enough (not enough karma) to po
+2021-08-16 - teogeorgiou - Timestamps required for items over $50
+2021-08-16 - teogeorgiou - Timestamps required for items over $50
