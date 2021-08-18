@@ -1382,3 +1382,16 @@
 2021-08-16 - teogeorgiou - Account not active enough (not enough karma) to po
 2021-08-16 - teogeorgiou - Timestamps required for items over $50
 2021-08-16 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - teogeorgiou - All items for sale must include a price
+2021-08-17 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-17 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-17 - teogeorgiou - Only PayPal as a form of payment
+2021-08-17 - teogeorgiou - Timestamps required for items over $50
+2021-08-17 - teogeorgiou - Ttar needs an up-to-date timestamp
