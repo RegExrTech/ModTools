@@ -2301,3 +2301,7 @@
 2021-08-13 - FreddySwapBot - Timestamp out of date
 2021-08-15 - DrShadyTree - Timestamp
 2021-08-15 - DrShadyTree - Missing prices
+2021-08-18 - DrShadyTree - Only Paypal
+2021-08-18 - DrShadyTree - Timestamp
+2021-08-18 - DrShadyTree - Timestamp
+2021-08-18 - DrShadyTree - Timestamp
