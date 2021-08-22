@@ -2312,3 +2312,4 @@
 2021-08-20 - DrShadyTree - Missing prices
 2021-08-20 - DrShadyTree - Timestamp
 2021-08-20 - USLBot - PERM-BANNED
+2021-08-21 - USLBot - PERM-BANNED

@@ -23,3 +23,6 @@
 2021-08-19 - Unciform - Rule 4: Timestamps
 2021-08-20 - Unciform - Rule 2: No external selling links or unrelated ite
 2021-08-21 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2021-08-21 - Unciform - Rule 4: Timestamps
+2021-08-21 - Gregapher_ - Rule 6: Asking Prices
+2021-08-21 - Gregapher_ - Rule 1: Titles
