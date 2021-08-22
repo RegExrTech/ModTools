@@ -1129,3 +1129,6 @@
 2021-08-18 - TheHamGamer - List Formatting Requirements
 2021-08-20 - Mafnas22 - List Formatting Requirements
 2021-08-20 - TheHamGamer - Price Caps
+2021-08-21 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-08-21 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-08-21 - TheHamGamer - Basic Rules
