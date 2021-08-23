@@ -1441,3 +1441,12 @@
 2021-08-22 - teogeorgiou - All items for sale must include a price
 2021-08-22 - teogeorgiou - Timestamps required for items over $50
 2021-08-22 - drewuptown - Keep trade offers in the comments, and personal in
+2021-08-23 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-08-23 - drewuptown - Timestamps required for items over $50
+2021-08-23 - teogeorgiou - All items for sale must include a price
+2021-08-23 - drewuptown - Timestamps required for items over $50
+2021-08-23 - drewuptown - All items for sale must include a price
+2021-08-23 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-08-23 - AutoModerator - Only PayPal as a form of payment
+2021-08-23 - drewuptown - Timestamps required for items over $50
+2021-08-23 - drewuptown - Timestamps required for items over $50
