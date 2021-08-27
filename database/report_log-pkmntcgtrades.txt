@@ -1468,3 +1468,6 @@
 2021-08-25 - Lightning00 - Timestamps required for items over $50
 2021-08-25 - Lightning00 - Cannot ask for F&F payment under 25 feedback need 
 2021-08-25 - teogeorgiou - All items for sale must include a price
+2021-08-26 - drewuptown - All items for sale must include a price
+2021-08-26 - C011ECT0R - All items for sale must include a price
+2021-08-26 - drewuptown - Timestamps required for items over $50
