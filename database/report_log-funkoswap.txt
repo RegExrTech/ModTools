@@ -2325,3 +2325,6 @@
 2021-09-02 - DrShadyTree - Timestamp
 2021-09-02 - DrShadyTree - Timestamp
 2021-09-02 - FreddySwapBot - Timestamp out of date
+2021-09-03 - DrShadyTree - Flipping
+2021-09-03 - DrShadyTree - Timestamp
+2021-09-03 - DrShadyTree - Missing prices
