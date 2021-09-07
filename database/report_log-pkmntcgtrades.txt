@@ -1567,3 +1567,9 @@
 2021-09-05 - drewuptown - Price Policing/Shaming
 2021-09-05 - teogeorgiou - Timestamps required for items over $50
 2021-09-05 - Lightning00 - PERM-BANNED
+2021-09-06 - teogeorgiou - All items for sale must include a price
+2021-09-06 - teogeorgiou - All items for sale must include a price
+2021-09-06 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-09-06 - teogeorgiou - All items for sale must include a price
+2021-09-06 - AutoModerator - Only PayPal as a form of payment
+2021-09-06 - teogeorgiou - Timestamps required for items over $50
