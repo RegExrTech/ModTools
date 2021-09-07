@@ -2331,3 +2331,6 @@
 2021-09-04 - FreddySwapBot - Timestamp out of date
 2021-09-04 - DrShadyTree - Flipping
 2021-09-04 - DrShadyTree - Timestamp out of date
+2021-09-06 - FreddySwapBot - Timestamp out of date
+2021-09-06 - DrShadyTree - Timestamp unreadable
+2021-09-06 - USLBot - PERM-BANNED

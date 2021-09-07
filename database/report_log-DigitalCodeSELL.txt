@@ -1160,3 +1160,6 @@
 2021-09-04 - TheHamGamer - List Formatting Requirements
 2021-09-05 - DCSbot - Dont Third-Party an Ongoing Transaction
 2021-09-05 - TheHamGamer - Post Removal and/or Bans
+2021-09-06 - TheHamGamer - Basic Rules
+2021-09-06 - USLBot - PERM-BANNED
+2021-09-06 - TheHamGamer - List Formatting Requirements
