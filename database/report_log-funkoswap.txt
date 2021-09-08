@@ -2334,3 +2334,4 @@
 2021-09-06 - FreddySwapBot - Timestamp out of date
 2021-09-06 - DrShadyTree - Timestamp unreadable
 2021-09-06 - USLBot - PERM-BANNED
+2021-09-07 - ruemeridian - No prices
