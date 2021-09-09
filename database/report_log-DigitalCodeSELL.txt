@@ -1164,3 +1164,6 @@
 2021-09-06 - USLBot - PERM-BANNED
 2021-09-06 - TheHamGamer - List Formatting Requirements
 2021-09-07 - USLBot - PERM-BANNED
+2021-09-08 - Mafnas22 - List Formatting Requirements
+2021-09-08 - TheHamGamer - PERM-BANNED
+2021-09-08 - TheHamGamer - List Formatting Requirements
