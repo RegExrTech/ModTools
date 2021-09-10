@@ -2336,3 +2336,5 @@
 2021-09-06 - USLBot - PERM-BANNED
 2021-09-07 - ruemeridian - No prices
 2021-09-08 - DrShadyTree - Timestamp out of date
+2021-09-09 - DrShadyTree - Missing prices
+2021-09-09 - FreddySwapBot - Timestamp out of date
