@@ -1619,3 +1619,6 @@
 2021-09-10 - drewuptown - Timestamps required for items over $50
 2021-09-10 - drewuptown - Timestamps required for items over $50
 2021-09-10 - drewuptown - Timestamps required for items over $50
+2021-09-11 - drewuptown - No selling or trading of PTCGO cards or codes
+2021-09-11 - Lightning00 - No selling or trading of PTCGO cards or codes
+2021-09-11 - Jas_Jass - All items for sale must include a price
