@@ -2342,3 +2342,6 @@
 2021-09-11 - DrShadyTree - Timestamp
 2021-09-11 - DrShadyTree - Timestamp
 2021-09-11 - Petercartman89 - All BST must contain a price if asking for paypal.
+2021-09-13 - DrShadyTree - Timestamp
+2021-09-13 - DrShadyTree - Missing prices
+2021-09-13 - DrShadyTree - Timestamp
