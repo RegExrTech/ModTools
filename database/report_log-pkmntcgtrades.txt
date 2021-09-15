@@ -1641,3 +1641,6 @@
 2021-09-13 - drewuptown - All items for sale must include a price
 2021-09-13 - drewuptown - Keep trade offers in the comments, and personal in
 2021-09-13 - teogeorgiou - Timestamps required for items over $50
+2021-09-14 - teogeorgiou - All items for sale must include a price
+2021-09-14 - teogeorgiou - Timestamp missing, asking for PMs
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
