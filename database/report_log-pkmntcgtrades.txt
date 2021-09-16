@@ -1644,3 +1644,13 @@
 2021-09-14 - teogeorgiou - All items for sale must include a price
 2021-09-14 - teogeorgiou - Timestamp missing, asking for PMs
 2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - Lightning00 - Asking for F&F payment under 25 feedback
+2021-09-15 - teogeorgiou - All items for sale must include a price
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - teogeorgiou - Asking F&F while less than 25 feedback
+2021-09-15 - teogeorgiou - Missing timestamp and prices
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - teogeorgiou - Timestamps required for items over $50
+2021-09-15 - teogeorgiou - Asking for Paypal F&F only
