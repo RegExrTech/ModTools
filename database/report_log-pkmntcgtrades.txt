@@ -1680,3 +1680,9 @@
 2021-09-17 - Lightning00 - Timestamps required for items over $50
 2021-09-17 - drewuptown - Price Policing/Shaming
 2021-09-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-09-18 - AutoModerator - Only PayPal as a form of payment
+2021-09-18 - teogeorgiou - Timestamps required for items over $50
+2021-09-18 - Lightning00 - All items for sale must include a price
+2021-09-18 - drewuptown - All items for sale must include a price
+2021-09-18 - drewuptown - All items for sale must include a price
+2021-09-18 - teogeorgiou - Timestamps required for items over $50
