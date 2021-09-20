@@ -1213,3 +1213,7 @@
 2021-09-18 - TheHamGamer - Basic Rules
 2021-09-18 - TheHamGamer - PERM-BANNED
 2021-09-18 - Mafnas22 - Price Caps
+2021-09-19 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-09-19 - rediit3r - List Formatting Requirements
+2021-09-19 - TheHamGamer - List Formatting Requirements
+2021-09-19 - TheHamGamer - List Formatting Requirements
