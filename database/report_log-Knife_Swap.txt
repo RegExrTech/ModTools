@@ -637,3 +637,7 @@
 2021-09-18 - dooms25 - Timestamp and Description
 2021-09-18 - merkon - PERM-BANNED
 2021-09-18 - dooms25 - Timestamp and Description
+2021-09-19 - ksbot - METAs require mod permission 
+2021-09-19 - maugust09 - Timestamp and Description
+2021-09-19 - dooms25 - Timestamp and Description
+2021-09-19 - maugust09 - Timestamp and Description
