@@ -2412,3 +2412,7 @@
 2021-09-17 - DrShadyTree - Missing prices
 2021-09-17 - Petercartman89 - Timestamp
 2021-09-17 - DrShadyTree - Missing prices
+2021-09-20 - Petercartman89 - All BST must contain a price if asking for paypal.
+2021-09-20 - Petercartman89 - Timestamp does not match username
+2021-09-20 - Petercartman89 - Timestamp
+2021-09-20 - DrShadyTree - PERM-BANNED
