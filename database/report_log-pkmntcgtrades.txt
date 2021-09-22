@@ -1704,3 +1704,10 @@
 2021-09-20 - drewuptown - Timestamps required for items over $50
 2021-09-20 - teogeorgiou - All items for sale must include a price
 2021-09-20 - teogeorgiou - All items for sale must include a price
+2021-09-21 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-09-21 - teogeorgiou - Only PayPal as a form of payment
+2021-09-21 - teogeorgiou - Timestamps required for items over $50
+2021-09-21 - drewuptown - Keep trade offers in the comments, and personal in
+2021-09-21 - drewuptown - Timestamps required for items over $50
+2021-09-21 - drewuptown - Timestamps required for items over $50
+2021-09-21 - drewuptown - All items for sale must include a price

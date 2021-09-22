@@ -2416,3 +2416,9 @@
 2021-09-20 - Petercartman89 - Timestamp does not match username
 2021-09-20 - Petercartman89 - Timestamp
 2021-09-20 - DrShadyTree - PERM-BANNED
+2021-09-21 - Petercartman89 - Missing prices
+2021-09-21 - Petercartman89 - Timestamp
+2021-09-21 - Petercartman89 - Review the Rules
+2021-09-21 - Petercartman89 - Only Paypal
+2021-09-21 - Petercartman89 - Only Paypal
+2021-09-21 - Petercartman89 - Timestamp
