@@ -1711,3 +1711,7 @@
 2021-09-21 - drewuptown - Timestamps required for items over $50
 2021-09-21 - drewuptown - Timestamps required for items over $50
 2021-09-21 - drewuptown - All items for sale must include a price
+2021-09-22 - drewuptown - Timestamps required for items over $50
+2021-09-22 - teogeorgiou - Timestamps required for items over $50
+2021-09-22 - Arcashine - PERM-BANNED
+2021-09-22 - drewuptown - Keep trade offers in the comments, and personal in
