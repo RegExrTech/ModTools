@@ -1235,3 +1235,4 @@
 2021-09-23 - Mafnas22 - other
 2021-09-24 - Mafnas22 - Basic Rules
 2021-09-24 - TheHamGamer - List Formatting Requirements
+2021-09-25 - Mafnas22 - Price Caps
