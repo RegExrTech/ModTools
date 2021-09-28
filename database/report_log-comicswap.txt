@@ -110,3 +110,4 @@
 2021-09-17 - rabidmonkeys - CHANGED BAN - 7 days.
 2021-09-17 - rabidmonkeys - CHANGED BAN - 1 days.
 2021-09-21 - USLBot - PERM-BANNED
+2021-09-27 - USLBot - PERM-BANNED
