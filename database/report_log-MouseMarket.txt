@@ -95,3 +95,9 @@
 2021-09-25 - Gregapher_ - Rule 4: Timestamps
 2021-09-26 - Unciform - Rule 4: Timestamps
 2021-09-27 - Unciform - Rule 4: Timestamps
+2021-09-28 - Gregapher_ - Rule 1: Titles
+2021-09-28 - Unciform - Rule 1: Titles
+2021-09-28 - Unciform - Rule 1: Titles
+2021-09-28 - MouseMarketBot - Rule 1: Titles
+2021-09-28 - MouseMarketBot - Rule 1: Titles
+2021-09-28 - MouseMarketBot - Rule 1: Titles
