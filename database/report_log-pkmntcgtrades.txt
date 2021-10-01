@@ -1802,3 +1802,11 @@
 2021-09-29 - teogeorgiou - All items for sale must include a price
 2021-09-29 - drewuptown - Keep trade offers in the comments, and personal in
 2021-09-29 - drewuptown - Keep trade offers in the comments, and personal in
+2021-09-30 - teogeorgiou - Timestamps required for items over $50
+2021-09-30 - drewuptown - All items for sale must include a price
+2021-09-30 - drewuptown - All items for sale must include a price
+2021-09-30 - drewuptown - All items for sale must include a price
+2021-09-30 - drewuptown - Keep trade offers in the comments, and personal in
+2021-09-30 - drewuptown - Keep trade offers in the comments, and personal in
+2021-09-30 - teogeorgiou - Timestamps required for items over $50
+2021-09-30 - teogeorgiou - Missing prices and timestamps
