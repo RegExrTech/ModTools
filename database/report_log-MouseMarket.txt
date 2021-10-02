@@ -102,3 +102,5 @@
 2021-09-28 - MouseMarketBot - Rule 1: Titles
 2021-09-28 - MouseMarketBot - Rule 1: Titles
 2021-09-30 - Unciform - Rule 1: Titles
+2021-10-01 - Unciform - Rule 2: No external selling links or unrelated ite
+2021-10-01 - Unciform - Rule 4: Timestamps
