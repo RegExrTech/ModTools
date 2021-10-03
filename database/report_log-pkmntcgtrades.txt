@@ -1829,3 +1829,10 @@
 2021-10-01 - Lightning00 - Timestamps required for items over $50
 2021-10-02 - teogeorgiou - Timestamps required for items over $50
 2021-10-02 - teogeorgiou - Timestamps required for items over $50
+2021-10-02 - teogeorgiou - Timestamps required for items over $50
+2021-10-02 - teogeorgiou - PERM-BANNED
+2021-10-02 - teogeorgiou - Timestamps required for items over $50
+2021-10-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-02 - drewuptown - No selling or trading of PTCGO cards or codes
+2021-10-02 - drewuptown - Timestamps required for items over $50
+2021-10-02 - teogeorgiou - All items for sale must include a price
