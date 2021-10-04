@@ -105,3 +105,4 @@
 2021-10-01 - Unciform - Rule 2: No external selling links or unrelated ite
 2021-10-01 - Unciform - Rule 4: Timestamps
 2021-10-02 - Unciform - Rule 4: Timestamps
+2021-10-03 - Gregapher_ - Rule 4: Timestamps
