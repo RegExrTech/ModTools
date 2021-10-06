@@ -1852,3 +1852,13 @@
 2021-10-04 - teogeorgiou - Timestamps required for items over $50
 2021-10-04 - C011ECT0R - PERM-BANNED
 2021-10-04 - teogeorgiou - Timestamps required for items over $50
+2021-10-05 - teogeorgiou - Timestamps required for items over $50
+2021-10-05 - drewuptown - Timestamps required for items over $50
+2021-10-05 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-05 - drewuptown - Timestamps required for items over $50
+2021-10-05 - teogeorgiou - Timestamps required for items over $50
+2021-10-05 - AutoModerator - Only PayPal as a form of payment
+2021-10-05 - teogeorgiou - All items for sale must include a price
+2021-10-05 - teogeorgiou - All items for sale must include a price
+2021-10-05 - drewuptown - Only PayPal as a form of payment
+2021-10-05 - teogeorgiou - Timestamps required for items over $50
