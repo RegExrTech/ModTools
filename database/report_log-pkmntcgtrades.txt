@@ -1880,3 +1880,14 @@
 2021-10-06 - Lightning00 - All items for sale must include a price
 2021-10-06 - teogeorgiou - Old timestamp and missing prices
 2021-10-06 - drewuptown - BANNED - 30 days.
+2021-10-07 - teogeorgiou - Timestamps required for items over $50
+2021-10-07 - PokeSwapBot - Timestamps required for items over $50
+2021-10-07 - PokeSwapBot - Timestamps required for items over $50
+2021-10-07 - PokeSwapBot - Timestamps required for items over $50
+2021-10-07 - PokeSwapBot - Timestamps required for items over $50
+2021-10-07 - PokeSwapBot - Timestamps required for items over $50
+2021-10-07 - drewuptown - Timestamps required for items over $50
+2021-10-07 - Lightning00 - All items for sale must include a price
+2021-10-07 - teogeorgiou - All items for sale must include a price
+2021-10-07 - teogeorgiou - Timestamps required for items over $50
+2021-10-07 - teogeorgiou - All items for sale must include a price
