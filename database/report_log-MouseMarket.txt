@@ -107,3 +107,6 @@
 2021-10-02 - Unciform - Rule 4: Timestamps
 2021-10-03 - Gregapher_ - Rule 4: Timestamps
 2021-10-06 - Gregapher_ - Rule 4: Timestamps
+2021-10-07 - USLBot - PERM-BANNED
+2021-10-07 - Gregapher_ - Rule 4: Timestamps
+2021-10-07 - Gregapher_ - Rule 4: Timestamps
