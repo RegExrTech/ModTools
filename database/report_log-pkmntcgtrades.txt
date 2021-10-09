@@ -1891,3 +1891,18 @@
 2021-10-07 - teogeorgiou - All items for sale must include a price
 2021-10-07 - teogeorgiou - Timestamps required for items over $50
 2021-10-07 - teogeorgiou - All items for sale must include a price
+2021-10-08 - Lightning00 - All items for sale must include a price
+2021-10-08 - teogeorgiou - All items for sale must include a price
+2021-10-08 - teogeorgiou - Timestamps required for items over $50
+2021-10-08 - drewuptown - Timestamps required for items over $50
+2021-10-08 - drewuptown - Timestamps required for items over $50
+2021-10-08 - teogeorgiou - All items for sale must include a price
+2021-10-08 - teogeorgiou - Timestamps required for items over $50
+2021-10-08 - RegExr - All items for sale must include a price
+2021-10-08 - teogeorgiou - Timestamps required for items over $50
+2021-10-08 - drewuptown - All items for sale must include a price
+2021-10-08 - teogeorgiou - All items for sale must include a price
+2021-10-08 - drewuptown - Timestamps required for items over $50
+2021-10-08 - teogeorgiou - Timestamps required for items over $50
+2021-10-08 - teogeorgiou - Timestamps required for items over $50
+2021-10-08 - teogeorgiou - All items for sale must include a price
