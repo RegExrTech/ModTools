@@ -1253,3 +1253,4 @@
 2021-10-06 - FireAbyss - Basic Rules
 2021-10-06 - TheHamGamer - PERM-BANNED
 2021-10-06 - TheHamGamer - Price Caps
+2021-10-08 - FireAbyss - List Formatting Requirements
