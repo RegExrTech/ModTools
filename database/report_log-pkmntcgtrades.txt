@@ -1948,3 +1948,13 @@
 2021-10-11 - teogeorgiou - Timestamps required for items over $50
 2021-10-11 - teogeorgiou - Timestamps required for items over $50
 2021-10-11 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-12 - AutoModerator - Only PayPal as a form of payment
+2021-10-12 - drewuptown - Timestamps required for items over $50
+2021-10-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-12 - drewuptown - Timestamps required for items over $50
+2021-10-12 - drewuptown - All items for sale must include a price
+2021-10-12 - Jas_Jass - All items for sale must include a price
+2021-10-12 - drewuptown - Timestamps required for items over $50
+2021-10-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-12 - teogeorgiou - Timestamps required for items over $50
+2021-10-12 - teogeorgiou - All items for sale must include a price

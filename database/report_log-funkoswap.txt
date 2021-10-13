@@ -2433,3 +2433,5 @@
 2021-10-10 - DrShadyTree - Timestamp
 2021-10-10 - DrShadyTree - Timestamp out of date
 2021-10-10 - im_dslyexci - No more than Cost+Shipping for 1st month
+2021-10-12 - USLBot - PERM-BANNED
+2021-10-12 - DrShadyTree - Timestamp
