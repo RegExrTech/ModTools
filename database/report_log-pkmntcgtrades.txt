@@ -1981,3 +1981,14 @@
 2021-10-14 - drewuptown - Timestamps required for items over $50
 2021-10-14 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-10-14 - Lightning00 - Timestamps required for items over $50
+2021-10-15 - Lightning00 - Timestamps required for items over $50
+2021-10-15 - Lightning00 - All items for sale must include a price
+2021-10-15 - drewuptown - Keep trade offers in the comments, and personal in
+2021-10-15 - drewuptown - Timestamps required for items over $50
+2021-10-15 - Lightning00 - Timestamp and All items for sale must include a pr
+2021-10-15 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-10-15 - Lightning00 - All items for sale must include a price
+2021-10-15 - Lightning00 - Timestamps required for items over $50
+2021-10-15 - Lightning00 - All items for sale must include a price
+2021-10-15 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-10-15 - drewuptown - Timestamps required for items over $50
