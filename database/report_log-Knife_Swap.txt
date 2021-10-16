@@ -822,3 +822,5 @@
 2021-10-13 - dooms25 - Timestamp and Description
 2021-10-14 - maugust09 - Payment Methods
 2021-10-14 - Witty_Username_81 - PERM-BANNED
+2021-10-15 - Witty_Username_81 - Formatting and Detailed Description Requirements
+2021-10-15 - Witty_Username_81 - Timestamp and Description
