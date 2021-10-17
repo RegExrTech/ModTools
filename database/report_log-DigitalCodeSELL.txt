@@ -1265,3 +1265,7 @@
 2021-10-13 - TheHamGamer - No auction-style bidding.
 2021-10-13 - TheHamGamer - List Formatting Requirements
 2021-10-15 - FireAbyss - List Formatting Requirements
+2021-10-16 - TheHamGamer - Basic Rules
+2021-10-16 - TheHamGamer - List Formatting Requirements
+2021-10-16 - Mafnas22 - List Formatting Requirements
+2021-10-16 - Mafnas22 - List Formatting Requirements
