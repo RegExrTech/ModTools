@@ -2008,3 +2008,9 @@
 2021-10-17 - drewuptown - Timestamps required for items over $50
 2021-10-17 - drewuptown - Timestamps required for items over $50
 2021-10-17 - drewuptown - Timestamps required for items over $50
+2021-10-18 - Lightning00 - Asking for F&F payment under 25 feedback.
+2021-10-18 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-10-18 - AutoModerator - Only PayPal as a form of payment
+2021-10-18 - drewuptown - Timestamps required for items over $50
+2021-10-18 - teogeorgiou - All items for sale must include a price
+2021-10-18 - teogeorgiou - All items for sale must include a price
