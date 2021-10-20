@@ -2014,3 +2014,11 @@
 2021-10-18 - drewuptown - Timestamps required for items over $50
 2021-10-18 - teogeorgiou - All items for sale must include a price
 2021-10-18 - teogeorgiou - All items for sale must include a price
+2021-10-19 - drewuptown - Keep trade offers in the comments, and personal in
+2021-10-19 - teogeorgiou - All items for sale must include a price
+2021-10-19 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-10-19 - drewuptown - Keep trade offers in the comments, and personal in
+2021-10-19 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-10-19 - teogeorgiou - Only Pokemon Cards or Money on your side
+2021-10-19 - teogeorgiou - Missing price and timestamp
+2021-10-19 - teogeorgiou - All items for sale must include a price
