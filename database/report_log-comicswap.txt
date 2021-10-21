@@ -121,3 +121,5 @@
 2021-10-09 - rabidmonkeys - PERM-BANNED
 2021-10-13 - USLBot - PERM-BANNED
 2021-10-17 - rabidmonkeys - BANNED - 7 days.
+2021-10-20 - rabidmonkeys - PERM-BANNED
+2021-10-20 - USLBot - PERM-BANNED

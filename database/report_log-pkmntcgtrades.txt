@@ -2022,3 +2022,14 @@
 2021-10-19 - teogeorgiou - Only Pokemon Cards or Money on your side
 2021-10-19 - teogeorgiou - Missing price and timestamp
 2021-10-19 - teogeorgiou - All items for sale must include a price
+2021-10-20 - teogeorgiou - All items for sale must include a price
+2021-10-20 - teogeorgiou - Timestamps required for items over $50
+2021-10-20 - teogeorgiou - Price Policing/Shaming
+2021-10-20 - teogeorgiou - No external links allowed, missing timestamps
+2021-10-20 - teogeorgiou - Missing timestamps, fake cards
+2021-10-20 - teogeorgiou - Selling fake cards
+2021-10-20 - teogeorgiou - Timestamps required for items over $50
+2021-10-20 - teogeorgiou - Timestamps required for items over $50
+2021-10-20 - teogeorgiou - Timestamps required for items over $50
+2021-10-20 - drewuptown - Timestamps required for items over $50
+2021-10-20 - teogeorgiou - Timestamps required for items over $50
