@@ -2444,3 +2444,5 @@
 2021-10-19 - im_dslyexci - One (1) b/s/t post every 24 hours.
 2021-10-19 - j007conks - Picture w/ hand written Username and Date
 2021-10-20 - im_dslyexci - Picture w/ hand written Username and Date
+2021-10-21 - im_dslyexci - Pricing Rules
+2021-10-21 - FreddySwapBot - Timestamp out of date
