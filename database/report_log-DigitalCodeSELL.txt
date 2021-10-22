@@ -1275,3 +1275,6 @@
 2021-10-20 - Mafnas22 - Post Removal and/or Bans
 2021-10-20 - FireAbyss - Basic Rules
 2021-10-20 - USLBot - PERM-BANNED
+2021-10-21 - Mafnas22 - List Formatting Requirements
+2021-10-21 - TheHamGamer - List Formatting Requirements
+2021-10-21 - Mafnas22 - Price Caps
