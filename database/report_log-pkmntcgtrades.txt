@@ -2075,3 +2075,11 @@
 2021-10-23 - drewuptown - Timestamps required for items over $50
 2021-10-23 - teogeorgiou - Timestamps required for items over $50
 2021-10-23 - drewuptown - Price Policing/Shaming
+2021-10-24 - teogeorgiou - Timestamps required for items over $50
+2021-10-24 - teogeorgiou - Timestamps required for items over $50
+2021-10-24 - teogeorgiou - Asking F&F PayPal, insufficient timestamp
+2021-10-24 - teogeorgiou - Only PayPal as a form of payment
+2021-10-24 - teogeorgiou - All items for sale must include a price
+2021-10-24 - teogeorgiou - All items for sale must include a price
+2021-10-24 - drewuptown - PERM-BANNED
+2021-10-24 - drewuptown - PERM-BANNED
