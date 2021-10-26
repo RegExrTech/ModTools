@@ -131,8 +131,8 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			delta_string += " seconds"
 
 			reply_text = "This post has been removed because you have made more than one post in " + time_string + ".  "
-			reply_text += "You can make another post in " + delta_string + ". "
-			reply_text += "Please message the mods if you have any questions."
+			reply_text += "You can make another post in " + delta_string + "."
+			reply_text += "\n\nIf you're seeing this message because your previous post was removed for rule violations, please modify the removed post rather than making a new post. Then let the moderators know once you've done so and they will approve your post."
 			try:
 				reply = submission.reply(reply_text)
 				reply.mod.distinguish(sticky=True)
