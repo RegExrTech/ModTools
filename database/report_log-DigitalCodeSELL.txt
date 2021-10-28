@@ -1289,3 +1289,6 @@
 2021-10-26 - Mafnas22 - Post Removal and/or Bans
 2021-10-26 - Mafnas22 - Price Caps
 2021-10-26 - USLBot - PERM-BANNED
+2021-10-27 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-10-27 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-10-27 - Mafnas22 - BANNED - 3 days.
