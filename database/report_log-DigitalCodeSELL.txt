@@ -1292,3 +1292,4 @@
 2021-10-27 - DCSbot - Dont Third-Party an Ongoing Transaction
 2021-10-27 - DCSbot - Dont Third-Party an Ongoing Transaction
 2021-10-27 - Mafnas22 - BANNED - 3 days.
+2021-10-28 - USLBot - PERM-BANNED

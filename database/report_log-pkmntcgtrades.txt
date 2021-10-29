@@ -2102,3 +2102,12 @@
 2021-10-27 - teogeorgiou - Timestamps required for items over $50
 2021-10-27 - drewuptown - PERM-BANNED
 2021-10-27 - drewuptown - Price Policing/Shaming
+2021-10-28 - drewuptown - Timestamps required for items over $50
+2021-10-28 - drewuptown - Timestamps required for items over $50
+2021-10-28 - drewuptown - Timestamps required for items over $50
+2021-10-28 - drewuptown - All items for sale must include a price
+2021-10-28 - drewuptown - Timestamps required for items over $50
+2021-10-28 - drewuptown - Timestamps required for items over $50
+2021-10-28 - drewuptown - All items for sale must include a price
+2021-10-28 - teogeorgiou - All items for sale must include a price
+2021-10-28 - Jas_Jass - All items for sale must include a price
