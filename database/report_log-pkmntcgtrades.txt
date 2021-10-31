@@ -2118,3 +2118,10 @@
 2021-10-29 - teogeorgiou - Timestamps required for items over $50
 2021-10-29 - teogeorgiou - Timestamps required for items over $50
 2021-10-29 - teogeorgiou - Timestamps required for items over $50
+2021-10-30 - Lightning00 - All items for sale must include a price
+2021-10-30 - Lightning00 - Timestamps required for items over $50
+2021-10-30 - drewuptown - other
+2021-10-30 - PokeSwapBot - Its targeted harassment at someone else
+2021-10-30 - teogeorgiou - PERM-BANNED
+2021-10-30 - teogeorgiou - Timestamps required for items over $50
+2021-10-30 - Lightning00 - Timestamps required for items over $50
