@@ -2131,3 +2131,8 @@
 2021-10-31 - drewuptown - Keep trade offers in the comments, and personal in
 2021-10-31 - teogeorgiou - All items for sale must include a price
 2021-10-31 - teogeorgiou - All items for sale must include a price
+2021-11-01 - Lightning00 - Timestamps required for items over $50
+2021-11-01 - teogeorgiou - All items for sale must include a price
+2021-11-01 - drewuptown - Timestamps required for items over $50
+2021-11-01 - drewuptown - Keep trade offers in the comments, and personal in
+2021-11-01 - drewuptown - Timestamps required for items over $50

@@ -889,3 +889,4 @@
 2021-10-30 - maugust09 - Ignorance of the rules is not a valid defense agai
 2021-10-31 - maugust09 - Posting Rules (Flair)
 2021-10-31 - dooms25 - Timestamp and Description
+2021-11-01 - maugust09 - Formatting and Detailed Description Requirements

@@ -41,9 +41,11 @@ num_minutes_flair = float(config['minutes_no_flair'])
 imgur_freshness_days = float(config['imgur_freshness_days'])
 imgur_client = config['imgur_client']
 imgur_secret = config['imgur_secret']
+copy_bans_to = config['copy_bans_to'].split(",")
 
 debug = False
 
+PERM_BANNED = "PERM-BANNED"
 current_time = time.time()
 num_messages = 10
 num_posts_to_check = 100
@@ -102,16 +104,16 @@ def build_infraction_text(message, subject, subreddit_name, reddit):
 		except:
 			infraction = "BANNED - Unknown amount of time."
 	elif subject == "You've been permanently banned from participating in r/" + subreddit_name:
-		infraction = "PERM-BANNED"
+		infraction = PERM_BANNED
 	elif subject == "Your ban from r/" + subreddit_name + " has changed":
 		if 'You have been permanently banned from participating in' in message.messages[0].body_markdown:
-			infraction = "PERM-BANNED"
+			infraction = PERM_BANNED
 		else:
 			try:
 				days_banned = message.messages[0].body_markdown.split("This ban will last for ")[1].split(" ")[0]
 				infraction = "CHANGED BAN - " + days_banned + " days."
 			except:
-				infraction = "PERM-BANNED"
+				infraction = PERM_BANNED
 	return decode(infraction)
 
 def get_username_from_message(message):
@@ -271,6 +273,14 @@ def main(subreddit_name):
 			# Archive if action is from USLBot. Prevents clutter in modmail
 			if removing_mod == "USLBot" :
 				archive(message)
+
+			if infraction == PERM_BANNED:
+				for copy_sub_name in copy_bans_to:
+					try:
+						reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + subreddit_name)
+						print("Cross banned to r/" + copy_sub_name)
+					except Exception as e:
+						print("Unable to cross ban to r/" + copy_sub_name + ": " + str(e))
 
 			# Write off some info to the logs
 			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod)
