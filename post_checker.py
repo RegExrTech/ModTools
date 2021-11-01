@@ -99,6 +99,10 @@ def get_submissions(sub, num_posts_to_check):
 	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
 
 def handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post):
+	# Posts that have been automatically removed by automod shouldn't be counted.
+	if submission.banned_by == "AutoModerator":
+		return
+
 	# Get timestamp info and make sure we have seen posts from this author before
 	timestamp = submission.created_utc
 	if author not in frequency_database:
