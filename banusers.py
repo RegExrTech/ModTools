@@ -14,6 +14,7 @@
 """
 
 import praw
+import json
 
 def getbanned (r: praw.Reddit, subreddit: str) -> list :
     """
@@ -34,3 +35,23 @@ def banusers (r : praw.Reddit, list: list, subreddit: str) -> None :
         if user not in r.subreddit(subreddit).banned() :
             r.subreddit('c4crep').banned.add(user)
             print ("Banned", user)
+
+def writebanned (list: list, filename: str = 'banned.json') -> None :
+    """
+    Write the list of banned users to the disk
+
+    This will overwrite the file if it exists.
+    """
+    try :
+        with open(filename, 'x') as f :
+            json.dump(list, f)
+    except FileExistsError : #janky but functional solution to avoid importing the os library
+        with open(filename, 'w') as f :
+            json.dump(list, f)
+
+def readbanned (filename: str = 'banned.json') -> list :
+    """
+    Read the list of banned users from the disk
+    """
+    with open(filename, "r") as f :
+        return json.load(f)
