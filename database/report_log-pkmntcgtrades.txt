@@ -2142,3 +2142,7 @@
 2021-11-01 - teogeorgiou - Only PayPal as a form of payment
 2021-11-01 - teogeorgiou - Only PayPal as a form of payment
 2021-11-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-11-02 - drewuptown - All items for sale must include a price
+2021-11-02 - teogeorgiou - Timestamps required for items over $50
+2021-11-02 - teogeorgiou - Timestamps required for items over $50
+2021-11-02 - teogeorgiou - Timestamps required for items over $50

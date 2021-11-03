@@ -1392,3 +1392,10 @@
 2021-11-01 - AutoModerator - Rule 11 - Payment Methods For Beginners
 2021-11-01 - AutoModerator - Rule 11 - Payment Methods For Beginners
 2021-11-01 - AutoModerator - Rule 17 - Restricted Brands
+2021-11-02 - Fishering - BANNED - 14 days.
+2021-11-02 - Fishering - CHANGED BAN - 14 days.
+2021-11-02 - Fishering - PERM-BANNED
+2021-11-02 - USLBot - PERM-BANNED
+2021-11-02 - AutoModerator - Rule 17 - Restricted Brands
+2021-11-02 - AutoModerator - Rule 11 - Payment Methods For Beginners
+2021-11-02 - Fishering - PERM-BANNED
