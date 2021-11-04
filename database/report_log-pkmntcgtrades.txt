@@ -2146,3 +2146,16 @@
 2021-11-02 - teogeorgiou - Timestamps required for items over $50
 2021-11-02 - teogeorgiou - Timestamps required for items over $50
 2021-11-02 - teogeorgiou - Timestamps required for items over $50
+2021-11-03 - drewuptown - All items for sale must include a price
+2021-11-03 - drewuptown - All items for sale must include a price
+2021-11-03 - drewuptown - Keep trade offers in the comments, and personal in
+2021-11-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-11-03 - drewuptown - Timestamps required for items over $50
+2021-11-03 - drewuptown - All items for sale must include a price
+2021-11-03 - drewuptown - No eBay or other website links or references
+2021-11-03 - Lightning00 - Outdated timestamp and items for sale must include
+2021-11-03 - teogeorgiou - All items for sale must include a price
+2021-11-03 - drewuptown - Timestamps required for items over $50
+2021-11-03 - drewuptown - All items for sale must include a price
+2021-11-03 - drewuptown - Timestamps required for items over $50
+2021-11-03 - teogeorgiou - Missing timestamps and no ebay links/names
