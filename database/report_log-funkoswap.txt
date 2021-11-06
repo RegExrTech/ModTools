@@ -2468,3 +2468,4 @@
 2021-11-02 - DrShadyTree - Timestamp
 2021-11-02 - RegExrBot - PERM-BANNED
 2021-11-03 - im_dslyexci - Picture w/ hand written Username and Date
+2021-11-05 - DrShadyTree - Review the Rules

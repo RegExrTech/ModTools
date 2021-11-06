@@ -905,3 +905,7 @@
 2021-11-04 - maugust09 - Formatting and Detailed Description Requirements
 2021-11-04 - dooms25 - Timestamp and Description
 2021-11-04 - maugust09 - Ignorance of the rules is not a valid defense agai
+2021-11-05 - merkon - Timestamp and Description
+2021-11-05 - merkon - PERM-BANNED
+2021-11-05 - merkon - PERM-BANNED
+2021-11-05 - USLBot - PERM-BANNED
