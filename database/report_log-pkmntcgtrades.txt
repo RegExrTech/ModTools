@@ -2168,3 +2168,6 @@
 2021-11-05 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-11-05 - drewuptown - PERM-BANNED
 2021-11-05 - teogeorgiou - Timestamps required for items over $50
+2021-11-06 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-11-06 - AutoModerator - Only PayPal as a form of payment
+2021-11-06 - PokeSwapBot - Do not spam or hijack other peoples trade offers

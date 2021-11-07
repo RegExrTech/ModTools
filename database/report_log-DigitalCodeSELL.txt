@@ -1316,3 +1316,6 @@
 2021-11-03 - Mafnas22 - List Formatting Requirements
 2021-11-04 - Mafnas22 - List Formatting Requirements
 2021-11-04 - Mafnas22 - Post Removal and/or Bans
+2021-11-06 - DCSbot - Dont Third-Party an Ongoing Transaction
+2021-11-06 - Mafnas22 - List Formatting Requirements
+2021-11-06 - Mafnas22 - Post Removal and/or Bans
