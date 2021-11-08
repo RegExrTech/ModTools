@@ -2470,3 +2470,4 @@
 2021-11-03 - im_dslyexci - Picture w/ hand written Username and Date
 2021-11-05 - DrShadyTree - Review the Rules
 2021-11-06 - DrShadyTree - Only Paypal
+2021-11-07 - DrShadyTree - Timestamp out of date

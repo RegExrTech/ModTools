@@ -168,3 +168,6 @@
 2021-11-04 - Gregapher_ - Rule 4: Timestamps
 2021-11-04 - NinjAsaya - Rule 1: Titles
 2021-11-05 - USLBot - PERM-BANNED
+2021-11-07 - Unciform - Rule 1: Titles
+2021-11-07 - Unciform - Rule 4: Timestamps
+2021-11-07 - USLBot - PERM-BANNED
