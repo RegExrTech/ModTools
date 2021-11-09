@@ -171,3 +171,4 @@
 2021-11-07 - Unciform - Rule 1: Titles
 2021-11-07 - Unciform - Rule 4: Timestamps
 2021-11-07 - USLBot - PERM-BANNED
+2021-11-08 - Gregapher_ - Rule 4: Timestamps
