@@ -2471,3 +2471,6 @@
 2021-11-05 - DrShadyTree - Review the Rules
 2021-11-06 - DrShadyTree - Only Paypal
 2021-11-07 - DrShadyTree - Timestamp out of date
+2021-11-09 - DrShadyTree - Timestamp
+2021-11-09 - FreddySwapBot - Timestamp out of date
+2021-11-09 - FreddySwapBot - Timestamp out of date

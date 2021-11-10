@@ -172,3 +172,10 @@
 2021-11-07 - Unciform - Rule 4: Timestamps
 2021-11-07 - USLBot - PERM-BANNED
 2021-11-08 - Gregapher_ - Rule 4: Timestamps
+2021-11-09 - Unciform - Rule 2: No external selling links or unrelated ite
+2021-11-09 - Unciform - PERM-BANNED
+2021-11-09 - Unciform - Rule 2: No external selling links or unrelated ite
+2021-11-09 - USLBot - PERM-BANNED
+2021-11-09 - Gregapher_ - Rule 1: Titles
+2021-11-09 - Gregapher_ - Rule 4: Timestamps
+2021-11-09 - Gregapher_ - Rule 4: Timestamps
