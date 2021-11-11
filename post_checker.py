@@ -166,6 +166,10 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 			# Lock post
 			if lock_post:
 				submission.mod.lock()
+
+			# Log some fun stuff
+			print(author + " - " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  + " - https://redd.it/" + submission.id + " - Violated posting frequency rule.")
+			print("===========================================")
 		else:
 			print("Would have removed post " + submission.id)
 	else: # If this is a new post and is valid, update the saved timestamp
