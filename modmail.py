@@ -211,7 +211,7 @@ def main(subreddit_name):
 			continue
 
 		post_checker.handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username, lock_post)
-		post_checker.handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post)
+		post_checker.handle_post_frequency(reddit, submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post)
 
 	if not debug:
 		dump(frequency_database, frequency_fname)

@@ -2,6 +2,7 @@ import datetime
 from collections import defaultdict
 import re
 import report
+import time
 
 ######################
 ##                  ##
@@ -98,18 +99,18 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddi
 def get_submissions(sub, num_posts_to_check):
 	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
 
-def handle_post_frequency(submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post):
+def handle_post_frequency(reddit, submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post):
 	# Posts that have been automatically removed by automod shouldn't be counted.
 	if submission.banned_by == "AutoModerator":
 		return
 
 	# Get timestamp info and make sure we have seen posts from this author before
 	timestamp = submission.created_utc
-	if author not in frequency_database:
-		frequency_database[author] = 0
+	if author not in frequency_database or frequency_database[author] == []:
+		frequency_database[author] = [{'timestamp': timestamp, 'post_id': submission.id}]
 
 	# If this post was the most recent post from this author, then we have checked it before
-	last_timestamp = frequency_database[author]
+	last_timestamp = frequency_database[author][-1]['timestamp']
 	if last_timestamp == timestamp:
 		return
 
@@ -117,7 +118,23 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 	if last_timestamp > timestamp:
 		return
 
-	# If this post was made too recently
+	# Filter out posts that were removed by automod
+	# Do this AFTER checking timestamps above so we avoid making extranious reddit API calls
+	new_post_data_list = []
+	for post_data in frequency_database[author]:
+		if not post_data['post_id']:
+			new_post_data_list.append(post_data)
+			continue
+		if not reddit.submission(post_data['post_id']).banned_by == "AutoModerator":
+			new_post_data_list.append(post_data)
+	frequency_database[author] = new_post_data_list
+	if len(frequency_database[author]) == 0:
+		frequency_database[author] = [{'timestamp': timestamp, 'post_id': submission.id}]
+
+	# Reset the last_timestamp variable as it might have changed after filtering out automod removed posts
+	last_timestamp = frequency_database[author][-1]['timestamp']
+
+	# If this post was made too recently and it was not previously approved
 	delta = timestamp - last_timestamp
 	if delta < seconds_between_posts and not submission.approved:
 		if not debug:
@@ -150,7 +167,15 @@ def handle_post_frequency(submission, author, frequency_database, debug, days_be
 			print("Would have removed post " + submission.id)
 	else: # If this is a new post and is valid, update the saved timestamp
 		if timestamp > last_timestamp:
-			frequency_database[author] = timestamp
+			frequency_database[author].append({'timestamp': timestamp, 'post_id': submission.id})
+
+	# Remove any posts from the user history that are past the frequency threshold
+	new_post_data_list = []
+	for post_data in frequency_database[author]:
+		timestamp = post_data['timestamp']
+		if time.time() - timestamp <= seconds_between_posts:
+			new_post_data_list.append(post_data)
+	frequency_database[author] = new_post_data_list
 
 def handle_imgur_freshness(imgur, submission, sub, subreddit_name, imgur_freshness_days, current_time, bot_username, lock_post):
 	# Check for Imgur freshness
