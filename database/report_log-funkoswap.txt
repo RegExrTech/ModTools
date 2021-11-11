@@ -2474,3 +2474,6 @@
 2021-11-09 - DrShadyTree - Timestamp
 2021-11-09 - FreddySwapBot - Timestamp out of date
 2021-11-09 - FreddySwapBot - Timestamp out of date
+2021-11-10 - DrShadyTree - Missing prices
+2021-11-10 - im_dslyexci - Picture w/ hand written Username and Date
+2021-11-10 - DrShadyTree - Timestamp out of date

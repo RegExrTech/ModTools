@@ -179,3 +179,5 @@
 2021-11-09 - Gregapher_ - Rule 1: Titles
 2021-11-09 - Gregapher_ - Rule 4: Timestamps
 2021-11-09 - Gregapher_ - Rule 4: Timestamps
+2021-11-10 - Unciform - Rule 4: Timestamps
+2021-11-10 - Gregapher_ - Rule 4: Timestamps
