@@ -133,6 +133,7 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 
 	# Reset the last_timestamp variable as it might have changed after filtering out automod removed posts
 	last_timestamp = frequency_database[author][-1]['timestamp']
+	last_post_id = frequency_database[author][-1]['post_id']
 
 	# If this post was made too recently and it was not previously approved
 	delta = timestamp - last_timestamp
@@ -151,7 +152,9 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 			delta_string = delta_string.replace(":", " minutes, and ", 1)
 			delta_string += " seconds"
 
-			reply_text = "This post has been removed because you have made more than one post in " + time_string + ".  "
+			reply_text = "This post has been removed because you have made more than one post in " + time_string + ". "
+			if last_post_id:
+				reply_text += "You can find your most recent post [here](https://redd.it/" + last_post_id  + "). "
 			reply_text += "You can make another post in " + delta_string + "."
 			reply_text += "\n\nIf you're seeing this message because your previous post was removed for rule violations, please modify the removed post rather than making a new post. Then let the moderators know once you've done so and they will approve your post."
 			try:
