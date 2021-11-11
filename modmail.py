@@ -41,7 +41,7 @@ num_minutes_flair = float(config['minutes_no_flair'])
 imgur_freshness_days = float(config['imgur_freshness_days'])
 imgur_client = config['imgur_client']
 imgur_secret = config['imgur_secret']
-copy_bans_to = config['copy_bans_to'].split(",")
+copy_bans_to = [x for x in config['copy_bans_to'].split(",") if x]
 
 debug = False
 
