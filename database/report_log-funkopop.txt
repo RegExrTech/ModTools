@@ -14892,3 +14892,5 @@
 2021-11-11 - kali546 - No Self Promotion out of specific posts
 2021-11-11 - kali546 - Weekly Q&A
 2021-11-11 - kali546 - Weekly Q&A
+2021-11-11 - RegExr - No promotion of bots/flipping
+2021-11-11 - RegExr - Duplicate Post
