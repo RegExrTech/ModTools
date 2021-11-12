@@ -160,6 +160,7 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 			try:
 				reply = submission.reply(reply_text)
 				reply.mod.distinguish(sticky=True)
+				reply.mod.lock()
 			except Exception as e:
 				print("Unable to reply to post: redd.it/" + (submission.id) + " with error " + str(e))
 
