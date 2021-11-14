@@ -2479,3 +2479,5 @@
 2021-11-10 - DrShadyTree - Timestamp out of date
 2021-11-12 - FreddySwapBot - Timestamp out of date
 2021-11-12 - DrShadyTree - Timestamp
+2021-11-13 - USLBot - PERM-BANNED
+2021-11-13 - USLBot - PERM-BANNED
