@@ -2229,3 +2229,5 @@
 2021-11-13 - drewuptown - Timestamps required for items over $50
 2021-11-13 - drewuptown - Timestamps required for items over $50
 2021-11-13 - drewuptown - BANNED - 14 days.
+2021-11-14 - Lightning00 - All items for sale must include a price
+2021-11-14 - teogeorgiou - Timestamps required for items over $50
