@@ -2482,3 +2482,5 @@
 2021-11-13 - USLBot - PERM-BANNED
 2021-11-13 - USLBot - PERM-BANNED
 2021-11-14 - ruemeridian - 30 Day Limit
+2021-11-15 - DrShadyTree - Flipping
+2021-11-15 - DrShadyTree - Timestamp
