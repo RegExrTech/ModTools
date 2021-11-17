@@ -2484,3 +2484,4 @@
 2021-11-14 - ruemeridian - 30 Day Limit
 2021-11-15 - DrShadyTree - Flipping
 2021-11-15 - DrShadyTree - Timestamp
+2021-11-16 - RegExrBot - PERM-BANNED
