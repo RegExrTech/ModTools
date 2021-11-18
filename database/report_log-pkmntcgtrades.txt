@@ -2254,3 +2254,7 @@
 2021-11-16 - Jas_Jass - BANNED - 14 days.
 2021-11-16 - Lightning00 - Timestamps required for items over $50
 2021-11-16 - drewuptown - Timestamps required for items over $50
+2021-11-17 - drewuptown - All items for sale must include a price
+2021-11-17 - drewuptown - Timestamps required for items over $50
+2021-11-17 - drewuptown - Timestamps required for items over $50
+2021-11-17 - Lightning00 - Timestamps required for items over $50
