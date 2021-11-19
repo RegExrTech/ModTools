@@ -2258,3 +2258,11 @@
 2021-11-17 - drewuptown - Timestamps required for items over $50
 2021-11-17 - drewuptown - Timestamps required for items over $50
 2021-11-17 - Lightning00 - Timestamps required for items over $50
+2021-11-18 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-11-18 - drewuptown - Only PayPal as a form of payment
+2021-11-18 - drewuptown - No eBay or other website links or references
+2021-11-18 - drewuptown - All items for sale must include a price
+2021-11-18 - drewuptown - Timestamps required for items over $50
+2021-11-18 - drewuptown - Only PayPal as a form of payment
+2021-11-18 - drewuptown - Keep trade offers in the comments, and personal in
+2021-11-18 - Lightning00 - Timestamps required for items over $50
