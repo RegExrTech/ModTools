@@ -20,3 +20,4 @@
 2021-06-20 - FishingSwapBot - Only PayPal G&S as a form of payment
 2021-07-27 - AutoModerator - Only PayPal G&S as a form of payment
 2021-09-22 - AutoModerator - Only PayPal G&S as a form of payment
+2021-11-20 - Spyderr8 - Title Formatting

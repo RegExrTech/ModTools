@@ -202,3 +202,6 @@
 2021-11-17 - Gregapher_ - Rule 4: Timestamps
 2021-11-18 - Gregapher_ - Rule 4: Timestamps
 2021-11-18 - Gregapher_ - Rule 4: Timestamps
+2021-11-20 - USLBot - PERM-BANNED
+2021-11-20 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2021-11-20 - MouseMarketBot - Rule 4: Timestamps

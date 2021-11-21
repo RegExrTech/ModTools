@@ -2487,3 +2487,4 @@
 2021-11-16 - RegExrBot - PERM-BANNED
 2021-11-17 - DrShadyTree - Timestamp
 2021-11-19 - im_dslyexci - Pricing Rules
+2021-11-20 - im_dslyexci - Picture w/ hand written Username and Date
