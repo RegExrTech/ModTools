@@ -2300,3 +2300,6 @@
 2021-11-22 - drewuptown - Timestamps required for items over $50
 2021-11-22 - drewuptown - Timestamps required for items over $50
 2021-11-22 - drewuptown - Timestamps required for items over $50
+2021-11-23 - Jas_Jass - Keep trade offers in the comments, and personal in
+2021-11-23 - teogeorgiou - Timestamps required for items over $50
+2021-11-23 - Lightning00 - PERM-BANNED
