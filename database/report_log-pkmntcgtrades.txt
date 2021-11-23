@@ -2295,3 +2295,8 @@
 2021-11-21 - drewuptown - Timestamps required for items over $50
 2021-11-21 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-11-21 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-11-22 - Lightning00 - Timestamps required for items over $50
+2021-11-22 - Lightning00 - No selling or trading of PTCGO cards or codes
+2021-11-22 - drewuptown - Timestamps required for items over $50
+2021-11-22 - drewuptown - Timestamps required for items over $50
+2021-11-22 - drewuptown - Timestamps required for items over $50
