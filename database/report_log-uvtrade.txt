@@ -370,3 +370,4 @@
 2021-11-19 - TheHamGamer - List Requirements and Formatting
 2021-11-22 - USLBot - PERM-BANNED
 2021-11-22 - USLBot - PERM-BANNED
+2021-11-24 - USLBot - PERM-BANNED
