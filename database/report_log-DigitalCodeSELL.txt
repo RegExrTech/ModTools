@@ -1342,3 +1342,5 @@
 2021-11-23 - USLBot - PERM-BANNED
 2021-11-24 - Mafnas22 - Basic Rules
 2021-11-24 - Mafnas22 - Proper Transaction Etiquette
+2021-11-25 - Mafnas22 - Scammers & Sketchy Users
+2021-11-25 - Mafnas22 - List Formatting Requirements

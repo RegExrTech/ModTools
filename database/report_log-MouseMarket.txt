@@ -207,3 +207,4 @@
 2021-11-20 - MouseMarketBot - Rule 4: Timestamps
 2021-11-21 - Unciform - Rule 2: No external selling links or unrelated ite
 2021-11-22 - Unciform - Rule 2: No external selling links or unrelated ite
+2021-11-25 - Gregapher_ - Rule 2: No external selling links or unrelated ite
