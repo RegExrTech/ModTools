@@ -959,3 +959,5 @@
 2021-11-25 - merkon - Timestamp and Description
 2021-11-25 - merkon - Timestamp and Description
 2021-11-25 - merkon - Timestamp and Description
+2021-11-26 - maugust09 - PERM-BANNED
+2021-11-26 - maugust09 - Formatting and Detailed Description Requirements

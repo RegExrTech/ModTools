@@ -2322,3 +2322,7 @@
 2021-11-25 - Lightning00 - Timestamps required for items over $50
 2021-11-25 - AutoModerator - Only PayPal as a form of payment
 2021-11-25 - drewuptown - Keep trade offers in the comments, and personal in
+2021-11-26 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-11-26 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-11-26 - teogeorgiou - Timestamps required for items over $50
+2021-11-26 - Lightning00 - All items for sale must include a price
