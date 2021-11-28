@@ -961,3 +961,8 @@
 2021-11-25 - merkon - Timestamp and Description
 2021-11-26 - maugust09 - PERM-BANNED
 2021-11-26 - maugust09 - Formatting and Detailed Description Requirements
+2021-11-27 - maugust09 - Ignorance of the rules is not a valid defense agai
+2021-11-27 - maugust09 - Timestamp and Description
+2021-11-27 - maugust09 - Posting Rules (Flair)
+2021-11-27 - maugust09 - Timestamp and Description
+2021-11-27 - USLBot - PERM-BANNED
