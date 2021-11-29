@@ -2499,3 +2499,4 @@
 2021-11-26 - FreddySwapBot - Timestamp out of date
 2021-11-27 - DrShadyTree - Only Paypal
 2021-11-27 - RegExrBot - PERM-BANNED
+2021-11-28 - FreddySwapBot - Timestamp out of date
