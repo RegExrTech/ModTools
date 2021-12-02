@@ -2356,3 +2356,7 @@
 2021-11-30 - teogeorgiou - All items for sale must include a price
 2021-11-30 - drewuptown - Timestamps required for items over $50
 2021-11-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-01 - Lightning00 - Only PayPal as a form of payment
+2021-12-01 - Lightning00 - All items for sale must include a price
+2021-12-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-01 - drewuptown - All items for sale must include a price
