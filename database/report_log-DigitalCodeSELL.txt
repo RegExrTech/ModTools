@@ -1365,3 +1365,5 @@
 2021-12-01 - Mafnas22 - List Formatting Requirements
 2021-12-01 - Mafnas22 - List Formatting Requirements
 2021-12-01 - TheHamGamer - List Formatting Requirements
+2021-12-02 - TheHamGamer - Basic Rules
+2021-12-02 - TheHamGamer - List Formatting Requirements
