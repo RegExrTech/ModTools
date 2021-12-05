@@ -2364,3 +2364,5 @@
 2021-12-02 - Jas_Jass - Only PayPal as a form of payment
 2021-12-03 - drewuptown - All items for sale must include a price
 2021-12-03 - drewuptown - Keep trade offers in the comments, and personal in
+2021-12-04 - AutoModerator - Only PayPal as a form of payment
+2021-12-04 - AutoModerator - Only PayPal as a form of payment

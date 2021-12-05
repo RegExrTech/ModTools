@@ -218,3 +218,4 @@
 2021-12-02 - Unciform - Rule 1: Titles
 2021-12-02 - Unciform - Rule 4: Timestamps
 2021-12-03 - Unciform - Rule 1: Titles
+2021-12-04 - USLBot - PERM-BANNED
