@@ -2366,3 +2366,8 @@
 2021-12-03 - drewuptown - Keep trade offers in the comments, and personal in
 2021-12-04 - AutoModerator - Only PayPal as a form of payment
 2021-12-04 - AutoModerator - Only PayPal as a form of payment
+2021-12-05 - drewuptown - No selling or trading of PTCGO cards or codes
+2021-12-05 - drewuptown - Timestamps required for items over $50
+2021-12-05 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-05 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-05 - drewuptown - Keep trade offers in the comments, and personal in
