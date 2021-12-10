@@ -224,3 +224,4 @@
 2021-12-07 - Gregapher_ - Rule 4: Timestamps
 2021-12-07 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2021-12-08 - USLBot - PERM-BANNED
+2021-12-09 - Gregapher_ - Rule 4: Timestamps
