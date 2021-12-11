@@ -2423,3 +2423,15 @@
 2021-12-09 - teogeorgiou - Missing timestamp and prices
 2021-12-09 - teogeorgiou - Timestamps required for items over $50
 2021-12-09 - teogeorgiou - Timestamps required for items over $50
+2021-12-10 - Lightning00 - Keep trade offers in the comments, and personal in
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - Missing prices and timestamp
+2021-12-10 - teogeorgiou - Timestamps required for items over $50
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-10 - teogeorgiou - All items for sale must include a price
