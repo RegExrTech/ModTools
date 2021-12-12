@@ -2519,3 +2519,5 @@
 2021-12-09 - im_dslyexci - Picture w/ hand written Username and Date
 2021-12-10 - USLBot - PERM-BANNED
 2021-12-10 - FreddySwapBot - Timestamp out of date
+2021-12-11 - DrShadyTree - Missing prices
+2021-12-11 - im_dslyexci - Picture w/ hand written Username and Date

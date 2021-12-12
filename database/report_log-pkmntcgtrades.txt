@@ -2435,3 +2435,5 @@
 2021-12-10 - teogeorgiou - All items for sale must include a price
 2021-12-10 - teogeorgiou - All items for sale must include a price
 2021-12-10 - teogeorgiou - All items for sale must include a price
+2021-12-11 - teogeorgiou - Timestamps required for items over $50
+2021-12-11 - teogeorgiou - Timestamps required for items over $50
