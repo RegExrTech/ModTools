@@ -2522,3 +2522,5 @@
 2021-12-11 - DrShadyTree - Missing prices
 2021-12-11 - im_dslyexci - Picture w/ hand written Username and Date
 2021-12-12 - im_dslyexci - Picture w/ hand written Username and Date
+2021-12-13 - im_dslyexci - Picture w/ hand written Username and Date
+2021-12-13 - im_dslyexci - Pricing Rules
