@@ -2484,3 +2484,6 @@
 2021-12-15 - Lightning00 - No selling or trading of PTCGO cards or codes
 2021-12-15 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2021-12-15 - drewuptown - Timestamps required for items over $50
+2021-12-16 - AutoModerator - Only PayPal as a form of payment
+2021-12-16 - drewuptown - Timestamps required for items over $50
+2021-12-16 - teogeorgiou - Timestamps required for items over $50
