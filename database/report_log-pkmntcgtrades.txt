@@ -2487,3 +2487,12 @@
 2021-12-16 - AutoModerator - Only PayPal as a form of payment
 2021-12-16 - drewuptown - Timestamps required for items over $50
 2021-12-16 - teogeorgiou - Timestamps required for items over $50
+2021-12-17 - teogeorgiou - Timestamps required for items over $50
+2021-12-17 - teogeorgiou - All items for sale must include a price
+2021-12-17 - drewuptown - Only PayPal as a form of payment
+2021-12-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-17 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2021-12-17 - drewuptown - Keep trade offers in the comments, and personal in
+2021-12-17 - teogeorgiou - Timestamps required for items over $50
+2021-12-17 - SageLikesPokemon - PERM-BANNED
+2021-12-17 - teogeorgiou - PERM-BANNED
