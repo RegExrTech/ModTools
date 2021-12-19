@@ -2496,3 +2496,8 @@
 2021-12-17 - teogeorgiou - Timestamps required for items over $50
 2021-12-17 - SageLikesPokemon - PERM-BANNED
 2021-12-17 - teogeorgiou - PERM-BANNED
+2021-12-18 - PokeSwapBot - Jap is considered derogatory, please post again 
+2021-12-18 - AutoModerator - Only PayPal as a form of payment
+2021-12-18 - teogeorgiou - All items for sale must include a price
+2021-12-18 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-12-18 - teogeorgiou - Baseless accusations 
