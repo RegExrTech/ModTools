@@ -2512,3 +2512,6 @@
 2021-12-20 - teogeorgiou - Price Policing/Shaming
 2021-12-20 - AutoModerator - Only PayPal as a form of payment
 2021-12-20 - teogeorgiou - Timestamps required for items over $50
+2021-12-21 - teogeorgiou - Timestamps required for items over $50
+2021-12-21 - teogeorgiou - All items for sale must include a price
+2021-12-21 - teogeorgiou - Only PayPal as a form of payment
