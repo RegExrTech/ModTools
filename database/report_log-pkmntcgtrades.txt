@@ -2515,3 +2515,15 @@
 2021-12-21 - teogeorgiou - Timestamps required for items over $50
 2021-12-21 - teogeorgiou - All items for sale must include a price
 2021-12-21 - teogeorgiou - Only PayPal as a form of payment
+2021-12-22 - teogeorgiou - Timestamps required for items over $50
+2021-12-22 - teogeorgiou - Missing prices and timestamps
+2021-12-22 - teogeorgiou - All items for sale must include a price
+2021-12-22 - drewuptown - Timestamps required for items over $50
+2021-12-22 - drewuptown - Timestamps required for items over $50
+2021-12-22 - drewuptown - No selling or trading of PTCGO cards or codes
+2021-12-22 - teogeorgiou - Timestamps required for items over $50
+2021-12-22 - teogeorgiou - All items for sale must include a price
+2021-12-22 - teogeorgiou - PERM-BANNED
+2021-12-22 - teogeorgiou - Timestamps required for items over $50
+2021-12-22 - teogeorgiou - Timestamps required for items over $50
+2021-12-22 - teogeorgiou - Timestamps required for items over $50
