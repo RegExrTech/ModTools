@@ -258,3 +258,4 @@
 2021-12-20 - USLBot - PERM-BANNED
 2021-12-21 - Gregapher_ - BANNED - 1 days.
 2021-12-21 - Unciform - Rule 4: Timestamps
+2021-12-23 - Unciform - Rule 1: Titles
