@@ -2528,3 +2528,9 @@
 2021-12-22 - teogeorgiou - Timestamps required for items over $50
 2021-12-22 - teogeorgiou - Timestamps required for items over $50
 2021-12-23 - teogeorgiou - Timestamp missing, no code cards
+2021-12-24 - Jas_Jass - Timestamps required for items over $50
+2021-12-24 - teogeorgiou - Keep trade offers in the comments, and personal in
+2021-12-24 - drewuptown - Timestamps required for items over $50
+2021-12-24 - drewuptown - Timestamps required for items over $50
+2021-12-24 - drewuptown - Only PayPal as a form of payment
+2021-12-24 - PokeSwapBot - Do not spam or hijack other peoples trade offers
