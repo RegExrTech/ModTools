@@ -1418,3 +1418,4 @@
 2021-12-23 - Mafnas22 - Post Removal and/or Bans
 2021-12-23 - USLBot - PERM-BANNED
 2021-12-23 - TheHamGamer - PERM-BANNED
+2021-12-25 - stetsonaw - List Formatting Requirements
