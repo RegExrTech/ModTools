@@ -2537,3 +2537,4 @@
 2021-12-25 - teogeorgiou - All items for sale must include a price
 2021-12-25 - teogeorgiou - Keep trade offers in the comments, and personal in
 2021-12-25 - drewuptown - Timestamps required for items over $50
+2021-12-26 - drewuptown - BANNED - 7 days.
