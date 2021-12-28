@@ -262,3 +262,6 @@
 2021-12-24 - Gregapher_ - Rule 1: Titles
 2021-12-24 - USLBot - PERM-BANNED
 2021-12-26 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2021-12-27 - Gregapher_ - Rule 4: Timestamps
+2021-12-27 - Unciform - Rule 4: Timestamps
+2021-12-27 - Unciform - Rule 2: No external selling links or unrelated ite
