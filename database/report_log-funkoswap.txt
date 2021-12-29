@@ -2536,3 +2536,4 @@
 2021-12-23 - j007conks - Pricing Rules
 2021-12-26 - im_dslyexci - Picture w/ hand written Username and Date
 2021-12-27 - DrShadyTree - Missing prices
+2021-12-28 - DrShadyTree - Only Paypal
