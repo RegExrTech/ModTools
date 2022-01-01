@@ -2545,3 +2545,5 @@
 2021-12-30 - im_dslyexci - Only comment on a B/S/T if you are interested.
 2021-12-30 - im_dslyexci - Only comment on a B/S/T if you are interested.
 2021-12-30 - im_dslyexci - Only comment on a B/S/T if you are interested.
+2021-12-31 - im_dslyexci - Title must follow the correct format
+2021-12-31 - USLBot - PERM-BANNED
