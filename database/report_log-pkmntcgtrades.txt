@@ -2592,3 +2592,18 @@
 2021-12-31 - teogeorgiou - All items for sale must include a price
 2021-12-31 - teogeorgiou - Timestamps required for items over $50
 2021-12-31 - teogeorgiou - Timestamps required for items over $50
+2022-01-01 - teogeorgiou - Only PayPal as a form of payment
+2022-01-01 - teogeorgiou - All items for sale must include a price
+2022-01-01 - drewuptown - Timestamps required for items over $50
+2022-01-01 - drewuptown - Timestamps required for items over $50
+2022-01-01 - drewuptown - Timestamps required for items over $50
+2022-01-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-01 - drewuptown - Only PayPal as a form of payment
+2022-01-01 - drewuptown - Timestamps required for items over $50
+2022-01-01 - drewuptown - BANNED - 30 days.
+2022-01-01 - drewuptown - All items for sale must include a price
+2022-01-01 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-01 - teogeorgiou - All items for sale must include a price
+2022-01-01 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-01 - teogeorgiou - BANNED - 7 days.
