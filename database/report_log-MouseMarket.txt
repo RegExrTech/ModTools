@@ -275,3 +275,6 @@
 2021-12-30 - Gregapher_ - Rule 4: Timestamps
 2022-01-01 - Unciform - Rule 4: Timestamps
 2022-01-01 - Gregapher_ - BANNED - 24 days.
+2022-01-02 - Unciform - Rule 4: Timestamps
+2022-01-02 - Unciform - Rule 6: Asking Prices
+2022-01-02 - Unciform - Rule 4: Timestamps
