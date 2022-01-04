@@ -99,7 +99,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddi
 def get_submissions(sub, num_posts_to_check):
 	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
 
-def handle_post_frequency(reddit, submission, author, frequency_database, debug, days_between_posts, seconds_between_posts, lock_post):
+def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post):
 	# Posts that have been automatically removed by automod shouldn't be counted.
 	if submission.banned_by == "AutoModerator":
 		return
@@ -128,8 +128,11 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 		if not reddit.submission(post_data['post_id']).banned_by == "AutoModerator":
 			new_post_data_list.append(post_data)
 	frequency_database[author] = new_post_data_list
+
+	# If the user has no post history after clearing out automod-removed posts,
+	# add a dummy post so the rest of the code will work.
 	if len(frequency_database[author]) == 0:
-		frequency_database[author] = [{'timestamp': timestamp, 'post_id': submission.id}]
+		frequency_database[author] = [{'timestamp': 0, 'post_id': submission.id}]
 
 	# Reset the last_timestamp variable as it might have changed after filtering out automod removed posts
 	last_timestamp = frequency_database[author][-1]['timestamp']
@@ -137,17 +140,21 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 
 	# If this post was made too recently and it was not previously approved
 	delta = timestamp - last_timestamp
-	if delta < seconds_between_posts and not submission.approved:
+	if delta < (hours_between_posts*60*60) and not submission.approved:
 		if not debug:
 			# Remove post
 			submission.mod.remove()
 
 			# Inform when user can post again: total_seconds_allowed - amount_of_time_between_post_attempts
-			if days_between_posts == 1:
-				time_string = "24 hours"
+			if hours_between_posts <= 24:
+				time_string = str(hours_between_posts) + " hours"
 			else:
-				time_string = str(days_between_posts) + " days"
-			delta_string = str(datetime.timedelta(seconds=seconds_between_posts-delta))
+				_days = hours_between_posts / 24
+				_hours = hours_between_posts % 24
+				time_string = str(_days) + " days"
+				if _hours > 0:
+					time_string += " and " + str(_hours) + " hours"
+			delta_string = str(datetime.timedelta(seconds=(hours_between_posts*60*60)-delta))
 			delta_string = delta_string.replace(":", " hours, ", 1)
 			delta_string = delta_string.replace(":", " minutes, and ", 1)
 			delta_string += " seconds"
@@ -181,7 +188,7 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 	new_post_data_list = []
 	for post_data in frequency_database[author]:
 		timestamp = post_data['timestamp']
-		if time.time() - timestamp <= seconds_between_posts:
+		if time.time() - timestamp <= hours_between_posts*60*60:
 			new_post_data_list.append(post_data)
 	frequency_database[author] = new_post_data_list
 
