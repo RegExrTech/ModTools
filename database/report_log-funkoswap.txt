@@ -2549,3 +2549,4 @@
 2021-12-31 - USLBot - PERM-BANNED
 2022-01-02 - DrShadyTree - Timestamp
 2022-01-02 - DrShadyTree - Timestamp
+2022-01-03 - j007conks - Pricing Rules

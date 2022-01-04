@@ -1440,3 +1440,5 @@
 2022-01-02 - rediit3r - BANNED - 3 days.
 2022-01-02 - TheHamGamer - PERM-BANNED
 2022-01-02 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-01-03 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-01-03 - TheHamGamer - List Formatting Requirements
