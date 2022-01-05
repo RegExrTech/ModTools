@@ -125,7 +125,13 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 		if not post_data['post_id']:
 			new_post_data_list.append(post_data)
 			continue
-		if not reddit.submission(post_data['post_id']).banned_by == "AutoModerator":
+		# If automod never removed OR reported the post, then this counts against the user's posting limit
+		_post = reddit.submission(post_data['post_id'])
+		try:
+			_reporting_mods = [x[1] for x in _post.mod_reports_dismissed]
+		except:
+			_reporting_mods = []
+		if not _post.banned_by == "AutoModerator" and "AutoModerator" not in _reporting_mods:
 			new_post_data_list.append(post_data)
 	frequency_database[author] = new_post_data_list
 
