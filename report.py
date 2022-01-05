@@ -90,7 +90,7 @@ def remove_reported_posts(sub, sub_name, lock_post):
 		submission_text = truncate_text(submission_text, 7800)
 
 		message += "\n\n---\n\n" + submission_text
-		message += "\n\n---\n\nIf you can make changes to your post that would allow it to be approved, please do so, then reply to this message.\n\n---\n\n"
+		message += "\n\n---\n\nIf you can make changes to your post that would allow it to be approved, please do so, then reply to this message. If the issue with your post is in the title, please make a new post following the rules of the sub as post titles cannot be changed..\n\n---\n\n"
 		message = decode(message)
 
 		if remove_post(item, lock_post):
