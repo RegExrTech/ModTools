@@ -280,3 +280,4 @@
 2022-01-02 - Unciform - Rule 4: Timestamps
 2022-01-03 - Unciform - Rule 4: Timestamps
 2022-01-05 - Unciform - PERM-BANNED
+2022-01-06 - Unciform - Rule 4: Timestamps
