@@ -282,3 +282,4 @@
 2022-01-05 - Unciform - PERM-BANNED
 2022-01-06 - Unciform - Rule 4: Timestamps
 2022-01-07 - NinjAsaya - Rule 1: Titles
+2022-01-09 - Unciform - Rule 4: Timestamps
