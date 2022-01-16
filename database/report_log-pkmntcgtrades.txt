@@ -2762,3 +2762,8 @@
 2022-01-14 - C011ECT0R - All items for sale must include a price
 2022-01-14 - drewuptown - Timestamps required for items over $50
 2022-01-14 - drewuptown - Timestamps required for items over $50
+2022-01-15 - AutoModerator - Only PayPal as a form of payment
+2022-01-15 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-15 - drewuptown - Timestamps required for items over $50
+2022-01-15 - Oneyewilly - Timestamps required for items over $50
+2022-01-15 - teogeorgiou - Timestamps required for items over $50
