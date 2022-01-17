@@ -1519,3 +1519,7 @@
 2022-01-15 - TheHamGamer - List Formatting Requirements
 2022-01-15 - TheHamGamer - List Formatting Requirements
 2022-01-15 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-01-16 - TheHamGamer - List Formatting Requirements
+2022-01-16 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-01-16 - TheHamGamer - List Formatting Requirements
+2022-01-16 - TheHamGamer - List Formatting Requirements

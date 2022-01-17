@@ -284,3 +284,4 @@
 2022-01-07 - NinjAsaya - Rule 1: Titles
 2022-01-09 - Unciform - Rule 4: Timestamps
 2022-01-14 - Unciform - Rule 2: No external selling links or unrelated ite
+2022-01-16 - Unciform - Rule 4: Timestamps
