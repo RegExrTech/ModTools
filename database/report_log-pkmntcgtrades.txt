@@ -2774,3 +2774,11 @@
 2022-01-16 - teogeorgiou - Timestamps required for items over $50
 2022-01-16 - teogeorgiou - All items for sale must include a price
 2022-01-16 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-17 - teogeorgiou - All items for sale must include a price
+2022-01-17 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-17 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-17 - Lightning00 - Timestamps required for items over $50
+2022-01-17 - Oneyewilly - All items for sale must include a price
+2022-01-17 - drewuptown - Timestamps required for items over $50
+2022-01-17 - drewuptown - Timestamps required for items over $50
+2022-01-17 - teogeorgiou - Timestamps required for items over $50
