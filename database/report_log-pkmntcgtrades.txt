@@ -2782,3 +2782,15 @@
 2022-01-17 - drewuptown - Timestamps required for items over $50
 2022-01-17 - drewuptown - Timestamps required for items over $50
 2022-01-17 - teogeorgiou - Timestamps required for items over $50
+2022-01-18 - teogeorgiou - Only PayPal as a form of payment
+2022-01-18 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-18 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-18 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-18 - drewuptown - Timestamps required for items over $50
+2022-01-18 - AutoModerator - Only PayPal as a form of payment
+2022-01-18 - teogeorgiou - Timestamps required for items over $50
+2022-01-18 - teogeorgiou - Timestamps required for items over $50
+2022-01-18 - drewuptown - Timestamps required for items over $50
+2022-01-18 - drewuptown - Keep trade offers in the comments, and personal in
+2022-01-18 - drewuptown - PERM-BANNED
+2022-01-18 - drewuptown - Timestamps required for items over $50
