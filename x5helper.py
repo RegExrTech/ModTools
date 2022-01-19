@@ -59,14 +59,14 @@ def main():
 			should_remove = True
 		except AttributeError:
 			should_remove = True
-		# Remove the automod x5 comment
-		comment.mod.remove()
-		parent_post = comment
-		top_level_comment = comment
-		while parent_post.__class__.__name__ == "Comment":
-			top_level_comment = parent_post
-			parent_post = parent_post.parent()
-		print("Removed automod comment reddit.com/comments/"+str(parent_post)+"/-/"+str(comment))
+		if should_remove:
+			comment.mod.remove()
+			parent_post = comment
+			top_level_comment = comment
+			while parent_post.__class__.__name__ == "Comment":
+				top_level_comment = parent_post
+				parent_post = parent_post.parent()
+			print("Removed automod comment reddit.com/comments/"+str(parent_post)+"/-/"+str(comment))
 
 if __name__ == "__main__":
 	main()
