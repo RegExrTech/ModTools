@@ -124,3 +124,5 @@
 2022-01-18 - Kafarfle - Timestamped note with username must be included wi
 2022-01-19 - Kafarfle - Timestamped note with username must be included wi
 2022-01-19 - Kafarfle - Timestamped note with username must be included wi
+2022-01-20 - quidpropho - No time stamp
+2022-01-20 - IsaacSam98 - Timestamped note with username must be included wi
