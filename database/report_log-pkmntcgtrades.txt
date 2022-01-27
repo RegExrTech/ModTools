@@ -2852,3 +2852,6 @@
 2022-01-25 - teogeorgiou - Timestamps required for items over $50
 2022-01-25 - AutoModerator - Only PayPal as a form of payment
 2022-01-25 - AutoModerator - Only PayPal as a form of payment
+2022-01-26 - teogeorgiou - Only PayPal as a form of payment
+2022-01-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-26 - AutoModerator - Only PayPal as a form of payment
