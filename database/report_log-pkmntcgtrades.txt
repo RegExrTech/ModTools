@@ -2855,3 +2855,14 @@
 2022-01-26 - teogeorgiou - Only PayPal as a form of payment
 2022-01-26 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-01-26 - AutoModerator - Only PayPal as a form of payment
+2022-01-27 - drewuptown - Only Pokemon Cards or Money on your side
+2022-01-27 - drewuptown - Only Pokemon Cards or Money on your side
+2022-01-27 - teogeorgiou - Timestamps required for items over $50
+2022-01-27 - PokeSwapBot - Cant sell the same cards from both accounts.
+2022-01-27 - teogeorgiou - Trading of fake cards is not allowed, even if aski
+2022-01-27 - teogeorgiou - Timestamps required for items over $50
+2022-01-27 - teogeorgiou - Missing prices and timestamps
+2022-01-27 - PokeSwapBot - Timestamps required for items over $50
+2022-01-27 - drewuptown - Timestamps required for items over $50
+2022-01-27 - teogeorgiou - Timestamps required for items over $50
+2022-01-27 - teogeorgiou - Timestamps required for items over $50
