@@ -1281,3 +1281,7 @@
 2022-01-27 - maugust09 - Timestamp and Description
 2022-01-27 - maugust09 - Timestamp and Description
 2022-01-27 - maugust09 - Timestamp and Description
+2022-01-28 - maugust09 - Formatting and Detailed Description Requirements
+2022-01-28 - merkon - PERM-BANNED
+2022-01-28 - maugust09 - Timestamp and Description
+2022-01-28 - maugust09 - Formatting and Detailed Description Requirements
