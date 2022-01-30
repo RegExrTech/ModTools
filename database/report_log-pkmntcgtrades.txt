@@ -2875,3 +2875,9 @@
 2022-01-28 - drewuptown - Timestamps required for items over $50
 2022-01-28 - drewuptown - Timestamps required for items over $50
 2022-01-28 - teogeorgiou - Timestamps required for items over $50
+2022-01-29 - teogeorgiou - Timestamps required for items over $50
+2022-01-29 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-29 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-29 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-29 - drewuptown - Timestamps required for items over $50
+2022-01-29 - drewuptown - Timestamps required for items over $50

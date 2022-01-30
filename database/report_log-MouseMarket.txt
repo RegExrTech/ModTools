@@ -288,3 +288,4 @@
 2022-01-23 - Gregapher_ - Rule 4: Timestamps
 2022-01-28 - USLBot - PERM-BANNED
 2022-01-28 - Gregapher_ - PERM-BANNED
+2022-01-29 - USLBot - PERM-BANNED
