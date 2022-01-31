@@ -2881,3 +2881,16 @@
 2022-01-29 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-01-29 - drewuptown - Timestamps required for items over $50
 2022-01-29 - drewuptown - Timestamps required for items over $50
+2022-01-30 - AutoModerator - Only PayPal as a form of payment
+2022-01-30 - AutoModerator - Only PayPal as a form of payment
+2022-01-30 - teogeorgiou - Timestamps required for items over $50
+2022-01-30 - teogeorgiou - Timestamps required for items over $50
+2022-01-30 - teogeorgiou - All items for sale must include a price
+2022-01-30 - teogeorgiou - Timestamps required for items over $50
+2022-01-30 - teogeorgiou - Timestamps required for items over $50
+2022-01-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-30 - drewuptown - PERM-BANNED
+2022-01-30 - teogeorgiou - It threatens violence or physical harm at someone 
+2022-01-30 - teogeorgiou - Need prices for everything and timestamp must be h
+2022-01-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-30 - drewuptown - Only Pokemon Cards or Money on your side
