@@ -2894,3 +2894,18 @@
 2022-01-30 - teogeorgiou - Need prices for everything and timestamp must be h
 2022-01-30 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-01-30 - drewuptown - Only Pokemon Cards or Money on your side
+2022-01-31 - AutoModerator - Only PayPal as a form of payment
+2022-01-31 - teogeorgiou - Timestamps required for items over $50
+2022-01-31 - drewuptown - Timestamps required for items over $50
+2022-01-31 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-01-31 - AutoModerator - Only PayPal as a form of payment
+2022-01-31 - teogeorgiou - Timestamps required for items over $50
+2022-01-31 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-01-31 - teogeorgiou - All items for sale must include a price
+2022-01-31 - teogeorgiou - Fake cards not allowed
+2022-01-31 - drewuptown - All items for sale must include a price
+2022-01-31 - teogeorgiou - Only PayPal as a form of payment
+2022-01-31 - teogeorgiou - Only PayPal as a form of payment
+2022-01-31 - teogeorgiou - Only PayPal as a form of payment
+2022-01-31 - teogeorgiou - No selling or trading of PTCGO cards or codes
+2022-01-31 - PokeSwapBot - Do not spam or hijack other peoples trade offers
