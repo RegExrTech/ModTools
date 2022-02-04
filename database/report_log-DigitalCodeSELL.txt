@@ -1568,3 +1568,6 @@
 2022-02-01 - Mafnas22 - List Formatting Requirements
 2022-02-01 - TheHamGamer - PERM-BANNED
 2022-02-01 - stetsonaw - List Formatting Requirements
+2022-02-03 - USLBot - PERM-BANNED
+2022-02-03 - TheHamGamer - PERM-BANNED
+2022-02-03 - DCSbot - Dont Third-Party an Ongoing Transaction
