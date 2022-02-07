@@ -2950,3 +2950,8 @@
 2022-02-05 - teogeorgiou - All items for sale must include a price
 2022-02-05 - teogeorgiou - All items for sale must include a price
 2022-02-05 - teogeorgiou - Timestamps required for items over $50
+2022-02-06 - teogeorgiou - No fake cards allowed
+2022-02-06 - drewuptown - Keep trade offers in the comments, and personal in
+2022-02-06 - PokeSwapBot - Keep trade offers in the comments, and personal in
+2022-02-06 - PokeSwapBot - Keep trade offers in the comments, and personal in
+2022-02-06 - PokeSwapBot - Keep trade offers in the comments, and personal in
