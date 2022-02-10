@@ -1366,3 +1366,5 @@
 2022-02-08 - maugust09 - Timestamp and Description
 2022-02-08 - maugust09 - Gear Sales
 2022-02-08 - maugust09 - PERM-BANNED
+2022-02-09 - merkon - BANNED - 3 days.
+2022-02-09 - maugust09 - PERM-BANNED
