@@ -2995,3 +2995,11 @@
 2022-02-11 - teogeorgiou - Timestamps required for items over $50
 2022-02-11 - Oneyewilly - All items for sale must include a price
 2022-02-11 - Lightning00 - PERM-BANNED
+2022-02-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-02-12 - Lightning00 - Keep trade offers in the comments, and personal in
+2022-02-12 - drewuptown - No eBay or other website links or references
+2022-02-12 - drewuptown - Keep trade offers in the comments, and personal in
+2022-02-12 - teogeorgiou - Timestamps required for items over $50
+2022-02-12 - teogeorgiou - All items for sale must include a price
+2022-02-12 - teogeorgiou - All items for sale must include a price
+2022-02-12 - teogeorgiou - All items for sale must include a price
