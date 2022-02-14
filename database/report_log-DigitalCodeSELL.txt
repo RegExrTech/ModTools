@@ -1586,3 +1586,5 @@
 2022-02-12 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-02-12 - TheHamGamer - Basic Rules
 2022-02-12 - TheHamGamer - List Formatting Requirements
+2022-02-13 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-02-13 - TheHamGamer - BANNED - 7 days.
