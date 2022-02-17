@@ -3024,3 +3024,9 @@
 2022-02-15 - drewuptown - Timestamps required for items over $50
 2022-02-15 - teogeorgiou - All items for sale must include a price
 2022-02-15 - teogeorgiou - All items for sale must include a price
+2022-02-16 - teogeorgiou - All items for sale must include a price
+2022-02-16 - teogeorgiou - Timestamps required for items over $50
+2022-02-16 - teogeorgiou - All items for sale must include a price
+2022-02-16 - drewuptown - Timestamps required for items over $50
+2022-02-16 - teogeorgiou - Only PayPal as a form of payment
+2022-02-16 - teogeorgiou - Timestamps required for items over $50
