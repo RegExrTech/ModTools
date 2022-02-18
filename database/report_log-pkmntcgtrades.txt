@@ -3030,3 +3030,13 @@
 2022-02-16 - drewuptown - Timestamps required for items over $50
 2022-02-16 - teogeorgiou - Only PayPal as a form of payment
 2022-02-16 - teogeorgiou - Timestamps required for items over $50
+2022-02-17 - Oneyewilly - All items for sale must include a price
+2022-02-17 - teogeorgiou - Timestamps required for items over $50
+2022-02-17 - teogeorgiou - Timestamps required for items over $50
+2022-02-17 - teogeorgiou - Only Pokemon Cards or Money on your side
+2022-02-17 - teogeorgiou - All items for sale must include a price
+2022-02-17 - teogeorgiou - All items for sale must include a price
+2022-02-17 - teogeorgiou - Timestamps required for items over $50
+2022-02-17 - teogeorgiou - All items for sale must include a price
+2022-02-17 - teogeorgiou - Missing timestamp and price
+2022-02-17 - teogeorgiou - All items for sale must include a price

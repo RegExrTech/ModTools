@@ -1591,3 +1591,4 @@
 2022-02-14 - USLBot - PERM-BANNED
 2022-02-14 - TheHamGamer - Proper Transaction Etiquette
 2022-02-16 - USLBot - PERM-BANNED
+2022-02-17 - DCSbot - Dont Third-Party an Ongoing Transaction
