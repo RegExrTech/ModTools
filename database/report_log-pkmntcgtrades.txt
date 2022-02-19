@@ -3040,3 +3040,7 @@
 2022-02-17 - teogeorgiou - All items for sale must include a price
 2022-02-17 - teogeorgiou - Missing timestamp and price
 2022-02-17 - teogeorgiou - All items for sale must include a price
+2022-02-18 - teogeorgiou - All items for sale must include a price
+2022-02-18 - Oneyewilly - Timestamps required for items over $50
+2022-02-18 - drewuptown - Only Pokemon Cards or Money on your side
+2022-02-18 - drewuptown - Keep trade offers in the comments, and personal in
