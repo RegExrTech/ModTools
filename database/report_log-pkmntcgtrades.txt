@@ -3074,3 +3074,9 @@
 2022-02-23 - Oneyewilly - Timestamps required for items over $50
 2022-02-23 - teogeorgiou - All items for sale must include a price
 2022-02-23 - Lightning00 - PERM-BANNED
+2022-02-24 - C011ECT0R - Timestamps required for items over $50
+2022-02-24 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-02-24 - Oneyewilly - Timestamps required for items over $50
+2022-02-24 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-02-24 - teogeorgiou - Timestamps required for items over $50
+2022-02-24 - teogeorgiou - All items for sale must include a price
