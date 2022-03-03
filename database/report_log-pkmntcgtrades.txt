@@ -3116,3 +3116,10 @@
 2022-03-01 - drewuptown - Timestamps required for items over $50
 2022-03-01 - drewuptown - All items for sale must include a price
 2022-03-01 - teogeorgiou - Missing timestamps, and prices
+2022-03-02 - teogeorgiou - Timestamps required for items over $50
+2022-03-02 - Oneyewilly - All items for sale must include a price
+2022-03-02 - Oneyewilly - missing pictures/timestamp
+2022-03-02 - drewuptown - Timestamps required for items over $50
+2022-03-02 - Lightning00 - asking for ff payment under 25 feedback
+2022-03-02 - AutoModerator - Only PayPal as a form of payment
+2022-03-02 - teogeorgiou - Only PayPal as a form of payment
