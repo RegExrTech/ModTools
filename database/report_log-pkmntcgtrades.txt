@@ -3133,3 +3133,5 @@
 2022-03-04 - teogeorgiou - Only PayPal as a form of payment
 2022-03-04 - Oneyewilly - Timestamps required for items over $50
 2022-03-04 - drewuptown - Timestamps required for items over $50
+2022-03-05 - teogeorgiou - Timestamps required for items over $50
+2022-03-05 - PokeSwapBot - Do not spam or hijack other peoples trade offers
