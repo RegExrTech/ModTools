@@ -3138,3 +3138,11 @@
 2022-03-06 - teogeorgiou - Missing prices and timestamps
 2022-03-06 - teogeorgiou - Keep trade offers in the comments, and personal in
 2022-03-06 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-03-07 - teogeorgiou - All items for sale must include a price
+2022-03-07 - drewuptown - Timestamps required for items over $50
+2022-03-07 - drewuptown - Only PayPal as a form of payment
+2022-03-07 - drewuptown - All items for sale must include a price
+2022-03-07 - drewuptown - All items for sale must include a price
+2022-03-07 - drewuptown - Keep trade offers in the comments, and personal in
+2022-03-07 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-07 - Oneyewilly - Timestamps required for items over $50
