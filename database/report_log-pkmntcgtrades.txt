@@ -3146,3 +3146,14 @@
 2022-03-07 - drewuptown - Keep trade offers in the comments, and personal in
 2022-03-07 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-03-07 - Oneyewilly - Timestamps required for items over $50
+2022-03-08 - teogeorgiou - Timestamps required for items over $50
+2022-03-08 - drewuptown - All items for sale must include a price
+2022-03-08 - drewuptown - PERM-BANNED
+2022-03-08 - drewuptown - Keep trade offers in the comments, and personal in
+2022-03-08 - drewuptown - Timestamps required for items over $50
+2022-03-08 - teogeorgiou - PERM-BANNED
+2022-03-08 - drewuptown - All items for sale must include a price
+2022-03-08 - Jas_Jass - Please read rules. Only 25 trades and over can req
+2022-03-08 - teogeorgiou - All items for sale must include a price
+2022-03-08 - teogeorgiou - All items for sale must include a price
+2022-03-08 - AutoModerator - Only PayPal as a form of payment
