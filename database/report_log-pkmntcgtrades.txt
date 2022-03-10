@@ -3157,3 +3157,6 @@
 2022-03-08 - teogeorgiou - All items for sale must include a price
 2022-03-08 - teogeorgiou - All items for sale must include a price
 2022-03-08 - AutoModerator - Only PayPal as a form of payment
+2022-03-09 - Lightning00 - All items for sale must include a price
+2022-03-09 - drewuptown - No eBay or other website links or references
+2022-03-09 - drewuptown - Timestamps required for items over $50
