@@ -34,13 +34,14 @@ client_secret = config['client_secret']
 bot_username = config['bot_username']
 bot_password = config['bot_password']
 hours_between_posts = int(round(float(config['days_per_post'])*24))
-lock_post = config['lock_post'] == "True"
+lock_post = config['lock_post'].lower() == "true"
 whitelisted_words = [x.lower() for x in config['whitelisted_words'].split(',')]
 num_minutes_flair = float(config['minutes_no_flair'])
 imgur_freshness_days = float(config['imgur_freshness_days'])
 imgur_client = config['imgur_client']
 imgur_secret = config['imgur_secret']
 copy_bans_to = [x for x in config['copy_bans_to'].split(",") if x]
+remove_from_reports = config['remove_from_reports'].lower() == "true"
 
 debug = False
 
@@ -187,7 +188,10 @@ def main(subreddit_name):
 		print("Unable to get list of moderators from " + subreddit_name + " with error: " + str(e))
 		return
 	# Remove all submissions with mod reports and send removal reasons. Return a dict of who handeled each report.
-	ids_to_mods = report.remove_reported_posts(sub, subreddit_name, lock_post)
+	if remove_from_reports:
+		ids_to_mods = report.remove_reported_posts(sub, subreddit_name, lock_post)
+	else:
+		ids_to_mods = {}
 
 	# Check posts for various violations
 	frequency_fname = 'database/recent_posts-' + subreddit_name + '.txt'
