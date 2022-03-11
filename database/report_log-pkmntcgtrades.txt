@@ -3160,3 +3160,8 @@
 2022-03-09 - Lightning00 - All items for sale must include a price
 2022-03-09 - drewuptown - No eBay or other website links or references
 2022-03-09 - drewuptown - Timestamps required for items over $50
+2022-03-10 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-10 - drewuptown - Timestamps required for items over $50
+2022-03-10 - drewuptown - All items for sale must include a price
+2022-03-10 - drewuptown - All items for sale must include a price
+2022-03-10 - drewuptown - All items for sale must include a price
