@@ -3174,3 +3174,7 @@
 2022-03-11 - Jas_Jass - All items for sale must include a price
 2022-03-11 - Oneyewilly - All items for sale must include a price
 2022-03-11 - teogeorgiou - All items for sale must include a price
+2022-03-12 - drewuptown - PERM-BANNED
+2022-03-12 - drewuptown - Only PayPal as a form of payment
+2022-03-12 - teogeorgiou - Only PayPal as a form of payment
+2022-03-12 - teogeorgiou - Timestamps required for items over $50
