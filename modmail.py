@@ -286,7 +286,7 @@ def main(subreddit_name):
 						print("Unable to cross ban to r/" + copy_sub_name + ": " + str(e))
 
 			# Write off some info to the logs
-			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod)
+			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + subreddit_name)
 			print("===========================================")
 
 	if not debug:

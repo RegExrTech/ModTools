@@ -182,7 +182,7 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 				submission.mod.lock()
 
 			# Log some fun stuff
-			print(author + " - " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  + " - https://redd.it/" + submission.id + " - Violated posting frequency rule.")
+			print(author + " - " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  + " - https://redd.it/" + submission.id + " - Violated posting frequency rule on r/" + submission.subreddit.display_name)
 			print("===========================================")
 		else:
 			print("Would have removed post " + submission.id)
