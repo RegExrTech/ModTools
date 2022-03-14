@@ -2657,3 +2657,5 @@
 2022-03-11 - j007conks - No prices
 2022-03-11 - j007conks - No timestamp
 2022-03-12 - USLBot - PERM-BANNED
+2022-03-13 - USLBot - PERM-BANNED
+2022-03-13 - DrShadyTree - NonFunko

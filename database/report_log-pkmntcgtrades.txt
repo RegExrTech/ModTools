@@ -3178,3 +3178,28 @@
 2022-03-12 - drewuptown - Only PayPal as a form of payment
 2022-03-12 - teogeorgiou - Only PayPal as a form of payment
 2022-03-12 - teogeorgiou - Timestamps required for items over $50
+2022-03-13 - teogeorgiou - No eBay or other website links or references
+2022-03-13 - teogeorgiou - Several rule breaks
+2022-03-13 - teogeorgiou - No eBay or other website links or references
+2022-03-13 - teogeorgiou - All items for sale must include a price
+2022-03-13 - teogeorgiou - Timestamps required for items over $50
+2022-03-13 - teogeorgiou - Price Policing/Shaming
+2022-03-13 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-13 - teogeorgiou - Price Policing/Shaming
+2022-03-13 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-13 - AutoModerator - Only PayPal as a form of payment
+2022-03-13 - drewuptown - Timestamps required for items over $50
+2022-03-13 - drewuptown - All items for sale must include a price
+2022-03-13 - drewuptown - All items for sale must include a price
+2022-03-13 - drewuptown - All items for sale must include a price
+2022-03-13 - drewuptown - Timestamps required for items over $50
+2022-03-13 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-13 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-03-13 - drewuptown - Keep trade offers in the comments, and personal in
+2022-03-13 - AutoModerator - Only PayPal as a form of payment
+2022-03-13 - AutoModerator - Only PayPal as a form of payment
+2022-03-13 - AutoModerator - Only PayPal as a form of payment
+2022-03-13 - drewuptown - All items for sale must include a price
+2022-03-13 - drewuptown - All items for sale must include a price
+2022-03-13 - teogeorgiou - PERM-BANNED
+2022-03-13 - Jas_Jass - No eBay or other website links or references
