@@ -7203,3 +7203,8 @@
 2022-03-13 - zeroair - Price and/or trade value required
 2022-03-13 - zeroair - Fake timestamp.
 2022-03-13 - zeroair - PERM-BANNED
+2022-03-14 - zeroair - Price related comments
+2022-03-14 - zeroair - Price related comments
+2022-03-14 - Pseudophryne - Price related comments
+2022-03-14 - Pseudophryne - PERM-BANNED
+2022-03-14 - Pseudophryne - Timestamp
