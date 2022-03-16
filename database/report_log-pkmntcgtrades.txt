@@ -3209,3 +3209,7 @@
 2022-03-14 - teogeorgiou - All items for sale must include a price
 2022-03-14 - drewuptown - No eBay or other website links or references
 2022-03-14 - teogeorgiou - Only PayPal as a form of payment
+2022-03-15 - drewuptown - All items for sale must include a price
+2022-03-15 - drewuptown - PERM-BANNED
+2022-03-15 - teogeorgiou - All items for sale must include a price
+2022-03-15 - teogeorgiou - Only PayPal as a form of payment
