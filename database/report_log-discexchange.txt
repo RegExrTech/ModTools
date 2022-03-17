@@ -420,3 +420,4 @@
 2022-03-15 - Kafarfle - Timestamped note with username must be included wi
 2022-03-15 - Mkiiina - PERM-BANNED
 2022-03-15 - quidpropho - No time stamp
+2022-03-16 - Kafarfle - Posting Frequency
