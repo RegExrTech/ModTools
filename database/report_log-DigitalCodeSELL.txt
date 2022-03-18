@@ -1641,3 +1641,5 @@
 2022-03-16 - TheHamGamer - List Formatting Requirements
 2022-03-16 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-03-16 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-03-17 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-03-17 - iLL-sKiLLz - Reselling

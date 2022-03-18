@@ -3214,3 +3214,7 @@
 2022-03-15 - teogeorgiou - All items for sale must include a price
 2022-03-15 - teogeorgiou - Only PayPal as a form of payment
 2022-03-16 - drewuptown - PERM-BANNED
+2022-03-17 - Oneyewilly - Timestamps required for items over $50
+2022-03-17 - Lightning00 - timestamp+need prices
+2022-03-17 - drewuptown - Timestamps required for items over $50
+2022-03-17 - AutoModerator - Only PayPal as a form of payment
