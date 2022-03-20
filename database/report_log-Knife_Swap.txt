@@ -1532,3 +1532,5 @@
 2022-03-18 - maugust09 - Formatting and Detailed Description Requirements
 2022-03-18 - dooms25 - Timestamp and Description
 2022-03-18 - maugust09 - Ignorance of the rules is not a valid defense agai
+2022-03-19 - Witty_Username_81 - Payment Methods
+2022-03-19 - Witty_Username_81 - Repost Price Reductions
