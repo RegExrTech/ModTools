@@ -1644,3 +1644,4 @@
 2022-03-17 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-03-17 - iLL-sKiLLz - Reselling
 2022-03-18 - USLBot - PERM-BANNED
+2022-03-20 - TheHamGamer - List Formatting Requirements
