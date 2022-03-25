@@ -2671,3 +2671,6 @@
 2022-03-22 - j007conks - No prices
 2022-03-22 - j007conks - 30 Day Limit
 2022-03-23 - im_dslyexci - Picture w/ hand written Username and Date
+2022-03-24 - FreddySwapBot - Timestamp out of date
+2022-03-24 - j007conks - Only Paypal
+2022-03-24 - im_dslyexci - non-funko item in wantlist
