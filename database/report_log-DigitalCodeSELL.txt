@@ -1654,3 +1654,6 @@
 2022-03-23 - FireAbyss - Proper Transaction Etiquette
 2022-03-23 - FireAbyss - Proper Transaction Etiquette
 2022-03-24 - TheHamGamer - List Formatting Requirements
+2022-03-25 - Mafnas22 - Post Removal and/or Bans
+2022-03-25 - Mafnas22 - PERM-BANNED
+2022-03-25 - DCSbot - Dont Third-Party an Ongoing Transaction
