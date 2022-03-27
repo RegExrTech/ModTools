@@ -1657,3 +1657,5 @@
 2022-03-25 - Mafnas22 - Post Removal and/or Bans
 2022-03-25 - Mafnas22 - PERM-BANNED
 2022-03-25 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-03-26 - TheHamGamer - Proper Transaction Etiquette
+2022-03-26 - DCSbot - Dont Third-Party an Ongoing Transaction
