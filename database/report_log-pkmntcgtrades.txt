@@ -3279,3 +3279,7 @@
 2022-03-29 - Lightning00 - Keep trade offers in the comments, and personal in
 2022-03-29 - drewuptown - Keep trade offers in the comments, and personal in
 2022-03-29 - drewuptown - Keep trade offers in the comments, and personal in
+2022-03-30 - Oneyewilly - Timestamps required for items over $50
+2022-03-30 - Oneyewilly - Timestamps required for items over $50
+2022-03-30 - Oneyewilly - Timestamp does not match username
+2022-03-30 - drewuptown - PERM-BANNED
