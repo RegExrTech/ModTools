@@ -3297,3 +3297,9 @@
 2022-03-31 - drewuptown - Timestamps required for items over $50
 2022-03-31 - Oneyewilly - Timestamps required for items over $50
 2022-03-31 - Oneyewilly - All items for sale must include a price
+2022-04-01 - teogeorgiou - All items for sale must include a price
+2022-04-01 - drewuptown - Timestamps required for items over $50
+2022-04-01 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-01 - drewuptown - Only PayPal as a form of payment
+2022-04-01 - Lightning00 - Only Pokemon Cards or Money on your side
+2022-04-01 - Oneyewilly - Timestamps required for items over $50
