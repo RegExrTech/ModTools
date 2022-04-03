@@ -3303,3 +3303,6 @@
 2022-04-01 - drewuptown - Only PayPal as a form of payment
 2022-04-01 - Lightning00 - Only Pokemon Cards or Money on your side
 2022-04-01 - Oneyewilly - Timestamps required for items over $50
+2022-04-02 - drewuptown - Timestamps required for items over $50
+2022-04-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
