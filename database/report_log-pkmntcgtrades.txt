@@ -3306,3 +3306,16 @@
 2022-04-02 - drewuptown - Timestamps required for items over $50
 2022-04-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-04-02 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-03 - Lightning00 - asking for FF payment, All items for sale must inc
+2022-04-03 - drewuptown - Only PayPal as a form of payment
+2022-04-03 - drewuptown - All items for sale must include a price
+2022-04-03 - drewuptown - Timestamps required for items over $50
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-03 - drewuptown - No eBay or other website links or references
