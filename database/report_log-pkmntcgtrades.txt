@@ -3319,3 +3319,11 @@
 2022-04-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-04-03 - PokeSwapBot - Do not spam or hijack other peoples trade offers
 2022-04-03 - drewuptown - No eBay or other website links or references
+2022-04-04 - teogeorgiou - Only PayPal as a form of payment
+2022-04-04 - drewuptown - Timestamps required for items over $50
+2022-04-04 - Oneyewilly - 2 rule breaks. no timestamps, and all deals kept i
+2022-04-04 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-04 - drewuptown - All items for sale must include a price
+2022-04-04 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-04 - drewuptown - Timestamps required for items over $50
+2022-04-04 - Oneyewilly - No eBay or other website links or references

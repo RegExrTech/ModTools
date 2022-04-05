@@ -1669,3 +1669,5 @@
 2022-04-01 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-04-01 - TheHamGamer - List Formatting Requirements
 2022-04-02 - stetsonaw - PERM-BANNED
+2022-04-04 - TheHamGamer - List Formatting Requirements
+2022-04-04 - USLBot - PERM-BANNED
