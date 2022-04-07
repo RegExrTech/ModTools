@@ -1673,3 +1673,4 @@
 2022-04-04 - USLBot - PERM-BANNED
 2022-04-05 - TheHamGamer - List Formatting Requirements
 2022-04-05 - Mafnas22 - Basic Rules
+2022-04-06 - TheHamGamer - List Formatting Requirements
