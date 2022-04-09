@@ -3356,3 +3356,5 @@
 2022-04-07 - drewuptown - Timestamps required for items over $50
 2022-04-07 - drewuptown - Keep trade offers in the comments, and personal in
 2022-04-07 - Oneyewilly - Timestamps required for items over $50
+2022-04-08 - Oneyewilly - All items for sale must include a price
+2022-04-08 - Lightning00 - Timestamps required for items over $50
