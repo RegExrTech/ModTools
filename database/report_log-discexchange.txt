@@ -509,3 +509,5 @@
 2022-04-09 - IsaacSam98 - Timestamped note with username must be included if
 2022-04-10 - IsaacSam98 - Timestamped note with username must be included if
 2022-04-10 - Kafarfle - Timestamped note with username must be included if
+2022-04-12 - Kafarfle - Timestamped note with username must be included if
+2022-04-12 - Kafarfle - No links to outside marketplaces

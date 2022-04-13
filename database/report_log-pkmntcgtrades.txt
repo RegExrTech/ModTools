@@ -3383,3 +3383,9 @@
 2022-04-11 - drewuptown - All items for sale must include a price
 2022-04-11 - drewuptown - All items for sale must include a price
 2022-04-11 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-12 - drewuptown - Timestamps required for items over $50
+2022-04-12 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-12 - drewuptown - Timestamps required for items over $50
+2022-04-12 - drewuptown - Timestamps required for items over $50
+2022-04-12 - Oneyewilly - All items for sale must include a price
