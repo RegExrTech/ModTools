@@ -3398,3 +3398,5 @@
 2022-04-13 - drewuptown - All items for sale must include a price
 2022-04-13 - drewuptown - All items for sale must include a price
 2022-04-13 - drewuptown - All items for sale must include a price
+2022-04-14 - Oneyewilly - missing timestamps
+2022-04-14 - Oneyewilly - Rule for timestamps states HANDWRITTEN. Digital ti
