@@ -3400,3 +3400,18 @@
 2022-04-13 - drewuptown - All items for sale must include a price
 2022-04-14 - Oneyewilly - missing timestamps
 2022-04-14 - Oneyewilly - Rule for timestamps states HANDWRITTEN. Digital ti
+2022-04-15 - drewuptown - All items for sale must include a price
+2022-04-15 - drewuptown - All items for sale must include a price
+2022-04-15 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-15 - drewuptown - Only PayPal as a form of payment
+2022-04-15 - drewuptown - Only PayPal as a form of payment
+2022-04-15 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-15 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-15 - teogeorgiou - Keep trade offers in the comments, and personal in
+2022-04-15 - AutoModerator - Only PayPal as a form of payment
+2022-04-15 - drewuptown - Timestamps required for items over $50
+2022-04-15 - Oneyewilly - PERM-BANNED
+2022-04-15 - drewuptown - Keep trade offers in the comments, and personal in
+2022-04-15 - drewuptown - Timestamps required for items over $50
+2022-04-15 - drewuptown - Timestamps required for items over $50
+2022-04-15 - teogeorgiou - Timestamps required for items over $50
