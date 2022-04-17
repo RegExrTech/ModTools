@@ -334,3 +334,4 @@
 2022-04-13 - USLBot - PERM-BANNED
 2022-04-14 - Unciform - Rule 4: Timestamps
 2022-04-14 - Unciform - Rule 4: Timestamps
+2022-04-16 - USLBot - PERM-BANNED

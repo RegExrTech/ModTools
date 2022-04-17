@@ -512,3 +512,6 @@
 2022-04-12 - Kafarfle - Timestamped note with username must be included if
 2022-04-12 - Kafarfle - No links to outside marketplaces
 2022-04-13 - Kafarfle - Timestamped note with username must be included if
+2022-04-16 - IsaacSam98 - PERM-BANNED
+2022-04-16 - IsaacSam98 - Timestamped note with username must be included if
+2022-04-16 - PeaceLoveSmithWesson - PERM-BANNED

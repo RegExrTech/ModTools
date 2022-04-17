@@ -3415,3 +3415,5 @@
 2022-04-15 - drewuptown - Timestamps required for items over $50
 2022-04-15 - drewuptown - Timestamps required for items over $50
 2022-04-15 - teogeorgiou - Timestamps required for items over $50
+2022-04-16 - PokeSwapBot - Do not spam or hijack other peoples trade offers
+2022-04-16 - Lightning00 - Asking for f&f payment under 25 feedback
