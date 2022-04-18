@@ -34,7 +34,7 @@ def main():
 	# get recent sub comments
 	comments_to_check = []
 	try:
-		new_comments = sub.comments(limit=20)
+		new_comments = sub.comments(limit=50)
 		for new_comment in new_comments:
 			try:
 				new_comment.refresh()
