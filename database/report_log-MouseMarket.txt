@@ -335,3 +335,6 @@
 2022-04-14 - Unciform - Rule 4: Timestamps
 2022-04-14 - Unciform - Rule 4: Timestamps
 2022-04-16 - USLBot - PERM-BANNED
+2022-04-17 - Unciform - Rule 4: Timestamps
+2022-04-17 - Unciform - Rule 8: Payment Methods
+2022-04-17 - Unciform - BANNED - 7 days.

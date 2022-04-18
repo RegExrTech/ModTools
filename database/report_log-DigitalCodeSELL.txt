@@ -1688,3 +1688,9 @@
 2022-04-13 - TheHamGamer - List Formatting Requirements
 2022-04-15 - FireAbyss - Proper Transaction Etiquette
 2022-04-15 - FireAbyss - Proper Transaction Etiquette
+2022-04-17 - FireAbyss - PERM-BANNED
+2022-04-17 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-04-17 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-04-17 - TheHamGamer - Proper Transaction Etiquette
+2022-04-17 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-04-17 - FireAbyss - PERM-BANNED
