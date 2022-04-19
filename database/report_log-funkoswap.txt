@@ -2699,3 +2699,5 @@
 2022-04-16 - DrShadyTree - Trading no photo
 2022-04-17 - DrShadyTree - Timestamp
 2022-04-17 - DrShadyTree - Review the Rules
+2022-04-18 - FreddySwapBot - Timestamp out of date
+2022-04-18 - RegExrBot - PERM-BANNED
