@@ -2701,3 +2701,7 @@
 2022-04-17 - DrShadyTree - Review the Rules
 2022-04-18 - FreddySwapBot - Timestamp out of date
 2022-04-18 - RegExrBot - PERM-BANNED
+2022-04-19 - j007conks - Only Paypal
+2022-04-19 - j007conks - No timestamp
+2022-04-19 - j007conks - No timestamp
+2022-04-19 - j007conks - No timestamp
