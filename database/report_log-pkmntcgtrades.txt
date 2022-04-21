@@ -3434,3 +3434,5 @@
 2022-04-19 - drewuptown - Only PayPal as a form of payment
 2022-04-19 - teogeorgiou - Only PayPal as a form of payment
 2022-04-19 - Lightning00 - asking for F&F payment under 25 feedback
+2022-04-20 - AutoModerator - Only PayPal as a form of payment
+2022-04-20 - Oneyewilly - Only Pokemon Cards or Money on your side
