@@ -2707,3 +2707,6 @@
 2022-04-19 - j007conks - No timestamp
 2022-04-21 - j007conks - No timestamp
 2022-04-21 - j007conks - Picture w/ hand written Username and Date
+2022-04-22 - j007conks - Pricing Rules
+2022-04-22 - j007conks - Only Paypal
+2022-04-22 - j007conks - Only Paypal

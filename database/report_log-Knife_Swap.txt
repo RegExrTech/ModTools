@@ -1657,3 +1657,7 @@
 2022-04-21 - ksbot - Timestamp and Description
 2022-04-21 - ksbot - Timestamp and Description
 2022-04-21 - maugust09 - PERM-BANNED
+2022-04-22 - maugust09 - Formatting and Detailed Description Requirements
+2022-04-22 - maugust09 - Gear Sales
+2022-04-22 - dooms25 - Payment Methods
+2022-04-22 - maugust09 - Formatting and Detailed Description Requirements
