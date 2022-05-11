@@ -177,3 +177,6 @@
 2022-04-13 - USLBot - PERM-BANNED
 2022-04-15 - rabidmonkeys - PERM-BANNED
 2022-04-18 - rabidmonkeys - BANNED - 5 days.
+2022-05-03 - rabidmonkeys - PERM-BANNED
+2022-05-06 - USLBot - PERM-BANNED
+2022-05-08 - rabidmonkeys - BANNED - 5 days.

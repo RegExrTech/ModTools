@@ -341,3 +341,19 @@
 2022-04-19 - Unciform - Rule 4: Timestamps
 2022-04-19 - Gregapher_ - PERM-BANNED
 2022-04-20 - USLBot - PERM-BANNED
+2022-04-24 - USLBot - PERM-BANNED
+2022-04-25 - Gregapher_ - PERM-BANNED
+2022-04-27 - USLBot - PERM-BANNED
+2022-04-29 - USLBot - PERM-BANNED
+2022-04-30 - Unciform - Rule 4: Timestamps
+2022-04-30 - Unciform - Rule 4: Timestamps
+2022-05-01 - Gregapher_ - Rule 4: Timestamps
+2022-05-02 - Gregapher_ - Rule 4: Timestamps
+2022-05-02 - USLBot - PERM-BANNED
+2022-05-03 - Gregapher_ - BANNED - 3 days.
+2022-05-03 - Gregapher_ - BANNED - 1 days.
+2022-05-04 - USLBot - PERM-BANNED
+2022-05-05 - Unciform - Rule 10: Misc/catch-all
+2022-05-06 - USLBot - PERM-BANNED
+2022-05-07 - Gregapher_ - PERM-BANNED
+2022-05-07 - Gregapher_ - BANNED - 3 days.
