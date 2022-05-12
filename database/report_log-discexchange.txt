@@ -543,3 +543,5 @@
 2022-05-10 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-05-10 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-05-10 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-05-11 - goodlin77 - PERM-BANNED
+2022-05-11 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
