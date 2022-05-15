@@ -2740,3 +2740,4 @@
 2022-05-11 - DrShadyTree - Timestamp
 2022-05-13 - DrShadyTree - Timestamp
 2022-05-13 - DrShadyTree - Review the Rules
+2022-05-14 - USLBot - PERM-BANNED
