@@ -612,3 +612,5 @@
 2022-06-05 - DiscExchangeBot - Timestamp Required for Users Below 25 Exchanges.
 2022-06-07 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-06-07 - Kafarfle - Posting Frequency
+2022-06-08 - PeaceLoveSmithWesson - PERM-BANNED
+2022-06-08 - goodlin77 - Timestamp Required for Users Below 25 Exchanges.
