@@ -619,3 +619,6 @@
 2022-06-10 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-06-10 - Kafarfle - BANNED - 2 days.
 2022-06-10 - IsaacSam98 - Timestamp Required for Users Below 25 Exchanges.
+2022-06-10 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-06-11 - Kafarfle - Posting Frequency
+2022-06-11 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
