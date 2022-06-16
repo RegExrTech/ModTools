@@ -628,3 +628,4 @@
 2022-06-13 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-06-13 - goodlin77 - Posting Frequency
 2022-06-13 - PeaceLoveSmithWesson - PERM-BANNED
+2022-06-16 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
