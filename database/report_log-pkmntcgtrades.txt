@@ -4414,3 +4414,4 @@
 2022-06-17 - teogeorgiou - All items for sale and trade must be clearly price
 2022-06-17 - teogeorgiou - Timestamps and clear prices missing
 2022-06-18 - Oneyewilly - All items for sale and trade must be clearly price
+2022-06-19 - AutoModerator - PayPal Goods & Services is the only approved metho
