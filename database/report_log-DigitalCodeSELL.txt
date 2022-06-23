@@ -1867,3 +1867,4 @@
 2022-06-21 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-06-21 - TheHamGamer - Basic Rules
 2022-06-21 - TheHamGamer - Basic Rules
+2022-06-22 - TheHamGamer - List Formatting Requirements
