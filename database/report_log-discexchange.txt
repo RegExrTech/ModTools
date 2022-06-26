@@ -647,3 +647,8 @@
 2022-06-23 - PeaceLoveSmithWesson - CHANGED BAN - 1 days.
 2022-06-24 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-06-24 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-06-25 - PeaceLoveSmithWesson - PERM-BANNED
+2022-06-25 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-06-25 - IsaacSam98 - PERM-BANNED
+2022-06-25 - PeaceLoveSmithWesson - PERM-BANNED
+2022-06-26 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
