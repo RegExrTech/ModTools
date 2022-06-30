@@ -2841,3 +2841,8 @@
 2022-06-27 - j007conks - No timestamp
 2022-06-28 - im_dslyexci - Timestamp
 2022-06-28 - im_dslyexci - Timestamp
+2022-06-29 - im_dslyexci - Picture w/ hand written Username and Date
+2022-06-29 - j007conks - Timestamp unreadable
+2022-06-29 - im_dslyexci - Timestamp
+2022-06-30 - im_dslyexci - Timestamp out of date
+2022-06-30 - im_dslyexci - Trading no photo
