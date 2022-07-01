@@ -664,3 +664,6 @@
 2022-06-29 - Kafarfle - No time stamp
 2022-06-30 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-06-30 - IsaacSam98 - PERM-BANNED
+2022-07-01 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-01 - Kafarfle - Posting Frequency
+2022-07-01 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
