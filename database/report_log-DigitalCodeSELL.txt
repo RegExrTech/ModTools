@@ -1887,3 +1887,5 @@
 2022-06-29 - TheHamGamer - List Formatting Requirements
 2022-06-30 - TheHamGamer - List Formatting Requirements
 2022-06-30 - USLBot - PERM-BANNED
+2022-07-02 - TheHamGamer - List Formatting Requirements
+2022-07-03 - TheHamGamer - List Formatting Requirements

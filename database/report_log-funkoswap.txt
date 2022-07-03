@@ -2847,3 +2847,5 @@
 2022-06-30 - im_dslyexci - Timestamp out of date
 2022-06-30 - im_dslyexci - Trading no photo
 2022-07-01 - im_dslyexci - BANNED - 1 days.
+2022-07-02 - FreddySwapBot - Timestamp out of date
+2022-07-02 - im_dslyexci - No timestamp

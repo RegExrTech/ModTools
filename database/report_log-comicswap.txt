@@ -190,3 +190,5 @@
 2022-06-08 - USLBot - PERM-BANNED
 2022-06-22 - rabidmonkeys - PERM-BANNED
 2022-06-25 - rabidmonkeys - PERM-BANNED
+2022-07-02 - USLBot - PERM-BANNED
+2022-07-03 - rabidmonkeys - PERM-BANNED
