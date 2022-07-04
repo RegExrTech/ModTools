@@ -4481,3 +4481,5 @@
 2022-07-03 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-03 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-03 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-04 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-04 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards

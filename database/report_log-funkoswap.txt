@@ -2849,3 +2849,4 @@
 2022-07-01 - im_dslyexci - BANNED - 1 days.
 2022-07-02 - FreddySwapBot - Timestamp out of date
 2022-07-02 - im_dslyexci - No timestamp
+2022-07-03 - USLBot - PERM-BANNED
