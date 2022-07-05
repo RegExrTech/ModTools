@@ -4483,3 +4483,6 @@
 2022-07-03 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-04 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-04 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-07-04 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-07-04 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-07-05 - Lightning00 - no timestamp and prices

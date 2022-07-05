@@ -1891,3 +1891,4 @@
 2022-07-03 - TheHamGamer - List Formatting Requirements
 2022-07-03 - iLL-sKiLLz - Basic Rules
 2022-07-03 - TheHamGamer - PERM-BANNED
+2022-07-04 - USLBot - PERM-BANNED
