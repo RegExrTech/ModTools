@@ -677,3 +677,8 @@
 2022-07-04 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-07-04 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-07-05 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-05 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-05 - Kafarfle - PERM-BANNED
+2022-07-05 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-05 - PeaceLoveSmithWesson - CHANGED BAN - 13 days.
+2022-07-05 - PeaceLoveSmithWesson - PERM-BANNED

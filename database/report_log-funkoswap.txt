@@ -2850,3 +2850,6 @@
 2022-07-02 - FreddySwapBot - Timestamp out of date
 2022-07-02 - im_dslyexci - No timestamp
 2022-07-03 - USLBot - PERM-BANNED
+2022-07-06 - FreddySwapBot - Timestamp out of date
+2022-07-06 - im_dslyexci - Timestamp
+2022-07-06 - im_dslyexci - Missing prices
