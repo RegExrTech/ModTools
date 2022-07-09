@@ -24,3 +24,4 @@
 2021-12-02 - Spyderr8 - Missing Timestamps
 2021-12-02 - Spyderr8 - Missing Timestamps
 2022-03-25 - Spyderr8 - Missing Timestamps
+2022-07-08 - AutoModerator - Only PayPal G&S as a form of payment
