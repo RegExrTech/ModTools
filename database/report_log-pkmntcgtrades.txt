@@ -4535,3 +4535,6 @@
 2022-07-09 - drewuptown - PERM-BANNED
 2022-07-09 - drewuptown - PERM-BANNED
 2022-07-09 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-10 - teogeorgiou - Timestamps are required for ALL items
+2022-07-10 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-10 - Oneyewilly - Timestamps are required for ALL items
