@@ -4538,3 +4538,7 @@
 2022-07-10 - teogeorgiou - Timestamps are required for ALL items
 2022-07-10 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-10 - Oneyewilly - Timestamps are required for ALL items
+2022-07-10 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-07-10 - Oneyewilly - Timestamps are required for ALL items
+2022-07-10 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-07-11 - Lightning00 - All items for sale and trade must be clearly price
