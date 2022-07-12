@@ -2028,3 +2028,7 @@
 2022-07-10 - dooms25 - Timestamp and Description
 2022-07-11 - dooms25 - Payment Methods
 2022-07-11 - maugust09 - Payment Methods
+2022-07-11 - maugust09 - Posting Rules (Flair)
+2022-07-11 - maugust09 - Formatting and Detailed Description Requirements
+2022-07-12 - dooms25 - Payment Methods
+2022-07-12 - dooms25 - Timestamp and Description
