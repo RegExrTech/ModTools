@@ -2873,3 +2873,10 @@
 2022-07-13 - ruemeridian - No timestamp
 2022-07-13 - im_dslyexci - No timestamp
 2022-07-13 - im_dslyexci - Timestamp out of date
+2022-07-14 - j007conks - No prices
+2022-07-14 - USLBot - PERM-BANNED
+2022-07-15 - im_dslyexci - Timestamp
+2022-07-15 - im_dslyexci - Missing prices
+2022-07-15 - im_dslyexci - Timestamp
+2022-07-15 - im_dslyexci - Flipping
+2022-07-15 - im_dslyexci - Timestamp unreadable
