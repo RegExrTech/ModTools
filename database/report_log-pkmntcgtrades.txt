@@ -4606,3 +4606,6 @@
 2022-07-15 - drewuptown - Timestamps are required for ALL items
 2022-07-15 - drewuptown - PERM-BANNED
 2022-07-15 - teogeorgiou - Keep trade offers in the comments and personal inf
+2022-07-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-07-16 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-07-16 - Lightning00 - All items for sale and trade must be clearly price
