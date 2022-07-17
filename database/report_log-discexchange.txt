@@ -708,3 +708,6 @@
 2022-07-14 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-07-14 - goodlin77 - No time stamp
 2022-07-15 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-16 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-16 - goodlin77 - No time stamp
+2022-07-17 - goodlin77 - PERM-BANNED
