@@ -4617,3 +4617,4 @@
 2022-07-16 - drewuptown - Timestamps are required for ALL items
 2022-07-16 - drewuptown - Timestamps are required for ALL items
 2022-07-16 - drewuptown - All items for sale and trade must be clearly price
+2022-07-18 - AutoModerator - PayPal Goods & Services is the only approved metho
