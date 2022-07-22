@@ -4646,3 +4646,6 @@
 2022-07-21 - Lightning00 - Keep trade offers in the comments and personal inf
 2022-07-21 - drewuptown - CHANGED BAN - 14 days.
 2022-07-21 - drewuptown - PERM-BANNED
+2022-07-21 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-21 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-07-21 - AutoModerator - PayPal Goods & Services is the only approved metho
