@@ -9292,3 +9292,6 @@
 2022-07-24 - audma - Timestamp
 2022-07-24 - audma - BANNED - 7 days.
 2022-07-24 - audma - PERM-BANNED
+2022-07-24 - zeroair - Timestamp
+2022-07-24 - USLBot - PERM-BANNED
+2022-07-24 - Powerline77 - Timestamp
