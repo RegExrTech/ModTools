@@ -4667,3 +4667,7 @@
 2022-07-25 - teogeorgiou - Timestamps are required for ALL items
 2022-07-25 - teogeorgiou - All items for sale and trade must be clearly price
 2022-07-26 - teogeorgiou - All items for sale and trade must be clearly price
+2022-07-26 - Lightning00 - Timestamps are required for ALL items
+2022-07-26 - teogeorgiou - Shipping policy
+2022-07-26 - Lightning00 - Timestamp required for all item, prices
+2022-07-27 - Lightning00 - All items for sale and trade must be clearly price
