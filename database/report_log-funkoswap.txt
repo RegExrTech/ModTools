@@ -2938,3 +2938,6 @@
 2022-07-27 - im_dslyexci - Timestamp out of date
 2022-07-27 - j007conks - Flipping
 2022-07-27 - im_dslyexci - Timestamp
+2022-07-28 - j007conks - No timestamp
+2022-07-28 - j007conks - Flipping
+2022-07-29 - DrShadyTree - Missing prices
