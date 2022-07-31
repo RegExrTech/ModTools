@@ -2946,3 +2946,6 @@
 2022-07-30 - j007conks - Off Topic
 2022-07-30 - j007conks - Only Paypal
 2022-07-30 - j007conks - BANNED - 7 days.
+2022-07-30 - RegExrBot - PERM-BANNED
+2022-07-30 - USLBot - PERM-BANNED
+2022-07-30 - RegExrBot - PERM-BANNED
