@@ -4701,3 +4701,6 @@
 2022-07-30 - Lightning00 - timestamp+prices
 2022-07-30 - teogeorgiou - Timestamps are required for ALL items
 2022-07-30 - teogeorgiou - Timestamps are required for ALL items
+2022-07-31 - Lightning00 - Timestamps are required for ALL items
+2022-07-31 - Lightning00 - PayPal Goods & Services is the only approved metho
+2022-08-01 - Lightning00 - All items for sale and trade must be clearly price

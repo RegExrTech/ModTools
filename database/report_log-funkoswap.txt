@@ -2949,3 +2949,12 @@
 2022-07-30 - RegExrBot - PERM-BANNED
 2022-07-30 - USLBot - PERM-BANNED
 2022-07-30 - RegExrBot - PERM-BANNED
+2022-07-31 - j007conks - Trading no photo
+2022-07-31 - j007conks - Flipping
+2022-07-31 - DrShadyTree - Timestamp
+2022-07-31 - im_dslyexci - Flipping
+2022-07-31 - im_dslyexci - Timestamp
+2022-07-31 - im_dslyexci - Only Paypal
+2022-08-01 - im_dslyexci - Timestamp
+2022-08-01 - j007conks - No timestamp
+2022-08-01 - FreddySwapBot - Timestamp out of date

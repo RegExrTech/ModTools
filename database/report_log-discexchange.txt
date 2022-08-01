@@ -739,3 +739,9 @@
 2022-07-30 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-07-30 - goodlin77 - No time stamp
 2022-07-30 - goodlin77 - No time stamp
+2022-07-31 - goodlin77 - No time stamp
+2022-07-31 - goodlin77 - No time stamp
+2022-07-31 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-31 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-07-31 - kcrunner - PERM-BANNED
+2022-08-01 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
