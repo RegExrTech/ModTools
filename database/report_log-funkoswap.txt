@@ -2958,3 +2958,6 @@
 2022-08-01 - im_dslyexci - Timestamp
 2022-08-01 - j007conks - No timestamp
 2022-08-01 - FreddySwapBot - Timestamp out of date
+2022-08-01 - j007conks - Only Paypal
+2022-08-01 - j007conks - Only Paypal
+2022-08-01 - im_dslyexci - No timestamp
