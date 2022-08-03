@@ -1908,3 +1908,4 @@
 2022-07-30 - TheHamGamer - List Formatting Requirements
 2022-07-30 - USLBot - PERM-BANNED
 2022-08-01 - TheHamGamer - Basic Rules
+2022-08-02 - USLBot - PERM-BANNED

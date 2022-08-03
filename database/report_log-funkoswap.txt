@@ -2961,3 +2961,7 @@
 2022-08-01 - j007conks - Only Paypal
 2022-08-01 - j007conks - Only Paypal
 2022-08-01 - im_dslyexci - No timestamp
+2022-08-02 - im_dslyexci - Pricing
+2022-08-02 - im_dslyexci - Missing prices
+2022-08-03 - j007conks - No timestamp
+2022-08-03 - j007conks - Only Paypal
