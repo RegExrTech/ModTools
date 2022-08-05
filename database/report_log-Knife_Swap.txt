@@ -2119,3 +2119,4 @@
 2022-08-03 - maugust09 - Formatting and Detailed Description Requirements
 2022-08-03 - dooms25 - Timestamp and Description
 2022-08-04 - dooms25 - Posting Rules (Flair)
+2022-08-04 - merkon - Repost Price Reductions
