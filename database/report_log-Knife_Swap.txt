@@ -2123,3 +2123,6 @@
 2022-08-05 - dooms25 - Payment Methods
 2022-08-05 - merkon - Gear Sales
 2022-08-06 - maugust09 - Timestamp and Description
+2022-08-06 - maugust09 - Formatting and Detailed Description Requirements
+2022-08-06 - merkon - Posting Rules (Flair)
+2022-08-06 - maugust09 - Timestamp and Description
