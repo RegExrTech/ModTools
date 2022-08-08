@@ -2974,3 +2974,5 @@
 2022-08-06 - im_dslyexci - No prices
 2022-08-06 - im_dslyexci - Timestamp out of date
 2022-08-06 - DrShadyTree - Timestamp
+2022-08-07 - j007conks - No timestamp
+2022-08-07 - FreddySwapBot - Timestamp out of date
