@@ -2976,3 +2976,8 @@
 2022-08-06 - DrShadyTree - Timestamp
 2022-08-07 - j007conks - No timestamp
 2022-08-07 - FreddySwapBot - Timestamp out of date
+2022-08-08 - j007conks - Only Paypal
+2022-08-09 - j007conks - No prices
+2022-08-09 - j007conks - Trading no photo
+2022-08-09 - j007conks - No timestamp
+2022-08-10 - j007conks - No timestamp
