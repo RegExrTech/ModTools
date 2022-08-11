@@ -1910,3 +1910,4 @@
 2022-08-01 - TheHamGamer - Basic Rules
 2022-08-02 - USLBot - PERM-BANNED
 2022-08-03 - FireAbyss - PERM-BANNED
+2022-08-11 - thegreatunitor - List Formatting Requirements
