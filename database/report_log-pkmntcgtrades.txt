@@ -4764,3 +4764,7 @@
 2022-08-10 - Lightning00 - timestamp, prices
 2022-08-11 - AutoModerator - PayPal Goods & Services is the only approved metho
 2022-08-11 - Lightning00 - Keep trade offers in the comments and personal inf
+2022-08-11 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-08-11 - Lightning00 - Timestamps are required for ALL items
+2022-08-12 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-08-12 - Lightning00 - Keep trade offers in the comments and personal inf
