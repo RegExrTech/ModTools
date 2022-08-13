@@ -2157,3 +2157,5 @@
 2022-08-11 - maugust09 - Gear Sales
 2022-08-11 - maugust09 - Gear Sales
 2022-08-11 - dooms25 - Posting Rules (Flair)
+2022-08-12 - maugust09 - Formatting and Detailed Description Requirements
+2022-08-12 - maugust09 - Timestamp and Description
