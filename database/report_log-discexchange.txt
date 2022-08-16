@@ -795,3 +795,7 @@
 2022-08-15 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-08-15 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
 2022-08-15 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-08-15 - Kafarfle - No Time Stamp
+2022-08-15 - Kafarfle - No Time Stamp
+2022-08-16 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
+2022-08-16 - Kafarfle - BANNED - 7 days.
