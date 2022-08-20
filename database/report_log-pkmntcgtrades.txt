@@ -4883,3 +4883,6 @@
 2022-08-19 - PokeSwapBot - Timestamps are required for ALL items
 2022-08-19 - teogeorgiou - All items for sale and trade must be clearly price
 2022-08-19 - teogeorgiou - Missing timestamps and prices
+2022-08-19 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-08-19 - teogeorgiou - Timestamps are required for ALL items
+2022-08-19 - Lightning00 - Timestamps are required for ALL items
