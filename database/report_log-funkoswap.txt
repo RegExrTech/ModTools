@@ -3006,3 +3006,7 @@
 2022-08-19 - ruemeridian - No timestamp
 2022-08-20 - USLBot - PERM-BANNED
 2022-08-21 - j007conks - Only Paypal
+2022-08-22 - j007conks - 30 Day Limit
+2022-08-22 - j007conks - No timestamp
+2022-08-22 - FreddySwapBot - Timestamp out of date
+2022-08-23 - USLBot - PERM-BANNED

@@ -2194,3 +2194,10 @@
 2022-08-22 - maugust09 - Formatting and Detailed Description Requirements
 2022-08-22 - maugust09 - Timestamp and Description
 2022-08-22 - maugust09 - PERM-BANNED
+2022-08-22 - USLBot - PERM-BANNED
+2022-08-22 - maugust09 - Payment Methods
+2022-08-22 - maugust09 - Timestamp and Description
+2022-08-22 - merkon - Gear Sales
+2022-08-23 - maugust09 - Ignorance of the rules is not a valid defense agai
+2022-08-23 - maugust09 - Gear Sales
+2022-08-23 - maugust09 - Timestamp and Description
