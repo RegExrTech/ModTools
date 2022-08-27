@@ -3018,3 +3018,5 @@
 2022-08-25 - j007conks - Only Paypal
 2022-08-26 - j007conks - No timestamp
 2022-08-26 - j007conks - Only Paypal
+2022-08-26 - USLBot - PERM-BANNED
+2022-08-26 - FreddySwapBot - Timestamp out of date

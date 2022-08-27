@@ -4900,3 +4900,9 @@
 2022-08-26 - teogeorgiou - All items for sale and trade must be clearly price
 2022-08-26 - Lightning00 - Timestamps are required for ALL items.
 2022-08-26 - Lightning00 - All items for sale and trade must be clearly price
+2022-08-26 - Lightning00 - All items for sale and trade must be clearly price
+2022-08-26 - Lightning00 - Timestamps are required for ALL items
+2022-08-26 - teogeorgiou - User circumventing previous ban
+2022-08-26 - teogeorgiou - PERM-BANNED
+2022-08-27 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-08-27 - Lightning00 - Timestamps are required for ALL items

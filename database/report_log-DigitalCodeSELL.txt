@@ -1914,3 +1914,6 @@
 2022-08-18 - USLBot - PERM-BANNED
 2022-08-22 - TheHamGamer - Basic Rules
 2022-08-26 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-08-26 - FireAbyss - Rule 10 - Post abandoned, ghosting, timely deals
+2022-08-27 - FireAbyss - Rule 5 - List Requirements and Formatting
+2022-08-27 - FireAbyss - PERM-BANNED
