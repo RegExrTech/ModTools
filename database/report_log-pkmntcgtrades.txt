@@ -4906,3 +4906,5 @@
 2022-08-26 - teogeorgiou - PERM-BANNED
 2022-08-27 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
 2022-08-27 - Lightning00 - Timestamps are required for ALL items
+2022-08-28 - Lightning00 - Timestamps are required for ALL items
+2022-08-28 - Lightning00 - timestamp, item for sale/trade must have prices
