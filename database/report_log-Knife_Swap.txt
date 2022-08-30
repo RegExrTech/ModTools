@@ -2218,3 +2218,5 @@
 2022-08-28 - maugust09 - Formatting and Detailed Description Requirements
 2022-08-28 - maugust09 - Formatting and Detailed Description Requirements
 2022-08-28 - maugust09 - Repost Price Reductions
+2022-08-29 - USLBot - PERM-BANNED
+2022-08-29 - maugust09 - Timestamp and Description

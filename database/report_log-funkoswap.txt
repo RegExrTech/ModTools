@@ -3022,3 +3022,4 @@
 2022-08-26 - FreddySwapBot - Timestamp out of date
 2022-08-27 - ruemeridian - NonFunko
 2022-08-29 - im_dslyexci - Missing prices
+2022-08-29 - j007conks - Only Paypal
