@@ -3028,3 +3028,6 @@
 2022-08-31 - j007conks - No timestamp
 2022-08-31 - j007conks - No timestamp
 2022-09-01 - FreddySwapBot - Timestamp out of date
+2022-09-01 - j007conks - No timestamp
+2022-09-02 - j007conks - Pricing
+2022-09-02 - j007conks - Only Paypal
