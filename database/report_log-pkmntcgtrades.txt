@@ -4931,3 +4931,5 @@
 2022-09-02 - Lightning00 - Timestamps are required for ALL items
 2022-09-02 - teogeorgiou - All items for sale and trade must be clearly price
 2022-09-02 - PokeSwapBot - Keep discussions on topic and dont spam
+2022-09-02 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-09-03 - Lightning00 - Timestamps are required for ALL items
