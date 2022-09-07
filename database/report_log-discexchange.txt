@@ -870,3 +870,5 @@
 2022-09-04 - goodlin77 - No Time Stamp
 2022-09-05 - Kafarfle - No Time Stamp
 2022-09-06 - goodlin77 - No Time Stamp
+2022-09-06 - goodlin77 - No Time Stamp
+2022-09-06 - Kafarfle - Timestamp Required for Users Below 25 Exchanges.
