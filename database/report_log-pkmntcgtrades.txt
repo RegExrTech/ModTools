@@ -4940,3 +4940,6 @@
 2022-09-07 - C011ECT0R - PERM-BANNED
 2022-09-07 - Lightning00 - Keep trade offers in the comments and personal inf
 2022-09-07 - Lightning00 - timestamp, prices
+2022-09-07 - PokeSwapBot - Code cards arent allowed
+2022-09-08 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-09-08 - Lightning00 - No outside links, references, or advertising
