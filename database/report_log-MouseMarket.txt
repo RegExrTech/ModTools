@@ -461,3 +461,5 @@
 2022-09-07 - Unciform - Rule 4: Timestamps
 2022-09-08 - Gregapher_ - PERM-BANNED
 2022-09-12 - Gregapher_ - PERM-BANNED
+2022-09-16 - USLBot - PERM-BANNED
+2022-09-16 - Gregapher_ - Rule 4: Timestamps
