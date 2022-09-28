@@ -4985,3 +4985,4 @@
 2022-09-24 - Lightning00 - timestamp+price
 2022-09-24 - Lightning00 - Timestamps are required for ALL items
 2022-09-25 - teogeorgiou - All items for sale and trade must be clearly price
+2022-09-28 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
