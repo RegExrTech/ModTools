@@ -3074,3 +3074,4 @@
 2022-09-26 - FreddySwapBot - Timestamp out of date
 2022-09-27 - j007conks - No timestamp
 2022-09-28 - j007conks - No timestamp
+2022-09-29 - im_dslyexci - Missing prices
