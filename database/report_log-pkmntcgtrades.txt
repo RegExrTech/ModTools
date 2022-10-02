@@ -4991,3 +4991,5 @@
 2022-09-30 - teogeorgiou - All items for sale and trade must be clearly price
 2022-09-30 - teogeorgiou - All items for sale and trade must be clearly price
 2022-09-30 - teogeorgiou - Timestamps are required for ALL items
+2022-10-01 - teogeorgiou - All items for sale and trade must be clearly price
+2022-10-01 - Lightning00 - Timestamps are required for ALL items
