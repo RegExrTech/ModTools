@@ -1928,3 +1928,4 @@
 2022-10-03 - FireAbyss - Rule 7 - Stay Classy
 2022-10-03 - FireAbyss - Rule 5 - List Requirements and Formatting
 2022-10-03 - DCSbot - PSAs cant be questions. Use the pinned discussion
+2022-10-04 - FireAbyss - Rule 5 - List Requirements and Formatting

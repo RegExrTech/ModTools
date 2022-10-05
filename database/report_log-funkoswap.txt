@@ -3076,3 +3076,11 @@
 2022-09-28 - j007conks - No timestamp
 2022-09-29 - im_dslyexci - Missing prices
 2022-10-02 - j007conks - No timestamp
+2022-10-04 - FreddySwapBot - Timestamp out of date
+2022-10-04 - im_dslyexci - Picture w/ hand written Username and Date
+2022-10-04 - im_dslyexci - Pricing Rules
+2022-10-05 - j007conks - 30 Day Limit
+2022-10-05 - j007conks - No timestamp
+2022-10-05 - j007conks - No timestamp
+2022-10-05 - j007conks - 30 Day Limit
+2022-10-05 - RegExr - No more than Cost+Shipping for 1st month
