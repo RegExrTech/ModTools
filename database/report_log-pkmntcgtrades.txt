@@ -5005,3 +5005,4 @@
 2022-10-05 - Lightning00 - Timestamps are required for ALL items
 2022-10-05 - Lightning00 - Timestamps are required for ALL items
 2022-10-05 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-10-07 - Lightning00 - timestamp+items for trade must have prices
