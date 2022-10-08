@@ -3086,3 +3086,4 @@
 2022-10-05 - RegExr - No more than Cost+Shipping for 1st month
 2022-10-06 - im_dslyexci - Flipping
 2022-10-07 - im_dslyexci - Timestamp out of date
+2022-10-07 - FunkoSwapUSL - PERM-BANNED

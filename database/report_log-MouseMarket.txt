@@ -478,3 +478,5 @@
 2022-10-03 - Gregapher_ - PERM-BANNED
 2022-10-04 - Gregapher_ - BANNED - 3 days.
 2022-10-06 - USLBot - PERM-BANNED
+2022-10-07 - Gregapher_ - PERM-BANNED
+2022-10-08 - USLBot - PERM-BANNED
