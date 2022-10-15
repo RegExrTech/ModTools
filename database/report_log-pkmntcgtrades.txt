@@ -5022,3 +5022,6 @@
 2022-10-13 - Oneyewilly - Keep trade offers in the comments and personal inf
 2022-10-13 - Oneyewilly - Keep trade offers in the comments and personal inf
 2022-10-14 - teogeorgiou - Timestamps are required for ALL items
+2022-10-14 - teogeorgiou - Timestamps are required for ALL items
+2022-10-14 - teogeorgiou - BANNED - 30 days.
+2022-10-14 - AutoModerator - PayPal Goods & Services is the only approved metho
