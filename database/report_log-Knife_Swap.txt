@@ -2462,3 +2462,7 @@
 2022-10-14 - dooms25 - Repost Price Reductions
 2022-10-14 - maugust09 - Formatting and Detailed Description Requirements
 2022-10-15 - maugust09 - WTB Thread
+2022-10-16 - maugust09 - Timestamp and Description
+2022-10-17 - maugust09 - Deletion (Posts and Prices)
+2022-10-17 - maugust09 - Repost Price Reductions
+2022-10-17 - maugust09 - Timestamp and Description
