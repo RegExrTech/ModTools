@@ -513,3 +513,5 @@
 2022-10-22 - Unciform - Rule 1: Titles
 2022-10-22 - Gregapher_ - PERM-BANNED
 2022-10-22 - Gregapher_ - Rule 4: Timestamps
+2022-10-23 - Gregapher_ - Rule 4: Timestamps
+2022-10-23 - Gregapher_ - Rule 4: Timestamps

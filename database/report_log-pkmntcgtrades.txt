@@ -5057,3 +5057,5 @@
 2022-10-20 - AutoModerator - PayPal Goods & Services is the only approved metho
 2022-10-20 - Lightning00 - No timestamp and no prices
 2022-10-21 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-10-23 - PokeSwapBot - do not hijack someone elses post
+2022-10-23 - PokeSwapBot - do not hijack someone elses post
