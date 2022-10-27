@@ -5061,3 +5061,7 @@
 2022-10-23 - PokeSwapBot - do not hijack someone elses post
 2022-10-24 - AutoModerator - PayPal Goods & Services is the only approved metho
 2022-10-25 - teogeorgiou - PERM-BANNED
+2022-10-26 - Lightning00 - PERM-BANNED
+2022-10-27 - Lightning00 - All items for sale and trade must be clearly price
+2022-10-27 - Lightning00 - All items for sale and trade must be clearly price
+2022-10-27 - Lightning00 - Timestamps are required for ALL items

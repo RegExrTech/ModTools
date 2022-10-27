@@ -208,3 +208,4 @@
 2022-10-19 - snackexchangeUSLbot - PERM-BANNED
 2022-10-24 - USLBot - PERM-BANNED
 2022-10-25 - snackexchangeUSLbot - PERM-BANNED
+2022-10-26 - Carnifex - PERM-BANNED
