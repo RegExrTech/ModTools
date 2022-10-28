@@ -1945,3 +1945,4 @@
 2022-10-18 - USLBot - PERM-BANNED
 2022-10-24 - FireAbyss - Rule 5 - List Requirements and Formatting
 2022-10-25 - TheHamGamer - Basic Rules
+2022-10-28 - TheHamGamer - Basic Rules
