@@ -3131,3 +3131,6 @@
 2022-10-26 - FreddySwapBot - Timestamp out of date
 2022-10-27 - FunkoSwapUSL - PERM-BANNED
 2022-10-27 - im_dslyexci - No timestamp
+2022-10-30 - FreddySwapBot - Timestamp out of date
+2022-10-31 - FreddySwapBot - Timestamp out of date
+2022-10-31 - im_dslyexci - Pricing Rules
