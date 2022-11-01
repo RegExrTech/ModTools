@@ -258,3 +258,5 @@
 2022-10-27 - comicswapUSLbot - PERM-BANNED
 2022-10-30 - rabidmonkeys - BANNED - 7 days.
 2022-10-30 - rabidmonkeys - PERM-BANNED
+2022-10-31 - rabidmonkeys - BANNED - 5 days.
+2022-11-01 - comicswapUSLbot - PERM-BANNED
