@@ -3135,3 +3135,11 @@
 2022-10-31 - FreddySwapBot - Timestamp out of date
 2022-10-31 - im_dslyexci - Pricing Rules
 2022-10-31 - FunkoSwapUSL - PERM-BANNED
+2022-11-01 - RegExrBot - PERM-BANNED
+2022-11-01 - j007conks - BANNED - 30 days.
+2022-11-01 - j007conks - Only Paypal
+2022-11-01 - USLBot - PERM-BANNED
+2022-11-01 - im_dslyexci - Picture w/ hand written Username and Date
+2022-11-02 - j007conks - Trading no photo
+2022-11-02 - USLBot - PERM-BANNED
+2022-11-02 - j007conks - No timestamp
