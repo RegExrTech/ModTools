@@ -5081,3 +5081,7 @@
 2022-11-01 - C011ECT0R - Price Policing
 2022-11-01 - C011ECT0R - Price Policing
 2022-11-01 - PokeSwapBot - Keep discussions on topic and dont spam
+2022-11-02 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-02 - Lightning00 - Asking for fees is not allowed
+2022-11-02 - Lightning00 - 1. Timestamps are required for ALL items.
+2022-11-02 - Lightning00 - All items for sale and trade must be clearly price
