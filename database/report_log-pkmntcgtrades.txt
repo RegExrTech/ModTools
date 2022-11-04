@@ -5085,3 +5085,6 @@
 2022-11-02 - Lightning00 - Asking for fees is not allowed
 2022-11-02 - Lightning00 - 1. Timestamps are required for ALL items.
 2022-11-02 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-03 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-11-04 - Lightning00 - Keep trade offers in the comments and personal inf
+2022-11-04 - Lightning00 - Timestamps are required for ALL items
