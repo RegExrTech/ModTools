@@ -676,3 +676,7 @@
 2022-11-02 - USLBot - PERM-BANNED
 2022-11-02 - USLBot - PERM-BANNED
 2022-11-03 - zefpomp - PERM-BANNED
+2022-11-05 - zefpomp - PERM-BANNED
+2022-11-05 - jidonskii - BANNED - 30 days.
+2022-11-07 - jidonskii - BANNED - 30 days.
+2022-11-08 - Cash4CashUSLbot - PERM-BANNED

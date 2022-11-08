@@ -5089,3 +5089,7 @@
 2022-11-04 - Lightning00 - Keep trade offers in the comments and personal inf
 2022-11-04 - Lightning00 - Timestamps are required for ALL items
 2022-11-04 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-11-06 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-11-07 - C011ECT0R - Timestamps are required for ALL items
+2022-11-07 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-08 - Lightning00 - Timestamps are required for ALL items
