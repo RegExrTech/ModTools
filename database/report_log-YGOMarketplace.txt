@@ -1156,3 +1156,5 @@
 2022-11-06 - ManaBMG - BANNED - 7 days.
 2022-11-08 - ManaBMG - Timestamps
 2022-11-08 - AutoModerator - Payments
+2022-11-08 - ManaBMG - Timestamps
+2022-11-08 - AutoModerator - Payments
