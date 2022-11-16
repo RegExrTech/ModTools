@@ -5130,3 +5130,12 @@
 2022-11-15 - Lightning00 - Timestamps are required for ALL items
 2022-11-15 - Lightning00 - PayPal Goods & Services is the only approved metho
 2022-11-15 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-11-15 - teogeorgiou - Timestamps are required for ALL items
+2022-11-15 - teogeorgiou - All items for sale and trade must be clearly price
+2022-11-15 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-15 - Lightning00 - Timestamps are required for ALL items
+2022-11-16 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-16 - Lightning00 - no timestamp+all items for trade/sell must have a 
+2022-11-16 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-16 - Lightning00 - All items for sale and trade must be clearly price
+2022-11-16 - Lightning00 - Timestamps are required for ALL items
