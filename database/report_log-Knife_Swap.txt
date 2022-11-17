@@ -2673,3 +2673,5 @@
 2022-11-15 - maugust09 - Timestamp and Description
 2022-11-15 - maugust09 - WTB Thread
 2022-11-15 - maugust09 - PERM-BANNED
+2022-11-16 - maugust09 - Timestamp and Description
+2022-11-17 - Knife_swapUSLbot - PERM-BANNED
