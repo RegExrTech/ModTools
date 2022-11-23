@@ -3155,3 +3155,4 @@
 2022-11-16 - j007conks - Only Paypal
 2022-11-16 - FreddySwapBot - Timestamp out of date
 2022-11-20 - FunkoSwapUSL - PERM-BANNED
+2022-11-22 - DrShadyTree - Review the Rules
