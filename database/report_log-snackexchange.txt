@@ -215,3 +215,4 @@
 2022-11-02 - USLBot - PERM-BANNED
 2022-11-17 - snackexchangeUSLbot - PERM-BANNED
 2022-11-20 - snackexchangeUSLbot - PERM-BANNED
+2022-11-23 - snackexchangeUSLbot - PERM-BANNED

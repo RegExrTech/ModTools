@@ -1095,3 +1095,6 @@
 2022-11-20 - kcrunner - PERM-BANNED
 2022-11-21 - PeaceLoveSmithWesson - PERM-BANNED
 2022-11-21 - PeaceLoveSmithWesson - PERM-BANNED
+2022-11-23 - kcrunner - PERM-BANNED
+2022-11-23 - PeaceLoveSmithWesson - PERM-BANNED
+2022-11-23 - kcrunner - PERM-BANNED

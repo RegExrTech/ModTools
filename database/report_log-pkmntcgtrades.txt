@@ -5183,3 +5183,5 @@
 2022-11-22 - Lightning00 - All items for sale and trade must be clearly price
 2022-11-22 - Lightning00 - Timestamps are required for ALL items
 2022-11-22 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-11-23 - teogeorgiou - All items for sale and trade must be clearly price
+2022-11-23 - teogeorgiou - Several rules broken
