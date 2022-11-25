@@ -11176,3 +11176,8 @@
 2022-11-23 - Pseudophryne - Timestamp
 2022-11-23 - Pseudophryne - Price related comments
 2022-11-24 - Pseudophryne - Timestamp
+2022-11-24 - Pseudophryne - PERM-BANNED
+2022-11-24 - Pseudophryne - Transaction feedback
+2022-11-25 - Pseudophryne - Timestamp
+2022-11-25 - Pseudophryne - Timestamp
+2022-11-25 - Pseudophryne - Timestamp
