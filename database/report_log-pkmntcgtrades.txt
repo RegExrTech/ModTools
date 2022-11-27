@@ -5187,3 +5187,5 @@
 2022-11-23 - teogeorgiou - Several rules broken
 2022-11-25 - Lightning00 - PayPal Goods & Services is the only approved metho
 2022-11-25 - Lightning00 - PayPal Goods & Services is the only approved metho
+2022-11-27 - Lightning00 - PayPal Goods & Services is the only approved metho
+2022-11-27 - Lightning00 - Timestamps are required for ALL items
