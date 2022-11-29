@@ -746,3 +746,8 @@
 2022-11-27 - Cash4CashUSLbot - PERM-BANNED
 2022-11-27 - zefpomp - PERM-BANNED
 2022-11-28 - Cash4CashUSLbot - PERM-BANNED
+2022-11-28 - zefpomp - PERM-BANNED
+2022-11-28 - jidonskii - BANNED - 7 days.
+2022-11-28 - Cash4CashUSLbot - PERM-BANNED
+2022-11-28 - jidonskii - CHANGED BAN - 14 days.
+2022-11-28 - jidonskii - CHANGED BAN - 30 days.
