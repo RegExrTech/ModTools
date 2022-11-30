@@ -751,3 +751,4 @@
 2022-11-28 - Cash4CashUSLbot - PERM-BANNED
 2022-11-28 - jidonskii - CHANGED BAN - 14 days.
 2022-11-28 - jidonskii - CHANGED BAN - 30 days.
+2022-11-29 - jidonskii - PERM-BANNED
