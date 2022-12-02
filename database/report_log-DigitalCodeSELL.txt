@@ -1971,3 +1971,4 @@
 2022-11-27 - FireAbyss - Rule 5 - List Requirements and Formatting
 2022-11-28 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-11-28 - DCSUSLbot - PERM-BANNED
+2022-12-02 - DCSUSLbot - PERM-BANNED
