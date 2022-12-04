@@ -1973,3 +1973,7 @@
 2022-11-28 - DCSUSLbot - PERM-BANNED
 2022-12-02 - DCSUSLbot - PERM-BANNED
 2022-12-02 - DCSUSLbot - PERM-BANNED
+2022-12-03 - TheHamGamer - List Formatting Requirements
+2022-12-03 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-12-03 - DCSbot - Dont Third-Party an Ongoing Transaction
+2022-12-03 - TheHamGamer - Proper Transaction Etiquette
