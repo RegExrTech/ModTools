@@ -5223,3 +5223,8 @@
 2022-12-06 - teogeorgiou - Timestamps are required for ALL items
 2022-12-06 - teogeorgiou - Timestamps are required for ALL items
 2022-12-06 - teogeorgiou - Missing timestamps and prices
+2022-12-06 - teogeorgiou - Timestamps are required for ALL items
+2022-12-06 - teogeorgiou - All items for sale and trade must be clearly price
+2022-12-06 - teogeorgiou - Missing timestamps and pricing
+2022-12-07 - teogeorgiou - Timestamps are required for ALL items
+2022-12-07 - AutoModerator - PayPal Goods & Services is the only approved metho
