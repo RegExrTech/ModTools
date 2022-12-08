@@ -3180,3 +3180,5 @@
 2022-12-05 - j007conks - 30 Day Limit
 2022-12-06 - FunkoSwapUSL - PERM-BANNED
 2022-12-07 - DrShadyTree - Review the Rules
+2022-12-07 - FreddySwapBot - Timestamp out of date
+2022-12-08 - j007conks - No prices
