@@ -5253,3 +5253,11 @@
 2022-12-08 - teogeorgiou - Correctly formatted timestamps are required for AL
 2022-12-08 - teogeorgiou - All items for sale and trade must be clearly price
 2022-12-09 - Lightning00 - PERM-BANNED
+2022-12-09 - teogeorgiou - All items for sale and trade must be clearly price
+2022-12-09 - teogeorgiou - Missing timestamps and prices
+2022-12-09 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-09 - teogeorgiou - PERM-BANNED
+2022-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-10 - teogeorgiou - Keep trade offers in the comments and personal inf
+2022-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
