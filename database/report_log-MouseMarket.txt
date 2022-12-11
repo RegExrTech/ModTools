@@ -581,3 +581,4 @@
 2022-12-03 - Gregapher_ - Rule 4: Timestamps
 2022-12-04 - Gregapher_ - Rule 4: Timestamps
 2022-12-05 - MouseMarketBot - Rule 4: Timestamps
+2022-12-10 - Gregapher_ - Rule 1: Titles

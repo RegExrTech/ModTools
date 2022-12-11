@@ -5261,3 +5261,6 @@
 2022-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
 2022-12-10 - teogeorgiou - Keep trade offers in the comments and personal inf
 2022-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-11 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-12-11 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-11 - AutoModerator - PayPal Goods & Services is the only approved metho
