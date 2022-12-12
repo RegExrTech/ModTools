@@ -359,3 +359,6 @@
 2022-12-11 - sinyanmei92 - Posting limitations:
 2022-12-11 - sinyanmei92 - Posting limitations:
 2022-12-11 - sinyanmei92 - All selling/trading posts must include handwritten
+2022-12-11 - mangaswapbot - No submissions that arent buy/sell/trade.
+2022-12-11 - sinyanmei92 - All selling/trading posts must include handwritten
+2022-12-12 - sinyanmei92 - All selling/trading posts must include handwritten
