@@ -2819,3 +2819,8 @@
 2022-12-12 - maugust09 - Formatting and Detailed Description Requirements
 2022-12-13 - merkon - PERM-BANNED
 2022-12-14 - dooms25 - Timestamp and Description
+2022-12-14 - maugust09 - Payment Methods
+2022-12-14 - maugust09 - Spam
+2022-12-14 - maugust09 - PERM-BANNED
+2022-12-14 - Knife_swapUSLbot - PERM-BANNED
+2022-12-15 - dooms25 - Repost Price Reductions

@@ -1978,3 +1978,4 @@
 2022-12-03 - DCSbot - Dont Third-Party an Ongoing Transaction
 2022-12-03 - TheHamGamer - Proper Transaction Etiquette
 2022-12-14 - TheHamGamer - Basic Rules
+2022-12-14 - DCSUSLbot - PERM-BANNED
