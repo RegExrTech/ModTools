@@ -590,3 +590,5 @@
 2022-12-13 - Unciform - Rule 1: Titles
 2022-12-14 - MouseMarketUSLbot - PERM-BANNED
 2022-12-14 - MouseMarketUSLbot - PERM-BANNED
+2022-12-15 - Gregapher_ - PERM-BANNED
+2022-12-16 - Gregapher_ - Rule 4: Timestamps
