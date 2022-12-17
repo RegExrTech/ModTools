@@ -5272,3 +5272,7 @@
 2022-12-13 - Oneyewilly - All items for sale and trade must be clearly price
 2022-12-15 - teogeorgiou - Correctly formatted timestamps are required for AL
 2022-12-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-12-16 - Oneyewilly - PERM-BANNED
+2022-12-16 - Lightning00 - Correctly formatted timestamps are required for AL
+2022-12-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2022-12-17 - Lightning00 - no timestamp+need price
