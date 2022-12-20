@@ -5278,3 +5278,5 @@
 2022-12-17 - Lightning00 - no timestamp+need price
 2022-12-18 - Oneyewilly - PayPal Goods & Services is the only approved metho
 2022-12-18 - teogeorgiou - PERM-BANNED
+2022-12-19 - Lightning00 - All items for sale and trade must be clearly price
+2022-12-20 - teogeorgiou - Correctly formatted timestamps are required for AL
