@@ -5280,3 +5280,6 @@
 2022-12-18 - teogeorgiou - PERM-BANNED
 2022-12-19 - Lightning00 - All items for sale and trade must be clearly price
 2022-12-20 - teogeorgiou - Correctly formatted timestamps are required for AL
+2022-12-20 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2022-12-20 - drewuptown - Keep trade offers in the comments and personal inf
+2022-12-20 - teogeorgiou - Multiple rules broken
