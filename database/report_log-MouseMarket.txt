@@ -594,3 +594,5 @@
 2022-12-16 - Gregapher_ - Rule 4: Timestamps
 2022-12-19 - MouseMarketUSLbot - PERM-BANNED
 2022-12-19 - Gregapher_ - BANNED - 3 days.
+2022-12-23 - Gregapher_ - BANNED - 7 days.
+2022-12-24 - Gregapher_ - PERM-BANNED
