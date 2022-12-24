@@ -45,7 +45,11 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 	items = url.split("/")
 	hash = items[-1].replace("~", "")
 	hash = hash.split("/comment")[0]  # if someone links to a comment on their imgur post, we get fucked
-	type = items[-2].lower()
+	try:
+		type = items[-2].lower()
+	except:
+		print("Failed to parse imgur URL: " + url)
+		return True
 
 	try:
 		if type in ['gallery', 'a']:
