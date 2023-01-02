@@ -2935,3 +2935,7 @@
 2022-12-31 - maugust09 - Repost Price Reductions
 2022-12-31 - maugust09 - Timestamp and Description
 2023-01-01 - Witty_Username_81 - Gear Sales
+2023-01-01 - Witty_Username_81 - Payment Methods
+2023-01-01 - Witty_Username_81 - Formatting and Detailed Description Requirements
+2023-01-01 - Witty_Username_81 - Repost Price Reductions
+2023-01-01 - Witty_Username_81 - Formatting and Detailed Description Requirements
