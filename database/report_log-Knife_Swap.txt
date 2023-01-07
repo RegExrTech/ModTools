@@ -2954,3 +2954,6 @@
 2023-01-05 - merkon - Payment Methods
 2023-01-05 - maugust09 - Formatting and Detailed Description Requirements
 2023-01-05 - merkon - Gear Sales
+2023-01-06 - maugust09 - Formatting and Detailed Description Requirements
+2023-01-06 - maugust09 - Formatting and Detailed Description Requirements
+2023-01-07 - dooms25 - Ignorance of the rules is not a valid defense agai
