@@ -5320,3 +5320,4 @@
 2023-01-08 - Lightning00 - All items for sale and trade must be clearly price
 2023-01-08 - Lightning00 - All items for sale and trade must be clearly price
 2023-01-09 - Lightning00 - no timestamp+prices needed
+2023-01-09 - teogeorgiou - Correctly formatted timestamps are required for AL
