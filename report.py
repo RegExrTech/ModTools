@@ -84,6 +84,8 @@ def remove_reported_posts(sub, sub_name, lock_post):
 		# This is technically not a report even though it appears as one so we want to ignore it.
 		if report_reason == "It's abusing the report button":
 			continue
+		if report_reason == "It's vote manipulation":
+			continue
 		if report_reason == "It's targeted harassment at me":
 			report_reason = "Review the rules"
 		title = report_reason
