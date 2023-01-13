@@ -5329,3 +5329,7 @@
 2023-01-11 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-01-11 - C011ECT0R - Correctly formatted timestamps are required for AL
 2023-01-11 - teogeorgiou - As others pointed out, these are fake
+2023-01-12 - teogeorgiou - Missing clear prices and correct timestamp
+2023-01-12 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-01-13 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-01-13 - teogeorgiou - Correctly formatted timestamps are required for AL
