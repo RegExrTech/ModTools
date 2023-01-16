@@ -5335,3 +5335,8 @@
 2023-01-13 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-01-14 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-01-14 - Lightning00 - All items for sale and trade must be clearly price
+2023-01-15 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-01-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-01-16 - C011ECT0R - All items for sale and trade must be clearly price
+2023-01-16 - Lightning00 - PERM-BANNED
+2023-01-16 - Lightning00 - PERM-BANNED

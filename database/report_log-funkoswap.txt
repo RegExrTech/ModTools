@@ -3232,3 +3232,4 @@
 2023-01-10 - DrShadyTree - Missing prices
 2023-01-14 - FreddySwapBot - Timestamp out of date
 2023-01-15 - FreddySwapBot - Timestamp out of date
+2023-01-15 - FunkoSwapUSL - PERM-BANNED
