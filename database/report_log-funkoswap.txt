@@ -3233,3 +3233,5 @@
 2023-01-14 - FreddySwapBot - Timestamp out of date
 2023-01-15 - FreddySwapBot - Timestamp out of date
 2023-01-15 - FunkoSwapUSL - PERM-BANNED
+2023-01-17 - DrShadyTree - Review the Rules
+2023-01-17 - DrShadyTree - NonFunko
