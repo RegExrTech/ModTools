@@ -3236,3 +3236,4 @@
 2023-01-17 - DrShadyTree - Review the Rules
 2023-01-17 - DrShadyTree - NonFunko
 2023-01-19 - RegExr - No timestamp
+2023-01-26 - DrShadyTree - PERM-BANNED

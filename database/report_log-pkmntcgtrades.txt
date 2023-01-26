@@ -5368,3 +5368,6 @@
 2023-01-24 - teogeorgiou - PayPal Goods & Services is the only approved metho
 2023-01-24 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-01-24 - teogeorgiou - PayPal Goods & Services is the only approved metho
+2023-01-25 - teogeorgiou - Use of offensive term in title (please use JP/JPN 
+2023-01-26 - Lightning00 - Correctly formatted timestamps are required for AL
+2023-01-26 - Lightning00 - PERM-BANNED
