@@ -5380,3 +5380,6 @@
 2023-01-27 - teogeorgiou - Keep trade offers in the comments and personal inf
 2023-01-27 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-01-27 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-01-27 - teogeorgiou - All items for sale and trade must be clearly price
+2023-01-27 - teogeorgiou - All items for sale and trade must be clearly price
+2023-01-28 - teogeorgiou - All items for sale and trade must be clearly price
