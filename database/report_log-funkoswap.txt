@@ -3240,3 +3240,4 @@
 2023-01-27 - im_dslyexci - Picture w/ hand written Username and Date
 2023-01-27 - FunkoSwapUSL - PERM-BANNED
 2023-01-28 - FreddySwapBot - Timestamp out of date
+2023-01-29 - DrShadyTree - Missing prices
