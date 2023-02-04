@@ -5398,3 +5398,8 @@
 2023-02-02 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-02-03 - teogeorgiou - Wrong format of timestamps, missing prices
 2023-02-03 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-02-03 - teogeorgiou - Usage of offensive term in title, please use JPN, 
+2023-02-03 - teogeorgiou - All items for sale and trade must be clearly price
+2023-02-03 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-02-03 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-02-04 - Lightning00 - Correctly formatted timestamps are required for AL
