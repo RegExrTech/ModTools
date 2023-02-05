@@ -1994,3 +1994,4 @@
 2023-01-19 - DCSbot - Basic Rules
 2023-01-21 - Mafnas22 - Rule 5 - List Requirements and Formatting
 2023-01-23 - DCSUSLbot - PERM-BANNED
+2023-02-04 - TheHamGamer - Basic Rules
