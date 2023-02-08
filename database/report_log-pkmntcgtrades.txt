@@ -5444,3 +5444,5 @@
 2023-02-07 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-02-07 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-02-07 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-02-08 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-02-08 - Oneyewilly - All items for sale and trade must be clearly price

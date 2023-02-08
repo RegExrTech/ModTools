@@ -661,3 +661,5 @@
 2023-02-06 - Gregapher_ - PERM-BANNED
 2023-02-06 - Gregapher_ - Rule 4: Timestamps
 2023-02-06 - Gregapher_ - Rule 1: Titles
+2023-02-07 - Gregapher_ - CHANGED BAN - 7 days.
+2023-02-08 - Gregapher_ - Rule 4: Timestamps
