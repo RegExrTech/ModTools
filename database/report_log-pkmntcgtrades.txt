@@ -5446,3 +5446,7 @@
 2023-02-07 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-02-08 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
 2023-02-08 - Oneyewilly - All items for sale and trade must be clearly price
+2023-02-08 - Lightning00 - Correctly formatted timestamps are required for AL
+2023-02-08 - Lightning00 - Correctly formatted timestamps are required for AL
+2023-02-08 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-02-09 - Oneyewilly - All items for sale and trade must be clearly price
