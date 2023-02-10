@@ -5450,3 +5450,6 @@
 2023-02-08 - Lightning00 - Correctly formatted timestamps are required for AL
 2023-02-08 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-02-09 - Oneyewilly - All items for sale and trade must be clearly price
+2023-02-09 - C011ECT0R - Keep trade offers in the comments and personal inf
+2023-02-09 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-02-10 - teogeorgiou - Correctly formatted timestamps are required for AL

@@ -3175,3 +3175,7 @@
 2023-02-08 - maugust09 - PERM-BANNED
 2023-02-08 - dooms25 - PERM-BANNED
 2023-02-08 - maugust09 - Timestamp and Description
+2023-02-09 - merkon - Timestamp and Description
+2023-02-09 - maugust09 - PERM-BANNED
+2023-02-09 - maugust09 - Mods have final say for any rule grey areas.
+2023-02-09 - maugust09 - Formatting and Detailed Description Requirements
