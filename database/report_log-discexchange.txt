@@ -1333,3 +1333,5 @@
 2023-02-12 - Kafarfle - No Time Stamp
 2023-02-13 - kcrunner - PERM-BANNED
 2023-02-13 - kcrunner - Promotion of 3rd Party Sites
+2023-02-14 - Kafarfle - PERM-BANNED
+2023-02-14 - Kafarfle - No Time Stamp
