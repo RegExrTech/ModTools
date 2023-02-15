@@ -705,3 +705,6 @@
 2023-02-13 - mangaswapbot - Timestamp out of date
 2023-02-13 - mangaswapbot - Timestamp out of date
 2023-02-14 - sinyanmei92 - Keep a paper trail.
+2023-02-14 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-02-14 - sinyanmei92 - All selling posts must include prices and pictures
+2023-02-14 - sinyanmei92 - All selling/trading posts must include handwritten

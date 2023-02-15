@@ -5472,3 +5472,6 @@
 2023-02-12 - Oneyewilly - Correctly formatted timestamps are required for AL
 2023-02-12 - Oneyewilly - All items for sale and trade must be clearly price
 2023-02-13 - Oneyewilly - All items for sale and trade must be clearly price
+2023-02-15 - Lightning00 - proxy cards are not allowed+all item  for sale/tra
+2023-02-15 - Lightning00 - Keep trade offers in the comments and personal inf
+2023-02-15 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
