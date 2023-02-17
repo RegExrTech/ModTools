@@ -3268,3 +3268,5 @@
 2023-02-15 - im_dslyexci - PERM-BANNED
 2023-02-15 - FreddySwapBot - Timestamp out of date
 2023-02-16 - FreddySwapBot - Timestamp out of date
+2023-02-16 - im_dslyexci - Only Paypal
+2023-02-16 - im_dslyexci - No timestamp
