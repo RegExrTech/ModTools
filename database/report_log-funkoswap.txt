@@ -3270,3 +3270,9 @@
 2023-02-16 - FreddySwapBot - Timestamp out of date
 2023-02-16 - im_dslyexci - Only Paypal
 2023-02-16 - im_dslyexci - No timestamp
+2023-02-17 - im_dslyexci - Timestamp - incorrect username
+2023-02-17 - im_dslyexci - Pricing - none
+2023-02-17 - im_dslyexci - Timestamp - none
+2023-02-17 - im_dslyexci - Timestamp - none
+2023-02-17 - DrShadyTree - Missing prices
+2023-02-18 - FunkoSwapUSL - PERM-BANNED
