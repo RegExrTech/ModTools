@@ -5485,3 +5485,4 @@
 2023-02-18 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-02-18 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
 2023-02-18 - Lightning00 - Correctly formatted timestamps are required for AL
+2023-02-19 - Lightning00 - all item for sale/trade must be clearly priced+inc
