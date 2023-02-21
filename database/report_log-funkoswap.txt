@@ -3276,3 +3276,4 @@
 2023-02-17 - im_dslyexci - Timestamp - none
 2023-02-17 - DrShadyTree - Missing prices
 2023-02-18 - FunkoSwapUSL - PERM-BANNED
+2023-02-20 - FreddySwapBot - Timestamp out of date
