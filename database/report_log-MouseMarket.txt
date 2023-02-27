@@ -697,3 +697,5 @@
 2023-02-22 - Unciform - Rule 4: Timestamps
 2023-02-24 - Unciform - Rule 4: Timestamps
 2023-02-24 - Unciform - Rule 4: Timestamps
+2023-02-26 - MouseMarketUSLbot - PERM-BANNED
+2023-02-27 - Gregapher_ - Rule 4: Timestamps
