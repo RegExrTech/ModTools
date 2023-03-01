@@ -1124,3 +1124,5 @@
 2023-02-26 - FlairDeleteBot - PERM-BANNED
 2023-02-27 - FlairDeleteBot - PERM-BANNED
 2023-02-28 - FlairDeleteBot - PERM-BANNED
+2023-02-28 - FlairDeleteBot - PERM-BANNED
+2023-02-28 - FlairDeleteBot - PERM-BANNED

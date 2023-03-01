@@ -3284,3 +3284,7 @@
 2023-02-24 - im_dslyexci - Timestamp - out of date
 2023-02-25 - im_dslyexci - PERM-BANNED
 2023-02-25 - im_dslyexci - Handwritten timestamp
+2023-02-28 - im_dslyexci - Handwritten timestamp
+2023-02-28 - FunkoSwapUSL - PERM-BANNED
+2023-03-01 - FreddySwapBot - Timestamp out of date
+2023-03-01 - im_dslyexci - Handwritten timestamp
