@@ -707,3 +707,6 @@
 2023-03-01 - Unciform - Rule 4: Timestamps
 2023-03-01 - Unciform - Rule 10: Misc/catch-all
 2023-03-02 - MouseMarketUSLbot - PERM-BANNED
+2023-03-03 - abhijatg98 - Rule 4: Timestamps
+2023-03-04 - abhijatg98 - Rule 4: Timestamps
+2023-03-04 - Gregapher_ - Rule 4: Timestamps
