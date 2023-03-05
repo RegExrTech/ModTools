@@ -5537,3 +5537,5 @@
 2023-03-03 - Oneyewilly - Correctly formatted timestamps are required for AL
 2023-03-03 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-03-04 - nchitel - All items for sale and trade must be clearly price
+2023-03-04 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-04 - nchitel - Post titles must be formatted correctly
