@@ -3301,3 +3301,6 @@
 2023-03-04 - im_dslyexci - Handwritten timestamp
 2023-03-04 - DrShadyTree - Timestamp
 2023-03-04 - FreddySwapBot - Timestamp out of date
+2023-03-05 - DrShadyTree - Missing prices
+2023-03-06 - ruemeridian - Timestamp - none
+2023-03-06 - im_dslyexci - Handwritten timestamp
