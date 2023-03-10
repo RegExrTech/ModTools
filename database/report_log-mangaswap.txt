@@ -830,3 +830,5 @@
 2023-03-07 - mangaswapbot - Timestamp out of date
 2023-03-08 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-03-09 - sinyanmei92 - Timestamp has to be NEXT to the items you are sell
+2023-03-10 - sinyanmei92 - other
+2023-03-10 - sinyanmei92 - Keep a paper trail.
