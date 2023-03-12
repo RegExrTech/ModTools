@@ -5612,3 +5612,4 @@
 2023-03-11 - teogeorgiou - Fake cards, no timestamp for all slabs
 2023-03-11 - teogeorgiou - All items for sale and trade must be clearly price
 2023-03-11 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-12 - nchitel - All items need to be timestamped. This includes ev
