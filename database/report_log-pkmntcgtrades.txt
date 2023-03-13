@@ -5613,3 +5613,13 @@
 2023-03-11 - teogeorgiou - All items for sale and trade must be clearly price
 2023-03-11 - Oneyewilly - Correctly formatted timestamps are required for AL
 2023-03-12 - nchitel - All items need to be timestamped. This includes ev
+2023-03-12 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-12 - nchitel - All items for sale and trade must be clearly price
+2023-03-12 - nchitel - Only one post is allowed every 5 days.
+2023-03-12 - nchitel - Timestamps are required for all items being sold/t
+2023-03-12 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-12 - Oneyewilly - timestamp missing community name
+2023-03-12 - Oneyewilly - payment must be up front
+2023-03-12 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-03-12 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-13 - AutoModerator - PayPal Goods & Services is the only approved metho
