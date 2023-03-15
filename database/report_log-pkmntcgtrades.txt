@@ -5643,3 +5643,11 @@
 2023-03-14 - Oneyewilly - All items for sale and trade must be clearly price
 2023-03-14 - Oneyewilly - timestamp missing community name
 2023-03-14 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-14 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-14 - teogeorgiou - All items for sale and trade must be clearly price
+2023-03-14 - teogeorgiou - All items for sale and trade must be clearly price
+2023-03-14 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-15 - teogeorgiou - Keep trade offers in the comments and personal inf
+2023-03-15 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-15 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-15 - teogeorgiou - No outside links, references, or advertising
