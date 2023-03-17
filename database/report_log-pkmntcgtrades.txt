@@ -5666,3 +5666,14 @@
 2023-03-16 - nchitel - Timestamps are required with all items for sale/tr
 2023-03-16 - nchitel - Correctly formatted timestamps are required for AL
 2023-03-16 - nchitel - It is not permitted to ask a buyer to cover the G&
+2023-03-16 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-16 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-16 - Oneyewilly - Timestamp missing from some pictures, as well as b
+2023-03-16 - Oneyewilly - Correctly formatted timestamps are required for AL
+2023-03-16 - Oneyewilly - All items for sale and trade must be clearly price
+2023-03-16 - nchitel - Correctly formatted timestamps are required. Prici
+2023-03-16 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-03-17 - nchitel - Timestamps need to be visible in all of your pictu
+2023-03-17 - nchitel - All items for sale and trade must be clearly price
+2023-03-17 - nchitel - Time stamps are required for all items for sale/tr
