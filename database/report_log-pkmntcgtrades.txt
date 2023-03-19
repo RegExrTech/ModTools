@@ -5702,3 +5702,9 @@
 2023-03-18 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
 2023-03-18 - nchitel - All items for sale/trade must be clearly priced. T
 2023-03-18 - nchitel - other
+2023-03-18 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-18 - teogeorgiou - All items for sale and trade must be clearly price
+2023-03-18 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-19 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-03-19 - RegExr - test test test test test test test test test test 
+2023-03-19 - teogeorgiou - Correctly formatted timestamps are required for AL
