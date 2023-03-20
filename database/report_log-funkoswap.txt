@@ -3326,3 +3326,5 @@
 2023-03-17 - DrShadyTree - Timestamp
 2023-03-17 - DrShadyTree - Timestamp
 2023-03-19 - FreddySwapBot - Timestamp out of date
+2023-03-19 - im_dslyexci - Pricing contained in post body
+2023-03-20 - im_dslyexci - Handwritten timestamp
