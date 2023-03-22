@@ -732,3 +732,6 @@
 2023-03-17 - Gregapher_ - Rule 4: Timestamps
 2023-03-19 - Gregapher_ - PERM-BANNED
 2023-03-20 - Gregapher_ - Rule 4: Timestamps
+2023-03-22 - Gregapher_ - PERM-BANNED
+2023-03-22 - Gregapher_ - Rule 10: Misc/catch-all
+2023-03-22 - Gregapher_ - PERM-BANNED
