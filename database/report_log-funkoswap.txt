@@ -3334,3 +3334,10 @@
 2023-03-20 - im_dslyexci - Timestamp - none
 2023-03-20 - FreddySwapBot - Timestamp out of date
 2023-03-21 - im_dslyexci - Pricing - none
+2023-03-22 - DrShadyTree - Timestamp out of date
+2023-03-22 - DrShadyTree - Missing prices
+2023-03-22 - DrShadyTree - Missing prices
+2023-03-22 - DrShadyTree - Timestamp
+2023-03-22 - im_dslyexci - Timestamp - none
+2023-03-22 - FunkoSwapUSL - PERM-BANNED
+2023-03-22 - im_dslyexci - Timestamp - incorrect username
