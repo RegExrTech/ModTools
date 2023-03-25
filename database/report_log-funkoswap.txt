@@ -3343,3 +3343,6 @@
 2023-03-22 - im_dslyexci - Timestamp - incorrect username
 2023-03-23 - RegExrBot - PERM-BANNED
 2023-03-23 - FreddySwapBot - Timestamp out of date
+2023-03-24 - im_dslyexci - Pricing contained in post body
+2023-03-24 - im_dslyexci - Handwritten timestamp
+2023-03-24 - im_dslyexci - Pricing - none
