@@ -138,7 +138,7 @@ def build_removal_reason_text(reddit, message, subject):
 	return infraction
 
 def get_removing_mod(ids_to_mods, infraction, mod_conv):
-	if infraction in ids_to_mods:
+	if infraction in ids_to_mods and len(ids_to_mods[infraction]):
 		removing_mod = ids_to_mods[infraction][0]
 		ids_to_mods[infraction] = ids_to_mods[infraction][1:]
 		return removing_mod
