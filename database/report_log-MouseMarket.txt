@@ -749,3 +749,8 @@
 2023-03-26 - MouseMarketUSLbot - PERM-BANNED
 2023-03-28 - abhijatg98 - Rule 4: Timestamps
 2023-03-28 - Gregapher_ - PERM-BANNED
+2023-03-30 - Gregapher_ - Rule 1: Titles
+2023-03-31 - abhijatg98 - Rule 4: Timestamps
+2023-03-31 - Gregapher_ - PERM-BANNED
+2023-04-01 - Gregapher_ - Rule 4: Timestamps
+2023-04-01 - Gregapher_ - PERM-BANNED
