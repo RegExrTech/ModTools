@@ -257,3 +257,5 @@
 2023-03-22 - snackexchangeUSLbot - PERM-BANNED
 2023-03-29 - snackexchangeUSLbot - PERM-BANNED
 2023-04-01 - snackexchangeUSLbot - PERM-BANNED
+2023-04-01 - Carnifex - Not a snackexchange 
+2023-04-02 - snackexchangeUSLbot - PERM-BANNED
