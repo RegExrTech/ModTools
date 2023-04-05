@@ -1010,3 +1010,4 @@
 2023-04-01 - Cash4CashUSLbot - PERM-BANNED
 2023-04-02 - zefpomp - CHANGED BAN - 30 days.
 2023-04-02 - zefpomp - PERM-BANNED
+2023-04-04 - Cash4CashUSLbot - PERM-BANNED
