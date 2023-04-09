@@ -25,3 +25,4 @@
 2023-03-29 - subsequent - PERM-BANNED
 2023-03-30 - subsequent - PERM-BANNED
 2023-04-07 - LegomarketUSLbot - PERM-BANNED
+2023-04-08 - LegomarketUSLbot - PERM-BANNED
