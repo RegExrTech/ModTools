@@ -5925,3 +5925,5 @@
 2023-04-09 - teogeorgiou - Correctly formatted timestamps are required for AL
 2023-04-10 - teogeorgiou - All items for sale and trade must be clearly price
 2023-04-10 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-04-10 - Arcashine - PERM-BANNED
+2023-04-11 - AutoModerator - PayPal Goods & Services is the only approved metho
