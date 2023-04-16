@@ -1023,3 +1023,6 @@
 2023-04-15 - sinyanmei92 - Timestamp photo is invalid
 2023-04-15 - sinyanmei92 - Need date on timestamp
 2023-04-15 - sinyanmei92 - Timestamp needs DATE
+2023-04-15 - sinyanmei92 - No thread crapping.
+2023-04-15 - sinyanmei92 - No comics
+2023-04-15 - sinyanmei92 - Need date on timestamp
