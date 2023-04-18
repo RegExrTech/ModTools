@@ -1029,3 +1029,5 @@
 2023-04-14 - zefpomp - Funds/Prepaid Verification
 2023-04-14 - Cash4CashUSLbot - PERM-BANNED
 2023-04-16 - Cash4CashUSLbot - PERM-BANNED
+2023-04-17 - Cash4CashUSLbot - PERM-BANNED
+2023-04-17 - Cash4CashUSLbot - PERM-BANNED
