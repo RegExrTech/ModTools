@@ -1039,3 +1039,13 @@
 2023-04-17 - sinyanmei92 - Need date on the timestamp + no DM without comment
 2023-04-17 - OnePieceNeverending - All selling/trading posts must include handwritten
 2023-04-18 - sinyanmei92 - How are you going to do business on Mangaswap with
+2023-04-18 - OnePieceNeverending - No external links
+2023-04-18 - mangaswapbot - Timestamp out of date
+2023-04-18 - MangaSwapUSLbot - PERM-BANNED
+2023-04-18 - sinyanmei92 - Keep a paper trail.
+2023-04-18 - sinyanmei92 - The date on the timestamp
+2023-04-18 - sinyanmei92 - All selling posts must include prices and pictures
+2023-04-18 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-04-18 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-04-19 - sinyanmei92 - PERM-BANNED
+2023-04-19 - mangaswapbot - Timestamp out of date

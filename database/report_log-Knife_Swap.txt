@@ -3643,3 +3643,5 @@
 2023-04-15 - maugust09 - Repost Price Reductions
 2023-04-15 - Knife_swapUSLbot - PERM-BANNED
 2023-04-17 - maugust09 - Formatting and Detailed Description Requirements
+2023-04-18 - dooms25 - Timestamp and Description
+2023-04-18 - merkon - PERM-BANNED
