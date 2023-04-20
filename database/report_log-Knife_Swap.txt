@@ -3645,3 +3645,7 @@
 2023-04-17 - maugust09 - Formatting and Detailed Description Requirements
 2023-04-18 - dooms25 - Timestamp and Description
 2023-04-18 - merkon - PERM-BANNED
+2023-04-19 - Knife_swapUSLbot - PERM-BANNED
+2023-04-19 - dooms25 - Timestamp and Description
+2023-04-19 - dooms25 - Mods have final say for any rule grey areas.
+2023-04-20 - merkon - PERM-BANNED
