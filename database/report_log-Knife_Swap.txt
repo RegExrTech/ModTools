@@ -3649,3 +3649,6 @@
 2023-04-19 - dooms25 - Timestamp and Description
 2023-04-19 - dooms25 - Mods have final say for any rule grey areas.
 2023-04-20 - merkon - PERM-BANNED
+2023-04-20 - merkon - PERM-BANNED
+2023-04-20 - merkon - Review the rules
+2023-04-20 - maugust09 - Posting Rules (Flair)
