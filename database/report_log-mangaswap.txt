@@ -1060,3 +1060,5 @@
 2023-04-20 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-04-20 - sinyanmei92 - Need date on the timestamp
 2023-04-20 - sinyanmei92 - All selling posts must include prices and pictures
+2023-04-21 - mangaswapbot - Timestamp out of date
+2023-04-21 - sinyanmei92 - Keep a paper trail.
