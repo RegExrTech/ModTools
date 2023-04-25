@@ -796,3 +796,5 @@
 2023-04-22 - Gregapher_ - PERM-BANNED
 2023-04-22 - Unciform - Rule 4: Timestamps
 2023-04-23 - Unciform - Rule 4: Timestamps
+2023-04-24 - Gregapher_ - PERM-BANNED
+2023-04-24 - Gregapher_ - BANNED - 60 days.
