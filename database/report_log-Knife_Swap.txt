@@ -3689,3 +3689,5 @@
 2023-04-26 - dooms25 - Timestamp and Description
 2023-04-26 - Knife_swapUSLbot - PERM-BANNED
 2023-04-26 - Knife_swapUSLbot - PERM-BANNED
+2023-04-28 - merkon - Timestamp and Description
+2023-04-28 - merkon - Lack of SV/TV
