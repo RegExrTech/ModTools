@@ -1723,3 +1723,5 @@
 2023-04-28 - ManaBMG - PERM-BANNED
 2023-04-28 - ManaBMG - PERM-BANNED
 2023-04-29 - ManaBMG - Timestamps
+2023-04-29 - AutoModerator - Payments
+2023-04-30 - AutoModerator - Payments
