@@ -816,3 +816,5 @@
 2023-05-01 - Gregapher_ - Rule 9: Post Requirements
 2023-05-01 - Gregapher_ - PERM-BANNED
 2023-05-02 - Unciform - Rule 4: Timestamps
+2023-05-02 - Gregapher_ - Rule 4: Timestamps
+2023-05-03 - Gregapher_ - PERM-BANNED
