@@ -1142,3 +1142,6 @@
 2023-05-05 - sinyanmei92 - Posting limitations:
 2023-05-06 - sinyanmei92 - PERM-BANNED
 2023-05-06 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-05-06 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-05-06 - yonijonathan - PERM-BANNED
+2023-05-07 - sinyanmei92 - Timestamp needs date
