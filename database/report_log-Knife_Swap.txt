@@ -3712,3 +3712,5 @@
 2023-05-06 - merkon - PERM-BANNED
 2023-05-06 - merkon - PERM-BANNED
 2023-05-07 - merkon - BANNED - 5 days.
+2023-05-07 - merkon - CHANGED BAN - 7 days.
+2023-05-07 - dooms25 - Timestamp and Description
