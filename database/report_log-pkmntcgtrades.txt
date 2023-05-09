@@ -6388,3 +6388,14 @@
 2023-05-08 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-05-08 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-05-08 - Anthon95 - All items for sale and trade must be clearly price
+2023-05-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-05-08 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-05-08 - Anthon95 - PayPal Goods & Services is the only approved metho
+2023-05-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-05-08 - teogeorgiou - Missing correct timestamps for all cards, no clear
+2023-05-08 - teogeorgiou - All items for sale and trade must be clearly price
+2023-05-08 - teogeorgiou - Correctly formatted timestamps are required for AL
+2023-05-09 - Anthon95 - All items for sale and trade must be clearly price
+2023-05-09 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-05-09 - teogeorgiou - Missing pricing and full timestamps for binder
+2023-05-09 - drewuptown - PayPal Goods & Services is the only approved metho
