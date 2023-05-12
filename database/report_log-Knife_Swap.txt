@@ -3721,3 +3721,4 @@
 2023-05-10 - Knife_swapUSLbot - PERM-BANNED
 2023-05-10 - dooms25 - Timestamp and Description
 2023-05-10 - dooms25 - Mods have final say for any rule grey areas.
+2023-05-11 - dooms25 - Posting Rules (Flair)
