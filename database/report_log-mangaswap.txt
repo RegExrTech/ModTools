@@ -1180,3 +1180,4 @@
 2023-05-12 - mangaswapbot - No submissions that arent buy/sell/trade.
 2023-05-12 - sinyanmei92 - Keep a paper trail.
 2023-05-12 - mangaswapbot - Timestamp out of date
+2023-05-12 - sinyanmei92 - PERM-BANNED
