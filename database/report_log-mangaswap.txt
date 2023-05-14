@@ -1181,3 +1181,6 @@
 2023-05-12 - sinyanmei92 - Keep a paper trail.
 2023-05-12 - mangaswapbot - Timestamp out of date
 2023-05-12 - sinyanmei92 - PERM-BANNED
+2023-05-13 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-05-14 - sinyanmei92 - PERM-BANNED
+2023-05-14 - sinyanmei92 - Timestamp needs date, just edit the post and send 
