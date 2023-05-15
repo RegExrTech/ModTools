@@ -3394,3 +3394,10 @@
 2023-05-10 - j007conks - Timestamp - none
 2023-05-12 - j007conks - Timestamp - none
 2023-05-13 - FunkoSwapUSL - PERM-BANNED
+2023-05-14 - im_dslyexci - Handwritten timestamp
+2023-05-14 - im_dslyexci - Timestamp out of date
+2023-05-14 - im_dslyexci - Timestamp
+2023-05-14 - im_dslyexci - Missing prices
+2023-05-15 - im_dslyexci - Timestamp
+2023-05-15 - im_dslyexci - Timestamp
+2023-05-15 - im_dslyexci - Missing prices
