@@ -3733,3 +3733,6 @@
 2023-05-16 - merkon - BANNED - 7 days.
 2023-05-16 - merkon - Timestamp and Description
 2023-05-16 - Knife_swapUSLbot - PERM-BANNED
+2023-05-17 - dooms25 - Payment Methods
+2023-05-17 - dooms25 - Timestamp and Description
+2023-05-18 - dooms25 - Posting Rules (Flair)
