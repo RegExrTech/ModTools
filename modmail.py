@@ -147,6 +147,8 @@ def get_removing_mod(ids_to_mods, infraction, mod_conv):
 
 
 def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
+	if user == "[deleted]":
+		return "This user has deleted their account."
 	replies = []
 	removal_ids = user_infraction_db[user].keys()
 	replies = ["* " + user_infraction_db[user][removal_id] + " - https://mod.reddit.com/mail/all/" + removal_id for removal_id in removal_ids]
