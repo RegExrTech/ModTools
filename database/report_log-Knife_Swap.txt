@@ -3736,3 +3736,6 @@
 2023-05-17 - dooms25 - Payment Methods
 2023-05-17 - dooms25 - Timestamp and Description
 2023-05-18 - dooms25 - Posting Rules (Flair)
+2023-05-18 - dooms25 - Mods have final say for any rule grey areas.
+2023-05-18 - dooms25 - Formatting and Detailed Description Requirements
+2023-05-18 - maugust09 - Spam
