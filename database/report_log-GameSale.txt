@@ -1275,3 +1275,5 @@
 2023-05-22 - Petercartman89 - CHANGED BAN - 30 days.
 2023-05-23 - GameSaleUSLbot - PERM-BANNED
 2023-05-24 - necrochaos - BANNED - 7 days.
+2023-05-25 - GameSaleUSLbot - PERM-BANNED
+2023-05-25 - GameSaleUSLbot - PERM-BANNED
