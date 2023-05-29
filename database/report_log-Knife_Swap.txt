@@ -3764,3 +3764,5 @@
 2023-05-27 - dooms25 - Timestamp and Description
 2023-05-27 - dooms25 - Timestamp and Description
 2023-05-28 - Knife_swapUSLbot - PERM-BANNED
+2023-05-29 - dooms25 - External Links
+2023-05-29 - dooms25 - Posting Rules (Flair)
