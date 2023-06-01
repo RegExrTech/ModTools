@@ -3420,3 +3420,5 @@
 2023-05-30 - im_dslyexci - Timestamp - none
 2023-05-30 - im_dslyexci - Handwritten timestamp
 2023-05-30 - im_dslyexci - Handwritten timestamp
+2023-05-31 - FunkoSwapUSL - PERM-BANNED
+2023-06-01 - ruemeridian - Pricing - none
