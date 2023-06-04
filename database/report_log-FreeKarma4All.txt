@@ -1333,3 +1333,5 @@
 2023-06-01 - FlairDeleteBot - PERM-BANNED
 2023-06-02 - FlairDeleteBot - PERM-BANNED
 2023-06-03 - FlairDeleteBot - PERM-BANNED
+2023-06-03 - FlairDeleteBot - PERM-BANNED
+2023-06-03 - FlairDeleteBot - PERM-BANNED
