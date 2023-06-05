@@ -3430,3 +3430,6 @@
 2023-06-03 - im_dslyexci - Timestamp out of date
 2023-06-03 - im_dslyexci - Timestamp out of date
 2023-06-03 - FreddySwapBot - Timestamp out of date
+2023-06-05 - im_dslyexci - Timestamp
+2023-06-05 - im_dslyexci - Timestamp
+2023-06-05 - im_dslyexci - Missing prices
