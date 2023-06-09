@@ -3793,3 +3793,4 @@
 2023-06-05 - dooms25 - PERM-BANNED
 2023-06-06 - dooms25 - External Links
 2023-06-06 - dooms25 - Timestamp and Description
+2023-06-08 - merkon - Payment Methods
