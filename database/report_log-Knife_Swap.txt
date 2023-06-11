@@ -3803,3 +3803,4 @@
 2023-06-09 - dooms25 - Rule Grey Areas
 2023-06-09 - dooms25 - Formatting and Detailed Description Requirements
 2023-06-09 - dooms25 - Rule Grey Areas
+2023-06-10 - merkon - PERM-BANNED
