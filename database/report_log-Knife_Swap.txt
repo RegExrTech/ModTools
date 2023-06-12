@@ -3804,3 +3804,5 @@
 2023-06-09 - dooms25 - Formatting and Detailed Description Requirements
 2023-06-09 - dooms25 - Rule Grey Areas
 2023-06-10 - merkon - PERM-BANNED
+2023-06-11 - maugust09 - PERM-BANNED
+2023-06-12 - dooms25 - Timestamp and Description
