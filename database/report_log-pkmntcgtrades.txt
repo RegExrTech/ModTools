@@ -6791,3 +6791,11 @@
 2023-06-12 - drewuptown - Correctly formatted timestamps are required for AL
 2023-06-12 - Jasper345 - All items for sale and trade must be clearly price
 2023-06-12 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-06-12 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-06-12 - teogeorgiou - All items for sale and trade must be clearly price
+2023-06-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-06-13 - Anthon95 - All items for sale and trade must be clearly price
+2023-06-13 - SageLikesPokemon - PERM-BANNED
+2023-06-13 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-06-13 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-06-13 - drewuptown - Correctly formatted timestamps are required for AL
