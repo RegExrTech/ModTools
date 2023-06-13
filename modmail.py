@@ -33,6 +33,7 @@ client_id = config['client_id']
 client_secret = config['client_secret']
 bot_username = config['bot_username']
 bot_password = config['bot_password']
+refresh_token = config['refresh_token']
 hours_between_posts = int(round(float(config['days_per_post'])*24))
 lock_post = config['lock_post'].lower() == "true"
 whitelisted_words = [x.lower() for x in config['whitelisted_words'].split(',')]
@@ -175,7 +176,7 @@ def archive(message):
 		print("Would have archived message:\n  " + str(message))
 
 def main(subreddit_name):
-	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Mod Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', username=bot_username, password=bot_password)
+	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Mod Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', refresh_token=refresh_token)
 	sub = reddit.subreddit(subreddit_name)
 	if imgur_client and imgur_secret:
 		try:

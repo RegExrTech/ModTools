@@ -3,8 +3,8 @@ from prawcore.exceptions import NotFound
 import argparse
 
 
-def create_reddit_and_sub(subreddit_name, client_id, client_secret, bot_username, bot_password):
-	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Swap Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', username=bot_username, password=bot_password)
+def create_reddit_and_sub(subreddit_name, client_id, client_secret, refresh_token):
+	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Swap Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', refresh_token=refresh_token)
 	sub = reddit.subreddit(subreddit_name)
 	return reddit, sub
 
@@ -28,8 +28,9 @@ def main():
 	client_secret = config['client_secret']
 	bot_username = config['bot_username']
 	bot_password = config['bot_password']
+	refresh_token = config['refresh_token']
 
-	reddit, sub = create_reddit_and_sub(subreddit_name, client_id, client_secret, bot_username, bot_password)
+	reddit, sub = create_reddit_and_sub(subreddit_name, client_id, client_secret, refresh_token)
 
 	# get recent sub comments
 	comments_to_check = []
