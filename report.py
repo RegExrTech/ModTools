@@ -75,30 +75,32 @@ def truncate_text(text, limit):
 
 def remove_reported_posts(sub, sub_name, lock_post):
 	ids_to_mods = defaultdict(lambda: [])
-        for item in get_reports(sub, sub_name):
-                if not item.mod_reports:
-			continue
-		if item.approved:
-			continue
-		report_reason = item.mod_reports[0][0]
-		# This is technically not a report even though it appears as one so we want to ignore it.
-		if report_reason == "It's abusing the report button":
-			continue
-		if report_reason == "It's vote manipulation":
-			continue
-		if report_reason == "It's targeted harassment at me":
-			report_reason = "Review the rules"
-		title = report_reason
-		message = get_rule_text(report_reason, sub)
-		submission_text = get_submission_text(item)
-		submission_text = truncate_text(submission_text, 7800)
+        try:
+                for item in get_reports(sub, sub_name):
+                        if not item.mod_reports:
+		        	continue
+        		if item.approved:
+	        		continue
+		        report_reason = item.mod_reports[0][0]
+			# This is technically not a report even though it appears as one so we want to ignore it.
+			if report_reason == "It's abusing the report button":
+				continue
+			if report_reason == "It's vote manipulation":
+				continue
+			if report_reason == "It's targeted harassment at me":
+				report_reason = "Review the rules"
+			title = report_reason
+			message = get_rule_text(report_reason, sub)
+			submission_text = get_submission_text(item)
+			submission_text = truncate_text(submission_text, 7800)
 
-		message += "\n\n---\n\n" + submission_text
-		message += "\n\n---\n\nIf you can make changes to your post that would allow it to be approved, please do so, then reply to this message. If the issue with your post is in the title, please make a new post following the rules of the sub as post titles cannot be changed..\n\n---\n\n"
-		message = decode(message)
+			message += "\n\n---\n\n" + submission_text
+			message += "\n\n---\n\nIf you can make changes to your post that would allow it to be approved, please do so, then reply to this message. If the issue with your post is in the title, please make a new post following the rules of the sub as post titles cannot be changed..\n\n---\n\n"
+			message = decode(message)
 
-		if remove_post(item, lock_post):
-			send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
-
+			if remove_post(item, lock_post):
+				send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
+	except Exception as e:
+		print("Failed to get reports from " + sub_name + " with error " + str(e))
 	return ids_to_mods
 
