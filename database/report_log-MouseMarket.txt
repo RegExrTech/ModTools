@@ -908,3 +908,5 @@
 2023-06-14 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2023-06-14 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2023-06-14 - MouseMarketUSLbot - PERM-BANNED
+2023-06-16 - Gregapher_ - Rule 4: Timestamps
+2023-06-17 - Gregapher_ - Rule 4: Timestamps
