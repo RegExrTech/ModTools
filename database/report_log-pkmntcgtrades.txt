@@ -6852,3 +6852,6 @@
 2023-06-17 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
 2023-06-17 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-06-17 - Anthon95 - All items for sale and trade must be clearly price
+2023-06-17 - Anthon95 - All items for sale and trade must be clearly price
+2023-06-17 - Anthon95 - All items for sale and trade must be clearly price
+2023-06-17 - Anthon95 - Correctly formatted timestamps are required for AL

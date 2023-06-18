@@ -910,3 +910,6 @@
 2023-06-14 - MouseMarketUSLbot - PERM-BANNED
 2023-06-16 - Gregapher_ - Rule 4: Timestamps
 2023-06-17 - Gregapher_ - Rule 4: Timestamps
+2023-06-17 - Gregapher_ - Rule 1: Titles
+2023-06-17 - Gregapher_ - Rule 4: Timestamps
+2023-06-17 - Gregapher_ - Rule 4: Timestamps
