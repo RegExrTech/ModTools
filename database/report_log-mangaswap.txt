@@ -1373,3 +1373,10 @@
 2023-06-17 - mangaswapbot - Timestamp out of date
 2023-06-17 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-06-19 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-19 - mangaswapbot - Timestamp out of date
+2023-06-19 - sinyanmei92 - Timestamp needs to be on all items you are selling
+2023-06-19 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-19 - sinyanmei92 - Timestamp needs date
+2023-06-19 - sinyanmei92 - Username does not match timestamp
+2023-06-19 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-19 - OnePieceNeverending - All selling/trading posts must include handwritten
