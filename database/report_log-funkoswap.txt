@@ -3436,3 +3436,8 @@
 2023-06-05 - im_dslyexci - Timestamp - incorrect username
 2023-06-06 - im_dslyexci - Pricing - none
 2023-06-12 - j007conks - Handwritten timestamp
+2023-06-20 - j007conks - PayPal G&S only
+2023-06-20 - j007conks - PayPal G&S only
+2023-06-20 - j007conks - Timestamp - none
+2023-06-20 - j007conks - Pricing - none
+2023-06-20 - j007conks - Timestamp - none
