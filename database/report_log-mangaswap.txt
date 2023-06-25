@@ -1394,3 +1394,9 @@
 2023-06-23 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-06-23 - sinyanmei92 - All items sold/traded must comply with the permitt
 2023-06-23 - sinyanmei92 - All selling posts must include prices and pictures
+2023-06-24 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-24 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-25 - sinyanmei92 - You need date on timestamp
+2023-06-25 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-06-25 - sinyanmei92 - All selling posts must include prices and pictures
+2023-06-25 - sinyanmei92 - All selling/trading posts must include handwritten
