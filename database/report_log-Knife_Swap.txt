@@ -3825,3 +3825,4 @@
 2023-07-07 - MapleSurpy - Formatting and Detailed Description Requirements
 2023-07-08 - dooms25 - Timestamp and Description
 2023-07-08 - dooms25 - Timestamp and Description
+2023-07-10 - MapleSurpy - Repost Price Reductions
