@@ -968,3 +968,5 @@
 2023-07-17 - Gregapher_ - Rule 4: Timestamps
 2023-07-17 - Gregapher_ - Rule 4: Timestamps
 2023-07-18 - Gregapher_ - Rule 4: Timestamps
+2023-07-18 - Gregapher_ - Rule 4: Timestamps
+2023-07-19 - Unciform - Rule 4: Timestamps
