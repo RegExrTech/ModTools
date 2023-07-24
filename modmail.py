@@ -144,7 +144,7 @@ def get_removing_mod(ids_to_mods, infraction, mod_conv):
 		ids_to_mods[infraction] = ids_to_mods[infraction][1:]
 		return removing_mod
 	else:
-		return mod_conv.authors[-1].name
+		return mod_conv.messages[-1].author.name
 
 
 def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
