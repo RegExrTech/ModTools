@@ -3477,3 +3477,6 @@
 2023-08-07 - DrShadyTree - Missing prices
 2023-08-11 - j007conks - Timestamp - none
 2023-08-11 - j007conks - Pricing - flipping
+2023-08-13 - j007conks - Timestamp - none
+2023-08-13 - j007conks - Pricing - outside links
+2023-08-13 - j007conks - Timestamp - none
