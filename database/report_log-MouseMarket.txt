@@ -1010,3 +1010,5 @@
 2023-08-14 - Gregapher_ - Rule 4: Timestamps
 2023-08-14 - MouseMarketBot - Rule 9: Post Requirements
 2023-08-15 - Gregapher_ - Rule 4: Timestamps
+2023-08-17 - Gregapher_ - Rule 4: Timestamps
+2023-08-17 - Gregapher_ - Rule 4: Timestamps
