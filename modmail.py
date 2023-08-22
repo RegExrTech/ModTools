@@ -83,10 +83,10 @@ def dump(data, fname):
 		.encode('ascii','ignore'))
 
 def decode(text):
-        try:
+	try:
 		return text.encode('utf-8').decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
-        except:
-              	return text.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+	except:
+		return text.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
 
 def get_mod_mail_messages(sub, num_messages):
 	queries = []
@@ -122,11 +122,12 @@ def get_username_from_message(message):
 	try:
 		user = message.user.name
 	except Exception as e:
-		# Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
-		# Also, sometimes a message literally doesn't have a user attribute. See https://mod.reddit.com/mail/all/immhx
-		print("Error for Mod Mail Message: " + str(message))
-		print(str(e))
-		print("======================================================================")
+		if not "object has no attribute 'user'" in str(e):
+			# Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
+			# Also, sometimes a message literally doesn't have a user attribute. See https://mod.reddit.com/mail/all/immhx
+			print("Error for Mod Mail Message: " + str(message))
+			print(str(e))
+			print("======================================================================")
 	return user
 
 def build_removal_reason_text(reddit, message, subject):
@@ -238,7 +239,7 @@ def main(subreddit_name):
 			print("Unable to read mod conversations from query on r/" + subreddit_name + " with error: " + str(e))
 			continue
 		for mod_conv in mod_convs:
-			message = reddit.subreddit('redditdev').modmail(mod_conv.id)
+			message = reddit.subreddit(subreddit_name).modmail(mod_conv.id)
 
 			# Get the text of the infraction to store in the database
 			infraction = build_infraction_text(message, mod_conv.subject, subreddit_name, reddit)
