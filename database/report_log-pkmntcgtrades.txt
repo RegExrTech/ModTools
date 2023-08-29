@@ -7348,3 +7348,26 @@
 2023-08-24 - Lightning00 - no timestamp+no price
 2023-08-25 - C011ECT0R - Correctly formatted timestamps are required for AL
 2023-08-25 - C011ECT0R - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Keep trade offers in the comments and personal inf
+2023-08-28 - Anthon95 - PayPal Goods & Services is the only approved metho
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - PayPal Goods & Services is the only approved metho
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - All items for sale and trade must be clearly price
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - All items for sale and trade must be clearly price
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - Anthon95 - All items for sale and trade must be clearly price
+2023-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-08-28 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-08-29 - Jasper345 - Post titles must be formatted correctly
+2023-08-29 - Jasper345 - Correctly formatted timestamps are required for AL
+2023-08-29 - drewuptown - No outside links, references, or advertising
+2023-08-29 - drewuptown - Correctly formatted timestamps are required for AL
