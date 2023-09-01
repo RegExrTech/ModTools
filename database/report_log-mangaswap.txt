@@ -1647,3 +1647,5 @@
 2023-08-31 - sinyanmei92 - All selling posts must include prices and pictures
 2023-08-31 - sinyanmei92 - Keep a paper trail.
 2023-08-31 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-08-31 - OnePieceNeverending - All selling/trading posts must include handwritten
+2023-09-01 - mangaswapbot - Timestamp out of date
