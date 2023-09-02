@@ -1031,3 +1031,4 @@
 2023-08-30 - Gregapher_ - Rule 6: Asking Prices
 2023-08-30 - Gregapher_ - Rule 4: Timestamps
 2023-08-31 - Gregapher_ - Rule 4: Timestamps
+2023-09-01 - Gregapher_ - Rule 4: Timestamps
