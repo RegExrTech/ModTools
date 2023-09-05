@@ -3507,3 +3507,5 @@
 2023-09-01 - DrShadyTree - Missing prices
 2023-09-03 - DrShadyTree - Timestamp
 2023-09-04 - FreddySwapBot - Timestamp out of date
+2023-09-04 - j007conks - Timestamp - none
+2023-09-04 - j007conks - Timestamp - illegible
