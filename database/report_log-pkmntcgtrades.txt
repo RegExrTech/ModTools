@@ -7410,3 +7410,13 @@
 2023-09-04 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-05 - Anthon95 - All items for sale and trade must be clearly price
+2023-09-05 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-05 - Anthon95 - This is spam
+2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-05 - Anthon95 - All items for sale and trade must be clearly price
+2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-05 - Lightning00 - no timestamp+all items needs to be clearly priced
+2023-09-05 - Lightning00 - all items need to be clearly priced+incorrect time

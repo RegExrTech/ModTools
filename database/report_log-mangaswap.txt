@@ -1662,3 +1662,6 @@
 2023-09-05 - sinyanmei92 - All items sold/traded must comply with the permitt
 2023-09-05 - sinyanmei92 - Keep a paper trail.
 2023-09-05 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-09-06 - sinyanmei92 - Keep a paper trail.
+2023-09-06 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-09-06 - sinyanmei92 - All selling posts must include prices and pictures
