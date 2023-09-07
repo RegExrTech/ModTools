@@ -7420,3 +7420,10 @@
 2023-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-05 - Lightning00 - no timestamp+all items needs to be clearly priced
 2023-09-05 - Lightning00 - all items need to be clearly priced+incorrect time
+2023-09-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-06 - Lightning00 - No timestamp missing prices 
+2023-09-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-07 - AutoModerator - PayPal Goods & Services is the only approved metho
