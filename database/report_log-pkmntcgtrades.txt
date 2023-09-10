@@ -7442,3 +7442,5 @@
 2023-09-08 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-08 - Anthon95 - Keep trade offers in the comments and personal inf
 2023-09-09 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-09-09 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-09 - Anthon95 - All items for sale and trade must be clearly price
