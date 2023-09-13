@@ -3880,3 +3880,4 @@
 2023-09-11 - dooms25 - Payment Methods
 2023-09-11 - bobgong - PERM-BANNED
 2023-09-11 - dooms25 - Repost Price Reductions
+2023-09-12 - dooms25 - Formatting and Detailed Description Requirements
