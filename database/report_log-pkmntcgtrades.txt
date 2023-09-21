@@ -7525,3 +7525,7 @@
 2023-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-20 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-09-20 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-09-21 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-09-21 - AutoModerator - PayPal Goods & Services is the only approved metho
