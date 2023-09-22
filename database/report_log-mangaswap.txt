@@ -1725,3 +1725,6 @@
 2023-09-18 - sinyanmei92 - No thread crapping.
 2023-09-20 - mangaswapbot - Timestamp out of date
 2023-09-21 - sinyanmei92 - No selling in a trading post
+2023-09-22 - sinyanmei92 - Keep a paper trail.
+2023-09-22 - sinyanmei92 - All selling posts must include prices and pictures
+2023-09-22 - sinyanmei92 - All selling/trading posts must include handwritten
