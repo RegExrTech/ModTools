@@ -1731,3 +1731,7 @@
 2023-09-22 - sinyanmei92 - No thread crapping.
 2023-09-23 - mangaswapbot - Timestamp out of date
 2023-09-23 - mangaswapbot - Timestamp out of date
+2023-09-23 - sinyanmei92 - All items sold/traded must comply with the permitt
+2023-09-23 - sinyanmei92 - Posting limitations:
+2023-09-23 - mangaswapbot - Timestamp out of date
+2023-09-24 - sinyanmei92 - Keep a paper trail.
