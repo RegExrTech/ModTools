@@ -1737,3 +1737,6 @@
 2023-09-24 - sinyanmei92 - Keep a paper trail.
 2023-09-25 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-09-25 - sinyanmei92 - All items sold/traded must comply with the permitt
+2023-09-26 - sinyanmei92 - Timestamp needs date
+2023-09-26 - sinyanmei92 - Timestamp needs date
+2023-09-26 - mangaswapbot - Timestamp out of date

@@ -3892,3 +3892,4 @@
 2023-09-24 - dooms25 - Mods have final say for any rule grey areas.
 2023-09-24 - dooms25 - WTB Thread
 2023-09-25 - MapleSurpy - Payment Methods
+2023-09-26 - MapleSurpy - Posting Rules (Flair)
