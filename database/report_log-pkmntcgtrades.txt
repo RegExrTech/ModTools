@@ -7610,3 +7610,7 @@
 2023-09-28 - firebird5225 - All items for sale and trade must be clearly price
 2023-09-28 - firebird5225 - Correctly formatted timestamps are required for AL
 2023-09-28 - firebird5225 - All items for sale and trade must be clearly price
+2023-09-29 - Lightning00 - Correctly formatted timestamps are required for AL
+2023-09-29 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-09-30 - Anthon95 - All items for sale and trade must be clearly price
+2023-09-30 - firebird5225 - All items for sale and trade must be clearly price
