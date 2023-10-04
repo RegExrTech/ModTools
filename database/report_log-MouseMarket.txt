@@ -1079,3 +1079,8 @@
 2023-10-01 - Gregapher_ - Rule 1: Titles
 2023-10-01 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2023-10-01 - Gregapher_ - Rule 4: Timestamps
+2023-10-03 - abhijatg98 - Rule 4: Timestamps
+2023-10-03 - abhijatg98 - Rule 8: Payment Methods
+2023-10-03 - abhijatg98 - Rule 4: Timestamps
+2023-10-04 - Gregapher_ - Rule 4: Timestamps
+2023-10-04 - Gregapher_ - Rule 4: Timestamps
