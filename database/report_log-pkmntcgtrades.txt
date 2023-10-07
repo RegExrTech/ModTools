@@ -7659,3 +7659,12 @@
 2023-10-05 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-10-05 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-10-06 - Anthon95 - All items for sale and trade must be clearly price
+2023-10-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-06 - Anthon95 - Do not escalate issues publicly
+2023-10-06 - Anthon95 - All items for sale and trade must be clearly price
+2023-10-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-07 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-07 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-10-07 - Anthon95 - Correctly formatted timestamps are required for AL
