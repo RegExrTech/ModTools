@@ -3532,3 +3532,4 @@
 2023-10-03 - FreddySwapBot - Timestamp out of date
 2023-10-04 - j007conks - Pricing - none
 2023-10-05 - j007conks - Timestamp - none
+2023-10-07 - j007conks - PayPal G&S only
