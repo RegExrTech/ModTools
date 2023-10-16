@@ -1098,3 +1098,5 @@
 2023-10-10 - Gregapher_ - Rule 4: Timestamps
 2023-10-10 - Gregapher_ - Rule 4: Timestamps
 2023-10-12 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2023-10-16 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2023-10-16 - Gregapher_ - Rule 4: Timestamps
