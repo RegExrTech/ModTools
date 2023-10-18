@@ -7738,3 +7738,15 @@
 2023-10-15 - firebird5225 - Correctly formatted timestamps are required for AL
 2023-10-16 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-10-17 - Lightning00 - Timestamps are required for ALL items.
+2023-10-17 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-10-17 - Anthon95 - Do not escalate issues publicly
+2023-10-17 - Anthon95 - Do not escalate issues publicly
+2023-10-17 - Anthon95 - Do not escalate issues publicly
+2023-10-17 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-17 - Anthon95 - All items for sale and trade must be clearly price
+2023-10-17 - Anthon95 - All items for sale and trade must be clearly price
+2023-10-18 - firebird5225 - All items for sale and trade must be clearly price
+2023-10-18 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-10-18 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-10-18 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-10-18 - firebird5225 - All items for sale and trade must be clearly price
