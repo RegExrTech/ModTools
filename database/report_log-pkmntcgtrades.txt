@@ -7781,3 +7781,4 @@
 2023-10-20 - firebird5225 - All items for sale and trade must be clearly price
 2023-10-20 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-10-21 - Lightning00 - Incorrect formatted timestamp and all item for sal
+2023-10-21 - Anthon95 - Correctly formatted timestamps are required for AL
