@@ -1107,3 +1107,6 @@
 2023-10-19 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2023-10-21 - Gregapher_ - Rule 4: Timestamps
 2023-10-22 - Gregapher_ - Rule 4: Timestamps
+2023-10-22 - Gregapher_ - Rule 6: Asking Prices
+2023-10-22 - Gregapher_ - Rule 4: Timestamps
+2023-10-22 - Gregapher_ - Rule 4: Timestamps

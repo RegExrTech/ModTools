@@ -1798,3 +1798,6 @@
 2023-10-21 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-10-21 - OnePieceNeverending - If selling individually, those need prices too.
 2023-10-22 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-10-22 - OnePieceNeverending - All selling/trading posts must include handwritten
+2023-10-23 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-10-23 - sinyanmei92 - All selling posts must include prices and pictures

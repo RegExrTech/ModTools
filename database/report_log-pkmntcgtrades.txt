@@ -7782,3 +7782,5 @@
 2023-10-20 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-10-21 - Lightning00 - Incorrect formatted timestamp and all item for sal
 2023-10-21 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-10-22 - Lightning00 - Keep trade offers in the comments and personal inf
+2023-10-23 - Lightning00 - Correctly formatted timestamps are required for AL
