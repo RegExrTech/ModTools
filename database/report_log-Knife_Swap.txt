@@ -3914,3 +3914,5 @@
 2023-10-19 - MapleSurpy - Timestamp
 2023-10-20 - MapleSurpy - PERM-BANNED
 2023-10-22 - dooms25 - Posting Rules (Flair)
+2023-10-23 - MapleSurpy - PERM-BANNED
+2023-10-23 - merkon - Timestamp
