@@ -7894,3 +7894,12 @@
 2023-11-02 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-11-02 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-11-03 - Anthon95 - Keep trade offers in the comments and personal inf
+2023-11-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-03 - Anthon95 - Keep trade offers in the comments and personal inf
+2023-11-03 - Anthon95 - All items for sale and trade must be clearly price
+2023-11-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-03 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2023-11-04 - AutoModerator - PayPal Goods & Services is the only approved metho
