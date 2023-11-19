@@ -8007,3 +8007,10 @@
 2023-11-17 - firebird5225 - Correctly formatted timestamps are required for AL
 2023-11-17 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-11-17 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-18 - firebird5225 - Post only once every 5 days
+2023-11-18 - firebird5225 - PayPal Goods & Services is the only approved metho
+2023-11-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-19 - firebird5225 - All items for sale and trade must be clearly price
