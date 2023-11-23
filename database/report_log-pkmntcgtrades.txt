@@ -8051,3 +8051,15 @@
 2023-11-21 - firebird5225 - Correctly formatted timestamps are required for AL
 2023-11-22 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-11-22 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-22 - Anthon95 - Keep trade offers in the comments and personal inf
+2023-11-22 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-11-22 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-11-23 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-11-23 - firebird5225 - Correctly formatted timestamps are required for AL
+2023-11-23 - Anthon95 - Correctly formatted timestamps are required for AL
