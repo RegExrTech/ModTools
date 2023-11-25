@@ -3930,3 +3930,5 @@
 2023-11-15 - dooms25 - Gear Sales
 2023-11-15 - MapleSurpy - PERM-BANNED
 2023-11-16 - MapleSurpy - PERM-BANNED
+2023-11-24 - dooms25 - Formatting and Detailed Description Requirements
+2023-11-24 - dooms25 - Timestamp
