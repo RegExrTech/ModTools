@@ -3934,3 +3934,4 @@
 2023-11-24 - dooms25 - Timestamp
 2023-11-25 - dooms25 - Formatting and Detailed Description Requirements
 2023-11-26 - merkon - Rule Grey Areas
+2023-11-27 - merkon - PERM-BANNED
