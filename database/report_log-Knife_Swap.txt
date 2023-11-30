@@ -3935,3 +3935,4 @@
 2023-11-25 - dooms25 - Formatting and Detailed Description Requirements
 2023-11-26 - merkon - Rule Grey Areas
 2023-11-27 - merkon - PERM-BANNED
+2023-11-29 - dooms25 - Repost Price Reductions
