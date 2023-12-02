@@ -3564,3 +3564,5 @@
 2023-11-28 - j007conks - Timestamp - none
 2023-11-30 - j007conks - Pricing - flipping
 2023-11-30 - j007conks - Timestamp - none
+2023-12-01 - j007conks - Timestamp - none
+2023-12-01 - j007conks - PayPal G&S only
