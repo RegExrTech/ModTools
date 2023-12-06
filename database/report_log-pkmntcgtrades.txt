@@ -8161,3 +8161,7 @@
 2023-12-04 - AutoModerator - PayPal Goods & Services is the only approved metho
 2023-12-04 - Anthon95 - Correctly formatted timestamps are required for AL
 2023-12-05 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-12-05 - firebird5225 - Post titles must be formatted correctly
+2023-12-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-12-06 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-12-06 - Lightning00 - Incorrect timestamp format
