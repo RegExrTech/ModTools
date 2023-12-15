@@ -3945,3 +3945,4 @@
 2023-12-12 - dooms25 - Timestamp
 2023-12-12 - dooms25 - Payment Methods
 2023-12-13 - MapleSurpy - PERM-BANNED
+2023-12-14 - dooms25 - Formatting and Detailed Description Requirements
