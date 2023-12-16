@@ -1942,3 +1942,6 @@
 2023-12-13 - sinyanmei92 - Keep a paper trail.
 2023-12-14 - sinyanmei92 - Offer to sell on a trading post
 2023-12-14 - sinyanmei92 - Missing prices or pictures.
+2023-12-15 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-12-15 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-12-16 - sinyanmei92 - All selling/trading posts must include handwritten
