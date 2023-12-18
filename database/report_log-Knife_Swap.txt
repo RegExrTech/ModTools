@@ -3949,3 +3949,5 @@
 2023-12-15 - dooms25 - Formatting and Detailed Description Requirements
 2023-12-15 - dooms25 - Timestamp
 2023-12-15 - dooms25 - Rule Grey Areas
+2023-12-17 - dooms25 - Timestamp
+2023-12-18 - dooms25 - Formatting and Detailed Description Requirements
