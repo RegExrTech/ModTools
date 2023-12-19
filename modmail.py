@@ -162,8 +162,8 @@ def send_reply(message, reply):
 	if not debug:
 		try:
 			message.reply(reply, internal=True)
-		except:
-			print("Unable to reply to message:\n  " + str(message))
+		except Exception as e:
+			print("Unable to reply to message:\n  " + str(message) + "\nwith error:\n" + str(e))
 	else:
 		print(reply)
 
