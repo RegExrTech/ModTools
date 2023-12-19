@@ -1949,3 +1949,5 @@
 2023-12-17 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-12-17 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-12-18 - OnePieceNeverending - Missing prices or pictures.
+2023-12-18 - sinyanmei92 - All selling/trading posts must include handwritten
+2023-12-18 - mangaswapbot - Timestamp out of date
