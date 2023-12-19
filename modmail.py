@@ -17,7 +17,7 @@ parser.add_argument('config_file_name', metavar='C', type=str)
 args = parser.parse_args()
 config_fname = 'config/' + args.config_file_name
 if not os.path.exists("config"):
-        os.mkdir("config")
+	os.mkdir("config")
 
 f = open(config_fname, "r")
 info = f.read().splitlines()
@@ -25,8 +25,8 @@ f.close()
 
 config = {}
 for item in info:
-        pair = item.split(":")
-        config[pair[0]] = pair[1]
+	pair = item.split(":")
+	config[pair[0]] = pair[1]
 
 subreddit_name = config['subreddit_name']
 client_id = config['client_id']
@@ -52,9 +52,9 @@ num_messages = 10
 num_posts_to_check = 100
 
 def save_report_data(mod_name, report_reason, sub_name):
-        f = open('database/report_log-' + sub_name + ".txt", 'a')
-        f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
-        f.close()
+	f = open('database/report_log-' + sub_name + ".txt", 'a')
+	f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
+	f.close()
 
 def ascii_encode_dict(data):
 	ascii_encode = lambda x: x.encode('ascii') if isinstance(x, unicode) else x
@@ -106,6 +106,14 @@ def build_infraction_text(message, subject, subreddit_name, reddit):
 			infraction = "BANNED - Unknown amount of time."
 	elif subject == "You've been permanently banned from participating in r/" + subreddit_name:
 		infraction = PERM_BANNED
+	elif 'is permanently banned from r/' + subreddit_name in subject:
+		infraction = PERM_BANNED
+	elif 'is temporarily banned from r/' + subreddit_name in subject:
+		try:
+			days_banned = message.messages[0].body_markdown.split("r/" + subreddit_name + " for ")[1].split(" ")[0]
+			infraction = "BANNED - " + days_banned + " days."
+		except:
+			infraction = "BANNED - Unknown amount of time."
 	elif subject == "Your ban from r/" + subreddit_name + " has changed":
 		if 'You have been permanently banned from participating in' in message.messages[0].body_markdown:
 			infraction = PERM_BANNED
