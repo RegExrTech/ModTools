@@ -1659,3 +1659,6 @@
 2023-12-15 - IsaacSam98 - Timestamp Required for Users Below 25 Exchanges.
 2023-12-15 - IsaacSam98 - No Time Stamp
 2023-12-15 - IsaacSam98 - Posting Frequency
+2023-12-19 - zap-1023 - PERM-BANNED
+2023-12-19 - PeaceLoveSmithWesson - PERM-BANNED
+2023-12-19 - IsaacSam98 - BANNED - 7 days.

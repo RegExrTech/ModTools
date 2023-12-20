@@ -3577,3 +3577,4 @@
 2023-12-13 - j007conks - Timestamp - none
 2023-12-16 - DrShadyTree - Timestamp
 2023-12-17 - FreddySwapBot - Timestamp out of date
+2023-12-19 - FunkoSwapUSL - PERM-BANNED
