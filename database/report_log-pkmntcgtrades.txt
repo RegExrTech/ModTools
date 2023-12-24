@@ -8299,3 +8299,8 @@
 2023-12-22 - Anthon95 - No hijacking post
 2023-12-22 - Lightning00 - no timestamp, no prices, all discussion must be do
 2023-12-23 - Lightning00 - incorrect timestamp format+all item for sale need 
+2023-12-23 - AutoModerator - PayPal Goods & Services is the only approved metho
+2023-12-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-12-23 - Anthon95 - Keep trade offers in the comments and personal inf
+2023-12-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2023-12-24 - Anthon95 - All items for sale and trade must be clearly price
