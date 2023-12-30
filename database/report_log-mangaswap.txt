@@ -1990,3 +1990,4 @@
 2023-12-29 - OnePieceNeverending - All selling/trading posts must include handwritten
 2023-12-29 - sinyanmei92 - All selling/trading posts must include handwritten
 2023-12-29 - sinyanmei92 - No external links
+2023-12-30 - OnePieceNeverending - No prices.
