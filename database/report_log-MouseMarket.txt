@@ -1253,3 +1253,6 @@
 2023-12-28 - Gregapher_ - Rule 9: Post Requirements
 2023-12-28 - Gregapher_ - PERM-BANNED
 2023-12-28 - MouseMarketUSLbot - PERM-BANNED
+2023-12-30 - MouseMarketUSLbot - PERM-BANNED
+2023-12-31 - Unciform - Rule 4: Timestamps
+2023-12-31 - Unciform - Rule 4: Timestamps
