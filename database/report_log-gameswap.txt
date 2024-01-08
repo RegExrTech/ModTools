@@ -510,3 +510,5 @@
 2023-12-31 - necrochaos - BANNED - 7 days.
 2024-01-01 - GameSwapUSLbot - PERM-BANNED
 2024-01-05 - GameSwapUSLbot - PERM-BANNED
+2024-01-07 - GSwapBot - PERM-BANNED
+2024-01-07 - GameSwapUSLbot - PERM-BANNED
