@@ -8409,3 +8409,12 @@
 2024-01-09 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-01-09 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-01-09 - Lightning00 - no dm, incorrect timestamp, all item for sale need
+2024-01-09 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-09 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-09 - Anthon95 - Prices must include the PayPal Goods & Services fe
+2024-01-09 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-10 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-10 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-10 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-10 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-10 - pkmntcgtradesUSLbot - PERM-BANNED

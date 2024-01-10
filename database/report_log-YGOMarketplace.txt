@@ -2060,3 +2060,5 @@
 2024-01-08 - ManaBMG - Timestamps
 2024-01-08 - ManaBMG - Review the rules
 2024-01-08 - ManaBMG - PERM-BANNED
+2024-01-10 - AutoModerator - Payments
+2024-01-10 - YGOMarketplaceUSLbot - PERM-BANNED

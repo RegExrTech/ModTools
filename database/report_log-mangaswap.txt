@@ -2021,3 +2021,5 @@
 2024-01-08 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-01-08 - sinyanmei92 - No external links
 2024-01-08 - OnePieceNeverending - PERM-BANNED
+2024-01-10 - mangaswapbot - Please dont offer to buy on a trade post.
+2024-01-10 - sinyanmei92 - Missing prices or pictures.
