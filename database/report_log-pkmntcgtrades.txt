@@ -8427,3 +8427,14 @@
 2024-01-10 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-01-11 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-01-11 - Lightning00 - Incorrect timestamp format and all item for sale n
+2024-01-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-11 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-11 - Anthon95 - No outside links, references, or advertising
+2024-01-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-11 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-12 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
