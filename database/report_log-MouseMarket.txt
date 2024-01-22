@@ -1295,3 +1295,5 @@
 2024-01-19 - Gregapher_ - PERM-BANNED
 2024-01-20 - Gregapher_ - Rule 4: Timestamps
 2024-01-20 - Gregapher_ - Rule 4: Timestamps
+2024-01-21 - Gregapher_ - Rule 4: Timestamps
+2024-01-22 - Unciform - Rule 4: Timestamps
