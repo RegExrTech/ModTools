@@ -8542,3 +8542,9 @@
 2024-01-27 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-01-27 - Anthon95 - All items for sale and trade must be clearly price
 2024-01-27 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-01-28 - Anthon95 - PERM-BANNED
+2024-01-28 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2024-01-28 - Anthon95 - All items for sale and trade must be clearly price
+2024-01-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-29 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-01-29 - Anthon95 - Correctly formatted timestamps are required for AL
