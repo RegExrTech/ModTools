@@ -73,3 +73,5 @@
 2024-01-02 - kramnnim - PERM-BANNED
 2024-01-12 - BaliSaleBot - BANNED - 30 days.
 2024-02-01 - kramnnim - PERM-BANNED
+2024-02-03 - kramnnim - PERM-BANNED
+2024-02-03 - BaliSaleBot - PERM-BANNED
