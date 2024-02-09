@@ -1338,3 +1338,5 @@
 2024-02-07 - MouseMarketUSLbot - PERM-BANNED
 2024-02-08 - Gregapher_ - Rule 4: Timestamps
 2024-02-08 - Gregapher_ - Rule 1: Titles
+2024-02-08 - Gregapher_ - Rule 4: Timestamps
+2024-02-09 - Gregapher_ - Rule 4: Timestamps
