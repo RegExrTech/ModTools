@@ -1427,3 +1427,4 @@
 2024-02-11 - GameSaleUSLbot - PERM-BANNED
 2024-02-12 - StardropScavenger - PERM-BANNED
 2024-02-12 - Tothoro - BANNED - 30 days.
+2024-02-12 - GSaleBot - PERM-BANNED
