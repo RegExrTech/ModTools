@@ -4098,3 +4098,4 @@
 2024-02-15 - dooms25 - Formatting and Detailed Description Requirements
 2024-02-16 - MapleSurpy - PERM-BANNED
 2024-02-16 - MapleSurpy - PERM-BANNED
+2024-02-18 - Viper613 - PERM-BANNED
