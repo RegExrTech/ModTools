@@ -2144,3 +2144,4 @@
 2024-02-23 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-02-23 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-02-23 - sinyanmei92 - Not a mangaswap transaction
+2024-02-23 - sinyanmei92 - Missing prices or pictures.
