@@ -2161,3 +2161,4 @@
 2024-02-27 - mangaswapbot - Timestamp out of date
 2024-02-27 - MangaSwapUSLbot - PERM-BANNED
 2024-02-28 - sinyanmei92 - Missing prices or pictures.
+2024-02-28 - mangaswapbot - PERM-BANNED
