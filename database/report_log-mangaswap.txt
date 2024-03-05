@@ -2170,3 +2170,8 @@
 2024-03-04 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-03-04 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-03-04 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-03-05 - mangaswapbot - Timestamp out of date
+2024-03-05 - sinyanmei92 - No offer to sell on a trade post.
+2024-03-05 - sinyanmei92 - No external links
+2024-03-05 - sinyanmei92 - Missing prices or pictures.
+2024-03-05 - sinyanmei92 - All selling/trading posts must include handwritten
