@@ -8821,3 +8821,5 @@
 2024-03-05 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-03-05 - Anthon95 - Keep trade offers in the comments and personal inf
 2024-03-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-05 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
