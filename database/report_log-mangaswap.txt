@@ -2181,3 +2181,5 @@
 2024-03-06 - OnePieceNeverending - PERM-BANNED
 2024-03-08 - sinyanmei92 - Missing prices or pictures.
 2024-03-09 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-03-09 - mangaswapbot - Timestamp out of date
+2024-03-10 - mangaswapbot - Timestamp out of date
