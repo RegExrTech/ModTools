@@ -2189,3 +2189,6 @@
 2024-03-12 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-03-12 - mangaswapbot - All selling/trading posts must include handwritten
 2024-03-13 - sinyanmei92 - Posting limitations:
+2024-03-14 - sinyanmei92 - No offer to buy on a trade thread
+2024-03-14 - mangaswapbot - No offer to sell on a trade thread. If its for sa
+2024-03-14 - sinyanmei92 - All selling/trading posts must include handwritten
