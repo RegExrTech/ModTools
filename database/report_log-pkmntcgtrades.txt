@@ -8898,3 +8898,6 @@
 2024-03-15 - Anthon95 - PayPal Goods & Services is the only approved metho
 2024-03-16 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-03-16 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-16 - Anthon95 - All items for sale and trade must be clearly price
+2024-03-17 - drewuptown - PayPal Goods & Services is the only approved metho
+2024-03-17 - drewuptown - PayPal Goods & Services is the only approved metho
