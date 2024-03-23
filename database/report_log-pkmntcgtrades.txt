@@ -8940,3 +8940,7 @@
 2024-03-21 - Anthon95 - Do not hijack posts
 2024-03-22 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-03-22 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-22 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-22 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-03-23 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-23 - Anthon95 - Correctly formatted timestamps are required for AL
