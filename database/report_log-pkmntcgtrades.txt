@@ -8965,3 +8965,14 @@
 2024-03-27 - Anthon95 - G&amp;S fee must be included in asking price
 2024-03-27 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-03-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-27 - Anthon95 - All items for sale and trade must be clearly price
+2024-03-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-27 - PokeSwapBot - All posts must be for BST of Pokmon Trading Cards
+2024-03-27 - Anthon95 - All items for sale and trade must be clearly price
+2024-03-27 - Anthon95 - Seller assumes risk in shipping PWE
+2024-03-27 - Anthon95 - All items for sale and trade must be clearly price
+2024-03-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-28 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-03-28 - Anthon95 - Correctly formatted timestamps are required for AL
