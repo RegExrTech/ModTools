@@ -20,8 +20,8 @@ def get_reports(sub, sub_name):
 
 def get_rule_text(report_reason, sub):
 	for rule in [r for r in sub.rules]:
-		if rule['short_name'] == report_reason:
-			return "\n\nYour post has been removed because " + report_reason + "\n\n" + rule['description']
+		if rule.short_name == report_reason:
+			return "\n\nYour post has been removed because " + report_reason + "\n\n" + rule.description
 	return "\n\nYour post has been removed because " + report_reason
 
 def get_submission_text(item):
