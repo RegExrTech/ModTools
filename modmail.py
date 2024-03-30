@@ -166,7 +166,7 @@ def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
 def send_reply(message, reply):
 	if not debug:
 		try:
-			message.reply(reply, internal=True)
+			message.reply(body=reply, internal=True)
 		except Exception as e:
 			print("Unable to reply to message:\n  " + str(message) + "\nwith error:\n" + str(e))
 	else:
