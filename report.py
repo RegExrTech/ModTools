@@ -1,14 +1,13 @@
 import time
 import praw
 from collections import defaultdict
+import traceback
+import unidecode
 
 debug = False
 
 def decode(text):
-        try:
-                return text.encode('utf-8').decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
-        except:
-                return text.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+	return unidecode.unidecode(text)
 
 def get_reports(sub, sub_name):
 	try:
@@ -75,13 +74,13 @@ def truncate_text(text, limit):
 
 def remove_reported_posts(sub, sub_name, lock_post):
 	ids_to_mods = defaultdict(lambda: [])
-        try:
-                for item in get_reports(sub, sub_name):
-                        if not item.mod_reports:
-		        	continue
-        		if item.approved:
-	        		continue
-		        report_reason = item.mod_reports[0][0]
+	try:
+		for item in get_reports(sub, sub_name):
+			if not item.mod_reports:
+				continue
+			if item.approved:
+				continue
+			report_reason = item.mod_reports[0][0]
 			# This is technically not a report even though it appears as one so we want to ignore it.
 			if report_reason == "It's abusing the report button":
 				continue
@@ -101,6 +100,6 @@ def remove_reported_posts(sub, sub_name, lock_post):
 			if remove_post(item, lock_post):
 				send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
 	except Exception as e:
-		print("Failed to get reports from " + sub_name + " with error " + str(e))
+		print("Failed to get reports from " + sub_name + " with error " + str(e) + "\nTraceback:\n" + traceback.format_exc())
 	return ids_to_mods
 

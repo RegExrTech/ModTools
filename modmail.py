@@ -11,6 +11,7 @@ import post_checker
 from collections import defaultdict
 import json
 import argparse
+import unidecode
 
 parser = argparse.ArgumentParser()
 parser.add_argument('config_file_name', metavar='C', type=str)
@@ -56,10 +57,6 @@ def save_report_data(mod_name, report_reason, sub_name):
 	f.write(str(datetime.datetime.now()).split(" ")[0] + " - " + mod_name + " - " + report_reason + "\n")
 	f.close()
 
-def ascii_encode_dict(data):
-	ascii_encode = lambda x: x.encode('ascii') if isinstance(x, unicode) else x
-	return dict(map(ascii_encode, pair) for pair in data.items())
-
 # Function to load the DB into memory
 def get_db(fname):
 	if not os.path.exists('database'):
@@ -69,24 +66,24 @@ def get_db(fname):
 		f.write("{}")
 		f.close()
 
-	with open(fname) as json_data:
-		data = json.load(json_data, object_hook=ascii_encode_dict)
+	if fname.endswith('.json'):
+		with open(fname, 'r') as json_data:
+			data = json.load(json_data)
+	else:
+		with open(fname, 'r') as text_data:
+			data = text_data.read()
 	return data
 
 def dump(data, fname):
-	with open(fname, 'w') as outfile:  # Write out new data
-		outfile.write(str(json.dumps(data))
-		.replace("'", '"')
-		.replace(', u"', ', "')
-		.replace('[u"', '["')
-		.replace('{u"', '{"')
-		.encode('ascii','ignore'))
+	if fname.endswith('.json'):
+		with open(fname, 'w') as outfile:  # Write out new data
+			outfile.write(json.dumps(data, sort_keys=True, indent=4))
+	else:
+		with open(fname, 'w') as outfile:  # Write out new data
+			outfile.write(data)
 
 def decode(text):
-	try:
-		return text.encode('utf-8').decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
-	except:
-		return text.decode('utf-8').encode('ascii', 'ignore').replace("\u002F", "/")
+	return unidecode.unidecode(text)
 
 def get_mod_mail_messages(sub, num_messages):
 	queries = []
@@ -206,7 +203,7 @@ def main(subreddit_name):
 		ids_to_mods = {}
 
 	# Check posts for various violations
-	frequency_fname = 'database/recent_posts-' + subreddit_name + '.txt'
+	frequency_fname = 'database/recent_posts-' + subreddit_name + '.json'
 	frequency_database = get_db(frequency_fname)
 	submissions = post_checker.get_submissions(sub, num_posts_to_check)
 	for submission in submissions:
