@@ -15,6 +15,7 @@ import json
 import argparse
 import unidecode
 import Config
+import traceback
 
 parser = argparse.ArgumentParser()
 parser.add_argument('sub_name', metavar='C', type=str)
