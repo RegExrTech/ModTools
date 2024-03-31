@@ -125,7 +125,10 @@ def build_infraction_text(message, subject, subreddit_name, reddit):
 def get_username_from_message(message):
 	user = ""
 	try:
-		user = message.user.name
+		if not message.user:
+			user = ""
+		else:
+			user = message.user.name
 	except Exception as e:
 		if not "object has no attribute 'user'" in str(e):
 			# Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
