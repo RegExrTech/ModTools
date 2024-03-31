@@ -1,8 +1,11 @@
+import sys
+sys.path.insert(0, '.')
 import time
 import praw
 from collections import defaultdict
 import traceback
 import unidecode
+import discord
 
 debug = False
 
@@ -13,8 +16,7 @@ def get_reports(sub, sub_name):
 	try:
 		return sub.mod.reports()
 	except Exception as e:
-		print("Unable to read reports for " + sub_name)
-#		print(e)
+		discord.log("Unable to read reports for r/" + sub_name, e, traceback.format_exc())
 		return []
 
 def get_rule_text(report_reason, sub):
@@ -37,15 +39,14 @@ def get_submission_text(item):
 def remove_post(item, lock_post):
 	try:
 		item.mod.remove()
-	except:
-		print("Unable to remove post.")
-		print(e)
+	except Exception as e:
+		discord.log("Unable to remove post " + str(item), e, traceback.format_exc())
 		return False
 	if lock_post:
 		try:
 			item.mod.lock()
-		except:
-			print("Unable to lock offender: " + str(item))
+		except Exception as e:
+			discord.log("Unable to lock offender " + str(item), e, traceback.format_exc())
 	return True
 
 def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
@@ -60,10 +61,9 @@ def send_removal_reason(item, message, title, mod_name, ids_to_mods, sub_name):
 			removal_reason_sent = True
 		except Exception as e:
 			if i == 2:
-				print("Unable to send removal reason for sub " + sub_name + ":\nTitle: " + title + "\nMessage: \n" + str(message))
+				discord.log("Unable to send removal reason for r/"+ sub_name + "\nTitle: " + title + "\nMessage: \n" + str(message), e, traceback.format_exc())
 				print(e)
 			else:
-				print("Failed to send removal message to " + sub_name +  "\nSleeping for 3 seconds and trying again...")
 				time.sleep(3)
 	ids_to_mods[title].append(mod_name)
 
@@ -100,6 +100,6 @@ def remove_reported_posts(sub, sub_name, lock_post):
 			if remove_post(item, lock_post):
 				send_removal_reason(item, message, title, item.mod_reports[0][1], ids_to_mods, sub_name)
 	except Exception as e:
-		print("Failed to get reports from " + sub_name + " with error " + str(e) + "\nTraceback:\n" + traceback.format_exc())
+		discord.log("Failed to get reports from r/" + sub_name, e, traceback.format_exc())
 	return ids_to_mods
 

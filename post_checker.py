@@ -1,14 +1,12 @@
+import sys
+sys.path.insert(0, '.')
+import discord
 import datetime
 from collections import defaultdict
 import re
 import report
 import time
-
-######################
-##                  ##
-## Helper Functions ##
-##                  ##
-######################
+import traceback
 
 ## IMGUR RELATED
 
@@ -44,7 +42,7 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 
 	items = url.split("/")
 	if len(items) <= 1:
-		print("Found an imgur URL that didn't have enough information to parse: " + url + " - Not checking it.")
+		discord.log("Found an imgur URL that didn't have enough information to parse: " + url + " - Not checking it.")
 		return True
 	hash = items[-1].replace("~", "")
 	hash = hash.split("/comment")[0]  # if someone links to a comment on their imgur post, we get fucked
@@ -56,8 +54,7 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 		else:
 			img = imgur.get_image(hash)
 	except Exception as e:
-		print("Failed to get images with the following hash: " + hash)
-		print("    url: " + url)
+		discord.log("Failed to get images with hash [" + hash + "] and url " + url, e, traceback.format_exc())
 		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
@@ -178,7 +175,7 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 				reply.mod.distinguish(sticky=True)
 				reply.mod.lock()
 			except Exception as e:
-				print("Unable to reply to post: redd.it/" + (submission.id) + " with error " + str(e))
+				discord.log("Unable to reply to post https://redd.it/" + submission.id, e, traceback.format_exc())
 
 			# Lock post
 			if lock_post:
@@ -219,14 +216,14 @@ def handle_post_flair(submission, current_time, num_minutes_flair, subreddit_nam
 		try:
 			submission.mod.remove()
 		except Exception as e:
-			print("Unable to remove - " + str(e))
+			discord.log("unable to remove submission https://redd.it/" + submission.id, e, traceback.format_exc())
 			return True
 		# Inform post removed
 		try:
-			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nPlease feel free to repost with flair added to your post. Adding flair to yoir original post will do nothing.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2F)" + subreddit_name + ".")
+			reply = submission.reply("Hi there! Unfortunately your post has been removed as all posts must be flaired within " + str(num_minutes_flair) + " minutes of being posted.\n\nPlease feel free to repost with flair added to your post. Adding flair to yoir original post will do nothing.\n\n***\nI am a bot and this comment was left automatically and as a courtesy to you. \nIf you have any questions, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2F" + subreddit_name + ").")
 			reply.mod.lock()
 			reply.mod.distinguish(how="yes", sticky=True)
 		except Exception as e:
-			print("Unable to reply, lock, and distinguish - " + str(e))
+			discord.log("Unable to reply, lock, and/or distingush on post https://redd.it/" + submission.id, e, traceback.format_exc())
 		return  True
 	return False
