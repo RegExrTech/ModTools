@@ -17,6 +17,6 @@ def main():
 		if not config.enabled:
 			return
 		os.system('python3 modmail.py ' + subreddit_name)
-		time.sleep(random.randint(60, 120))
+		time.sleep(random.randint(90, 150))
 
 main()
