@@ -213,7 +213,7 @@ def main(config):
 		try:
 			mod_convs = [x for x in query]
 		except Exception as e:
-			discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e, traceback.format_exc())
+			discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
 			continue
 		for mod_conv in mod_convs:
 			message = config.subreddit.modmail(mod_conv.id)
@@ -262,9 +262,9 @@ def main(config):
 				for copy_sub_name in config.copy_bans_to:
 					try:
 						config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
-						discord.log("Cross banned u/" + user + " to r/" + copy_sub_name, e, traceback.format_exc())
+						discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
 					except Exception as e:
-						discord.log("Unable to cross ban u/" + name + " to r/" + copy_sub_name, e, traceback.format_exc())
+						discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
 
 			# Write off some info to the logs
 			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + config.subreddit_name)
