@@ -118,7 +118,11 @@ def build_removal_reason_text(config, message, subject):
 		if len(infraction) > 50:
 			infraction = "Mod Tool Box Removal"
 	else:
-		infraction = "".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])
+		try:
+			infraction = "".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])
+		except Exception as e:
+			discord.log("Failed to build infraction for r/" + config.subreddit_name + " for message subject " + subject)
+			infraction = ""
 	return infraction
 
 def get_removing_mod(ids_to_mods, infraction, mod_conv):
