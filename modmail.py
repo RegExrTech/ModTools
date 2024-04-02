@@ -27,7 +27,7 @@ debug = False
 PERM_BANNED = "PERM-BANNED"
 current_time = time.time()
 num_messages = 10
-num_posts_to_check = 100
+num_posts_to_check = 20
 
 def save_report_data(mod_name, report_reason, sub_name):
 	f = open('database/report_log-' + sub_name + ".txt", 'a')
