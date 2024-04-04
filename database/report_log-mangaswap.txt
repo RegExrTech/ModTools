@@ -2245,3 +2245,6 @@
 2024-04-02 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-04-02 - mangaswapbot - Timestamp out of date
 2024-04-03 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-04-03 - sinyanmei92 - Timestamp needs date
+2024-04-03 - sinyanmei92 - Timestamp needs to be next to all items you are se
+2024-04-03 - mangaswapbot - Timestamp out of date
