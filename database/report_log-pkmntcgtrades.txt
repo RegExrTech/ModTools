@@ -9012,3 +9012,4 @@
 2024-04-03 - Anthon95 - Keep trade offers in the comments and personal inf
 2024-04-04 - AutoModerator - PayPal Goods & Services is the only approved metho
 2024-04-04 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-04-04 - Anthon95 - Correctly formatted timestamps are required for AL
