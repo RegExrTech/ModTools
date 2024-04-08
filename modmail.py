@@ -68,8 +68,8 @@ def get_mod_mail_messages(config, num_messages, after):
 		discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
 	return queries
 
-def build_infraction_text(config, message, subject):
-	subject = subject.lower()
+def build_infraction_text(config, message):
+	subject = message.subject.lower()
 	infraction = ""
 	if any([subject in [x.lower() for x in ['Your post from ' + config.subreddit_name + ' was removed', 'Your comment from ' + config.subreddit_name + ' was removed', "Your submission was removed from /r/" + config.subreddit_name, "Your comment was removed from /r/" + config.subreddit_name]]]):
 		infraction = build_removal_reason_text(config, message, subject)
@@ -221,10 +221,8 @@ def main(config):
 	most_recent_mod_mail_id = last_mod_mail_id
 	mod_convs = get_mod_mail_messages(config, num_messages, last_mod_mail_id)
 	for mod_conv in mod_convs:
-		message = config.subreddit.modmail(mod_conv.id)
-
 		# Get the text of the infraction to store in the database
-		infraction = build_infraction_text(config, message, mod_conv.subject)
+		infraction = build_infraction_text(config, mod_conv)
 
 		# If no infracion was detected, we don't want to do anything
 		if not infraction:
@@ -232,7 +230,7 @@ def main(config):
 		infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
 
 		# Determine the username of the person in question
-		user = get_username_from_message(message)
+		user = get_username_from_message(mod_conv)
 
 		# If we were unable to parse a username, just skip for now
 		if not user:
@@ -257,11 +255,11 @@ def main(config):
 
 		# Handle replying to the message with our private summary
 		reply = get_summary_text(user_infraction_db, user, config.subreddit_name, removing_mod)
-		send_reply(message, reply)
+		send_reply(mod_conv, reply)
 
 		# Archive if action is from USLBot. Prevents clutter in modmail
 		if removing_mod == "USLBot" :
-			archive(message)
+			archive(mod_conv)
 
 		if infraction == PERM_BANNED:
 			for copy_sub_name in config.copy_bans_to:
