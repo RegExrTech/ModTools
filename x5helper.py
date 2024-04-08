@@ -1,41 +1,22 @@
+import sys
+sys.path.insert(0, ".")
+import Config
 import praw
 from prawcore.exceptions import NotFound
 import argparse
 
 
-def create_reddit_and_sub(subreddit_name, client_id, client_secret, refresh_token):
-	reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent='Swap Bot for ' + subreddit_name + ' v1.0 (by u/RegExr)', refresh_token=refresh_token)
-	sub = reddit.subreddit(subreddit_name)
-	return reddit, sub
 
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('sub_name', metavar='C', type=str)
 	args = parser.parse_args()
-
-	config_fname = 'config/' + args.sub_name + "-config.txt"
-	f = open(config_fname, "r")
-	info = f.read().splitlines()
-	f.close()
-
-	config = {}
-	for item in info:
-		pair = item.split(":")
-		config[pair[0]] = pair[1]
-
-	subreddit_name = config['subreddit_name']
-	client_id = config['client_id']
-	client_secret = config['client_secret']
-	bot_username = config['bot_username']
-	bot_password = config['bot_password']
-	refresh_token = config['refresh_token']
-
-	reddit, sub = create_reddit_and_sub(subreddit_name, client_id, client_secret, refresh_token)
+	config = Config.Config(args.sub_name.lower())
 
 	# get recent sub comments
 	comments_to_check = []
 	try:
-		new_comments = sub.comments(limit=50)
+		new_comments = config.subreddit.comments(limit=50)
 		for new_comment in new_comments:
 			try:
 				new_comment.refresh()
