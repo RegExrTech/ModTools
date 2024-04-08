@@ -59,10 +59,13 @@ def dump(data, fname):
 		with open(fname, 'w') as outfile:  # Write out new data
 			outfile.write(data)
 
-def get_mod_mail_messages(config, num_messages):
+def get_mod_mail_messages(config, num_messages, after):
 	queries = []
-	queries.append(config.subreddit.modmail.conversations(state='all', limit=num_messages))
-	queries.append(config.subreddit.modmail.conversations(state='archived', limit=num_messages))
+	try:
+		queries += [x for x in config.subreddit.modmail.conversations(state='all', limit=num_messages, params={"after": after})]
+		queries += [x for x in config.subreddit.modmail.conversations(state='archived', limit=num_messages, params={"after": after})]
+	except Exception as e:
+		discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
 	return queries
 
 def build_infraction_text(config, message, subject):
@@ -207,72 +210,76 @@ def main(config):
 	except Exception as e:
 		discord.log("Unable to load database for " + infractions_fname, e, traceback.format_exc())
 		return
-	queries = get_mod_mail_messages(config, num_messages)
 
-	for query in queries:
-		try:
-			mod_convs = [x for x in query]
-		except Exception as e:
-			discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
+	# Get the last-read mod mail ID so we don't do duplicate work.
+	last_mod_mail_id_fname = "database/last_mod_mail_id_" + config.subreddit_name + ".txt"
+	if not os.path.exists(last_mod_mail_id_fname):
+		last_mod_mail_id = None
+	else:
+		with open("database/last_mod_mail_id_" + config.subreddit_name + ".txt") as f:
+			last_mod_mail_id = f.read()
+	most_recent_mod_mail_id = last_mod_mail_id
+	mod_convs = get_mod_mail_messages(config, num_messages, last_mod_mail_id)
+	for mod_conv in mod_convs:
+		message = config.subreddit.modmail(mod_conv.id)
+
+		# Get the text of the infraction to store in the database
+		infraction = build_infraction_text(config, message, mod_conv.subject)
+
+		# If no infracion was detected, we don't want to do anything
+		if not infraction:
 			continue
-		for mod_conv in mod_convs:
-			message = config.subreddit.modmail(mod_conv.id)
+		infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
 
-			# Get the text of the infraction to store in the database
-			infraction = build_infraction_text(config, message, mod_conv.subject)
+		# Determine the username of the person in question
+		user = get_username_from_message(message)
 
-			# If no infracion was detected, we don't want to do anything
-			if not infraction:
-				continue
-			infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
+		# If we were unable to parse a username, just skip for now
+		if not user:
+			continue
 
-			# Determine the username of the person in question
-			user = get_username_from_message(message)
+		# If this is the user's first infraction, give them an entry in the db
+		if user not in user_infraction_db:
+			user_infraction_db[user] = {}
 
-			# If we were unable to parse a username, just skip for now
-			if not user:
-				continue
+		# If we have seen this exact infraction before, skip it
+		if mod_conv.id in user_infraction_db[user]:
+			continue
 
-			# If this is the user's first infraction, give them an entry in the db
-			if user not in user_infraction_db:
-				user_infraction_db[user] = {}
+		# Store the infraction in the database
+		user_infraction_db[user][mod_conv.id] = infraction_and_date
 
-			# If we have seen this exact infraction before, skip it
-			if mod_conv.id in user_infraction_db[user]:
-				continue
+		# Get the name of the mod who recorded the infraction
+		removing_mod = get_removing_mod(ids_to_mods, infraction, mod_conv)
 
-			# Store the infraction in the database
-			user_infraction_db[user][mod_conv.id] = infraction_and_date
+		# Save off the record of who handeled this infraction
+		save_report_data(removing_mod, infraction, config.subreddit_name)
 
-			# Get the name of the mod who recorded the infraction
-			removing_mod = get_removing_mod(ids_to_mods, infraction, mod_conv)
+		# Handle replying to the message with our private summary
+		reply = get_summary_text(user_infraction_db, user, config.subreddit_name, removing_mod)
+		send_reply(message, reply)
 
-			# Save off the record of who handeled this infraction
-			save_report_data(removing_mod, infraction, config.subreddit_name)
+		# Archive if action is from USLBot. Prevents clutter in modmail
+		if removing_mod == "USLBot" :
+			archive(message)
 
-			# Handle replying to the message with our private summary
-			reply = get_summary_text(user_infraction_db, user, config.subreddit_name, removing_mod)
-			send_reply(message, reply)
+		if infraction == PERM_BANNED:
+			for copy_sub_name in config.copy_bans_to:
+				try:
+					config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
+					discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
+				except Exception as e:
+					discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
 
-			# Archive if action is from USLBot. Prevents clutter in modmail
-			if removing_mod == "USLBot" :
-				archive(message)
-
-			if infraction == PERM_BANNED:
-				for copy_sub_name in config.copy_bans_to:
-					try:
-						config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
-						discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
-					except Exception as e:
-						discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
-
-			# Write off some info to the logs
-			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + config.subreddit_name)
-			print("===========================================")
+		# Write off some info to the logs
+		print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + config.subreddit_name)
+		print("===========================================")
 
 	if not debug:
 		dump(user_infraction_db, infractions_fname)
-
+		if most_recent_mod_mail_id != last_mod_mail_id:
+			with open(last_mod_mail_id_fname, 'w') as f:
+				f.write(most_recent_mod_mail_id)
 
 try:
 	main(CONFIG)
