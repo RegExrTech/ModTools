@@ -121,7 +121,7 @@ def build_removal_reason_text(config, message, subject):
 		try:
 			infraction = "".join(message.messages[0].body_markdown.split("\n")[0].split("'")[1:])
 		except Exception as e:
-			discord.log("Failed to build infraction for r/" + config.subreddit_name + " for message subject " + subject)
+			discord.log("Failed to build infraction for r/" + config.subreddit_name + " for message subject " + subject, e)
 			infraction = ""
 	return infraction
 
@@ -166,7 +166,7 @@ def main(config):
 	try:
 		mods = [str(x) for x in config.subreddit.moderator()]
 	except Exception as e:
-		discord.log("Unable to get list of moderators from " + config.subreddit_name, e, traceback.format_exc())
+		discord.log("Unable to get list of moderators from " + config.subreddit_name, e)
 		return
 	# Remove all submissions with mod reports and send removal reasons. Return a dict of who handeled each report.
 	if config.remove_from_reports:
