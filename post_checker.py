@@ -37,8 +37,10 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 	url = url.split("?")[0]
 	if url[-1] == "/":
 		url = url[:-1]
-	if url[-4] == ".":
+	if url[-4] == ".":  # e.g. hash.jpg
 		url = url [:-4]
+	elif url[-5] == ".":  # e.g. hash.jpeg
+		url = url [:-5]
 
 	items = url.split("/")
 	if len(items) <= 1:
@@ -54,7 +56,7 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 		else:
 			img = imgur.get_image(hash)
 	except Exception as e:
-		discord.log("Failed to get images with hash [" + hash + "] and url " + url, e, traceback.format_exc())
+		discord.log("Failed to get images with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
 		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
