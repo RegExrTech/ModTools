@@ -63,6 +63,7 @@ def get_mod_mail_messages(config, num_messages, after):
 	queries = []
 	try:
 		queries += [x for x in config.subreddit.modmail.conversations(state='all', limit=num_messages, params={"after": after})]
+		# TODO Fix the `after` param doing nothing here.
 		queries += [x for x in config.subreddit.modmail.conversations(state='archived', limit=num_messages, params={"after": after})]
 	except Exception as e:
 		discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
@@ -215,12 +216,21 @@ def main(config):
 	last_mod_mail_id_fname = "database/last_mod_mail_id_" + config.subreddit_name + ".txt"
 	if not os.path.exists(last_mod_mail_id_fname):
 		last_mod_mail_id = None
+		last_mod_mail_time = 0
 	else:
 		with open("database/last_mod_mail_id_" + config.subreddit_name + ".txt") as f:
-			last_mod_mail_id = f.read()
+			t = f.read()
+			last_mod_mail_id = t.split(" - ")[0]
+			last_mod_mail_time = float(t.split(" - ")[1])
 	most_recent_mod_mail_id = last_mod_mail_id
 	mod_convs = get_mod_mail_messages(config, num_messages, last_mod_mail_id)
 	for mod_conv in mod_convs:
+		# Handle updating the most recent mod mail stamp.
+		mod_conv_time = float(datetime.datetime.strptime(mod_conv.messages[0].date, "%Y-%m-%dT%H:%M:%S.%f%z").timestamp())
+		if mod_conv_time > last_mod_mail_time:
+			last_mod_mail_time = mod_conv_time
+			most_recent_mod_mail_id = mod_conv.id
+
 		# Get the text of the infraction to store in the database
 		infraction = build_infraction_text(config, mod_conv)
 
@@ -277,7 +287,7 @@ def main(config):
 		dump(user_infraction_db, infractions_fname)
 		if most_recent_mod_mail_id != last_mod_mail_id:
 			with open(last_mod_mail_id_fname, 'w') as f:
-				f.write(most_recent_mod_mail_id)
+				f.write(most_recent_mod_mail_id + " - " + str(last_mod_mail_time))
 
 try:
 	main(CONFIG)
