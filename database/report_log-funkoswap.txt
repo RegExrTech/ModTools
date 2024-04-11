@@ -3645,3 +3645,4 @@
 2024-03-30 - j007conks - Pricing - outside links
 2024-04-03 - j007conks - Timestamp - none
 2024-04-06 - FreddySwapBot - Timestamp out of date
+2024-04-11 - FunkoSwapUSL - PERM-BANNED
