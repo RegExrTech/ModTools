@@ -1485,3 +1485,5 @@
 2024-04-08 - Gregapher_ - Rule 4: Timestamps
 2024-04-09 - MouseMarketBot - Rule 4: Timestamps
 2024-04-09 - Gregapher_ - BANNED - 60 days.
+2024-04-11 - Gregapher_ - PERM-BANNED
+2024-04-11 - Gregapher_ - PERM-BANNED
