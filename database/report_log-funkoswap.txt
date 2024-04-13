@@ -3646,3 +3646,4 @@
 2024-04-03 - j007conks - Timestamp - none
 2024-04-06 - FreddySwapBot - Timestamp out of date
 2024-04-11 - FunkoSwapUSL - PERM-BANNED
+2024-04-12 - j007conks - Funko products only

@@ -2267,3 +2267,6 @@
 2024-04-11 - sinyanmei92 - Missing prices or pictures.
 2024-04-11 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-04-11 - MangaSwapUSLbot - PERM-BANNED
+2024-04-12 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-04-13 - sinyanmei92 - No external links
+2024-04-13 - OnePieceNeverending - Not how timestamps work
