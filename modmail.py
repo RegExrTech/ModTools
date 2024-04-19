@@ -62,9 +62,9 @@ def dump(data, fname):
 def get_mod_mail_messages(config, num_messages, after):
 	queries = []
 	try:
-		queries += [x for x in config.subreddit.modmail.conversations(state='all', limit=num_messages, params={"after": after})]
+		queries += [x for x in config.subreddit.modmail.conversations(state='all', limit=num_messages)]
 		# TODO Fix the `after` param doing nothing here.
-		queries += [x for x in config.subreddit.modmail.conversations(state='archived', limit=num_messages, params={"after": after})]
+		queries += [x for x in config.subreddit.modmail.conversations(state='archived', limit=num_messages)]
 	except Exception as e:
 		discord.log("Unable to read mod conversations from query on r/" + config.subreddit_name, e)
 	return queries
@@ -224,7 +224,18 @@ def main(config):
 			last_mod_mail_time = float(t.split(" - ")[1])
 	most_recent_mod_mail_id = last_mod_mail_id
 	mod_convs = get_mod_mail_messages(config, num_messages, last_mod_mail_id)
+	failed = False
 	for mod_conv in mod_convs:
+		try:
+			mod_conv_date = mod_conv.messages[0].date
+		except:
+			time.sleep(5)
+			try:
+				mod_conv_date = mod_conv.messages[0].date
+			except Exception as e:
+				discord.log("Unable to parse mod conv for r/" + config.subreddit_name+ ". Skipping iteration.", e)
+				failed = True
+				break
 		# Handle updating the most recent mod mail stamp.
 		mod_conv_time = float(datetime.datetime.strptime(mod_conv.messages[0].date, "%Y-%m-%dT%H:%M:%S.%f%z").timestamp())
 		if mod_conv_time > last_mod_mail_time:
@@ -285,14 +296,14 @@ def main(config):
 
 	if not debug:
 		dump(user_infraction_db, infractions_fname)
-		if most_recent_mod_mail_id != last_mod_mail_id:
+		if most_recent_mod_mail_id != last_mod_mail_id and not failed:
 			with open(last_mod_mail_id_fname, 'w') as f:
 				f.write(most_recent_mod_mail_id + " - " + str(last_mod_mail_time))
 
 try:
 	main(CONFIG)
 except Exception as e:
-	discord.log("modmail.py failed with an uncaught exception.", e, traceback.format_exc())
+	discord.log("modmail.py failed with an uncaught exception for r/" + CONFIG.subreddit_name, e, traceback.format_exc())
 
 
 
