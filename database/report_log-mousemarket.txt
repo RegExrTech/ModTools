@@ -1495,3 +1495,6 @@
 2024-04-16 - Gregapher_ - PERM-BANNED
 2024-04-16 - Gregapher_ - PERM-BANNED
 2024-04-16 - Gregapher_ - Rule 8: Payment Methods
+2024-04-18 - Gregapher_ - Rule 4: Timestamps
+2024-04-18 - Gregapher_ - BANNED - 30 days.
+2024-04-18 - Gregapher_ - Rule 4: Timestamps
