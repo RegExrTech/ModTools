@@ -2296,3 +2296,10 @@
 2024-04-23 - OnePieceNeverending - Needs price for GTO
 2024-04-24 - sinyanmei92 - Posting limitations:
 2024-04-25 - sinyanmei92 - Timestamp needs to be NEXT to the items you are se
+2024-04-25 - mangaswapbot - Timestamp out of date
+2024-04-25 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-04-25 - sinyanmei92 - No thread crapping.
+2024-04-25 - sinyanmei92 - Missing timestamp on 90% of the items
+2024-04-26 - sinyanmei92 - Posting limitations:
+2024-04-26 - mangaswapbot - Timestamp out of date
+2024-04-26 - sinyanmei92 - Missing prices or pictures.

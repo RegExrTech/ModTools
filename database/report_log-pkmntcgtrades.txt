@@ -9134,3 +9134,6 @@
 2024-04-24 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-04-25 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-04-25 - Anthon95 - Post titles must be formatted correctly
+2024-04-25 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-04-25 - Anthon95 - All items for sale and trade must be clearly price
+2024-04-25 - Anthon95 - Correctly formatted timestamps are required for AL
