@@ -2303,3 +2303,5 @@
 2024-04-26 - sinyanmei92 - Posting limitations:
 2024-04-26 - mangaswapbot - Timestamp out of date
 2024-04-26 - sinyanmei92 - Missing prices or pictures.
+2024-04-26 - sinyanmei92 - Missing prices or pictures.
+2024-04-27 - sinyanmei92 - All selling/trading posts must include handwritten

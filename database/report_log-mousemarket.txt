@@ -1510,3 +1510,5 @@
 2024-04-23 - Gregapher_ - Rule 4: Timestamps
 2024-04-24 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2024-04-26 - Gregapher_ - Rule 4: Timestamps
+2024-04-26 - Gregapher_ - Rule 4: Timestamps
+2024-04-26 - Gregapher_ - Rule 1: Titles
