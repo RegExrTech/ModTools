@@ -3653,3 +3653,4 @@
 2024-04-21 - FunkoSwapUSL - PERM-BANNED
 2024-04-26 - j007conks - PayPal G&S only
 2024-04-26 - j007conks - Timestamp - none
+2024-04-28 - RegExrBot - PERM-BANNED
