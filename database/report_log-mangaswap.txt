@@ -2308,3 +2308,6 @@
 2024-04-27 - mangaswapbot - Timestamp out of date
 2024-04-27 - MangaSwapUSLbot - PERM-BANNED
 2024-04-28 - sinyanmei92 - PERM-BANNED
+2024-04-28 - OnePieceNeverending - Dead imgur, use imgchest
+2024-04-28 - OnePieceNeverending - No external links
+2024-04-29 - sinyanmei92 - Missing username on timestamp
