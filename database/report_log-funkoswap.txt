@@ -3656,3 +3656,5 @@
 2024-04-28 - RegExrBot - PERM-BANNED
 2024-04-30 - FunkoSwapUSL - PERM-BANNED
 2024-04-30 - j007conks - Timestamp - none
+2024-05-02 - FreddySwapBot - Timestamp out of date
+2024-05-02 - FreddySwapBot - Timestamp out of date
