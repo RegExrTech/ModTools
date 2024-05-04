@@ -1525,3 +1525,5 @@
 2024-05-02 - Gregapher_ - Rule 4: Timestamps
 2024-05-02 - Gregapher_ - PERM-BANNED
 2024-05-02 - Gregapher_ - BANNED - 14 days.
+2024-05-03 - Gregapher_ - Rule 4: Timestamps
+2024-05-04 - Gregapher_ - Rule 4: Timestamps
