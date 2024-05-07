@@ -9169,3 +9169,5 @@
 2024-05-05 - Anthon95 - All items for sale and trade must be clearly price
 2024-05-06 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-05-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-06 - Anthon95 - All items for sale and trade must be clearly price
+2024-05-07 - pkmntcgtradesUSLbot - PERM-BANNED
