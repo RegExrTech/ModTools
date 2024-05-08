@@ -1573,3 +1573,6 @@
 2024-05-04 - GSaleBot - PERM-BANNED
 2024-05-04 - necrochaos - BANNED - 3 days.
 2024-05-05 - ishkabibbel2000 - PERM-BANNED
+2024-05-07 - GameSaleUSLbot - PERM-BANNED
+2024-05-08 - GameSaleUSLbot - PERM-BANNED
+2024-05-08 - clockoutgohome - PERM-BANNED
