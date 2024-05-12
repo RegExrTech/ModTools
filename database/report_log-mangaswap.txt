@@ -2352,3 +2352,7 @@
 2024-05-09 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-05-10 - sinyanmei92 - Missing price + hand written timestamp with date.
 2024-05-10 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-05-11 - sinyanmei92 - PERM-BANNED
+2024-05-11 - OnePieceNeverending - Need prices for everything.
+2024-05-11 - mangaswapbot - Timestamp out of date
+2024-05-12 - sinyanmei92 - PERM-BANNED
