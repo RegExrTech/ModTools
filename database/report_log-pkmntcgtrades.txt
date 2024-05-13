@@ -9207,3 +9207,9 @@
 2024-05-11 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-05-11 - Anthon95 - All items for sale and trade must be clearly price
 2024-05-11 - Lightning00 - PERM-BANNED
+2024-05-12 - Anthon95 - Keep trade offers in the comments and personal inf
+2024-05-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-12 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-05-13 - Lightning00 - Correctly formatted timestamps are required for AL
+2024-05-13 - Anthon95 - Correctly formatted timestamps are required for AL

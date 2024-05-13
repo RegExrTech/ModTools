@@ -25578,3 +25578,4 @@
 2024-05-11 - bpuckett0003 - No Price/Value Checks
 2024-05-11 - bpuckett0003 - FAQ
 2024-05-11 - bpuckett0003 - No Price/Value Checks
+2024-05-12 - RegExr - No legit check posts.
