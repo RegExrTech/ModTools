@@ -2366,3 +2366,5 @@
 2024-05-14 - sinyanmei92 - Timestamp needs date
 2024-05-14 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-05-14 - sinyanmei92 - PERM-BANNED
+2024-05-14 - sinyanmei92 - Timestamp only shows 2 items.
+2024-05-14 - sinyanmei92 - All selling/trading posts must include handwritten
