@@ -340,7 +340,8 @@
     "Auztar": {
         "1d297m": "2023-01-25 - All selling/trading posts must include handwritten",
         "1e07pl": "2023-02-13 - other",
-        "1h8pgx": "2023-04-19 - Timestamp out of date"
+        "1h8pgx": "2023-04-19 - Timestamp out of date",
+        "23egrg": "2024-05-16 - Missing timestamp, read the rules for more info."
     },
     "Available-Platypus-3": {
         "1i013j": "2023-05-04 - All selling/trading posts must include handwritten"
@@ -383,6 +384,9 @@
     },
     "BabyYodasFork": {
         "1m820c": "2023-07-10 - All selling/trading posts must include handwritten"
+    },
+    "BackgroundVast": {
+        "23f3bh": "2024-05-16 - All selling/trading posts must include handwritten"
     },
     "BaconDEggs": {
         "1ca2yb": "2023-01-10 - No submissions that arent buy/sell/trade."
@@ -1510,6 +1514,9 @@
         "1f3orp": "2023-03-07 - Timestamp out of date",
         "1hd4jt": "2023-04-21 - Timestamp out of date"
     },
+    "Interesting-Link6345": {
+        "23fb7n": "2024-05-17 - No offer to sell on a trade post"
+    },
     "Interesting_Play8818": {
         "1p8pla": "2023-09-14 - No thread crapping."
     },
@@ -2152,6 +2159,9 @@
     "N00dlemonk3y": {
         "19cok3": "2022-11-11 - All selling/trading posts must include handwritten"
     },
+    "N0t_Dev": {
+        "23fbae": "2024-05-17 - No thread crapping."
+    },
     "N1hility": {
         "1ybg24": "2024-02-10 - Keep a paper trail."
     },
@@ -2281,7 +2291,8 @@
         "1cb7vs": "2023-01-10 - PERM-BANNED"
     },
     "Ok_Gap5778": {
-        "1rgg8g": "2023-11-02 - Timestamp out of date"
+        "1rgg8g": "2023-11-02 - Timestamp out of date",
+        "23fcv0": "2024-05-17 - All selling/trading posts must include handwritten"
     },
     "Ok_Imagination_5267": {
         "1qfnwh": "2023-10-10 - No thread crapping."
@@ -2305,8 +2316,12 @@
     "OneGorilla": {
         "1iw4mo": "2023-05-23 - Comment, PMd for xyz prior to sending a PM."
     },
+    "OneGreatMangaWar": {
+        "23fbah": "2024-05-17 - Timestamp needs date"
+    },
     "OnePlayTrey": {
-        "1ugwp8": "2023-12-29 - No external links"
+        "1ugwp8": "2023-12-29 - No external links",
+        "23f3eb": "2024-05-16 - Posting limitations:"
     },
     "OnePunch10": {
         "18p5vn": "2022-10-27 - PERM-BANNED"
@@ -2440,6 +2455,9 @@
     },
     "Possible_Good_916": {
         "23ctil": "2024-05-15 - Keep a paper trail."
+    },
+    "Potential_Opening821": {
+        "23fbao": "2024-05-17 - PERM-BANNED"
     },
     "Powerful-North8370": {
         "18lsjq": "2022-10-25 - All selling posts must include prices and pictures"
