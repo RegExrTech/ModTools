@@ -10322,6 +10322,7 @@
     },
     "TheShinyFurret01": {
         "1j9wlk": "2023-05-31 - Correctly formatted timestamps are required for AL",
+        "23m3sc": "2024-05-20 - All items for sale and trade must be clearly price",
         "9yxrf": "2019-09-29 - All items for sale must include a price",
         "b6uck": "2019-12-20 - PERM-BANNED",
         "pdmzr": "2021-06-26 - Timestamps required for items over $50",
@@ -11695,7 +11696,8 @@
         "1jkr8u": "2023-06-06 - Correctly formatted timestamps are required for AL",
         "1lza33": "2023-07-05 - PayPal Goods & Services is the only approved metho",
         "1lza37": "2023-07-05 - PayPal Goods & Services is the only approved metho",
-        "1oz8nv": "2023-09-08 - Correctly formatted timestamps are required for AL"
+        "1oz8nv": "2023-09-08 - Correctly formatted timestamps are required for AL",
+        "23ljgr": "2024-05-20 - PayPal Goods & Services is the only approved metho"
     },
     "adubb_13": {
         "1lujoh": "2023-07-03 - Keep trade offers in the comments and personal inf"
