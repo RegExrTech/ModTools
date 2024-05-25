@@ -4375,3 +4375,6 @@
 2024-05-23 - MapleSurpy - PERM-BANNED
 2024-05-23 - [deleted] - PERM-BANNED
 2024-05-23 - ksbot - PERM-BANNED
+2024-05-24 - MapleSurpy - BANNED - 3 days.
+2024-05-24 - MapleSurpy - PERM-BANNED
+2024-05-24 - Knife_swapUSLbot - PERM-BANNED
