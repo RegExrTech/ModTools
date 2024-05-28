@@ -9270,3 +9270,11 @@
 2024-05-24 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-05-25 - Anthon95 - Keep trade offers in the comments and personal inf
 2024-05-25 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-27 - Anthon95 - All items for sale and trade must be clearly price
+2024-05-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-05-27 - Anthon95 - All items for sale and trade must be clearly price
+2024-05-28 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-05-28 - pkmntcgtradesUSLbot - PERM-BANNED
