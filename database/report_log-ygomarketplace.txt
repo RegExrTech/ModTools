@@ -2220,3 +2220,5 @@
 2024-05-30 - ManaBMG - Timestamps
 2024-05-30 - ManaBMG - Timestamps
 2024-05-31 - ManaBMG - Timestamps
+2024-06-02 - YGOMarketplaceUSLbot - PERM-BANNED
+2024-06-02 - ManaBMG - Private Messages

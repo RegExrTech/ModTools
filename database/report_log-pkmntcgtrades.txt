@@ -9294,3 +9294,7 @@
 2024-05-31 - Anthon95 - G&S fees must be included in asking price
 2024-05-31 - Anthon95 - All items for sale and trade must be clearly price
 2024-06-01 - Anthon95 - All items for sale and trade must be clearly price
+2024-06-01 - Anthon95 - All items for sale and trade must be clearly price
+2024-06-01 - SageLikesPokemon - PERM-BANNED
+2024-06-01 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-06-02 - Anthon95 - Correctly formatted timestamps are required for AL
