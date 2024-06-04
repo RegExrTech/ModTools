@@ -2436,3 +2436,7 @@
 2024-06-02 - OnePieceNeverending - Timestamps must be present next to each item at le
 2024-06-02 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-06-02 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-06-03 - mangaswapbot - Timestamp out of date
+2024-06-03 - mangaswapbot - Timestamp out of date
+2024-06-03 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-06-03 - sinyanmei92 - Needs timestamp on all items you are selling, incl
