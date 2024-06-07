@@ -9336,3 +9336,5 @@
 2024-06-06 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-06-06 - Anthon95 - G&S fee must be included in all asking prices
 2024-06-06 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-06-06 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-06-06 - Anthon95 - PERM-BANNED
