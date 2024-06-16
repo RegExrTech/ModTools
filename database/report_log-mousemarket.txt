@@ -1618,3 +1618,6 @@
 2024-06-14 - Unciform - Rule 4: Timestamps
 2024-06-15 - Gregapher_ - Rule 4: Timestamps
 2024-06-15 - Gregapher_ - PERM-BANNED
+2024-06-15 - Unciform - Rule 4: Timestamps
+2024-06-15 - Unciform - Rule 4: Timestamps
+2024-06-15 - MouseMarketUSLbot - PERM-BANNED
