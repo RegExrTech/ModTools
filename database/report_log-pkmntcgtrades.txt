@@ -9384,3 +9384,4 @@
 2024-06-15 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-06-15 - Anthon95 - All items for sale and trade must be clearly price
 2024-06-15 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-06-17 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
