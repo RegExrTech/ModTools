@@ -1573,6 +1573,9 @@
         "1f3orp": "2023-03-07 - Timestamp out of date",
         "1hd4jt": "2023-04-21 - Timestamp out of date"
     },
+    "Intelligent_Owl_7477": {
+        "254vgs": "2024-06-19 - Do not delete sold items/prices. Add them back and"
+    },
     "Interesting-Link6345": {
         "23fb7n": "2024-05-17 - No offer to sell on a trade post"
     },
@@ -3651,6 +3654,9 @@
     "Yoshdad": {
         "1tmos9": "2023-12-15 - All selling/trading posts must include handwritten"
     },
+    "Yote6341": {
+        "255gl4": "2024-06-20 - All selling/trading posts must include handwritten"
+    },
     "YourMom_5666": {
         "1lwxid": "2023-07-04 - All selling/trading posts must include handwritten"
     },
@@ -4015,7 +4021,8 @@
         "1zuvl5": "2024-03-09 - All selling/trading posts must include handwritten"
     },
     "bobthefrog003": {
-        "252hbu": "2024-06-18 - All selling/trading posts must include handwritten"
+        "252hbu": "2024-06-18 - All selling/trading posts must include handwritten",
+        "255gl2": "2024-06-20 - Missing date on the timestamp"
     },
     "bolivian_warmi": {
         "1am5az": "2022-12-07 - All selling/trading posts must include handwritten"
@@ -5558,7 +5565,8 @@
         "1p8pld": "2023-09-14 - No thread crapping."
     },
     "silentquacker": {
-        "22lecv": "2024-05-01 - Imgur link does not work"
+        "22lecv": "2024-05-01 - Imgur link does not work",
+        "254hyr": "2024-06-19 - PERM-BANNED"
     },
     "simulacdumb": {
         "1fsb1w": "2023-03-20 - All selling/trading posts must include handwritten"

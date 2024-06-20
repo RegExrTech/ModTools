@@ -2491,3 +2491,7 @@
 2024-06-18 - OnePieceNeverending - All selling/trading posts must include handwritten
 2024-06-18 - sinyanmei92 - PERM-BANNED
 2024-06-18 - sinyanmei92 - Showing the user about the retail price is fine bu
+2024-06-19 - MangaSwapUSLbot - PERM-BANNED
+2024-06-19 - OnePieceNeverending - Do not delete sold items/prices. Add them back and
+2024-06-20 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-06-20 - sinyanmei92 - Missing date on the timestamp
