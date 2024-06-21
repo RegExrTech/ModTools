@@ -2495,3 +2495,5 @@
 2024-06-19 - OnePieceNeverending - Do not delete sold items/prices. Add them back and
 2024-06-20 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-06-20 - sinyanmei92 - Missing date on the timestamp
+2024-06-20 - sinyanmei92 - paypal G&S
+2024-06-20 - sinyanmei92 - PERM-BANNED
