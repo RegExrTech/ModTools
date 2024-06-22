@@ -2497,3 +2497,7 @@
 2024-06-20 - sinyanmei92 - Missing date on the timestamp
 2024-06-20 - sinyanmei92 - paypal G&S
 2024-06-20 - sinyanmei92 - PERM-BANNED
+2024-06-21 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-06-21 - sinyanmei92 - Keep a paper trail.
+2024-06-22 - sinyanmei92 - Imgur not working
+2024-06-22 - sinyanmei92 - Posting limitations:
