@@ -9390,3 +9390,8 @@
 2024-06-22 - firebird5225 - All items for sale and trade must be clearly price
 2024-06-22 - firebird5225 - Correctly formatted timestamps are required for AL
 2024-06-23 - firebird5225 - Correctly formatted timestamps are required for AL
+2024-06-23 - firebird5225 - Correctly formatted timestamps are required for AL
+2024-06-23 - firebird5225 - PayPal Goods & Services is the only approved metho
+2024-06-23 - firebird5225 - Correctly formatted timestamps are required for AL
+2024-06-24 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-06-24 - firebird5225 - Correctly formatted timestamps are required for AL
