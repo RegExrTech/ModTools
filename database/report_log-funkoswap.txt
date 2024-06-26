@@ -3689,3 +3689,5 @@
 2024-06-20 - j007conks - Timestamp - none
 2024-06-20 - FreddySwapBot - Timestamp out of date
 2024-06-22 - DrShadyTree - Timestamp
+2024-06-25 - DrShadyTree - Timestamp
+2024-06-25 - FunkoSwapUSL - PERM-BANNED
