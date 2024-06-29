@@ -2519,3 +2519,7 @@
 2024-06-28 - sinyanmei92 - No external links
 2024-06-28 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-06-28 - OnePieceNeverending - PERM-BANNED
+2024-06-28 - sinyanmei92 - Timestamp is missing on all items. A part of it do
+2024-06-28 - sinyanmei92 - PERM-BANNED
+2024-06-29 - OnePieceNeverending - No external links
+2024-06-29 - MangaSwapUSLbot - PERM-BANNED

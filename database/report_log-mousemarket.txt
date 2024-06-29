@@ -1638,3 +1638,7 @@
 2024-06-20 - Unciform - Rule 4: Timestamps
 2024-06-21 - Gregapher_ - Rule 4: Timestamps
 2024-06-22 - Gregapher_ - Rule 4: Timestamps
+2024-06-29 - Unciform - Rule 4: Timestamps
+2024-06-29 - Unciform - Rule 4: Timestamps
+2024-06-29 - Unciform - Rule 1: Titles
+2024-06-29 - Unciform - Rule 4: Timestamps
