@@ -2544,3 +2544,7 @@
 2024-07-05 - sinyanmei92 - All items sold/traded must comply with the permitt
 2024-07-05 - mangaswapbot - No multi-type posts. Please edit, dont delete.
 2024-07-07 - OnePieceNeverending - Edit in prices and timestamp pics. DO NOT DELETE. 
+2024-07-08 - sinyanmei92 - Missing username on timestamp
+2024-07-08 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-07-08 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-07-08 - sinyanmei92 - All selling/trading posts must include handwritten
