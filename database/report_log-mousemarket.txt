@@ -1666,3 +1666,5 @@
 2024-07-07 - Gregapher_ - PERM-BANNED
 2024-07-07 - Gregapher_ - Rule 4: Timestamps
 2024-07-07 - Gregapher_ - Rule 4: Timestamps
+2024-07-09 - MouseMarketUSLbot - PERM-BANNED
+2024-07-09 - MouseMarketBot - PERM-BANNED

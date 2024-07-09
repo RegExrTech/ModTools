@@ -2247,3 +2247,4 @@
 2024-07-01 - ManaBMG - Timestamps
 2024-07-02 - ManaBMG - Timestamps
 2024-07-03 - ManaBMG - Timestamps
+2024-07-08 - YGOMarketplaceUSLbot - PERM-BANNED
