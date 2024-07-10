@@ -2549,3 +2549,5 @@
 2024-07-08 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-08 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-09 - sinyanmei92 - Missing prices or pictures.
+2024-07-10 - sinyanmei92 - Timestamp needs date
+2024-07-10 - MangaSwapUSLbot - PERM-BANNED
