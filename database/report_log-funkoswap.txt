@@ -3704,3 +3704,6 @@
 2024-07-05 - FreddySwapBot - Timestamp out of date
 2024-07-11 - DrShadyTree - Missing prices
 2024-07-11 - DrShadyTree - Missing prices
+2024-07-12 - FreddySwapBot - Timestamp out of date
+2024-07-13 - FunkoSwapUSL - PERM-BANNED
+2024-07-13 - j007conks - Pricing - none
