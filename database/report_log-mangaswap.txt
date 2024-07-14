@@ -2559,3 +2559,6 @@
 2024-07-12 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-13 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-13 - mangaswapbot - Timestamp out of date
+2024-07-14 - sinyanmei92 - Timestamp pic needs to be the first photo of the i
+2024-07-14 - sinyanmei92 - Missing prices or pictures.
+2024-07-14 - mangaswapbot - You need price for everything. we dont allow offe
