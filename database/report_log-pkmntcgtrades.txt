@@ -9492,3 +9492,8 @@
 2024-07-13 - firebird5225 - Correctly formatted timestamps are required for AL
 2024-07-13 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-07-13 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-07-14 - Anthon95 - Code Card transactions are not allowed
+2024-07-14 - Anthon95 - Code Card transactions are not allowed
+2024-07-14 - Anthon95 - Code Card transactions are not allowed
+2024-07-14 - Anthon95 - Code Card transactions are not allowed
+2024-07-15 - Anthon95 - Correctly formatted timestamps are required for AL

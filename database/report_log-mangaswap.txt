@@ -2562,3 +2562,4 @@
 2024-07-14 - sinyanmei92 - Timestamp pic needs to be the first photo of the i
 2024-07-14 - sinyanmei92 - Missing prices or pictures.
 2024-07-14 - mangaswapbot - You need price for everything. we dont allow offe
+2024-07-14 - mangaswapbot - Timestamp out of date

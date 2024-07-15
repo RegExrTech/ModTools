@@ -2754,6 +2754,9 @@
         "1h02ba": "2023-04-14 - Correctly formatted timestamps are required for AL",
         "qspo2": "2021-08-02 - Timestamps required for items over $50"
     },
+    "Dirty_Beef_2": {
+        "26i3q2": "2024-07-14 - Code Card transactions are not allowed"
+    },
     "DisasterNo3610": {
         "xucm1": "2022-02-05 - All items for sale must include a price"
     },
@@ -3192,7 +3195,8 @@
         "p461w": "2021-06-22 - Timestamps required for items over $50"
     },
     "Effective-King7873": {
-        "25itwj": "2024-06-27 - All items for sale and trade must be clearly price"
+        "25itwj": "2024-06-27 - All items for sale and trade must be clearly price",
+        "26i3ug": "2024-07-14 - Code Card transactions are not allowed"
     },
     "EffectiveLow1089": {
         "25l168": "2024-06-28 - Correctly formatted timestamps are required for AL"
@@ -3839,6 +3843,9 @@
     },
     "Fractal_Fox": {
         "1hnup4": "2023-04-27 - All items for sale and trade must be clearly price"
+    },
+    "FrankenBerryGxM": {
+        "26ianu": "2024-07-15 - Correctly formatted timestamps are required for AL"
     },
     "Franklin77777": {
         "1akrgf": "2022-12-06 - Missing timestamps and prices",
@@ -10582,7 +10589,8 @@
         "rz9kq": "2021-09-02 - Only Pokemon Cards or Money on your side"
     },
     "TheProductMan": {
-        "1t3y8i": "2023-12-09 - Sellers are responsible for their package reaching"
+        "1t3y8i": "2023-12-09 - Sellers are responsible for their package reaching",
+        "26i3py": "2024-07-14 - Code Card transactions are not allowed"
     },
     "TheProtagonist2": {
         "1rk23q": "2023-11-05 - Correctly formatted timestamps are required for AL"
@@ -17926,6 +17934,9 @@
         "1mhu11": "2023-07-15 - Correctly formatted timestamps are required for AL",
         "1np08i": "2023-08-10 - All items for sale and trade must be clearly price",
         "1osv0l": "2023-09-04 - Correctly formatted timestamps are required for AL"
+    },
+    "silphalion": {
+        "26i3pv": "2024-07-14 - Code Card transactions are not allowed"
     },
     "silver_sombra1": {
         "rxahd": "2021-08-31 - Keep trade offers in the comments, and personal in"
