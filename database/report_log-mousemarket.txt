@@ -1675,3 +1675,5 @@
 2024-07-11 - Gregapher_ - Rule 4: Timestamps
 2024-07-11 - Gregapher_ - BANNED - 7 days.
 2024-07-13 - Gregapher_ - Rule 4: Timestamps
+2024-07-15 - Gregapher_ - Rule 1: Titles
+2024-07-15 - Gregapher_ - Rule 4: Timestamps
