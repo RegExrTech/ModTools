@@ -3307,6 +3307,9 @@
     "Enthozz": {
         "1jbouf": "2023-06-01 - Correctly formatted timestamps are required for AL"
     },
+    "EnviCollects": {
+        "26m0bh": "2024-07-16 - Correctly formatted timestamps are required for AL"
+    },
     "EnviousEevee": {
         "1tmvn6": "2023-12-15 - Correctly formatted timestamps are required for AL"
     },
@@ -9054,6 +9057,9 @@
         "9t97j": "2019-09-17 - All items for sale must include a price",
         "9w7o3": "2019-09-23 - Timestamps required for items over $50"
     },
+    "SaltineTaco": {
+        "26m0r4": "2024-07-16 - All items for sale and trade must be clearly price"
+    },
     "SaltySadness22": {
         "1gbmi5": "2023-03-31 - All posts must be for BST of Pokmon Trading Cards",
         "1h4wwc": "2023-04-16 - Correctly formatted timestamps are required for AL",
@@ -12316,7 +12322,8 @@
     },
     "austinfruity": {
         "1rnm4u": "2023-11-07 - All items for sale and trade must be clearly price",
-        "1zg2o7": "2024-03-02 - Correctly formatted timestamps are required for AL"
+        "1zg2o7": "2024-03-02 - Correctly formatted timestamps are required for AL",
+        "26m15u": "2024-07-16 - No outside links, references, or advertising"
     },
     "autonomousfailure": {
         "15m3za": "2022-08-13 - Hijacking",
@@ -12500,6 +12507,7 @@
     },
     "benrocks9291": {
         "11yhuk": "2022-05-16 - All items for sale and trade must be clearly price",
+        "26mk5r": "2024-07-17 - All items for sale and trade must be clearly price",
         "nbluz": "2021-04-30 - Timestamps required for items over $50",
         "ns32g": "2021-05-13 - All items for sale must include a price",
         "o7vjq": "2021-05-25 - Timestamps required for items over $50",
