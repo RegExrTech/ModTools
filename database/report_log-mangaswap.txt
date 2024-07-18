@@ -2570,3 +2570,7 @@
 2024-07-16 - sinyanmei92 - Timestamp needs date
 2024-07-16 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-16 - sinyanmei92 - All items sold/traded must comply with the permitt
+2024-07-17 - OnePieceNeverending - PERM-BANNED
+2024-07-18 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-07-18 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-07-18 - mangaswapbot - Timestamp out of date
