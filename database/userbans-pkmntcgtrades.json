@@ -2756,7 +2756,8 @@
         "qspo2": "2021-08-02 - Timestamps required for items over $50"
     },
     "Dirty_Beef_2": {
-        "26i3q2": "2024-07-14 - Code Card transactions are not allowed"
+        "26i3q2": "2024-07-14 - Code Card transactions are not allowed",
+        "26pi3c": "2024-07-18 - All items for sale and trade must be clearly price"
     },
     "DisasterNo3610": {
         "xucm1": "2022-02-05 - All items for sale must include a price"
@@ -6982,7 +6983,8 @@
         "tj58s": "2021-10-16 - Timestamps required for items over $50"
     },
     "MurkyLingonberry3331": {
-        "25ttbb": "2024-07-02 - All items for sale and trade must be clearly price"
+        "25ttbb": "2024-07-02 - All items for sale and trade must be clearly price",
+        "26pm63": "2024-07-18 - Keep trade offers in the comments and personal inf"
     },
     "MuseTheGreat": {
         "12lfvl": "2022-06-02 - Timestamps are required for ALL items"
@@ -10192,6 +10194,9 @@
         "120clb": "2022-05-18 - Timestamps are required for ALL items",
         "1rxepg": "2023-11-13 - Correctly formatted timestamps are required for AL"
     },
+    "Symurin": {
+        "26r0d3": "2024-07-19 - Correctly formatted timestamps are required for AL"
+    },
     "Synaps3collaps3": {
         "rwbpo": "2021-08-31 - Keep trade offers in the comments, and personal in",
         "rwbq0": "2021-08-31 - Keep trade offers in the comments, and personal in",
@@ -11013,6 +11018,9 @@
     },
     "Trihard_in_the_cx": {
         "1572wr": "2022-08-04 - All items for sale and trade must be clearly price"
+    },
+    "TrinityFrost": {
+        "26phfa": "2024-07-18 - Correctly formatted timestamps are required for AL"
     },
     "TritonCollectables": {
         "suiz4": "2021-09-26 - All items for sale must include a price"
@@ -18868,7 +18876,8 @@
     "trixster215": {
         "1s2h7r": "2023-11-17 - Correctly formatted timestamps are required for AL",
         "1t8r6n": "2023-12-12 - All items for sale and trade must be clearly price",
-        "1wbod6": "2024-01-09 - Prices must include the PayPal Goods & Services fe"
+        "1wbod6": "2024-01-09 - Prices must include the PayPal Goods & Services fe",
+        "26qomb": "2024-07-19 - Keep trade offers in the comments and personal inf"
     },
     "trizzo0309": {
         "11igmf": "2022-05-05 - PERM-BANNED",

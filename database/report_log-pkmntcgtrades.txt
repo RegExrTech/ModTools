@@ -9506,3 +9506,8 @@
 2024-07-17 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-07-17 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-07-17 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-07-18 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-07-18 - teogeorgiou - All items for sale and trade must be clearly price
+2024-07-18 - teogeorgiou - Keep trade offers in the comments and personal inf
+2024-07-19 - Jasper345 - Keep trade offers in the comments and personal inf
+2024-07-19 - teogeorgiou - Correctly formatted timestamps are required for AL
