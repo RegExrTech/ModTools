@@ -9514,3 +9514,5 @@
 2024-07-19 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-07-19 - teogeorgiou - All items for sale and trade must be clearly price
 2024-07-20 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-07-20 - teogeorgiou - All items for sale and trade must be clearly price
+2024-07-20 - Jasper345 - Keep trade offers in the comments and personal inf
