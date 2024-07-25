@@ -4802,6 +4802,7 @@
         "12exfx": "2022-05-28 - Timestamps are required for ALL items",
         "15h4ls": "2022-08-10 - Timestamps are required for ALL items",
         "1svj86": "2023-12-04 - PayPal Goods & Services is the only approved metho",
+        "271c1m": "2024-07-24 - Correctly formatted timestamps are required for AL",
         "o6s75": "2021-05-24 - Timestamps required for items over $50",
         "qcold": "2021-07-20 - All items for sale must include a price",
         "qseo9": "2021-08-01 - Timestamps required for items over $50"
@@ -5200,6 +5201,10 @@
         "vft45": "2021-12-07 - All items for sale must include a price",
         "vylca": "2021-12-20 - Only PayPal as a form of payment",
         "ynutu": "2022-02-25 - Timestamps required for items over $50"
+    },
+    "JathTech": {
+        "271zgp": "2024-07-24 - Correctly formatted timestamps are required for AL",
+        "271zxj": "2024-07-24 - PayPal Goods & Services is the only approved metho"
     },
     "Jaxfella": {
         "t85l1": "2021-10-07 - All items for sale must include a price"
@@ -15834,6 +15839,9 @@
     "ktg15": {
         "q7t5i": "2021-07-16 - Timestamps required for items over $50"
     },
+    "kunaan": {
+        "271mcp": "2024-07-24 - Correctly formatted timestamps are required for AL"
+    },
     "kuyamj": {
         "1vi974": "2024-01-04 - Correctly formatted timestamps are required for AL"
     },
@@ -17468,6 +17476,7 @@
     },
     "rbc3a": {
         "13pr79": "2022-06-29 - PayPal Goods & Services is the only approved metho",
+        "271d5q": "2024-07-24 - Correctly formatted timestamps are required for AL",
         "pcjs1": "2021-06-26 - Do not spam or hijack other peoples trade offers"
     },
     "rbjoe": {
