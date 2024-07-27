@@ -2597,3 +2597,7 @@
 2024-07-24 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-24 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-07-25 - mangaswapbot - Timestamp out of date
+2024-07-26 - sinyanmei92 - Missing date on the time stamp
+2024-07-26 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-07-27 - OnePieceNeverending - No prices.
+2024-07-27 - OnePieceNeverending - No prices.
