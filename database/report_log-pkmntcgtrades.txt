@@ -9555,3 +9555,6 @@
 2024-07-26 - teogeorgiou - PayPal Goods & Services is the only approved metho
 2024-07-27 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-07-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-07-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-07-27 - Anthon95 - Putting an absurd price to ask for offers is not a
+2024-07-28 - Anthon95 - Correctly formatted timestamps are required for AL
