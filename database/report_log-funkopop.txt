@@ -25855,3 +25855,4 @@
 2024-07-27 - j007conks - No Price/Value Checks
 2024-07-27 - bpuckett0003 - No Price/Value Checks
 2024-07-29 - j007conks - No Price/Value Checks
+2024-07-29 - AutoModerator - No Self Promotion out of specific posts
