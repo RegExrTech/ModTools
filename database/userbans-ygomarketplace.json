@@ -2280,6 +2280,9 @@
     "OupsOfCow": {
         "fsq51": "2020-07-26 - Missing/Incorrect Location Format"
     },
+    "OutsideQuality0": {
+        "27f13d": "2024-07-31 - Timestamps"
+    },
     "OverFinding5405": {
         "17858v": "2022-09-21 - Timestamps",
         "19kf20": "2022-11-15 - Timestamps"
@@ -3629,7 +3632,8 @@
         "rskv7": "2021-08-28 - Payments"
     },
     "YugiohMint": {
-        "1iirjm": "2023-05-15 - Timestamps"
+        "1iirjm": "2023-05-15 - Timestamps",
+        "27fso8": "2024-07-31 - Timestamps"
     },
     "Yugiplayer2015": {
         "si3t7": "2021-09-17 - Payments",

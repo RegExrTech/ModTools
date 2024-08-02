@@ -3711,3 +3711,7 @@
 2024-07-27 - j007conks - Timestamp - none
 2024-07-27 - j007conks - Timestamp - incorrect format
 2024-07-27 - j007conks - Pricing - none
+2024-07-30 - j007conks - Pricing - flipping
+2024-07-30 - FunkoSwapUSL - PERM-BANNED
+2024-08-01 - FreddySwapBot - Timestamp out of date
+2024-08-01 - FreddySwapBot - Timestamp out of date
