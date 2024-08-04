@@ -2668,6 +2668,9 @@
         "x9190": "2022-01-22 - Do not spam or hijack other peoples trade offers",
         "zqwgy": "2022-03-23 - Only PayPal as a form of payment"
     },
+    "DeresingMoment": {
+        "27m0ip": "2024-08-03 - Correctly formatted timestamps are required for AL"
+    },
     "Derpstroyed": {
         "12nszd": "2022-06-03 - Timestamps are required for ALL items",
         "14aygr": "2022-07-14 - All items for sale and trade must be clearly price",
@@ -3680,7 +3683,8 @@
         "1qyr8d": "2023-10-22 - Keep trade offers in the comments and personal inf"
     },
     "FilmAdventures": {
-        "12dugi": "2022-05-27 - Timestamps are required for ALL items"
+        "12dugi": "2022-05-27 - Timestamps are required for ALL items",
+        "27mi8n": "2024-08-03 - Correctly formatted timestamps are required for AL"
     },
     "FilmStock5717": {
         "1z93hb": "2024-02-28 - Keep trade offers in the comments and personal inf"
@@ -8294,6 +8298,9 @@
     },
     "Practical_Youth_9742": {
         "1j7y99": "2023-05-30 - Keep trade offers in the comments and personal inf"
+    },
+    "Prestigious_Act5160": {
+        "27m4gk": "2024-08-03 - Correctly formatted timestamps are required for AL"
     },
     "Prestigious_Ad_2069": {
         "suw23": "2021-09-27 - Do not spam or hijack other peoples trade offers"
@@ -15847,7 +15854,8 @@
         "o0lz8": "2021-05-19 - Timestamps must include your reddit username"
     },
     "ko-ze": {
-        "1zjyyh": "2024-03-03 - Correctly formatted timestamps are required for AL"
+        "1zjyyh": "2024-03-03 - Correctly formatted timestamps are required for AL",
+        "27mtjz": "2024-08-03 - Correctly formatted timestamps are required for AL"
     },
     "kodaeli": {
         "t0ww4": "2021-10-01 - Timestamps required for items over $50"
