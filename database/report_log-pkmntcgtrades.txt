@@ -9618,3 +9618,9 @@
 2024-08-08 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-08 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-09 - teogeorgiou - Correctly formatted timestamps are required for AL
+2024-08-09 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-09 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-10 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-10 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-10 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-10 - Anthon95 - Correctly formatted timestamps are required for AL
