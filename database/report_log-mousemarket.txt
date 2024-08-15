@@ -1755,3 +1755,6 @@
 2024-08-13 - Gregapher_ - Rule 4: Timestamps
 2024-08-13 - Gregapher_ - Rule 4: Timestamps
 2024-08-14 - Gregapher_ - Rule 4: Timestamps
+2024-08-14 - MouseMarketUSLbot - PERM-BANNED
+2024-08-14 - Unciform - Rule 4: Timestamps
+2024-08-15 - Unciform - Rule 6: Asking Prices
