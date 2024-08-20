@@ -9691,3 +9691,12 @@
 2024-08-17 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-18 - Anthon95 - All items for sale and trade must be clearly price
 2024-08-18 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-18 - Anthon95 - PayPal Goods & Services is the only approved metho
+2024-08-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-19 - teogeorgiou - All items for sale and trade must be clearly price
+2024-08-19 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-19 - teogeorgiou - Please avoid using words that are considered racia
+2024-08-19 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-08-20 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-20 - Anthon95 - Correctly formatted timestamps are required for AL
