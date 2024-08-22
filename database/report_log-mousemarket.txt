@@ -1767,3 +1767,5 @@
 2024-08-18 - Unciform - PERM-BANNED
 2024-08-19 - MouseMarketUSLbot - PERM-BANNED
 2024-08-21 - MouseMarketUSLbot - PERM-BANNED
+2024-08-21 - Gregapher_ - Rule 4: Timestamps
+2024-08-22 - MouseMarketUSLbot - PERM-BANNED
