@@ -2188,3 +2188,6 @@
 2024-08-21 - DCSbot - PERM-BANNED
 2024-08-21 - Mafnas22 - PERM-BANNED
 2024-08-21 - Mafnas22 - Rule 5 - List Requirements and Formatting
+2024-08-22 - DCSUSLbot - PERM-BANNED
+2024-08-23 - DJ_Hamster - PERM-BANNED
+2024-08-23 - Mafnas22 - Rule 5 - List Requirements and Formatting
