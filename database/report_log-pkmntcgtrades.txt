@@ -9740,3 +9740,13 @@
 2024-08-26 - firebird5225 - All items for sale and trade must be clearly price
 2024-08-26 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-26 - Anthon95 - PERM-BANNED
+2024-08-26 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-26 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-26 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-27 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-08-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-27 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-27 - Anthon95 - All items for sale and trade must be clearly price
