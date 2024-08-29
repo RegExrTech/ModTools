@@ -2692,3 +2692,7 @@
 2024-08-26 - sinyanmei92 - Time stamp needs tk be presented on all items you 
 2024-08-27 - sinyanmei92 - PERM-BANNED
 2024-08-28 - sinyanmei92 - Read the rules to know what a time stamp is
+2024-08-28 - sinyanmei92 - Missing date on timestamp. It needs to be visible 
+2024-08-28 - sinyanmei92 - PERM-BANNED
+2024-08-28 - sinyanmei92 - No external links
+2024-08-29 - mangaswapbot - Thats not a timestamp
