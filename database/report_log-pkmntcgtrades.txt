@@ -9770,3 +9770,11 @@
 2024-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-28 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-08-29 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-29 - firebird5225 - All items for sale and trade must be clearly price
+2024-08-29 - Anthon95 - All items for sale and trade must be clearly price
+2024-08-29 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-29 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-29 - Anthon95 - Seller is responsible for PWE shipments
+2024-08-30 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-30 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-08-30 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
