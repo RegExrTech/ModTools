@@ -1788,3 +1788,4 @@
 2024-09-01 - Unciform - Rule 6: Asking Prices
 2024-09-01 - Gregapher_ - PERM-BANNED
 2024-09-01 - Gregapher_ - Rule 6: Asking Prices
+2024-09-02 - Gregapher_ - Rule 4: Timestamps
