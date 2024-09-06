@@ -1789,3 +1789,5 @@
 2024-09-01 - Gregapher_ - PERM-BANNED
 2024-09-01 - Gregapher_ - Rule 6: Asking Prices
 2024-09-02 - Gregapher_ - Rule 4: Timestamps
+2024-09-05 - Gregapher_ - Rule 1: Titles
+2024-09-05 - Gregapher_ - BANNED - 30 days.

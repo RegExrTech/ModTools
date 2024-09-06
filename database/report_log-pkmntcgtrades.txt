@@ -9811,3 +9811,12 @@
 2024-09-04 - Anthon95 - No post hijacking
 2024-09-05 - Anthon95 - All items for sale and trade must be clearly price
 2024-09-05 - Anthon95 - All items for sale and trade must be clearly price
+2024-09-05 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-05 - Anthon95 - PayPal Goods & Services is the only approved metho
+2024-09-05 - teogeorgiou - Missing correct timestamp and prices
+2024-09-06 - PokeSwapBot - Keep discussions on topic and don't spam
+2024-09-06 - firebird5225 - Treat everyone with respect
+2024-09-06 - firebird5225 - Treat everyone with respect
+2024-09-06 - PokeSwapBot - Keep discussions on topic and don't spam
+2024-09-06 - teogeorgiou - Treat everyone with respect
+2024-09-06 - AutoModerator - PayPal Goods & Services is the only approved metho
