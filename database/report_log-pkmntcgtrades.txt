@@ -9836,3 +9836,13 @@
 2024-09-07 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-07 - Anthon95 - All items for sale and trade must be clearly price
 2024-09-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-08 - Anthon95 - G&S fees must be included in asking price
+2024-09-08 - Anthon95 - All items for sale and trade must be clearly price
+2024-09-08 - Anthon95 - Keep trade offers in the comments and personal inf
+2024-09-08 - Anthon95 - No outside links, references, or advertising
+2024-09-08 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-09-08 - teogeorgiou - All items for sale and trade must be clearly price
+2024-09-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-09 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-09 - Anthon95 - Correctly formatted timestamps are required for AL
