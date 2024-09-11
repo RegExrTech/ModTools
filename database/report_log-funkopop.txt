@@ -25925,3 +25925,4 @@
 2024-09-05 - bpuckett0003 - Promotion guidelines
 2024-09-08 - RegExr - No buying, selling, or trading
 2024-09-08 - j007conks - No Price/Value Checks
+2024-09-10 - AutoModerator - No Self Promotion out of specific posts

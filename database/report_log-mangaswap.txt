@@ -2711,3 +2711,5 @@
 2024-09-09 - sinyanmei92 - Dont bring transaction out side of Paypal g&S
 2024-09-09 - sinyanmei92 - No external links
 2024-09-10 - sinyanmei92 - Timestamp needs to be on all items you are selling
+2024-09-10 - sinyanmei92 - Keep a paper trail.
+2024-09-11 - OnePieceNeverending - PERM-BANNED
