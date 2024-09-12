@@ -599,6 +599,9 @@
         "j9ikg": "2020-12-17 - All items for sale must include a price",
         "qip75": "2021-07-25 - All items for sale must include a price"
     },
+    "AlboAssassin1": {
+        "29umyi": "2024-09-12 - Missing timestamps and prices/trade values"
+    },
     "AlbyStan71": {
         "106vry": "2022-04-03 - Keep trade offers in the comments, and personal in",
         "12eew0": "2022-05-28 - Timestamps are required for ALL items",
@@ -1320,6 +1323,8 @@
     },
     "BigDaddyRob94": {
         "11bxkn": "2022-05-01 - Only PayPal as a form of payment",
+        "29ukbb": "2024-09-12 - PayPal Goods & Services is the only approved metho",
+        "29uqkz": "2024-09-12 - Correctly formatted timestamps are required for AL",
         "m0f1h": "2021-03-19 - Only PayPal as a form of payment"
     },
     "BigHoss14": {
@@ -7766,7 +7771,8 @@
     },
     "Ok-Dream-9211": {
         "20vltz": "2024-03-29 - PayPal Goods & Services is the only approved metho",
-        "26wgm8": "2024-07-22 - PayPal Goods & Services is the only approved metho"
+        "26wgm8": "2024-07-22 - PayPal Goods & Services is the only approved metho",
+        "29u3i7": "2024-09-11 - Seller assumes risk sending PWE"
     },
     "Ok-Lingonberry4415": {
         "26tq9x": "2024-07-20 - All items for sale and trade must be clearly price"
@@ -11195,7 +11201,8 @@
         "9sbrd": "2019-09-15 - All items for sale must include a price"
     },
     "Time_Relationship980": {
-        "29khua": "2024-09-06 - Correctly formatted timestamps are required for AL"
+        "29khua": "2024-09-06 - Correctly formatted timestamps are required for AL",
+        "29uowi": "2024-09-12 - All items for sale and trade must be clearly price"
     },
     "Timely_Seaweed_7274": {
         "23yd6g": "2024-05-27 - Correctly formatted timestamps are required for AL",
@@ -16315,6 +16322,9 @@
     "konja04": {
         "1mpzhd": "2023-07-20 - Correctly formatted timestamps are required for AL",
         "1pgn96": "2023-09-18 - Correctly formatted timestamps are required for AL"
+    },
+    "korvers-kum-komrade": {
+        "29uo7u": "2024-09-12 - Correctly formatted timestamps are required for AL"
     },
     "kosamay": {
         "9x84h": "2019-09-25 - All items for sale must include a price"
