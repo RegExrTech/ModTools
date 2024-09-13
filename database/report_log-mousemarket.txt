@@ -1801,3 +1801,6 @@
 2024-09-08 - Unciform - Rule 1: Titles
 2024-09-10 - Gregapher_ - Rule 4: Timestamps
 2024-09-11 - Gregapher_ - Rule 4: Timestamps
+2024-09-12 - Unciform - Rule 2: No external selling links or unrelated ite
+2024-09-12 - Unciform - Rule 4: Timestamps
+2024-09-12 - Unciform - Rule 4: Timestamps

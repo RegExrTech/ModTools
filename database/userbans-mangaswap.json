@@ -1043,6 +1043,9 @@
         "1s1myw": "2023-11-16 - All selling posts must include prices and pictures",
         "1sdbt5": "2023-11-24 - All selling/trading posts must include handwritten"
     },
+    "ELITE_REVENANT": {
+        "29vwbo": "2024-09-12 - All selling/trading posts must include handwritten"
+    },
     "EarlyAd8658": {
         "1qsl1e": "2023-10-18 - Timestamp out of date",
         "1qsm8c": "2023-10-18 - Timestamp out of date",
@@ -2700,7 +2703,8 @@
         "1eobzg": "2023-02-27 - Keep a paper trail."
     },
     "Paonaru": {
-        "1dy2df": "2023-02-11 - Keep a paper trail."
+        "1dy2df": "2023-02-11 - Keep a paper trail.",
+        "29wnh4": "2024-09-13 - Missing prices or pictures."
     },
     "PapaSnowy": {
         "18p5qj": "2022-10-27 - PERM-BANNED"
