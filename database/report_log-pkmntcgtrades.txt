@@ -9871,3 +9871,6 @@
 2024-09-13 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-14 - Anthon95 - All items for sale and trade must be clearly price
 2024-09-14 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-14 - Anthon95 - Keep trade offers in the comments and personal inf
+2024-09-15 - Anthon95 - All items for sale and trade must be clearly price
+2024-09-15 - Anthon95 - Correctly formatted timestamps are required for AL
