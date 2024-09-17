@@ -9880,3 +9880,9 @@
 2024-09-16 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-16 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-09-16 - Anthon95 - All items for sale and trade must be clearly price
+2024-09-16 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-16 - teogeorgiou - Incorrect timestamp, missing prices/trade values
+2024-09-17 - teogeorgiou - Correctly formatted timestamps are required for AL
+2024-09-17 - teogeorgiou - Correctly formatted timestamps are required for AL
+2024-09-17 - Anthon95 - Correctly formatted timestamps are required for AL
