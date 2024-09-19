@@ -9897,3 +9897,6 @@
 2024-09-17 - PokeSwapBot - Keep discussions on topic and don't spam
 2024-09-18 - Anthon95 - No outside links, references, or advertising
 2024-09-18 - teogeorgiou - All items for sale and trade must be clearly price
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - Anthon95 - Bypassing post spam rules using 2 accounts
