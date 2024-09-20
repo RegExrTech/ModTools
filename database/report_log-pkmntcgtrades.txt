@@ -9900,3 +9900,11 @@
 2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-19 - Anthon95 - Bypassing post spam rules using 2 accounts
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - Anthon95 - G&S fees must be included in asking price
+2024-09-19 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-19 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-09-20 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-09-20 - Anthon95 - Correctly formatted timestamps are required for AL
