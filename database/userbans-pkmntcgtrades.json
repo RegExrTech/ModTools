@@ -4570,6 +4570,9 @@
     "HaDcHr": {
         "1t3uge": "2023-12-09 - Correctly formatted timestamps are required for AL"
     },
+    "Hagabao": {
+        "2ad240": "2024-09-21 - PayPal Goods & Services is the only approved metho"
+    },
     "HagerEKU": {
         "ngt1k": "2021-05-04 - Review the rules"
     },
@@ -7741,7 +7744,8 @@
         "xy4nh": "2022-02-07 - Timestamps required for items over $50"
     },
     "OccamsButterknife": {
-        "1xipj8": "2024-01-25 - Correctly formatted timestamps are required for AL"
+        "1xipj8": "2024-01-25 - Correctly formatted timestamps are required for AL",
+        "2acx5k": "2024-09-21 - All posts must be for BST of Pokemon Trading Cards"
     },
     "OctopusStoleMyPizza": {
         "1ymm8a": "2024-02-16 - Correctly formatted timestamps are required for AL"
@@ -8054,7 +8058,8 @@
         "9thn9": "2019-09-17 - Keep Trade Offers in Comments"
     },
     "PIZZAline151911": {
-        "287xi1": "2024-08-14 - All items for sale and trade must be clearly price"
+        "287xi1": "2024-08-14 - All items for sale and trade must be clearly price",
+        "2ad8gu": "2024-09-22 - Correctly formatted timestamps are required for AL"
     },
     "PKMN_Mitch": {
         "1f9ryz": "2023-03-11 - Correctly formatted timestamps are required for AL",
@@ -9803,7 +9808,8 @@
         "1tmvn7": "2023-12-15 - All items for sale and trade must be clearly price"
     },
     "SigmaPeachy": {
-        "28vqlf": "2024-08-25 - Correctly formatted timestamps are required for AL"
+        "28vqlf": "2024-08-25 - Correctly formatted timestamps are required for AL",
+        "2ad8gv": "2024-09-22 - Correctly formatted timestamps are required for AL"
     },
     "Significant-Grade677": {
         "z5rht": "2022-03-08 - Only PayPal as a form of payment"
@@ -13209,6 +13215,9 @@
         "1q2bsm": "2023-10-01 - PayPal Goods & Services is the only approved metho",
         "1q2hnh": "2023-10-01 - Correctly formatted timestamps are required for AL"
     },
+    "blockchainbandolero": {
+        "2acoqt": "2024-09-21 - PayPal Goods & Services is the only approved metho"
+    },
     "bloodmoonmib": {
         "1ud63t": "2023-12-27 - PayPal Goods & Services is the only approved metho",
         "1xs6vd": "2024-01-30 - G&S fee must be included in prices given to buyer,",
@@ -13473,6 +13482,7 @@
         "1n6wbx": "2023-07-30 - PayPal Goods & Services is the only approved metho"
     },
     "bvalient": {
+        "2acaa6": "2024-09-21 - All posts must be for BST of Pokemon Trading Cards",
         "xqzbf": "2022-02-03 - Timestamps required for items over $50"
     },
     "bzzking": {
