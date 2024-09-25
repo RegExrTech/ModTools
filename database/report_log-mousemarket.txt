@@ -1821,3 +1821,7 @@
 2024-09-21 - Gregapher_ - Rule 6: Asking Prices
 2024-09-22 - Unciform - Rule 2: No external selling links or unrelated ite
 2024-09-23 - Gregapher_ - Rule 4: Timestamps
+2024-09-24 - MouseMarketUSLbot - PERM-BANNED
+2024-09-24 - MouseMarketUSLbot - PERM-BANNED
+2024-09-24 - MouseMarketUSLbot - PERM-BANNED
+2024-09-24 - Gregapher_ - Rule 10: Misc/catch-all
