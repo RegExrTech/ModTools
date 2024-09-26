@@ -9935,3 +9935,10 @@
 2024-09-24 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-09-24 - Anthon95 - Fake cards are not allowed
 2024-09-24 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-25 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-25 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-25 - Anthon95 - All items for sale and trade must be clearly price
+2024-09-25 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-09-25 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-09-25 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-09-26 - Anthon95 - Correctly formatted timestamps are required for AL
