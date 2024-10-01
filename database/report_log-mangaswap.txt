@@ -2749,3 +2749,5 @@
 2024-09-30 - OnePieceNeverending - PERM-BANNED
 2024-09-30 - OnePieceNeverending - PERM-BANNED
 2024-09-30 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-10-01 - sinyanmei92 - Missing prices or pictures.
+2024-10-01 - sinyanmei92 - Timestamp needs to be ON or NEXT to the items.
