@@ -2752,3 +2752,4 @@
 2024-10-01 - sinyanmei92 - Missing prices or pictures.
 2024-10-01 - sinyanmei92 - Timestamp needs to be ON or NEXT to the items.
 2024-10-02 - OnePieceNeverending - Timestamp must be next to every item at least once
+2024-10-02 - sinyanmei92 - All items sold/traded must comply with the permitt
