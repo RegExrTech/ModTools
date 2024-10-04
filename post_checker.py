@@ -32,7 +32,7 @@ def get_image_from_album(client, hash):
 	except:
 		return None
 
-def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
+def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp, submission):
 	check_time = post_time - (imgur_freshness_days*24*60*60)
 	url = url.split("?")[0]
 	if url[-1] == "/":
@@ -56,7 +56,7 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp):
 		else:
 			img = imgur.get_image(hash)
 	except Exception as e:
-		discord.log("Failed to get images with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
+		discord.log("Failed to get images from " + submission.permalink + " with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
 		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
@@ -80,7 +80,13 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddi
 	if not imgur_urls:
 		return
 	newest_timestamp = [0]
-	if not any([check_date(imgur, url, submission.created_utc, imgur_freshness_days, newest_timestamp) for url in imgur_urls]):
+	# Check each one at a time and break early to avoid rate limiting from imgur
+	found_at_least_one_recent_timestamp = len(imgur_urls) == 0  # If there are no imgur URLs, then set this var to True and skip the rest of the logic
+	for url in imgur_urls:
+		found_at_least_one_recent_timestamp = check_date(imgur, url, submission.created_utc, imgur_freshness_days, newest_timestamp, submission)
+		if found_at_least_one_recent_timestamp:
+			break
+	if not found_at_least_one_recent_timestamp:
 		if report.remove_post(submission, lock_post):
 			upload_string = str(datetime.timedelta(seconds=submission.created_utc - newest_timestamp[0]))
 			upload_string = upload_string.replace(":", " hours, ", 1)
