@@ -401,3 +401,5 @@
 2024-10-04 - SnackExchangeBot - PERM-BANNED
 2024-10-06 - SnackExchangeBot - PERM-BANNED
 2024-10-08 - snackexchangeUSLbot - PERM-BANNED
+2024-10-09 - snackexchangeUSLbot - PERM-BANNED
+2024-10-10 - snackexchangeUSLbot - PERM-BANNED
