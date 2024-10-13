@@ -25977,3 +25977,6 @@
 2024-10-10 - AutoModerator - No legit check posts.
 2024-10-11 - RegExr - Duplicate posts
 2024-10-11 - RegExr - Duplicate posts
+2024-10-12 - AutoModerator - No Self Promotion out of specific posts
+2024-10-12 - AutoModerator - No legit check posts.
+2024-10-13 - AutoModerator - No legit check posts.
