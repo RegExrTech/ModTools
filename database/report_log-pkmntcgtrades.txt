@@ -10046,3 +10046,7 @@
 2024-10-12 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-10-12 - Anthon95 - No post hijacking
 2024-10-12 - Anthon95 - All items for sale and trade must be clearly price
+2024-10-13 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-10-13 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-10-13 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-10-13 - Anthon95 - PayPal Goods & Services is the only approved metho
