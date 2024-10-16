@@ -2775,3 +2775,5 @@
 2024-10-11 - sinyanmei92 - Timestamp needs to be on ALL items
 2024-10-13 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-10-14 - sinyanmei92 - No external links
+2024-10-15 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-10-15 - sinyanmei92 - Timestamp needs to be on ALL items you are selling
