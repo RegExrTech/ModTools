@@ -2783,3 +2783,6 @@
 2024-10-17 - sinyanmei92 - Timestamp photo and other photos dont seem to matc
 2024-10-18 - OnePieceNeverending - If selling in bundles and individual volumes you m
 2024-10-19 - sinyanmei92 - No thread crapping.
+2024-10-20 - sinyanmei92 - Keep a paper trail.
+2024-10-20 - sinyanmei92 - Check the pinned post for timestamp instruction
+2024-10-20 - sinyanmei92 - See pinned post for timestamp instruction
