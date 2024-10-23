@@ -1906,3 +1906,6 @@
 2024-10-22 - Gregapher_ - Rule 4: Timestamps
 2024-10-22 - Gregapher_ - PERM-BANNED
 2024-10-22 - MouseMarketBot - PERM-BANNED
+2024-10-22 - Gregapher_ - Rule 2: No external selling links or unrelated ite
+2024-10-22 - Gregapher_ - Rule 4: Timestamps
+2024-10-23 - Gregapher_ - Rule 4: Timestamps
