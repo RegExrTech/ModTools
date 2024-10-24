@@ -3736,3 +3736,7 @@
 2024-10-22 - j007conks - PayPal G&S only
 2024-10-22 - j007conks - Timestamp - none
 2024-10-22 - j007conks - Pricing - none
+2024-10-23 - j007conks - Timestamp - none
+2024-10-23 - j007conks - Timestamp - none
+2024-10-23 - j007conks - Pricing - outside links
+2024-10-24 - j007conks - Handwritten timestamp
