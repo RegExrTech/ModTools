@@ -10126,3 +10126,7 @@
 2024-10-31 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-10-31 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-10-31 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-11-01 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-01 - Anthon95 - PPGS fee must be included in asking price
+2024-11-01 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-01 - pkmntcgtradesUSLbot - PERM-BANNED

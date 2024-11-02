@@ -6350,7 +6350,8 @@
     },
     "LatinoTrash": {
         "1yaqcc": "2024-02-10 - Correctly formatted timestamps are required for AL",
-        "1yoiua": "2024-02-17 - All items for sale and trade must be clearly price"
+        "1yoiua": "2024-02-17 - All items for sale and trade must be clearly price",
+        "2cid0z": "2024-11-01 - Correctly formatted timestamps are required for AL"
     },
     "Latter-Monitor-5485": {
         "2bnvad": "2024-10-17 - Correctly formatted timestamps are required for AL"
@@ -6661,6 +6662,9 @@
     },
     "Luxx1nds": {
         "15tl4s": "2022-08-18 - Timestamps are required for ALL items"
+    },
+    "Lykenbane": {
+        "2cir3z": "2024-11-01 - PERM-BANNED"
     },
     "Lyleberr": {
         "10waf9": "2022-04-21 - Timestamps required for items over $50",
@@ -13502,6 +13506,9 @@
         "1xs6vd": "2024-01-30 - G&S fee must be included in prices given to buyer,",
         "1ymbeg": "2024-02-16 - All items for sale and trade must be clearly price"
     },
+    "bloodydifficult": {
+        "2cigiu": "2024-11-01 - Correctly formatted timestamps are required for AL"
+    },
     "bloomboy06": {
         "1f5t8g": "2023-03-09 - Aside from the other rules that were broken in thi",
         "1f5t8h": "2023-03-09 - Aside from the other rules that were broken in thi",
@@ -17329,7 +17336,8 @@
     "mdiiorgi95": {
         "1zad07": "2024-02-28 - PP G&S fee must be included in asking price",
         "20gqa1": "2024-03-20 - Correctly formatted timestamps are required for AL",
-        "2110h0": "2024-03-31 - Correctly formatted timestamps are required for AL"
+        "2110h0": "2024-03-31 - Correctly formatted timestamps are required for AL",
+        "2cigf9": "2024-11-01 - PPGS fee must be included in asking price"
     },
     "mdkd5": {
         "12egpu": "2022-05-28 - Timestamps are required for ALL items",
