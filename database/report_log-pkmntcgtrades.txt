@@ -10130,3 +10130,7 @@
 2024-11-01 - Anthon95 - PPGS fee must be included in asking price
 2024-11-01 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-11-01 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-11-02 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-02 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-02 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-11-02 - PokeSwapBot - PERM-BANNED

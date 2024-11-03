@@ -4841,3 +4841,5 @@
 2024-11-01 - dooms25 - Formatting and Detailed Description Requirements
 2024-11-01 - Viper613 - PERM-BANNED
 2024-11-01 - Viper613 - PERM-BANNED
+2024-11-02 - Knife_swapUSLbot - PERM-BANNED
+2024-11-02 - dooms25 - Repost Price Reductions
