@@ -10134,3 +10134,7 @@
 2024-11-02 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-11-02 - pkmntcgtradesUSLbot - PERM-BANNED
 2024-11-02 - PokeSwapBot - PERM-BANNED
+2024-11-03 - teogeorgiou - All items for sale and trade must be clearly price
+2024-11-04 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-11-04 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-04 - Anthon95 - Correctly formatted timestamps are required for AL
