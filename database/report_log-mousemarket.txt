@@ -1940,3 +1940,5 @@
 2024-11-08 - MouseMarketUSLbot - PERM-BANNED
 2024-11-08 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2024-11-08 - Gregapher_ - Rule 1: Titles
+2024-11-10 - Gregapher_ - Rule 8: Payment Methods
+2024-11-10 - Gregapher_ - PERM-BANNED
