@@ -4857,3 +4857,4 @@
 2024-11-07 - MapleSurpy - PERM-BANNED
 2024-11-08 - dooms25 - Timestamp
 2024-11-10 - Knife_swapUSLbot - PERM-BANNED
+2024-11-11 - dooms25 - Mods have final say for any rule grey areas.

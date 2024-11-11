@@ -1942,3 +1942,5 @@
 2024-11-08 - Gregapher_ - Rule 1: Titles
 2024-11-10 - Gregapher_ - Rule 8: Payment Methods
 2024-11-10 - Gregapher_ - PERM-BANNED
+2024-11-10 - Unciform - Rule 4: Timestamps
+2024-11-10 - Gregapher_ - Rule 4: Timestamps
