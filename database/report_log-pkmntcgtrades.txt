@@ -10173,3 +10173,10 @@
 2024-11-09 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-11-11 - Anthon95 - Correctly formatted timestamps are required for AL
 2024-11-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-11 - Lightning00 - Incorrect timestamp format
+2024-11-11 - pkmntcgtradesUSLbot - PERM-BANNED
+2024-11-11 - PokeSwapBot - Keep discussions on topic and don't spam
+2024-11-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-11 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-11-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-11-12 - AutoModerator - PayPal Goods & Services is the only approved metho
