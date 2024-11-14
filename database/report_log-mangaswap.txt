@@ -2837,3 +2837,8 @@
 2024-11-11 - sinyanmei92 - Check the rule to see what exactly a timeatamp is
 2024-11-11 - sinyanmei92 - Read the pinned post about timestamp rule
 2024-11-11 - sinyanmei92 - No prices.
+2024-11-14 - sinyanmei92 - Posting limitations:
+2024-11-14 - sinyanmei92 - Needs date on timestamp
+2024-11-14 - sinyanmei92 - Timestamp needs to be on all items 
+2024-11-14 - sinyanmei92 - All selling/trading posts must include handwritten
+2024-11-14 - mangaswapbot - Thats not an accepted timestamp
