@@ -1964,3 +1964,5 @@
 2024-11-17 - Gregapher_ - Rule 4: Timestamps
 2024-11-17 - Gregapher_ - Rule 4: Timestamps
 2024-11-17 - Gregapher_ - PERM-BANNED
+2024-11-17 - MouseMarketUSLbot - PERM-BANNED
+2024-11-18 - Gregapher_ - Rule 4: Timestamps
