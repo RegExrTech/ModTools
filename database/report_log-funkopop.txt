@@ -26101,3 +26101,8 @@
 2024-11-18 - AutoModerator - No legit check posts.
 2024-11-18 - RegExr - No Price/Value Checks
 2024-11-19 - AutoModerator - No legit check posts.
+2024-11-19 - DrShadyTree - No Price/Value Checks
+2024-11-19 - RegExr - No legit check posts.
+2024-11-19 - AutoModerator - No legit check posts.
+2024-11-19 - RegExr - No buying, selling, or trading
+2024-11-19 - RegExr - No Price/Value Checks
