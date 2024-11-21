@@ -1969,3 +1969,6 @@
 2024-11-18 - Gregapher_ - PERM-BANNED
 2024-11-18 - Gregapher_ - PERM-BANNED
 2024-11-18 - Unciform - Rule 4: Timestamps
+2024-11-20 - Gregapher_ - Rule 4: Timestamps
+2024-11-20 - Gregapher_ - PERM-BANNED
+2024-11-20 - Gregapher_ - Rule 9: Post Requirements
