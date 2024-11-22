@@ -1972,3 +1972,5 @@
 2024-11-20 - Gregapher_ - Rule 4: Timestamps
 2024-11-20 - Gregapher_ - PERM-BANNED
 2024-11-20 - Gregapher_ - Rule 9: Post Requirements
+2024-11-21 - Gregapher_ - PERM-BANNED
+2024-11-21 - Gregapher_ - Rule 4: Timestamps
