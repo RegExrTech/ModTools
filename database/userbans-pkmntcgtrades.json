@@ -42,6 +42,9 @@
     "-ccrystal-": {
         "1ms0qn": "2023-07-21 - All items for sale and trade must be clearly price"
     },
+    "-infinite-flow-": {
+        "2dnp5s": "2024-11-22 - Correctly formatted timestamps are required for AL"
+    },
     "-jimin": {
         "z86yf": "2022-03-10 - All items for sale must include a price"
     },
@@ -383,7 +386,8 @@
         "2butpv": "2024-10-20 - All posts must be for BST of Pokemon Trading Cards"
     },
     "Academic_Device2350": {
-        "2b4pcy": "2024-10-06 - All items for sale and trade must be clearly price"
+        "2b4pcy": "2024-10-06 - All items for sale and trade must be clearly price",
+        "2donch": "2024-11-23 - Correctly formatted timestamps are required for AL"
     },
     "AcanthopterygiiOk329": {
         "1eows1": "2023-02-27 - Correctly formatted timestamps are required for AL"
