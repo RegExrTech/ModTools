@@ -1977,3 +1977,4 @@
 2024-11-22 - Gregapher_ - Invalid Timestamps
 2024-11-22 - Gregapher_ - Incorrect Title
 2024-11-22 - Gregapher_ - BANNED - 14 days.
+2024-11-23 - Unciform - Rule 4: Timestamps

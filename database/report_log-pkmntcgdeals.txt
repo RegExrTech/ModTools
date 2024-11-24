@@ -201,3 +201,4 @@
 2024-11-23 - Chippyrs - Check your local post
 2024-11-23 - Chippyrs - BANNED - 45 days.
 2024-11-23 - Chippyrs - Posting pulls/selling cards
+2024-11-23 - RegExr - Post must include a link!
