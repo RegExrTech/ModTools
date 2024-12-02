@@ -1985,3 +1985,6 @@
 2024-11-28 - Gregapher_ - Rule 4: Timestamps
 2024-11-29 - Gregapher_ - Rule 4: Timestamps
 2024-12-01 - MouseMarketUSLbot - PERM-BANNED
+2024-12-01 - Gregapher_ - Rule 4: Timestamps
+2024-12-01 - Gregapher_ - Rule 4: Timestamps
+2024-12-02 - MouseMarketUSLbot - PERM-BANNED
