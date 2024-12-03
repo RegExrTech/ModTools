@@ -1988,3 +1988,5 @@
 2024-12-01 - Gregapher_ - Rule 4: Timestamps
 2024-12-01 - Gregapher_ - Rule 4: Timestamps
 2024-12-02 - MouseMarketUSLbot - PERM-BANNED
+2024-12-03 - Gregapher_ - Rule 4: Timestamps
+2024-12-03 - Gregapher_ - Rule 6: Asking Prices

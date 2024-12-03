@@ -5184,6 +5184,9 @@
     "IeuanBo": {
         "yvb3i": "2022-03-01 - Missing timestamps, and prices"
     },
+    "Ill-Neighborhood-161": {
+        "2e5u43": "2024-12-02 - Correctly formatted timestamps are required for AL"
+    },
     "IllSilver4091": {
         "1q9dxi": "2023-10-05 - Correctly formatted timestamps are required for AL"
     },
@@ -8390,6 +8393,9 @@
     "OutofStep13": {
         "v4xj7": "2021-11-29 - Timestamps required for items over $50"
     },
+    "Outrageous_Neck_2481": {
+        "2e66si": "2024-12-02 - All items for sale and trade must be clearly price"
+    },
     "Overall-Register-701": {
         "1qb46d": "2023-10-07 - Correctly formatted timestamps are required for AL"
     },
@@ -11070,6 +11076,9 @@
         "rwbq0": "2021-08-31 - Keep trade offers in the comments, and personal in",
         "rwbrt": "2021-08-31 - Keep trade offers in the comments, and personal in"
     },
+    "Synobin": {
+        "2e6g6o": "2024-12-03 - Correctly formatted timestamps are required for AL"
+    },
     "Sypro_X": {
         "2de7ft": "2024-11-17 - Correctly formatted timestamps are required for AL"
     },
@@ -11668,7 +11677,8 @@
         "1jshpf": "2023-06-10 - Correctly formatted timestamps are required for AL"
     },
     "Think_Bowl_2589": {
-        "2dkcav": "2024-11-20 - All items for sale and trade must be clearly price"
+        "2dkcav": "2024-11-20 - All items for sale and trade must be clearly price",
+        "2e6rpg": "2024-12-03 - Seller is responsible for PWE shipments"
     },
     "Think_Mind713": {
         "258ye4": "2024-06-21 - Correctly formatted timestamps are required for AL"
@@ -12718,7 +12728,8 @@
         "kvm5q": "2021-02-10 - Keep trade offers in the comments, and personal in"
     },
     "YourBoiJim37": {
-        "2d5x6v": "2024-11-13 - All items for sale and trade must be clearly price"
+        "2d5x6v": "2024-11-13 - All items for sale and trade must be clearly price",
+        "2e6pmj": "2024-12-03 - All posts must be for BST of Pokemon Trading Cards"
     },
     "YourInMySwamp": {
         "2a2tnw": "2024-09-16 - All items for sale and trade must be clearly price"
@@ -17064,6 +17075,9 @@
     },
     "kkiller4": {
         "9jm43": "2019-08-27 - Timestamps required for items over $50"
+    },
+    "klymaxx45": {
+        "2e66aw": "2024-12-02 - Correctly formatted timestamps are required for AL"
     },
     "kn1g47": {
         "1qro2q": "2023-10-18 - Correctly formatted timestamps are required for AL",
