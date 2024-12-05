@@ -3750,3 +3750,4 @@
 2024-11-27 - RegExrBot - PERM-BANNED
 2024-11-27 - j007conks - Title Formatting
 2024-11-30 - FunkoSwapUSL - PERM-BANNED
+2024-12-04 - FunkoSwapUSL - PERM-BANNED
