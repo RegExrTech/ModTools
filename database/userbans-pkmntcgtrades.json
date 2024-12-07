@@ -3096,6 +3096,7 @@
         "1jjyp9": "2023-06-06 - Correctly formatted timestamps are required for AL",
         "1pt613": "2023-09-25 - Correctly formatted timestamps are required for AL",
         "24snkv": "2024-06-13 - No post hijacking",
+        "2ed343": "2024-12-06 - Keep trade offers in the comments and personal inf",
         "nqv1x": "2021-05-12 - Timestamps required for items over $50",
         "owz0i": "2021-06-16 - Price Policing/Shaming",
         "qu6nb": "2021-08-03 - Keep trade offers in the comments, and personal in",
@@ -3950,7 +3951,8 @@
         "1x27ot": "2024-01-16 - Correctly formatted timestamps are required for AL"
     },
     "Fidzwitch": {
-        "2dbtzr": "2024-11-16 - All items for sale and trade must be clearly price"
+        "2dbtzr": "2024-11-16 - All items for sale and trade must be clearly price",
+        "2edwdp": "2024-12-06 - PayPal Goods & Services is the only approved metho"
     },
     "Fiercesomest": {
         "1m4rva": "2023-07-08 - Correctly formatted timestamps are required for AL"
@@ -8697,6 +8699,9 @@
         "vqo3i": "2021-12-14 - Keep trade offers in the comments, and personal in",
         "vqo3t": "2021-12-14 - All items for sale must include a price"
     },
+    "PissShiverss": {
+        "2edljv": "2024-12-06 - No outside links, references, or advertising"
+    },
     "PixelAesthetics": {
         "1c40x8": "2023-01-06 - Correctly formatted timestamps are required for AL",
         "27kgdj": "2024-08-02 - Correctly formatted timestamps are required for AL",
@@ -10270,6 +10275,10 @@
         "28l52m": "2024-08-20 - All posts must be for BST of Pokemon Trading Cards",
         "xniq8": "2022-01-31 - Only PayPal as a form of payment"
     },
+    "SilverCouplets": {
+        "2ed12t": "2024-12-06 - PayPal Goods & Services is the only approved metho",
+        "2ed12w": "2024-12-06 - Correctly formatted timestamps are required for AL"
+    },
     "SilverHighlight1361": {
         "278qa4": "2024-07-28 - Correctly formatted timestamps are required for AL"
     },
@@ -11236,6 +11245,9 @@
     },
     "TechDeck11": {
         "1n43bh": "2023-07-28 - Correctly formatted timestamps are required for AL"
+    },
+    "Technical-Law-7994": {
+        "2ed303": "2024-12-06 - Correctly formatted timestamps are required for AL"
     },
     "Technical_Support_19": {
         "14eeqt": "2022-07-16 - Timestamps are required for ALL items"
@@ -13473,7 +13485,8 @@
     "austinfruity": {
         "1rnm4u": "2023-11-07 - All items for sale and trade must be clearly price",
         "1zg2o7": "2024-03-02 - Correctly formatted timestamps are required for AL",
-        "26m15u": "2024-07-16 - No outside links, references, or advertising"
+        "26m15u": "2024-07-16 - No outside links, references, or advertising",
+        "2ed12x": "2024-12-06 - Keep trade offers in the comments and personal inf"
     },
     "autonomousfailure": {
         "15m3za": "2022-08-13 - Hijacking",
@@ -15422,7 +15435,8 @@
         "xoqwe": "2022-02-01 - All items for sale must include a price"
     },
     "feltlands": {
-        "20exvg": "2024-03-19 - Correctly formatted timestamps are required for AL"
+        "20exvg": "2024-03-19 - Correctly formatted timestamps are required for AL",
+        "2edftg": "2024-12-06 - All items for sale and trade must be clearly price"
     },
     "femslashbitch": {
         "qfgdu": "2021-07-22 - Timestamp must have your reddit username"
@@ -18925,6 +18939,9 @@
     "randomNumbersabcde": {
         "1t35v6": "2023-12-09 - PayPal Goods & Services is the only approved metho"
     },
+    "ratitat-tat": {
+        "2ed12r": "2024-12-06 - All items for sale and trade must be clearly price"
+    },
     "ratsmdj": {
         "25p6ut": "2024-06-30 - Keep trade offers in the comments and personal inf"
     },
@@ -19463,6 +19480,9 @@
     },
     "shickshickshick": {
         "1pfpec": "2023-09-18 - Correctly formatted timestamps are required for AL"
+    },
+    "shinnku": {
+        "2edb3p": "2024-12-06 - PayPal Goods & Services is the only approved metho"
     },
     "shinybidoof11": {
         "13f23k": "2022-06-22 - All posts must be for BST of Pokmon Trading Cards",

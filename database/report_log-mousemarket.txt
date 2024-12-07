@@ -1993,3 +1993,9 @@
 2024-12-05 - Unciform - Rule 4: Timestamps
 2024-12-05 - Unciform - Rule 8: Payment Methods
 2024-12-05 - Gregapher_ - PERM-BANNED
+2024-12-06 - MouseMarketUSLbot - PERM-BANNED
+2024-12-06 - Unciform - BANNED - 7 days.
+2024-12-07 - Gregapher_ - Rule 1: Titles
+2024-12-07 - Gregapher_ - Rule 4: Timestamps
+2024-12-07 - Gregapher_ - BANNED - 7 days.
+2024-12-07 - Gregapher_ - PERM-BANNED
