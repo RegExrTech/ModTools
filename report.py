@@ -16,7 +16,7 @@ def get_reports(sub, sub_name):
 	try:
 		return [x for x in sub.mod.reports()]
 	except Exception as e:
-		discord.log("Unable to read reports for r/" + sub_name, e, traceback.format_exc())
+		discord.log("Unable to read reports for r/" + sub_name, e)
 		return []
 
 def get_rule_text(report_reason, sub):

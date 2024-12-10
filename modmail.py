@@ -16,11 +16,18 @@ import argparse
 import unidecode
 import Config
 import traceback
+import requests
 
-parser = argparse.ArgumentParser()
-parser.add_argument('sub_name', metavar='C', type=str)
-args = parser.parse_args()
-CONFIG = Config.Config(args.sub_name.lower())
+class Image(object):
+	def __init__(self, *initial_data, **kwargs):
+		for dictionary in initial_data:
+			for key in dictionary:
+				setattr(self, key, dictionary[key])
+		for key in kwargs:
+			setattr(self, key, kwargs[key])
+def mock_get_image(hash, client_id):
+	resp = requests.get("https://api.imgur.com/3/image/" + hash, headers={'Authorization': 'Client-ID ' + client_id}, proxies={'http': 'http://3.23.85.80:8888', 'https': 'https://3.23.85.80:8888'})
+	return Image(resp.json()['data'])
 
 debug = False
 
@@ -300,10 +307,17 @@ def main(config):
 			with open(last_mod_mail_id_fname, 'w') as f:
 				f.write(most_recent_mod_mail_id + " - " + str(last_mod_mail_time))
 
-try:
-	main(CONFIG)
-except Exception as e:
-	discord.log("modmail.py failed with an uncaught exception for r/" + CONFIG.subreddit_name, e, traceback.format_exc())
+if __name__ == "__main__":
+	try:
+		parser = argparse.ArgumentParser()
+		parser.add_argument('sub_name', metavar='C', type=str)
+		args = parser.parse_args()
+		CONFIG = Config.Config(args.sub_name.lower())
+		if CONFIG.imgur:
+			CONFIG.imgur.get_image = mock_get_image
+		main(CONFIG)
+	except Exception as e:
+		discord.log("modmail.py failed with an uncaught exception for r/" + CONFIG.subreddit_name, e, traceback.format_exc())
 
 
 

@@ -26,11 +26,8 @@ def update_last_reddit_post_time_for_imgur_check(sub_name, current_time):
 	f.close()
 
 def get_image_from_album(client, hash):
-	try:
-		gallery = client.get_album_images(hash)
-		return client.get_image(gallery[0].id)
-	except:
-		return None
+	gallery = client.get_album_images(hash.split("-")[-1])
+	return client.get_image(gallery[0].id, client.client_id)
 
 def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp, submission):
 	check_time = post_time - (imgur_freshness_days*24*60*60)
@@ -54,9 +51,9 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp, su
 		if type in ['gallery', 'a']:
 			img = get_image_from_album(imgur, hash)
 		else:
-			img = imgur.get_image(hash)
+			img = imgur.get_image(hash, imgur.client_id)
 	except Exception as e:
-		discord.log("Failed to get images from " + submission.permalink + " with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
+		discord.log("Failed to get images from https://www.reddit.com" + submission.permalink + " with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
 		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
