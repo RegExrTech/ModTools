@@ -1733,6 +1733,7 @@
         "12zu9x": "2022-06-12 - Timestamps are required for ALL items",
         "14wxfv": "2022-07-28 - All items for sale and trade must be clearly price",
         "1l4l7k": "2023-06-24 - Correctly formatted timestamps are required for AL",
+        "2ej54z": "2024-12-09 - All items for sale and trade must be clearly price",
         "sx5lb": "2021-09-28 - All items for sale must include a price"
     },
     "BunnyGoHops": {
@@ -2058,7 +2059,8 @@
     "Chemical_Bid_5649": {
         "1spu1k": "2023-12-01 - Do not hijack posts",
         "1w7zah": "2024-01-07 - All items for sale and trade must be clearly price",
-        "25obju": "2024-06-29 - All items for sale and trade must be clearly price"
+        "25obju": "2024-06-29 - All items for sale and trade must be clearly price",
+        "2eiu4p": "2024-12-09 - Missing prices/trade values, no bootleg cards allo"
     },
     "Chewyk132": {
         "pos95": "2021-07-02 - Keep trade offers in the comments, and personal in"
@@ -3924,7 +3926,8 @@
         "2cwysc": "2024-11-08 - Correctly formatted timestamps are required for AL"
     },
     "Feleolix": {
-        "1qfpbl": "2023-10-10 - Correctly formatted timestamps are required for AL"
+        "1qfpbl": "2023-10-10 - Correctly formatted timestamps are required for AL",
+        "2einzr": "2024-12-09 - Correctly formatted timestamps are required for AL"
     },
     "Fellrid": {
         "21qs2l": "2024-04-14 - Correctly formatted timestamps are required for AL"
@@ -4430,6 +4433,9 @@
     "GemiosX": {
         "11qwko": "2022-05-11 - Timestamps are required for ALL items",
         "ws7ms": "2022-01-11 - Timestamps required for items over $50"
+    },
+    "GenZkid": {
+        "2ejozj": "2024-12-10 - PayPal Goods & Services is the only approved metho"
     },
     "Gendrys-Rowboat": {
         "1wajgs": "2024-01-09 - Correctly formatted timestamps are required for AL"
@@ -7987,6 +7993,9 @@
     "Nothinggoldcanstayx": {
         "yixd4": "2022-02-22 - Timestamps required for items over $50"
     },
+    "Notorious_Breezy": {
+        "2eis1t": "2024-12-09 - PayPal Goods & Services is the only approved metho"
+    },
     "Noxta_": {
         "21d97t": "2024-04-06 - Correctly formatted timestamps are required for AL"
     },
@@ -9009,6 +9018,10 @@
     "Probably_Unemployed": {
         "11wwey": "2022-05-15 - PayPal Goods & Services is the only approved metho",
         "1fmjst": "2023-03-17 - Correctly formatted timestamps are required for AL"
+    },
+    "Procedure_Relative": {
+        "2ej736": "2024-12-09 - Do not escalate issues publicly",
+        "2ej739": "2024-12-09 - Do not escalate issues publicly"
     },
     "Prodigal96": {
         "nwpq4": "2021-05-16 - Timestamps required for items over $50"
