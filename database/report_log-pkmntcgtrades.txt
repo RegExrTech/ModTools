@@ -10360,3 +10360,10 @@
 2024-12-10 - teogeorgiou - Keep trade offers in the comments and personal inf
 2024-12-10 - teogeorgiou - Correctly formatted timestamps are required for AL
 2024-12-11 - teogeorgiou - Correctly formatted timestamps are required for AL
+2024-12-11 - teogeorgiou - Correctly formatted timestamps are required for AL
+2024-12-11 - Lightning00 - Incorrect timestamp format and no price
+2024-12-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-12-11 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2024-12-11 - Anthon95 - Correctly formatted timestamps are required for AL
+2024-12-11 - AutoModerator - PayPal Goods & Services is the only approved metho
+2024-12-12 - teogeorgiou - Keep trade offers in the comments and personal inf

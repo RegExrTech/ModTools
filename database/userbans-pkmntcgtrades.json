@@ -4777,6 +4777,9 @@
         "2b1291": "2024-10-04 - PayPal Goods & Services is the only approved metho",
         "2d79ao": "2024-11-14 - All items for sale and trade must be clearly price"
     },
+    "GwentMorty": {
+        "2emlv1": "2024-12-11 - All posts must be for BST of Pokemon Trading Cards"
+    },
     "GyratePlatypus": {
         "1sbmcl": "2023-11-23 - Correctly formatted timestamps are required for AL",
         "1t4abz": "2023-12-09 - Correctly formatted timestamps are required for AL"
@@ -5209,7 +5212,8 @@
         "yvb3i": "2022-03-01 - Missing timestamps, and prices"
     },
     "Ill-Neighborhood-161": {
-        "2e5u43": "2024-12-02 - Correctly formatted timestamps are required for AL"
+        "2e5u43": "2024-12-02 - Correctly formatted timestamps are required for AL",
+        "2emnu4": "2024-12-11 - Correctly formatted timestamps are required for AL"
     },
     "IllSilver4091": {
         "1q9dxi": "2023-10-05 - Correctly formatted timestamps are required for AL"
@@ -9545,7 +9549,8 @@
         "wg7u7": "2022-01-03 - Timestamps required for items over $50"
     },
     "Reteophobia": {
-        "11np6w": "2022-05-09 - Timestamps are required for ALL items"
+        "11np6w": "2022-05-09 - Timestamps are required for ALL items",
+        "2emfri": "2024-12-11 - Incorrect timestamp format and no price"
     },
     "Retropixl": {
         "svnso": "2021-09-27 - Timestamps required for items over $50"
@@ -15237,6 +15242,9 @@
         "x4725": "2022-01-19 - Timestamps required for items over $50",
         "yfmso": "2022-02-19 - All items for sale must include a price"
     },
+    "echangpac": {
+        "2emfwh": "2024-12-11 - Correctly formatted timestamps are required for AL"
+    },
     "ecliptic369": {
         "1kmlqa": "2023-06-17 - All posts must be for BST of Pokmon Trading Cards",
         "1q0ad7": "2023-09-29 - Correctly formatted timestamps are required for AL",
@@ -15418,7 +15426,8 @@
         "1yhpe2": "2024-02-14 - All items for sale and trade must be clearly price",
         "1z3wya": "2024-02-25 - All items for sale and trade must be clearly price",
         "1zbiwu": "2024-02-29 - Keep trade offers in the comments and personal inf",
-        "1zgdta": "2024-03-02 - G&S fees must be included in asking price"
+        "1zgdta": "2024-03-02 - G&S fees must be included in asking price",
+        "2eneto": "2024-12-12 - Keep trade offers in the comments and personal inf"
     },
     "evrtn": {
         "12bku8": "2022-05-26 - Timestamps are required for ALL items",
@@ -17673,6 +17682,9 @@
     "manvelbarbellclub": {
         "1m6xy0": "2023-07-09 - Keep trade offers in the comments and personal inf"
     },
+    "marikm": {
+        "2em9ai": "2024-12-11 - Correctly formatted timestamps are required for AL"
+    },
     "markzkong": {
         "uzjm3": "2021-11-25 - Do not spam or hijack other peoples trade offers"
     },
@@ -18200,6 +18212,9 @@
     },
     "nickisup13": {
         "t8yk2": "2021-10-08 - Timestamps required for items over $50"
+    },
+    "nicknack63": {
+        "2emybo": "2024-12-11 - PayPal Goods & Services is the only approved metho"
     },
     "nickysbrotheralex": {
         "nws48": "2021-05-16 - All items for sale must include a price"

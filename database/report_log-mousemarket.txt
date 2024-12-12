@@ -2006,3 +2006,5 @@
 2024-12-10 - Unciform - Rule 4: Timestamps
 2024-12-10 - Gregapher_ - Rule 4: Timestamps
 2024-12-10 - MouseMarketUSLbot - PERM-BANNED
+2024-12-11 - MouseMarketUSLbot - PERM-BANNED
+2024-12-12 - Unciform - Rule 4: Timestamps
