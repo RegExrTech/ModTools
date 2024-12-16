@@ -2902,3 +2902,6 @@
 2024-12-14 - sinyanmei92 - All selling/trading posts must include handwritten
 2024-12-14 - mangaswapbot - Timestamp out of date
 2024-12-15 - sinyanmei92 - Timestamp needs to be NEXT to your item.
+2024-12-16 - sinyanmei92 - All items you are selling need to be shown in the 
+2024-12-16 - sinyanmei92 - Timestamp needs to be on ALL items you are selling
+2024-12-16 - sinyanmei92 - Missing prices or pictures.
