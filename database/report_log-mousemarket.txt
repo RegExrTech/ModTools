@@ -2025,3 +2025,6 @@
 2024-12-20 - Unciform - Rule 4: Timestamps
 2024-12-21 - Unciform - Rule 2: No external selling links or unrelated ite
 2024-12-23 - Gregapher_ - Rule 4: Timestamps
+2024-12-24 - Gregapher_ - Rule 4: Timestamps
+2024-12-24 - Gregapher_ - Rule 1: Titles
+2024-12-24 - MouseMarketUSLbot - PERM-BANNED
