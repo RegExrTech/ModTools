@@ -26217,3 +26217,7 @@
 2024-12-27 - AutoModerator - No legit check posts.
 2024-12-27 - AutoModerator - No legit check posts.
 2024-12-29 - AutoModerator - No Self Promotion out of specific posts
+2024-12-29 - RegExr - No Price/Value Checks
+2024-12-29 - AutoModerator - No legit check posts.
+2024-12-29 - AutoModerator - No legit check posts.
+2024-12-29 - AutoModerator - No legit check posts.
