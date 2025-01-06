@@ -2949,3 +2949,7 @@
 2025-01-03 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-01-03 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-01-03 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-01-06 - sinyanmei92 - Timestamp needs date
+2025-01-06 - sinyanmei92 - Get the prices for series if splitting
+2025-01-06 - sinyanmei92 - Missing timestamps on the sets
+2025-01-06 - sinyanmei92 - All selling/trading posts must include handwritten
