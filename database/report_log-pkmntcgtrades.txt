@@ -10563,3 +10563,7 @@
 2025-01-07 - Anthon95 - Correctly formatted timestamps are required for AL
 2025-01-07 - Anthon95 - Correctly formatted timestamps are required for AL
 2025-01-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-01-08 - pkmntcgtradesUSLbot - PERM-BANNED
+2025-01-08 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-01-09 - Lightning00 - Correctly formatted timestamps are required for AL
+2025-01-09 - PokeSwapBot - PERM-BANNED
