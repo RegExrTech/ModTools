@@ -2965,3 +2965,5 @@
 2025-01-09 - sinyanmei92 - Keep a paper trail.
 2025-01-09 - sinyanmei92 - Timestamp not accepted
 2025-01-09 - MangaSwapUSLbot - PERM-BANNED
+2025-01-11 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-01-11 - sinyanmei92 - Name on Timestamp doesnt match username

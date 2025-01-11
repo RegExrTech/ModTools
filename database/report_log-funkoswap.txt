@@ -3765,3 +3765,5 @@
 2025-01-06 - FreddySwapBot - Timestamp out of date
 2025-01-07 - DrShadyTree - Missing prices
 2025-01-07 - FreddySwapBot - Timestamp out of date
+2025-01-11 - FunkoSwapUSL - PERM-BANNED
+2025-01-11 - FreddySwapBot - Timestamp out of date
