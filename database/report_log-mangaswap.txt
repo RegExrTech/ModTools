@@ -2967,3 +2967,6 @@
 2025-01-09 - MangaSwapUSLbot - PERM-BANNED
 2025-01-11 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-01-11 - sinyanmei92 - Name on Timestamp doesnt match username
+2025-01-11 - sinyanmei92 - Missing prices or pictures.
+2025-01-12 - mangaswapbot - Timestamp out of date
+2025-01-12 - yonijonathan - All selling/trading posts must include handwritten
