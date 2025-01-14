@@ -2068,3 +2068,9 @@
 2025-01-12 - Unciform - Rule 4: Timestamps
 2025-01-12 - Unciform - Rule 4: Timestamps
 2025-01-13 - Unciform - Rule 4: Timestamps
+2025-01-13 - MouseMarketUSLbot - PERM-BANNED
+2025-01-13 - MouseMarketUSLbot - PERM-BANNED
+2025-01-14 - MouseMarketBot - PERM-BANNED
+2025-01-14 - Unciform - Rule 4: Timestamps
+2025-01-14 - Unciform - BANNED - 1 days.
+2025-01-14 - Unciform - Rule 4: Timestamps

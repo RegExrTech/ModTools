@@ -5044,3 +5044,6 @@
 2025-01-11 - Knife_swapUSLbot - PERM-BANNED
 2025-01-11 - dooms25 - Timestamp
 2025-01-12 - dooms25 - Formatting and Detailed Description Requirements
+2025-01-13 - MapleSurpy - PERM-BANNED
+2025-01-14 - merkon - BANNED - 3 days.
+2025-01-14 - Viper613 - PERM-BANNED
