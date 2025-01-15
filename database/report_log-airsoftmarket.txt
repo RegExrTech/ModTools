@@ -342,3 +342,4 @@
 2025-01-10 - airsoftmarketUSLbot - PERM-BANNED
 2025-01-10 - Sentenced2Burn - PERM-BANNED
 2025-01-11 - airsoftmarketUSLbot - PERM-BANNED
+2025-01-15 - AutoModerator - Review the Rules
