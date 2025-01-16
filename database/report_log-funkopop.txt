@@ -26278,3 +26278,5 @@
 2025-01-13 - AutoModerator - No legit check posts.
 2025-01-14 - j007conks - No Price/Value Checks
 2025-01-14 - AutoModerator - No legit check posts.
+2025-01-15 - RegExr - PERM-BANNED
+2025-01-15 - RegExr - No legit check posts.
