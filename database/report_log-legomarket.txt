@@ -90,3 +90,4 @@
 2024-12-13 - LegomarketUSLbot - PERM-BANNED
 2025-01-11 - LegomarketUSLbot - PERM-BANNED
 2025-01-15 - RegExr - PERM-BANNED
+2025-01-16 - LegomarketUSLbot - PERM-BANNED
