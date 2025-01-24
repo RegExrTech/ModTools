@@ -1955,3 +1955,5 @@
 2025-01-21 - necrochaos - BANNED - 7 days.
 2025-01-21 - ebudd08 - PERM-BANNED
 2025-01-22 - GameSaleUSLbot - PERM-BANNED
+2025-01-23 - ebudd08 - PERM-BANNED
+2025-01-24 - GSaleBot - PERM-BANNED

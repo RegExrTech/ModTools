@@ -2988,3 +2988,5 @@
 2025-01-20 - OnePieceNeverending - HSOTD Needs a price or needs to be removed.
 2025-01-21 - sinyanmei92 - Timestamp needs to be NEXT to the items you are se
 2025-01-22 - OnePieceNeverending - PERM-BANNED
+2025-01-24 - sinyanmei92 - No external links
+2025-01-24 - sinyanmei92 - Keep a paper trail.
