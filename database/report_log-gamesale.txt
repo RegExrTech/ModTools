@@ -1957,3 +1957,5 @@
 2025-01-22 - GameSaleUSLbot - PERM-BANNED
 2025-01-23 - ebudd08 - PERM-BANNED
 2025-01-24 - GSaleBot - PERM-BANNED
+2025-01-24 - ebudd08 - BANNED - 3 days.
+2025-01-24 - necrochaos - BANNED - 28 days.
