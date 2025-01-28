@@ -1962,3 +1962,5 @@
 2025-01-26 - necrochaos - BANNED - 7 days.
 2025-01-27 - necrochaos - PERM-BANNED
 2025-01-27 - GSaleBot - PERM-BANNED
+2025-01-27 - GameSaleUSLbot - PERM-BANNED
+2025-01-28 - necrochaos - BANNED - 7 days.

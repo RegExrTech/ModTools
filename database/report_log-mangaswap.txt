@@ -2995,3 +2995,8 @@
 2025-01-26 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-01-26 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-01-26 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-01-27 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-01-27 - sinyanmei92 - Missing prices or pictures.
+2025-01-27 - sinyanmei92 - No prices.
+2025-01-28 - sinyanmei92 - Timestamp needs to be on all items
+2025-01-28 - sinyanmei92 - Keep a paper trail.
