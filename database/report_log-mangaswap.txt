@@ -3000,3 +3000,5 @@
 2025-01-27 - sinyanmei92 - No prices.
 2025-01-28 - sinyanmei92 - Timestamp needs to be on all items
 2025-01-28 - sinyanmei92 - Keep a paper trail.
+2025-01-28 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-01-29 - MangaSwapUSLbot - PERM-BANNED
