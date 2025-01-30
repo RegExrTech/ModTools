@@ -2094,3 +2094,4 @@
 2025-01-26 - NinjAsaya - Invalid Timestamps
 2025-01-28 - MouseMarketUSLbot - PERM-BANNED
 2025-01-28 - Gregapher_ - Rule 4: Timestamps
+2025-01-30 - Unciform - Rule 2: No external selling links or unrelated ite
