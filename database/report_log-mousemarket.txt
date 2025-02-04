@@ -2112,3 +2112,5 @@
 2025-02-03 - Gregapher_ - Rule 4: Timestamps
 2025-02-03 - Gregapher_ - BANNED - 3 days.
 2025-02-03 - Gregapher_ - PERM-BANNED
+2025-02-03 - Gregapher_ - Rule 4: Timestamps
+2025-02-04 - Gregapher_ - Rule 4: Timestamps
