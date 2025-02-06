@@ -53,7 +53,8 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp, su
 		else:
 			img = imgur.get_image(hash, imgur.client_id)
 	except Exception as e:
-		discord.log("Failed to get images from https://www.reddit.com" + submission.permalink + " with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
+		if 'rate-limit' not in str(e).lower():
+			discord.log("Failed to get images from https://www.reddit.com" + submission.permalink + " with hash [" + hash + "] and type " + type + " and url https://" + url, e, traceback.format_exc())
 		return True
 
 	# If we can't find the hash for whatever reason, just skip this one.
