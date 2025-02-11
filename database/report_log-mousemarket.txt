@@ -2121,3 +2121,5 @@
 2025-02-06 - Gregapher_ - Rule 4: Timestamps
 2025-02-06 - Gregapher_ - Rule 4: Timestamps
 2025-02-10 - Gregapher_ - Rule 4: Timestamps
+2025-02-10 - Gregapher_ - Rule 4: Timestamps
+2025-02-11 - Gregapher_ - Rule 6: Asking Prices

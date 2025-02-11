@@ -1991,3 +1991,4 @@
 2025-02-09 - GSaleBot - PERM-BANNED
 2025-02-09 - dinozach - PERM-BANNED
 2025-02-10 - necrochaos - BANNED - 7 days.
+2025-02-11 - GameSaleUSLbot - PERM-BANNED
