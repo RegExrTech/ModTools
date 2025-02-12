@@ -2123,3 +2123,6 @@
 2025-02-10 - Gregapher_ - Rule 4: Timestamps
 2025-02-10 - Gregapher_ - Rule 4: Timestamps
 2025-02-11 - Gregapher_ - Rule 6: Asking Prices
+2025-02-11 - MouseMarketUSLbot - PERM-BANNED
+2025-02-11 - 1NFINITYF1R3 - PERM-BANNED
+2025-02-11 - MouseMarketBot - PERM-BANNED
