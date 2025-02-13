@@ -363,3 +363,6 @@
 2025-02-07 - airsoftmarketUSLbot - PERM-BANNED
 2025-02-08 - airsoftmarketUSLbot - PERM-BANNED
 2025-02-09 - airsoftmarketUSLbot - PERM-BANNED
+2025-02-12 - airsoftmarketUSLbot - PERM-BANNED
+2025-02-12 - airsoftmarketUSLbot - PERM-BANNED
+2025-02-12 - ASMbot - PERM-BANNED
