@@ -22383,3 +22383,6 @@
 2025-02-16 - ThreadedNY - Reposts are allowed after 7 days
 2025-02-16 - ThreadedNY - Reposts are allowed after 7 days
 2025-02-16 - ThreadedNY - BANNED - 3 days.
+2025-02-16 - ThreadedNY - Reposts are allowed after 7 days
+2025-02-16 - ThreadedNY - BANNED - 7 days.
+2025-02-17 - ThreadedNY - PERM-BANNED
