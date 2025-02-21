@@ -106,3 +106,4 @@
 2025-02-06 - marmarjo - PERM-BANNED
 2025-02-09 - RegExr - Invalid timestamp/no photos
 2025-02-11 - LegomarketUSLbot - PERM-BANNED
+2025-02-20 - LegomarketUSLbot - PERM-BANNED

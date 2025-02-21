@@ -2629,6 +2629,9 @@
         "y5l6d": "2022-02-12 - Timestamps required for items over $50",
         "z7rns": "2022-03-10 - Timestamps required for items over $50"
     },
+    "CrazzzzyMonky": {
+        "2ieowc": "2025-02-21 - Correctly formatted timestamps are required for AL"
+    },
     "CreativeTwistZ": {
         "9cfzb": "2019-08-12 - All items for sale must include a price"
     },
@@ -15088,7 +15091,8 @@
         "2g2fcz": "2025-01-09 - Correctly formatted timestamps are required for AL"
     },
     "bpatron1": {
-        "2i12dj": "2025-02-13 - All posts must be for BST of Pokemon Trading Cards"
+        "2i12dj": "2025-02-13 - All posts must be for BST of Pokemon Trading Cards",
+        "2ie3rz": "2025-02-20 - Correctly formatted timestamps are required for AL"
     },
     "bphamftr": {
         "29nik6": "2024-09-08 - Keep trade offers in the comments and personal inf",
@@ -15304,6 +15308,9 @@
     "caaaaaaaaden": {
         "12164r": "2022-05-18 - Timestamps are required for ALL items",
         "128edb": "2022-05-24 - Timestamps are required for ALL items"
+    },
+    "cactusbabu": {
+        "2id8au": "2025-02-20 - Correctly formatted timestamps are required for AL"
     },
     "caelpe": {
         "1ielck": "2023-05-12 - Correctly formatted timestamps are required for AL"
