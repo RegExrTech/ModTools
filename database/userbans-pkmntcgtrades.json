@@ -10726,6 +10726,9 @@
         "9t97j": "2019-09-17 - All items for sale must include a price",
         "9w7o3": "2019-09-23 - Timestamps required for items over $50"
     },
+    "SalesforceBro": {
+        "2ilp1j": "2025-02-24 - Correctly formatted timestamps are required for AL"
+    },
     "Salted_Biscuit": {
         "2h3a1z": "2025-01-28 - Correctly formatted timestamps are required for AL"
     },
@@ -14643,6 +14646,9 @@
         "15owh4": "2022-08-15 - Timestamps are required for ALL items",
         "p1rh5": "2021-06-19 - Timestamps required for items over $50"
     },
+    "awcotako": {
+        "2ilthd": "2025-02-24 - PayPal Goods & Services is the only approved metho"
+    },
     "awealth": {
         "14c3m7": "2022-07-15 - Timestamps are required for ALL items",
         "14yjbb": "2022-07-29 - All items for sale and trade must be clearly price"
@@ -14991,7 +14997,8 @@
         "2ambcf": "2024-09-26 - All posts must be for BST of Pokemon Trading Cards"
     },
     "bloo101": {
-        "2hzctf": "2025-02-13 - Imgur link is broken so there are no timestamps. A"
+        "2hzctf": "2025-02-13 - Imgur link is broken so there are no timestamps. A",
+        "2ilskn": "2025-02-24 - PayPal Goods & Services is the only approved metho"
     },
     "bloodmoonmib": {
         "1ud63t": "2023-12-27 - PayPal Goods & Services is the only approved metho",
@@ -16742,6 +16749,9 @@
     "fightingraichu": {
         "1ozo6l": "2023-09-08 - All items for sale and trade must be clearly price",
         "24bxoo": "2024-06-04 - All posts must be for BST of Pokemon Trading Cards"
+    },
+    "fillswitch": {
+        "2ilovc": "2025-02-24 - No outside links, references, or advertising"
     },
     "filmcuts": {
         "vjtoc": "2021-12-09 - Timestamps required for items over $50"
