@@ -441,3 +441,5 @@
 2025-02-19 - snackexchangeUSLbot - PERM-BANNED
 2025-02-21 - snackexchangeUSLbot - PERM-BANNED
 2025-02-23 - snackexchangeUSLbot - PERM-BANNED
+2025-03-09 - snackexchangeUSLbot - PERM-BANNED
+2025-03-10 - snackexchangeUSLbot - PERM-BANNED
