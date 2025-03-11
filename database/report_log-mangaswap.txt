@@ -3081,3 +3081,6 @@
 2025-03-09 - sinyanmei92 - Missing prices or pictures.
 2025-03-09 - OnePieceNeverending - Read all the rules regarding prices.
 2025-03-10 - OnePieceNeverending - Missing prices or pictures.
+2025-03-10 - sinyanmei92 - PERM-BANNED
+2025-03-10 - MangaSwapUSLbot - PERM-BANNED
+2025-03-11 - sinyanmei92 - Keep a paper trail.
