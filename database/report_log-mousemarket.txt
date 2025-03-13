@@ -2183,3 +2183,8 @@
 2025-03-10 - Gregapher_ - Rule 6: Asking Prices
 2025-03-10 - Gregapher_ - Rule 4: Timestamps
 2025-03-11 - MouseMarketUSLbot - PERM-BANNED
+2025-03-12 - Gregapher_ - PERM-BANNED
+2025-03-12 - Gregapher_ - Rule 4: Timestamps
+2025-03-12 - MouseMarketUSLbot - PERM-BANNED
+2025-03-12 - MouseMarketUSLbot - PERM-BANNED
+2025-03-13 - MouseMarketBot - PERM-BANNED

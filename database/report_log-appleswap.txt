@@ -1050,3 +1050,6 @@
 2025-03-08 - cannibalisticmidgets - PERM-BANNED
 2025-03-10 - AppleSwapUSLbot - PERM-BANNED
 2025-03-11 - AppleSwapUSLbot - PERM-BANNED
+2025-03-12 - AppleSwapUSLbot - PERM-BANNED
+2025-03-12 - AppleSwapUSLbot - PERM-BANNED
+2025-03-13 - AppleSwapBot - PERM-BANNED

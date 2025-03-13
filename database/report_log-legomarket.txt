@@ -117,3 +117,5 @@
 2025-03-10 - LegomarketUSLbot - PERM-BANNED
 2025-03-11 - LegomarketUSLbot - PERM-BANNED
 2025-03-12 - LegomarketUSLbot - PERM-BANNED
+2025-03-12 - LegomarketUSLbot - PERM-BANNED
+2025-03-13 - legomarketbot - PERM-BANNED
