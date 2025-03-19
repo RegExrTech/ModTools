@@ -3783,3 +3783,4 @@
 2025-02-27 - j007conks - Timestamp - none
 2025-03-10 - FunkoSwapUSL - PERM-BANNED
 2025-03-16 - DrShadyTree - Missing prices
+2025-03-18 - FunkoSwapUSL - PERM-BANNED
