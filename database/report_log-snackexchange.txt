@@ -447,3 +447,4 @@
 2025-03-16 - SnackExchangeBot - No Selling
 2025-03-18 - snackexchangeUSLbot - PERM-BANNED
 2025-03-19 - snackexchangeUSLbot - PERM-BANNED
+2025-03-22 - snackexchangeUSLbot - PERM-BANNED
