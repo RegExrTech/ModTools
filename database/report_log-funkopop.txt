@@ -26550,3 +26550,5 @@
 2025-03-24 - AutoModerator - No legit check posts.
 2025-03-25 - j007conks - No Price/Value Checks
 2025-03-25 - AutoModerator - No legit check posts.
+2025-03-26 - AutoModerator - No Self Promotion out of specific posts
+2025-03-26 - AutoModerator - No legit check posts.
