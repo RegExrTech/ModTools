@@ -2052,3 +2052,4 @@
 2025-03-26 - necrochaos - PERM-BANNED
 2025-03-27 - ebudd08 - PERM-BANNED
 2025-03-27 - necrochaos - PERM-BANNED
+2025-03-29 - GameSaleUSLbot - PERM-BANNED
