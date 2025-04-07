@@ -3122,3 +3122,6 @@
 2025-04-04 - sinyanmei92 - No external links
 2025-04-04 - sinyanmei92 - PERM-BANNED
 2025-04-06 - sinyanmei92 - Keep a paper trail.
+2025-04-06 - OnePieceNeverending - Spreadsheets no allowed, use tableit.net
+2025-04-06 - sinyanmei92 - Missing timestamp on a lot of items
+2025-04-06 - sinyanmei92 - Price needs to be listed. Missing timestamps on al
