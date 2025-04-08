@@ -3125,3 +3125,4 @@
 2025-04-06 - OnePieceNeverending - Spreadsheets no allowed, use tableit.net
 2025-04-06 - sinyanmei92 - Missing timestamp on a lot of items
 2025-04-06 - sinyanmei92 - Price needs to be listed. Missing timestamps on al
+2025-04-07 - MangaSwapUSLbot - PERM-BANNED
