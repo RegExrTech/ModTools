@@ -135,3 +135,5 @@
 2025-04-04 - marmarjo - Invalid timestamp/no photos
 2025-04-06 - marmarjo - Invalid timestamp/no photos
 2025-04-08 - marmarjo - Invalid timestamp/no photos
+2025-04-09 - marmarjo - Invalid timestamp/no photos
+2025-04-09 - marmarjo - PERM-BANNED

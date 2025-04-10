@@ -22874,3 +22874,5 @@
 2025-04-09 - pursuitoffappyness - Price and/or trade value required
 2025-04-09 - pursuitoffappyness - PERM-BANNED
 2025-04-09 - pursuitoffappyness - Timestamp
+2025-04-09 - WatchexchangeUSLbot - PERM-BANNED
+2025-04-10 - pursuitoffappyness - Timestamp
