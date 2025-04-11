@@ -3789,3 +3789,4 @@
 2025-03-24 - j007conks - Pricing - none
 2025-03-24 - RegExrBot - PERM-BANNED
 2025-04-04 - j007conks - Timestamp - none
+2025-04-11 - FunkoSwapUSL - PERM-BANNED
