@@ -137,3 +137,5 @@
 2025-04-08 - marmarjo - Invalid timestamp/no photos
 2025-04-09 - marmarjo - Invalid timestamp/no photos
 2025-04-09 - marmarjo - PERM-BANNED
+2025-04-11 - marmarjo - PERM-BANNED
+2025-04-11 - LegomarketUSLbot - PERM-BANNED
