@@ -305,3 +305,9 @@
 2025-04-08 - modmail-userinfo - PERM-BANNED
 2025-04-10 - modmail-userinfo - BANNED - 3 days.
 2025-04-10 - modmail-userinfo - BANNED - 1 days.
+2025-04-12 - modmail-userinfo - PERM-BANNED
+2025-04-12 - modmail-userinfo - PERM-BANNED
+2025-04-12 - modmail-userinfo - BANNED - 28 days.
+2025-04-12 - Euphoric_Bad_1132 - PERM-BANNED
+2025-04-12 - modmail-userinfo - BANNED - 28 days.
+2025-04-13 - modmail-userinfo - BANNED - 3 days.

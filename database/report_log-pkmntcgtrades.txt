@@ -11947,3 +11947,9 @@
 2025-04-12 - Anthon95 - All items for sale and trade must be clearly price
 2025-04-12 - Anthon95 - All items for sale and trade must be clearly price
 2025-04-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-04-12 - psychic_shadow_lugia - All items for sale and trade must be clearly price
+2025-04-12 - Anthon95 - All items for sale and trade must be clearly price
+2025-04-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-04-12 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-04-12 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-04-13 - Anthon95 - Correctly formatted timestamps are required for AL
