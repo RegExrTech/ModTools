@@ -319,3 +319,5 @@
 2025-04-18 - modmail-userinfo - PERM-BANNED
 2025-04-18 - These-Tea-5203 - PERM-BANNED
 2025-04-18 - modmail-userinfo - BANNED - 3 days.
+2025-04-19 - modmail-userinfo - BANNED - 7 days.
+2025-04-19 - modmail-userinfo - BANNED - 7 days.
