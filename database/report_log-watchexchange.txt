@@ -22941,3 +22941,7 @@
 2025-04-19 - Deadbolt11 - PERM-BANNED
 2025-04-19 - Deadbolt11 - Timestamp
 2025-04-19 - pursuitoffappyness - Timestamp
+2025-04-20 - pursuitoffappyness - PERM-BANNED
+2025-04-21 - pursuitoffappyness - PERM-BANNED
+2025-04-21 - pursuitoffappyness - PERM-BANNED
+2025-04-21 - WatchexchangeUSLbot - PERM-BANNED
