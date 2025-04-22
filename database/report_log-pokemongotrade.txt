@@ -323,3 +323,5 @@
 2025-04-19 - modmail-userinfo - BANNED - 7 days.
 2025-04-20 - DJ_bustanut1029482 - PERM-BANNED
 2025-04-20 - modmail-userinfo - BANNED - 14 days.
+2025-04-21 - modmail-userinfo - PERM-BANNED
+2025-04-21 - modmail-userinfo - PERM-BANNED
