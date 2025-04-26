@@ -330,3 +330,5 @@
 2025-04-22 - modmail-userinfo - PERM-BANNED
 2025-04-24 - Holiday-Status-2026 - BANNED - 5 days.
 2025-04-24 - modmail-userinfo - BANNED - 3 days.
+2025-04-26 - raypogo - PERM-BANNED
+2025-04-26 - modmail-userinfo - PERM-BANNED

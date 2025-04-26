@@ -2386,3 +2386,4 @@
 2025-04-16 - ManaBMG - Timestamps
 2025-04-16 - YGOBot - PERM-BANNED
 2025-04-21 - YGOMarketplaceUSLbot - PERM-BANNED
+2025-04-26 - AutoModerator - Payments
