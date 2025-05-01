@@ -145,3 +145,6 @@
 2025-04-26 - marmarjo - Invalid asking price
 2025-04-26 - RegExr - Invalid timestamp/no photos
 2025-04-27 - LegomarketUSLbot - PERM-BANNED
+2025-04-30 - LegomarketUSLbot - PERM-BANNED
+2025-04-30 - LegomarketUSLbot - PERM-BANNED
+2025-04-30 - legomarketbot - PERM-BANNED
