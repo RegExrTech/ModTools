@@ -339,3 +339,4 @@
 2025-05-02 - modmail-userinfo - BANNED - 3 days.
 2025-05-02 - modmail-userinfo - PERM-BANNED
 2025-05-02 - modmail-userinfo - PERM-BANNED
+2025-05-03 - modmail-userinfo - PERM-BANNED
