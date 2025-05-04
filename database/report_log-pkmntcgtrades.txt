@@ -12225,3 +12225,16 @@
 2025-05-03 - Anthon95 - Correctly formatted timestamps are required for AL
 2025-05-03 - Anthon95 - All items for sale and trade must be clearly price
 2025-05-03 - Anthon95 - All items for sale and trade must be clearly price
+2025-05-03 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-05-03 - Anthon95 - Explicitly asking buyers to cover fees is not allo
+2025-05-03 - teogeorgiou - All items for sale and trade must be clearly price
+2025-05-03 - RandyJack15555 - All items for sale and trade must be clearly price
+2025-05-03 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
+2025-05-03 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
+2025-05-03 - psychic_shadow_lugia - PayPal Goods & Services is the only approved metho
+2025-05-03 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
+2025-05-04 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-05-04 - AutoModerator - PayPal Goods & Services is the only approved metho
+2025-05-04 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-05-04 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-05-04 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards

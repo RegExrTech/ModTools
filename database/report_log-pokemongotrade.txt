@@ -340,3 +340,6 @@
 2025-05-02 - modmail-userinfo - PERM-BANNED
 2025-05-02 - modmail-userinfo - PERM-BANNED
 2025-05-03 - modmail-userinfo - PERM-BANNED
+2025-05-03 - PoGoTradeBot - PERM-BANNED
+2025-05-04 - modmail-userinfo - PERM-BANNED
+2025-05-04 - modmail-userinfo - PERM-BANNED
