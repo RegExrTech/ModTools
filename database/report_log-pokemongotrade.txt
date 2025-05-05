@@ -343,3 +343,4 @@
 2025-05-03 - PoGoTradeBot - PERM-BANNED
 2025-05-04 - modmail-userinfo - PERM-BANNED
 2025-05-04 - modmail-userinfo - PERM-BANNED
+2025-05-04 - modmail-userinfo - BANNED - 3 days.
