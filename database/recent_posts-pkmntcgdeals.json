@@ -223,7 +223,12 @@
             "timestamp": 1736521143.0
         }
     ],
-    "BS_Degree": [],
+    "BS_Degree": [
+        {
+            "post_id": "1k20t05",
+            "timestamp": 1744968552.0
+        }
+    ],
     "Barebonesim": [
         {
             "post_id": "1izj7zg",
