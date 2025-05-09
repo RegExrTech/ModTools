@@ -3172,3 +3172,6 @@
 2025-05-06 - OnePieceNeverending - No prices.
 2025-05-07 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-05-07 - OnePieceNeverending - Missing timestamps
+2025-05-08 - MangaSwapUSLbot - PERM-BANNED
+2025-05-08 - sinyanmei92 - Missing prices or pictures.
+2025-05-08 - sinyanmei92 - All selling/trading posts must include handwritten
