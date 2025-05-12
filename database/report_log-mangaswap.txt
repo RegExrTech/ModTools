@@ -3178,3 +3178,6 @@
 2025-05-10 - sinyanmei92 - Link not working. You need to need price for each 
 2025-05-11 - OnePieceNeverending - You need the date as well as the month in timestam
 2025-05-11 - sinyanmei92 - Imgur link not working
+2025-05-11 - sinyanmei92 - Missing prices or pictures.
+2025-05-12 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-05-12 - OnePieceNeverending - PERM-BANNED
