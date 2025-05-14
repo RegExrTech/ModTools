@@ -3794,3 +3794,4 @@
 2025-04-28 - j007conks - PayPal G&S only
 2025-04-30 - j007conks - Pricing - none
 2025-05-05 - FunkoSwapUSL - PERM-BANNED
+2025-05-13 - FunkoSwapUSL - PERM-BANNED
