@@ -23144,3 +23144,6 @@
 2025-05-16 - Deadbolt11 - Timestamp
 2025-05-16 - Deadbolt11 - Timestamp
 2025-05-16 - WatchexchangeUSLbot - PERM-BANNED
+2025-05-18 - ThreadedNY - Fakes and replicas are not allowed.
+2025-05-18 - ThreadedNY - PERM-BANNED
+2025-05-18 - WatchexchangeUSLbot - PERM-BANNED
