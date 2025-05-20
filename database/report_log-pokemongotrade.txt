@@ -352,3 +352,5 @@
 2025-05-15 - raypogo - PERM-BANNED
 2025-05-15 - modmail-userinfo - PERM-BANNED
 2025-05-16 - archanidesGrip - BANNED - 7 days.
+2025-05-19 - modmail-userinfo - PERM-BANNED
+2025-05-19 - archanidesGrip - PERM-BANNED

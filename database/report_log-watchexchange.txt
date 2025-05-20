@@ -23147,3 +23147,6 @@
 2025-05-18 - ThreadedNY - Fakes and replicas are not allowed.
 2025-05-18 - ThreadedNY - PERM-BANNED
 2025-05-18 - WatchexchangeUSLbot - PERM-BANNED
+2025-05-19 - WatchexchangeUSLbot - PERM-BANNED
+2025-05-20 - pursuitoffappyness - Be excellent to each other
+2025-05-20 - pursuitoffappyness - PERM-BANNED

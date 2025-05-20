@@ -2128,3 +2128,5 @@
 2025-05-17 - GameSaleUSLbot - PERM-BANNED
 2025-05-17 - GameSaleUSLbot - PERM-BANNED
 2025-05-18 - necrochaos - BANNED - 7 days.
+2025-05-20 - GameSaleUSLbot - PERM-BANNED
+2025-05-20 - necrochaos - PERM-BANNED
