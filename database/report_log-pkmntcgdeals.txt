@@ -489,3 +489,6 @@
 2025-05-12 - Chippyrs - PERM-BANNED
 2025-05-15 - Chippyrs - PERM-BANNED
 2025-05-19 - Chippyrs - PERM-BANNED
+2025-05-20 - Chippyrs - BANNED - 28 days.
+2025-05-20 - Chippyrs - PERM-BANNED
+2025-05-21 - Chippyrs - BANNED - 28 days.
