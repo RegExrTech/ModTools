@@ -355,3 +355,7 @@
 2025-05-19 - modmail-userinfo - PERM-BANNED
 2025-05-19 - archanidesGrip - PERM-BANNED
 2025-05-20 - modmail-userinfo - PERM-BANNED
+2025-05-21 - modmail-userinfo - PERM-BANNED
+2025-05-21 - modmail-userinfo - BANNED - 3 days.
+2025-05-21 - modmail-userinfo - PERM-BANNED
+2025-05-21 - modmail-userinfo - PERM-BANNED
