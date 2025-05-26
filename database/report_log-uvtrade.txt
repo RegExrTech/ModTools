@@ -607,3 +607,5 @@
 2025-05-06 - DJ_Hamster - PERM-BANNED
 2025-05-15 - SeasonOfThePumpkin - Rule 8 - Proper Transaction Etiquette
 2025-05-24 - SeasonOfThePumpkin - Rule 1 - Selling/Instawatch/Account Trade/Begging
+2025-05-25 - SeasonOfThePumpkin - Rule 5 - List Requirements and Formatting
+2025-05-26 - uvtradeUSLbot - PERM-BANNED

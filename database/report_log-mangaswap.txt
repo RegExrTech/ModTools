@@ -3216,3 +3216,4 @@
 2025-05-22 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-05-23 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-05-23 - MangaSwapUSLbot - PERM-BANNED
+2025-05-26 - MangaSwapUSLbot - PERM-BANNED

@@ -167,3 +167,5 @@
 2025-05-22 - LegomarketUSLbot - PERM-BANNED
 2025-05-25 - marmarjo - Price check/General Advice
 2025-05-25 - marmarjo - Invalid asking price
+2025-05-25 - marmarjo - Invalid timestamp/no photos
+2025-05-26 - LegomarketUSLbot - PERM-BANNED
