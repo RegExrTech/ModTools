@@ -3354,3 +3354,5 @@
 2025-05-27 - SeasonOfThePumpkin - Other
 2025-05-27 - SeasonOfThePumpkin - Rule 5 - List Requirements and Formatting
 2025-05-28 - DCSUSLbot - PERM-BANNED
+2025-05-28 - SeasonOfThePumpkin - PERM-BANNED
+2025-05-28 - SeasonOfThePumpkin - Rule 5 - List Requirements and Formatting
