@@ -415,3 +415,4 @@
 2025-05-27 - AutoModerator - Review the Rules
 2025-05-29 - airsoftmarketUSLbot - PERM-BANNED
 2025-05-29 - ASMbot - PERM-BANNED
+2025-06-01 - AutoModerator - Review the Rules
