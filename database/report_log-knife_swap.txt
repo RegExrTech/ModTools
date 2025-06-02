@@ -5536,3 +5536,6 @@
 2025-05-29 - MapleSurpy - BANNED - 1 days.
 2025-05-29 - MapleSurpy - BANNED - 2 days.
 2025-05-30 - MapleSurpy - BANNED - 30 days.
+2025-06-01 - Knife_swapUSLbot - PERM-BANNED
+2025-06-01 - ksbot - PERM-BANNED
+2025-06-02 - Viper613 - PERM-BANNED

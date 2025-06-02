@@ -366,3 +366,4 @@
 2025-05-29 - modmail-userinfo - BANNED - 5 days.
 2025-05-30 - Funny_Opposite_2641 - PERM-BANNED
 2025-05-31 - modmail-userinfo - PERM-BANNED
+2025-06-01 - modmail-userinfo - PERM-BANNED
