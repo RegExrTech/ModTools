@@ -373,3 +373,5 @@
 2025-06-02 - modmail-userinfo - PERM-BANNED
 2025-06-02 - modmail-userinfo - BANNED - 28 days.
 2025-06-02 - modmail-userinfo - PERM-BANNED
+2025-06-03 - modmail-userinfo - BANNED - 7 days.
+2025-06-04 - modmail-userinfo - BANNED - 14 days.
