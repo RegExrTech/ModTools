@@ -44,4 +44,9 @@ class Config():
 			self.imgur = None
 		self.copy_bans_to = self.raw_config['copy_bans_to']
 		self.remove_from_reports = self.raw_config['remove_from_reports']
+		self.modmail_replies = self.raw_config['modmail_replies']
 		self.enabled = self.raw_config['enabled']
+
+	def dump(self):
+		with open(self.fname, 'w') as outfile:
+			outfile.write(json.dumps(self.raw_config, sort_keys=True, indent=4))

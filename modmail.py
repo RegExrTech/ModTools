@@ -155,10 +155,10 @@ def get_summary_text(user_infraction_db, user, subreddit_name, removing_mod):
 	removing_mod_text = "This action was performed by u/" + removing_mod + "\n\n---\n\n"
 	return removing_mod_text + "History of u/" + user + " on r/" + subreddit_name + ":\n\n" + "\n\n".join(replies)
 
-def send_reply(message, reply):
+def send_reply(message, reply, internal=True):
 	if not debug:
 		try:
-			message.reply(body=reply, internal=True)
+			message.reply(body=reply, internal=internal)
 		except Exception as e:
 			discord.log("Unable to reply to message: " + str(message), e, traceback.format_exc())
 	else:
@@ -235,12 +235,14 @@ def main(config):
 	for mod_conv in mod_convs:
 		try:
 			mod_conv_date = mod_conv.messages[0].date
-		except:
+		except Exception as e:
+			if "500 HTTP response" in str(e):
+				continue
 			time.sleep(5)
 			try:
 				mod_conv_date = mod_conv.messages[0].date
 			except Exception as e:
-				discord.log("Unable to parse mod conv for r/" + config.subreddit_name+ ". Skipping iteration.", e)
+				discord.log("Unable to parse mod conv for r/" + config.subreddit_name + " - " + str(mod_conv) + " - Skipping iteration.", e)
 				failed = True
 				break
 		# Handle updating the most recent mod mail stamp.
@@ -252,54 +254,75 @@ def main(config):
 		# Get the text of the infraction to store in the database
 		infraction = build_infraction_text(config, mod_conv)
 
-		# If no infracion was detected, we don't want to do anything
-		if not infraction:
-			continue
-		infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
+		# Handle infraction message
+		if infraction:
+			infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
 
-		# Determine the username of the person in question
-		user = get_username_from_message(mod_conv)
+			# Determine the username of the person in question
+			user = get_username_from_message(mod_conv)
 
-		# If we were unable to parse a username, just skip for now
-		if not user:
-			continue
+			# If we were unable to parse a username, just skip for now
+			if not user:
+				continue
 
-		# If this is the user's first infraction, give them an entry in the db
-		if user not in user_infraction_db:
-			user_infraction_db[user] = {}
+			# If this is the user's first infraction, give them an entry in the db
+			if user not in user_infraction_db:
+				user_infraction_db[user] = {}
 
-		# If we have seen this exact infraction before, skip it
-		if mod_conv.id in user_infraction_db[user]:
-			continue
+			# If we have seen this exact infraction before, skip it
+			if mod_conv.id in user_infraction_db[user]:
+				continue
 
-		# Store the infraction in the database
-		user_infraction_db[user][mod_conv.id] = infraction_and_date
+			# Store the infraction in the database
+			user_infraction_db[user][mod_conv.id] = infraction_and_date
 
-		# Get the name of the mod who recorded the infraction
-		removing_mod = get_removing_mod(ids_to_mods, infraction, mod_conv)
+			# Get the name of the mod who recorded the infraction
+			removing_mod = get_removing_mod(ids_to_mods, infraction, mod_conv)
 
-		# Save off the record of who handeled this infraction
-		save_report_data(removing_mod, infraction, config.subreddit_name)
+			# Save off the record of who handeled this infraction
+			save_report_data(removing_mod, infraction, config.subreddit_name)
 
-		# Handle replying to the message with our private summary
-		reply = get_summary_text(user_infraction_db, user, config.subreddit_name, removing_mod)
-		send_reply(mod_conv, reply)
+			# Handle replying to the message with our private summary
+			reply = get_summary_text(user_infraction_db, user, config.subreddit_name, removing_mod)
+			send_reply(mod_conv, reply)
 
-		# Archive if action is from USLBot. Prevents clutter in modmail
-		if removing_mod == "USLBot" :
-			archive(mod_conv)
+			# Archive if action is from USLBot. Prevents clutter in modmail
+			if removing_mod == "USLBot" :
+				archive(mod_conv)
 
-		if infraction == PERM_BANNED:
-			for copy_sub_name in config.copy_bans_to:
-				try:
-					config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
-					discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
-				except Exception as e:
-					discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
+			if infraction == PERM_BANNED:
+				for copy_sub_name in config.copy_bans_to:
+					try:
+						config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
+						discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
+					except Exception as e:
+						discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
 
-		# Write off some info to the logs
-		print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + config.subreddit_name)
-		print("===========================================")
+			# Write off some info to the logs
+			print(user + " - " + infraction_and_date + " - " + mod_conv.id + " - Removed by: " + removing_mod + " on r/" + config.subreddit_name)
+			print("===========================================")
+		# Handle all other messages
+		else:
+			if not config.modmail_replies:
+				continue
+			# Should only reply to user inqueries once
+			if len(mod_conv.messages) > 1:
+				continue
+			normalized_text = mod_conv.subject.lower() + " " + mod_conv.messages[0].body_markdown
+			normalized_text = normalized_text.lower()
+			normalized_text = " " + "".join([x if x.isalpha() else " " for x in normalized_text]) + " "
+			normalized_text = normalized_text.replace(" * ", " ")
+			replies = []
+			for reply, keywords in config.modmail_replies.items():
+				if any([" " + x + " " in normalized_text for x in keywords]):
+					replies += [reply, "---"]
+			if replies:
+				generic_replies = [x for x in config.modmail_replies if "*" in config.modmail_replies[x]]
+				for generic_reply in generic_replies:
+					replies += [generic_reply, "---"]
+				replies += ["If you require more information, or if this did not answer your question, please reply back to this message and a moderator will help you as quickly as possible!"]
+				send_reply(mod_conv, "\n\n".join(replies), internal=False)
+				archive(mod_conv)
 
 	if not debug:
 		dump(user_infraction_db, infractions_fname)

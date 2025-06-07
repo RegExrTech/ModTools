@@ -1,8 +1,8 @@
 from datetime import datetime
 from collections import defaultdict
 
-cutoff_date = datetime.strptime("2023-01-01", "%Y-%m-%d")
-sub_name = "Watchexchange"
+cutoff_date = datetime.strptime("2024-09-08", "%Y-%m-%d")
+sub_name = "watchexchange"
 report_file_name = "database/report_log-" + sub_name + ".txt"
 
 f = open(report_file_name, 'r')
