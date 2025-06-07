@@ -2344,3 +2344,5 @@
 2025-06-03 - Gregapher_ - Rule 1: Titles
 2025-06-03 - Gregapher_ - Rule 4: Timestamps
 2025-06-06 - Gregapher_ - Rule 4: Timestamps
+2025-06-06 - Gregapher_ - PERM-BANNED
+2025-06-06 - Gregapher_ - Rule 4: Timestamps
