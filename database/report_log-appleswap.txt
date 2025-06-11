@@ -1179,3 +1179,5 @@
 2025-06-09 - AppleSwapUSLbot - PERM-BANNED
 2025-06-09 - cannibalisticmidgets - PERM-BANNED
 2025-06-09 - cannibalisticmidgets - BANNED - 30 days.
+2025-06-10 - cannibalisticmidgets - BANNED - 60 days.
+2025-06-10 - AppleSwapUSLbot - PERM-BANNED
