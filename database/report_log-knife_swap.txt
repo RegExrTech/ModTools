@@ -5574,3 +5574,5 @@
 2025-06-09 - ksbot - PERM-BANNED
 2025-06-10 - MapleSurpy - PERM-BANNED
 2025-06-10 - MapleSurpy - PERM-BANNED
+2025-06-11 - Knife_swapUSLbot - PERM-BANNED
+2025-06-11 - Knife_swapUSLbot - PERM-BANNED

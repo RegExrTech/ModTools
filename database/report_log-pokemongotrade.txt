@@ -390,3 +390,6 @@
 2025-06-08 - evasion-guard - PERM-BANNED
 2025-06-08 - archanidesGrip - BANNED - 3 days.
 2025-06-09 - archanidesGrip - PERM-BANNED
+2025-06-11 - modmail-userinfo - PERM-BANNED
+2025-06-11 - modmail-userinfo - BANNED - 3 days.
+2025-06-12 - PoGoTradeBot - PERM-BANNED
