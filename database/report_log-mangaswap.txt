@@ -3247,3 +3247,5 @@
 2025-06-10 - sinyanmei92 - Missing prices or pictures.
 2025-06-10 - sinyanmei92 - All selling/trading posts must include handwritten
 2025-06-11 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-06-12 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-06-12 - sinyanmei92 - Missing date on the timestamp

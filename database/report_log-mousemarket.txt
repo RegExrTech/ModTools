@@ -2355,3 +2355,6 @@
 2025-06-11 - Gregapher_ - Rule 4: Timestamps
 2025-06-11 - Gregapher_ - PERM-BANNED
 2025-06-11 - MouseMarketUSLbot - PERM-BANNED
+2025-06-12 - Gregapher_ - Rule 4: Timestamps
+2025-06-13 - Gregapher_ - Rule 6: Asking Prices
+2025-06-13 - Gregapher_ - Rule 1: Titles
