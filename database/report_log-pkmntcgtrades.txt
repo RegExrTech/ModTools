@@ -12685,3 +12685,12 @@
 2025-06-15 - RandyJack15555 - Keep trade offers in the comments and personal inf
 2025-06-16 - RandyJack15555 - Correctly formatted timestamps are required for AL
 2025-06-16 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-06-16 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-06-16 - PokeSwapBot - Keep discussions on topic and don't spam
+2025-06-16 - psychic_shadow_lugia - All items for sale and trade must be clearly price
+2025-06-16 - pkmntcgtradesUSLbot - PERM-BANNED
+2025-06-16 - Anthon95 - Correctly formatted timestamps are required for AL
+2025-06-16 - AutoModerator - PayPal Goods & Services is the only approved metho
+2025-06-17 - Lightning00 - Correctly formatted timestamps are required for AL
+2025-06-17 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
+2025-06-17 - psychic_shadow_lugia - PERM-BANNED
