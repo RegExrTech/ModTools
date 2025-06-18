@@ -2371,3 +2371,5 @@
 2025-06-16 - Gregapher_ - PERM-BANNED
 2025-06-16 - Gregapher_ - BANNED - 7 days.
 2025-06-17 - Gregapher_ - Rule 4: Timestamps
+2025-06-17 - Gregapher_ - Rule 1: Titles
+2025-06-17 - Gregapher_ - BANNED - 7 days.
