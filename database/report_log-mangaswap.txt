@@ -3256,3 +3256,5 @@
 2025-06-17 - yonijonathan - PERM-BANNED
 2025-06-17 - sinyanmei92 - Timestamp missing date
 2025-06-17 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-06-18 - MangaSwapUSLbot - PERM-BANNED
+2025-06-18 - sinyanmei92 - Missing your username on the timestamp 
