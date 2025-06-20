@@ -409,3 +409,7 @@
 2025-06-18 - modmail-userinfo - PERM-BANNED
 2025-06-18 - archanidesGrip - PERM-BANNED
 2025-06-19 - modmail-userinfo - BANNED - 3 days.
+2025-06-20 - modmail-userinfo - PERM-BANNED
+2025-06-20 - modmail-userinfo - PERM-BANNED
+2025-06-20 - modmail-userinfo - PERM-BANNED
+2025-06-20 - modmail-userinfo - PERM-BANNED
