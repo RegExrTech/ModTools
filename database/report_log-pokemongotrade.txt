@@ -413,3 +413,5 @@
 2025-06-20 - modmail-userinfo - PERM-BANNED
 2025-06-20 - modmail-userinfo - PERM-BANNED
 2025-06-20 - modmail-userinfo - PERM-BANNED
+2025-06-21 - raypogo - PERM-BANNED
+2025-06-21 - modmail-userinfo - PERM-BANNED
