@@ -425,3 +425,5 @@
 2025-06-24 - modmail-userinfo - BANNED - 7 days.
 2025-06-25 - modmail-userinfo - PERM-BANNED
 2025-06-25 - modmail-userinfo - PERM-BANNED
+2025-06-25 - raypogo - PERM-BANNED
+2025-06-25 - evasion-guard - PERM-BANNED
