@@ -3260,3 +3260,5 @@
 2025-06-18 - sinyanmei92 - Missing your username on the timestamp 
 2025-06-23 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-06-23 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-06-26 - sinyanmei92 - Missing prices or pictures.
+2025-06-26 - mangaswapbot - Put a price on em on remove. Do not delete this p

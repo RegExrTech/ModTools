@@ -427,3 +427,8 @@
 2025-06-25 - modmail-userinfo - PERM-BANNED
 2025-06-25 - raypogo - PERM-BANNED
 2025-06-25 - evasion-guard - PERM-BANNED
+2025-06-26 - modmail-userinfo - BANNED - 5 days.
+2025-06-26 - modmail-userinfo - PERM-BANNED
+2025-06-26 - modmail-userinfo - PERM-BANNED
+2025-06-26 - PoGoTradeBot - PERM-BANNED
+2025-06-26 - modmail-userinfo - BANNED - 5 days.
