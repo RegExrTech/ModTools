@@ -472,3 +472,5 @@
 2025-06-21 - snackexchangeUSLbot - PERM-BANNED
 2025-06-27 - snackexchangeUSLbot - PERM-BANNED
 2025-06-29 - snackexchangeUSLbot - PERM-BANNED
+2025-07-01 - SnackExchangeBot - PERM-BANNED
+2025-07-01 - snackexchangeUSLbot - PERM-BANNED

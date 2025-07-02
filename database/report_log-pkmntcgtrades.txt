@@ -12840,3 +12840,7 @@
 2025-07-01 - RandyJack15555 - All items for sale and trade must be clearly price
 2025-07-01 - Anthon95 - Correctly formatted timestamps are required for AL
 2025-07-01 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-07-01 - Anthon95 - All items for sale and trade must be clearly price
+2025-07-01 - AutoModerator - PayPal Goods & Services is the only approved metho
+2025-07-01 - psychic_shadow_lugia - All items for sale and trade must be clearly price
+2025-07-01 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL

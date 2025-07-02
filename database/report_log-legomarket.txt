@@ -199,3 +199,6 @@
 2025-06-27 - marmarjo - No external links
 2025-06-29 - marmarjo - Invalid timestamp/no photos
 2025-06-29 - marmarjo - Invalid timestamp/no photos
+2025-07-01 - RegExr - Invalid asking price
+2025-07-01 - LegomarketUSLbot - PERM-BANNED
+2025-07-01 - LegomarketUSLbot - PERM-BANNED
