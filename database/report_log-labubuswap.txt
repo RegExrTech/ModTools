@@ -377,3 +377,5 @@
 2025-07-02 - okayaeri - Item condition disclosure
 2025-07-02 - okayaeri - No Accepted Methods of Payment Listed
 2025-07-02 - okayaeri - Labubu Products Only
+2025-07-02 - clericsmedallion - Lack of Image Timestamp
+2025-07-02 - clericsmedallion - Lack of Image Timestamp
