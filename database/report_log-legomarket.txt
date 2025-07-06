@@ -202,3 +202,5 @@
 2025-07-01 - RegExr - Invalid asking price
 2025-07-01 - LegomarketUSLbot - PERM-BANNED
 2025-07-01 - LegomarketUSLbot - PERM-BANNED
+2025-07-05 - marmarjo - Invalid timestamp/no photos
+2025-07-05 - marmarjo - Invalid timestamp/no photos

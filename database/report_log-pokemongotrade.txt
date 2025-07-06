@@ -449,3 +449,4 @@
 2025-07-04 - modmail-userinfo - BANNED - 7 days.
 2025-07-04 - modmail-userinfo - BANNED - 7 days.
 2025-07-05 - modmail-userinfo - BANNED - 3 days.
+2025-07-05 - modmail-userinfo - PERM-BANNED
