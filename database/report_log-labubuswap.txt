@@ -403,3 +403,9 @@
 2025-07-05 - clericsmedallion - Only Trusted Payment Platforms
 2025-07-05 - clericsmedallion - Proof of Possession Photo
 2025-07-05 - clericsmedallion - Proof of Possession Photo
+2025-07-06 - clericsmedallion - Missing post requirements
+2025-07-06 - clericsmedallion - Proof of Possession Photo
+2025-07-06 - clericsmedallion - Prices listed clearly
+2025-07-06 - clericsmedallion - Lack of Image Timestamp
+2025-07-06 - clericsmedallion - Proof of Possession Photo
+2025-07-07 - clericsmedallion - Only Trusted Payment Platforms

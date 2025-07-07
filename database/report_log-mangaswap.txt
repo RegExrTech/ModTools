@@ -3276,3 +3276,7 @@
 2025-07-05 - OnePieceNeverending - Too many rules broken.
 2025-07-05 - mangaswapbot - Rule 4, edit, dont delete.
 2025-07-05 - mangaswapbot - Rule 4, edit, dont delete.
+2025-07-06 - sinyanmei92 - No external links
+2025-07-06 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-07-06 - sinyanmei92 - PERM-BANNED
+2025-07-07 - mangaswapbot - Outdated Timestamps, edit, dont delete.
