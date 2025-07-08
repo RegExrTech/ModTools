@@ -2414,3 +2414,4 @@
 2025-06-21 - ManaBMG - Advertising, Unrelated Links, Feedback from other 
 2025-07-01 - YGOMarketplaceUSLbot - PERM-BANNED
 2025-07-01 - ManaBMG - Timestamps
+2025-07-08 - AutoModerator - Payments

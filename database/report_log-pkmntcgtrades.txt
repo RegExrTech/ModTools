@@ -12894,3 +12894,6 @@
 2025-07-07 - RandyJack15555 - Keep trade offers in the comments and personal inf
 2025-07-07 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
 2025-07-07 - PokeSwapBot - Keep discussions on topic and don't spam
+2025-07-07 - psychic_shadow_lugia - Keep trade offers in the comments and personal inf
+2025-07-08 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
+2025-07-08 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
