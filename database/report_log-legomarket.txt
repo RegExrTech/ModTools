@@ -205,3 +205,4 @@
 2025-07-05 - marmarjo - Invalid timestamp/no photos
 2025-07-05 - marmarjo - Invalid timestamp/no photos
 2025-07-06 - RegExr - Invalid timestamp/no photos
+2025-07-08 - marmarjo - No external links
