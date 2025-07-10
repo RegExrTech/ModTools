@@ -32,6 +32,7 @@ class Config():
 		self.num_minutes_flair = self.raw_config['num_minutes_flair']
 		if self.num_minutes_flair <= 0:
 			self.num_minutes_flair = float('inf')
+		self.cooldown_hours = self.raw_config['cooldown_hours']
 		self.imgur_freshness_days = self.raw_config['imgur_freshness_days']
 		self.imgur_client = self.raw_config['imgur_client']
 		self.imgur_secret = self.raw_config['imgur_secret']

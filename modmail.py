@@ -206,7 +206,7 @@ def main(config):
 			continue
 
 		post_checker.handle_imgur_freshness(config.imgur, submission, config.subreddit, config.subreddit_name, config.imgur_freshness_days, current_time, config.bot_username, config.lock_post)
-		post_checker.handle_post_frequency(config.reddit, submission, author, frequency_database, debug, config.hours_between_posts, config.lock_post)
+		post_checker.handle_post_frequency(config.reddit, submission, author, frequency_database, debug, config.hours_between_posts, config.lock_post, config.cooldown_hours)
 
 	if not debug:
 		dump(frequency_database, frequency_fname)
@@ -314,7 +314,7 @@ def main(config):
 			normalized_text = normalized_text.replace(" * ", " ")
 			replies = []
 			for reply, keywords in config.modmail_replies.items():
-				if any([" " + x + " " in normalized_text for x in keywords]):
+				if any([(" " + x + " " in normalized_text) or x == '.' for x in keywords]):
 					replies += [reply, "---"]
 			if replies:
 				generic_replies = [x for x in config.modmail_replies if "*" in config.modmail_replies[x]]

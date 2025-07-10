@@ -61,6 +61,11 @@ def check_date(imgur, url, post_time, imgur_freshness_days, newest_timestamp, su
 	if not img:
 		return True
 
+	try:
+		img.datetime
+	except Exception as e:
+		discord.log("Error parsing submission https://www.reddit.com" + submission.permalink, e)
+		return True
 	if newest_timestamp[0] < img.datetime:
 		newest_timestamp[0] = img.datetime
 
@@ -105,7 +110,7 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddi
 def get_submissions(sub, num_posts_to_check):
 	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
 
-def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post):
+def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post, cooldown_hours):
 	# Posts that have been automatically removed by automod shouldn't be counted.
 	if submission.banned_by == "AutoModerator":
 		return
@@ -124,15 +129,18 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 	if last_timestamp > timestamp:
 		return
 
-	# Filter out posts that were removed by automod
+	# Filter out posts that were removed by automod or deleted within the cooldown.
 	# Do this AFTER checking timestamps above so we avoid making extranious reddit API calls
 	new_post_data_list = []
 	for post_data in frequency_database[author]:
 		if not post_data['post_id']:
 			new_post_data_list.append(post_data)
 			continue
-		# If automod never removed OR reported the post, then this counts against the user's posting limit
 		_post = reddit.submission(post_data['post_id'])
+		# If there is a cooldown and the post was deleted during the cooldown, then it does not count against the limits.
+		if cooldown_hours and not _post.author and (post_data['timestamp'] + (cooldown_hours * 60 * 60) > time.time()):
+			continue
+		# If automod never removed OR reported the post, then this counts against the user's posting limit
 		try:
 			_reporting_mods = [x[1] for x in _post.mod_reports_dismissed]
 		except:
