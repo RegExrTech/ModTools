@@ -3281,3 +3281,4 @@
 2025-07-06 - sinyanmei92 - PERM-BANNED
 2025-07-07 - mangaswapbot - Outdated Timestamps, edit, dont delete.
 2025-07-08 - mangaswapbot - Remove ebay mentions, edit, dont delete.
+2025-07-10 - OnePieceNeverending - PERM-BANNED
