@@ -3284,3 +3284,6 @@
 2025-07-10 - OnePieceNeverending - PERM-BANNED
 2025-07-11 - sinyanmei92 - No external links
 2025-07-11 - sinyanmei92 - Keep a paper trail.
+2025-07-12 - OnePieceNeverending - All selling/trading posts must include handwritten
+2025-07-12 - OnePieceNeverending - PERM-BANNED
+2025-07-12 - OnePieceNeverending - Need Username, not actual name on timestamp.

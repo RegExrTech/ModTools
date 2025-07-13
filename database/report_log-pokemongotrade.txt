@@ -521,3 +521,8 @@
 2025-07-11 - modmail-userinfo - PERM-BANNED
 2025-07-11 - modmail-userinfo - PERM-BANNED
 2025-07-11 - modmail-userinfo - PERM-BANNED
+2025-07-12 - modmail-userinfo - PERM-BANNED
+2025-07-12 - modmail-userinfo - PERM-BANNED
+2025-07-12 - modmail-userinfo - PERM-BANNED
+2025-07-12 - modmail-userinfo - PERM-BANNED
+2025-07-13 - modmail-userinfo - PERM-BANNED
