@@ -3287,3 +3287,8 @@
 2025-07-12 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-07-12 - OnePieceNeverending - PERM-BANNED
 2025-07-12 - OnePieceNeverending - Need Username, not actual name on timestamp.
+2025-07-13 - sinyanmei92 - PERM-BANNED
+2025-07-14 - mangaswapbot - Rule 4, edit, dont delete.
+2025-07-14 - mangaswapbot - Rule 4, 4th bulletpoint. Edit, dont delete.
+2025-07-14 - mangaswapbot - Edit in Prices for D.Note. Dont delete.
+2025-07-14 - mangaswapbot - Timestamp unreadable, edit, dont delete.
