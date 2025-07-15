@@ -432,3 +432,6 @@
 2025-06-24 - Houseofcards32 - timestamp/payment method
 2025-07-05 - airsoftmarketUSLbot - PERM-BANNED
 2025-07-12 - airsoftmarketUSLbot - PERM-BANNED
+2025-07-14 - airsoftmarketUSLbot - PERM-BANNED
+2025-07-14 - airsoftmarketUSLbot - PERM-BANNED
+2025-07-14 - AutoModerator - Review the Rules

@@ -3292,3 +3292,6 @@
 2025-07-14 - mangaswapbot - Rule 4, 4th bulletpoint. Edit, dont delete.
 2025-07-14 - mangaswapbot - Edit in Prices for D.Note. Dont delete.
 2025-07-14 - mangaswapbot - Timestamp unreadable, edit, dont delete.
+2025-07-14 - mangaswapbot - Outdated timestamp. Edit, dont delete.
+2025-07-14 - mangaswapbot - Rule 4. Edit, Dont Delete.
+2025-07-15 - sinyanmei92 - Keep a paper trail.
