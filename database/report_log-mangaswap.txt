@@ -3296,3 +3296,7 @@
 2025-07-14 - mangaswapbot - Rule 4. Edit, Dont Delete.
 2025-07-15 - sinyanmei92 - Keep a paper trail.
 2025-07-15 - sinyanmei92 - Date on timestamp is missing
+2025-07-17 - MangaSwapUSLbot - PERM-BANNED
+2025-07-17 - OnePieceNeverending - All selling/trading posts must include handwritten
+2025-07-17 - mangaswapbot - Rule 4, Edit, Dont delete.
+2025-07-17 - mangaswapbot - Rule 4, edit, dont delete.
