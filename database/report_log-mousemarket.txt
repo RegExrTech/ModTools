@@ -2405,3 +2405,5 @@
 2025-07-17 - Gregapher_ - PERM-BANNED
 2025-07-17 - Gregapher_ - Rule 2: No external selling links or unrelated ite
 2025-07-18 - Gregapher_ - PERM-BANNED
+2025-07-18 - Gregapher_ - Rule 4: Timestamps
+2025-07-18 - MouseMarketUSLbot - PERM-BANNED
