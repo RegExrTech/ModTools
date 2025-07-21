@@ -254,16 +254,20 @@ def main(config):
 		# Get the text of the infraction to store in the database
 		infraction = build_infraction_text(config, mod_conv)
 
+		# Determine the username of the person in question
+		user = get_username_from_message(mod_conv)
+
+		# If we were unable to parse a username, just skip for now
+		if not user:
+			continue
+
+		# Always skip messages where the author is a mod because they aren't generating infractions, nor are they requesting help requiring automated replies.
+		if user in mods:
+			continue
+
 		# Handle infraction message
 		if infraction:
 			infraction_and_date = str(datetime.datetime.now()).split(" ")[0] + " - " + infraction
-
-			# Determine the username of the person in question
-			user = get_username_from_message(mod_conv)
-
-			# If we were unable to parse a username, just skip for now
-			if not user:
-				continue
 
 			# If this is the user's first infraction, give them an entry in the db
 			if user not in user_infraction_db:
