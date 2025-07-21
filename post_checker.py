@@ -137,8 +137,8 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 			new_post_data_list.append(post_data)
 			continue
 		_post = reddit.submission(post_data['post_id'])
-		# If there is a cooldown and the post was deleted during the cooldown, then it does not count against the limits.
-		if cooldown_hours and not _post.author and (post_data['timestamp'] + (cooldown_hours * 60 * 60) > time.time()):
+		# If there is a cooldown and the post was (deleted or removed) during the cooldown, then it does not count against the limits.
+		if cooldown_hours and (not _post.author or not parent_post.is_robot_indexable) and (post_data['timestamp'] + (cooldown_hours * 60 * 60) > time.time()):
 			continue
 		# If automod never removed OR reported the post, then this counts against the user's posting limit
 		try:
