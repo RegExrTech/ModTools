@@ -23986,3 +23986,5 @@ I have removed this
 2025-07-19 - pursuitoffappyness - Timestamp
 2025-07-19 - evasion-guard - PERM-BANNED
 2025-07-20 - pursuitoffappyness - Timestamp
+2025-07-20 - pursuitoffappyness - PERM-BANNED
+2025-07-21 - evasion-guard - PERM-BANNED
