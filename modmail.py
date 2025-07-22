@@ -261,6 +261,11 @@ def main(config):
 		if not user:
 			continue
 
+		# If the message is a single mod mail message sent by a mod
+		authors = [a.name for a in mod_conv.authors]
+		if mod_conv.num_messages == 1 and any([x in authors for x in mods]):
+			continue
+
 		# Always skip messages where the author is a mod because they aren't generating infractions, nor are they requesting help requiring automated replies.
 		if user in mods:
 			continue
