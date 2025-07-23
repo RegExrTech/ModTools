@@ -13070,3 +13070,7 @@
 2025-07-22 - psychic_shadow_lugia - Correctly formatted timestamps are required for AL
 2025-07-22 - RandyJack15555 - Correctly formatted timestamps are required for AL
 2025-07-22 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-07-22 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-07-22 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-07-22 - clauffer26 - Explicitly asking buyers to cover fees is not allo
+2025-07-23 - -Out-of-context- - Correctly formatted timestamps are required for AL
