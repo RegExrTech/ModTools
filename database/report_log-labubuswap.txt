@@ -816,3 +816,11 @@
 2025-07-23 - No_Spread_1534 - Only Trusted Payment Platforms
 2025-07-23 - okayaeri - Lack of Item Condition Disclosure
 2025-07-23 - arikarika - Only Trusted Payment Platforms
+2025-07-23 - pickacow - Photo is Missing Username/Timestamp
+2025-07-23 - rizeto9 - Only Trusted Payment Platforms
+2025-07-24 - Forsakenrhetor - Missing Trade Details (Shipped/Local/Both)
+2025-07-24 - chanshortest - Missing 1+ Post Requirements
+2025-07-24 - Carton0212 - Lack of Item Condition Disclosure
+2025-07-24 - Fun_Bird_7587 - Lack of Item Condition Disclosure
+2025-07-24 - ZucchiniOk9742 - Missing 1+ Post Requirements
+2025-07-24 - StrictSatisfaction97 - Proof of Possession Photo
