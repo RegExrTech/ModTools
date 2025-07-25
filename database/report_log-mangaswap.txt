@@ -3308,3 +3308,6 @@
 2025-07-18 - mangaswapbot - Rule 4, edit, dont delete.
 2025-07-19 - mangaswapbot - Dead imgur, edit, dont delete.
 2025-07-22 - mangaswapbot - Rule 4. Edit, Dont Delete,
+2025-07-24 - mangaswapbot - Outdated timestamp. Edit, dont delete.
+2025-07-24 - sinyanmei92 - PERM-BANNED
+2025-07-25 - MangaSwapUSLbot - PERM-BANNED

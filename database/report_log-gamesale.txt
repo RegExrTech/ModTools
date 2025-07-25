@@ -2255,3 +2255,6 @@
 2025-07-22 - Tothoro - BANNED - 7 days.
 2025-07-22 - necrochaos - BANNED - 3 days.
 2025-07-22 - GSaleBot - BANNED - 7 days.
+2025-07-24 - GameSaleUSLbot - PERM-BANNED
+2025-07-24 - ebudd08 - PERM-BANNED
+2025-07-25 - GameSaleUSLbot - PERM-BANNED
