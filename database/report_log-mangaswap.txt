@@ -3311,3 +3311,7 @@
 2025-07-24 - mangaswapbot - Outdated timestamp. Edit, dont delete.
 2025-07-24 - sinyanmei92 - PERM-BANNED
 2025-07-25 - MangaSwapUSLbot - PERM-BANNED
+2025-07-27 - sinyanmei92 - No external links
+2025-07-27 - mangaswapbot - Outdated timestamp, edit, dont delete.
+2025-07-27 - mangaswapbot - Outdated timestamp, edit, dont delete.
+2025-07-27 - mangaswapbot - Rule 4, 4th bulletpoint. Edit, Dont delete.
