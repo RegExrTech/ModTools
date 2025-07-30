@@ -119,7 +119,7 @@ def get_username_from_message(message):
 		if not "object has no attribute 'user'" in str(e):
 			# Sometimes, the message is valid but any operations return a 404. Skip and continue if we see this.
 			# Also, sometimes a message literally doesn't have a user attribute. See https://mod.reddit.com/mail/all/immhx
-			discord.log("Error for Mod Mail Message: " + str(message), e, traceback.format_exc())
+			discord.log("Error getting user for Mod Mail Message: " + str(message), e)
 	return user
 
 def build_removal_reason_text(config, message, subject):
