@@ -619,3 +619,5 @@
 2025-07-20 - Tsara1234 - PERM-BANNED
 2025-07-21 - Tsara1234 - BANNED - 5 days.
 2025-07-27 - comicswapUSLbot - PERM-BANNED
+2025-07-29 - comicswapUSLbot - PERM-BANNED
+2025-07-29 - Comic_FlairBot - PERM-BANNED
