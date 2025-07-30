@@ -188,7 +188,11 @@ def main(config):
 	# Check posts for various violations
 	frequency_fname = 'database/recent_posts-' + config.subreddit_name + '.json'
 	frequency_database = get_db(frequency_fname)
-	submissions = post_checker.get_submissions(config.subreddit, num_posts_to_check)
+	try:
+		submissions = post_checker.get_submissions(config.subreddit, num_posts_to_check)
+	except Exception as e:
+		discord.log("Unable to get recent posts from r/" + config.subreddit_name, e)
+		submissions = []
 	for submission in submissions:
 		missing_flair = post_checker.handle_post_flair(submission, current_time, config.num_minutes_flair, config.subreddit_name)
 		if missing_flair:  # We already removed so no need to check anything else
