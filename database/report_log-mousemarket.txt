@@ -2431,3 +2431,5 @@
 2025-07-29 - Gregapher_ - PERM-BANNED
 2025-07-29 - MouseMarketBot - PERM-BANNED
 2025-07-30 - MouseMarketUSLbot - PERM-BANNED
+2025-07-30 - Gregapher_ - Rule 4: Timestamps
+2025-07-30 - MouseMarketUSLbot - PERM-BANNED
