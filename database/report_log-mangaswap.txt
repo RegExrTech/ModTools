@@ -3326,3 +3326,5 @@
 2025-07-30 - mangaswapbot - Rule 4, 4th bulletpoint, edit, dont delete.
 2025-07-30 - mangaswapbot - Rule 4, edit, dont delete.
 2025-07-30 - OnePieceNeverending - PERM-BANNED
+2025-07-31 - OnePieceNeverending - All selling/trading posts must include handwritten
+2025-07-31 - mangaswapbot - Missing date, edit dont delete.

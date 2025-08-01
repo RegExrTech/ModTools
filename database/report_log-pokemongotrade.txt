@@ -556,3 +556,6 @@
 2025-07-29 - modmail-userinfo - PERM-BANNED
 2025-07-30 - modmail-userinfo - PERM-BANNED
 2025-07-30 - modmail-userinfo - BANNED - Unknown amount of time.
+2025-07-31 - modmail-userinfo - BANNED - Unknown amount of time.
+2025-07-31 - modmail-userinfo - PERM-BANNED
+2025-07-31 - PoGoTradeBot - PERM-BANNED
