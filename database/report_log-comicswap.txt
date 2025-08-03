@@ -622,3 +622,4 @@
 2025-07-29 - comicswapUSLbot - PERM-BANNED
 2025-07-29 - Comic_FlairBot - PERM-BANNED
 2025-08-01 - Omicbob2 - BANNED - Unknown amount of time.
+2025-08-02 - comicswapUSLbot - PERM-BANNED

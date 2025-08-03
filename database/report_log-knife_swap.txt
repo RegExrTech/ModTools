@@ -5790,3 +5790,7 @@
 2025-07-30 - MapleSurpy - PERM-BANNED
 2025-07-31 - MapleSurpy - PERM-BANNED
 2025-08-01 - Viper613 - BANNED - Unknown amount of time.
+2025-08-02 - merkon - BANNED - Unknown amount of time.
+2025-08-02 - evasion-guard - PERM-BANNED
+2025-08-02 - Knife_swapUSLbot - PERM-BANNED
+2025-08-02 - Viper613 - BANNED - Unknown amount of time.
