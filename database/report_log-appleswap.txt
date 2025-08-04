@@ -1238,3 +1238,4 @@
 2025-07-31 - AppleSwapUSLbot - PERM-BANNED
 2025-08-02 - AppleSwapBot - PERM-BANNED
 2025-08-02 - AppleSwapUSLbot - PERM-BANNED
+2025-08-03 - cannibalisticmidgets - PERM-BANNED
