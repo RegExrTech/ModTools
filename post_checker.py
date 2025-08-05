@@ -107,8 +107,17 @@ def check_imgur_freshness(imgur, sub, submission, imgur_freshness_days, subreddi
 
 ## OTHER
 
-def get_submissions(sub, num_posts_to_check):
-	return [x for x in sub.new(limit=num_posts_to_check)][::-1]
+def get_submissions(sub, num_posts_to_check, last_post_id=""):
+	posts = []
+	# Submissions come in from newest to oldest
+	# Once we find the last post ID, anything "older" than that has been checked already
+	for submission in sub.new(limit=num_posts_to_check):
+		if submission.id != last_post_id:
+			posts.append(submission)
+		else:
+			break
+	# Return posts in order from oldest to newest
+	return posts[::-1]
 
 def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post, cooldown_hours):
 	# Posts that have been automatically removed by automod shouldn't be counted.

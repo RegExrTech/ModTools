@@ -188,12 +188,20 @@ def main(config):
 	# Check posts for various violations
 	frequency_fname = 'database/recent_posts-' + config.subreddit_name + '.json'
 	frequency_database = get_db(frequency_fname)
+	last_post_id_fname = "database/last_post_id_" + config.subreddit_name + ".txt"
+	if not os.path.exists(last_post_id_fname):
+		last_post_id = ""
+	else:
+		with open(last_post_id_fname) as f:
+			last_post_id = f.read()
 	try:
-		submissions = post_checker.get_submissions(config.subreddit, num_posts_to_check)
+		submissions = post_checker.get_submissions(config.subreddit, num_posts_to_check, last_post_id)
 	except Exception as e:
 		discord.log("Unable to get recent posts from r/" + config.subreddit_name, e)
 		submissions = []
+	most_recent_post_id = last_post_id
 	for submission in submissions:
+		most_recent_post_id = submission.id
 		missing_flair = post_checker.handle_post_flair(submission, current_time, config.num_minutes_flair, config.subreddit_name)
 		if missing_flair:  # We already removed so no need to check anything else
 			continue
@@ -214,6 +222,9 @@ def main(config):
 
 	if not debug:
 		dump(frequency_database, frequency_fname)
+		if most_recent_post_id != last_post_id:
+			with open(last_post_id_fname, 'w') as f:
+				f.write(most_recent_post_id))
 
 	# Begin handling modmail related actions
 	infractions_fname = 'database/userbans-' + config.subreddit_name + '.json'
