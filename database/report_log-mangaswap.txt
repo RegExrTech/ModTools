@@ -3336,3 +3336,11 @@
 2025-08-03 - sinyanmei92 - Keep a paper trail.
 2025-08-03 - sinyanmei92 - Timestamp needs to be presented on all items at le
 2025-08-03 - OnePieceNeverending - Rule 4, Read the 4th Bulletpoint.
+2025-08-04 - sinyanmei92 - No thread crapping.
+2025-08-04 - mangaswapbot - Rule 4, edit, dont delete.
+2025-08-04 - mangaswapbot - Rule 4, edit, dont delete.
+2025-08-05 - OnePieceNeverending - Missing prices or pictures.
+2025-08-05 - mangaswapbot - Rule 2, 2nd Bulletpoint. Edit, Dont delete.
+2025-08-05 - OnePieceNeverending - Outdated timestamps
+2025-08-05 - mangaswapbot - Figures timestamp oudates, edit, dont delete.
+2025-08-05 - mangaswapbot - Outdated timestamp, edit, dont delete.

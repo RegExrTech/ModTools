@@ -562,3 +562,5 @@
 2025-08-02 - modmail-userinfo - BANNED - Unknown amount of time.
 2025-08-02 - modmail-userinfo - PERM-BANNED
 2025-08-03 - modmail-userinfo - PERM-BANNED
+2025-08-04 - modmail-userinfo - BANNED - Unknown amount of time.
+2025-08-04 - modmail-userinfo - PERM-BANNED
