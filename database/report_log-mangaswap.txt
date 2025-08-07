@@ -3345,3 +3345,4 @@
 2025-08-05 - mangaswapbot - Figures timestamp oudates, edit, dont delete.
 2025-08-05 - mangaswapbot - Outdated timestamp, edit, dont delete.
 2025-08-06 - OnePieceNeverending - Missing prices or pictures.
+2025-08-06 - sinyanmei92 - No thread crapping.
