@@ -218,13 +218,13 @@ def main(config):
 			continue
 
 		post_checker.handle_imgur_freshness(config.imgur, submission, config.subreddit, config.subreddit_name, config.imgur_freshness_days, current_time, config.bot_username, config.lock_post)
-		post_checker.handle_post_frequency(config.reddit, submission, author, frequency_database, debug, config.hours_between_posts, config.lock_post, config.cooldown_hours)
+		post_checker.handle_post_frequency(config.reddit, submission, author, frequency_database, debug, config.hours_between_posts, config.lock_post, config.cooldown_hours, config.frequency_warning_text)
 
 	if not debug:
 		dump(frequency_database, frequency_fname)
 		if most_recent_post_id != last_post_id:
 			with open(last_post_id_fname, 'w') as f:
-				f.write(most_recent_post_id))
+				f.write(most_recent_post_id)
 
 	# Begin handling modmail related actions
 	infractions_fname = 'database/userbans-' + config.subreddit_name + '.json'

@@ -119,7 +119,7 @@ def get_submissions(sub, num_posts_to_check, last_post_id=""):
 	# Return posts in order from oldest to newest
 	return posts[::-1]
 
-def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post, cooldown_hours):
+def handle_post_frequency(reddit, submission, author, frequency_database, debug, hours_between_posts, lock_post, cooldown_hours, frequency_warning_text):
 	# Posts that have been automatically removed by automod shouldn't be counted.
 	if submission.banned_by == "AutoModerator":
 		return
@@ -193,6 +193,8 @@ def handle_post_frequency(reddit, submission, author, frequency_database, debug,
 				reply_text += "You can find your most recent post [here](https://redd.it/" + last_post_id  + "). "
 			reply_text += "You can make another post in " + delta_string + "."
 			reply_text += "\n\nIf you're seeing this message because your previous post was removed for rule violations, please modify the removed post rather than making a new post. Then let the moderators know once you've done so and they will approve your post."
+			if frequency_warning_text:
+				reply_text += "\n\n" + frequency_warning_text
 			try:
 				reply = submission.reply(reply_text)
 				reply.mod.distinguish(sticky=True)

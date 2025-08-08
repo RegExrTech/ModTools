@@ -47,6 +47,7 @@ class Config():
 		self.remove_from_reports = self.raw_config['remove_from_reports']
 		self.modmail_replies = self.raw_config['modmail_replies']
 		self.enabled = self.raw_config['enabled']
+		self.frequency_warning_text = self.raw_config['frequency_warning_text']
 
 	def dump(self):
 		with open(self.fname, 'w') as outfile:
