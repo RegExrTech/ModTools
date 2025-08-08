@@ -225,3 +225,4 @@
 2025-08-05 - marmarjo - Invalid timestamp/no photos
 2025-08-06 - marmarjo - Invalid asking price
 2025-08-06 - marmarjo - PERM-BANNED
+2025-08-07 - marmarjo - Invalid timestamp/no photos

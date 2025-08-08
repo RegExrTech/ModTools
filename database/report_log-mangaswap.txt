@@ -3346,3 +3346,8 @@
 2025-08-05 - mangaswapbot - Outdated timestamp, edit, dont delete.
 2025-08-06 - OnePieceNeverending - Missing prices or pictures.
 2025-08-06 - sinyanmei92 - No thread crapping.
+2025-08-07 - MangaSwapUSLbot - PERM-BANNED
+2025-08-08 - mangaswapbot - Beck timestamp outdated. Edit, dont delete.
+2025-08-08 - OnePieceNeverending - PERM-BANNED
+2025-08-08 - mangaswapbot - Rule 4. Edit, dont delete.
+2025-08-08 - mangaswapbot - Rule 4, Edit, Dont delete.

@@ -2281,3 +2281,5 @@
 2025-08-04 - GameSaleUSLbot - PERM-BANNED
 2025-08-06 - Tothoro - BANNED - Unknown amount of time.
 2025-08-06 - GameSaleUSLbot - PERM-BANNED
+2025-08-07 - GameSaleUSLbot - PERM-BANNED
+2025-08-08 - GameSaleUSLbot - PERM-BANNED

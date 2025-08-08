@@ -3825,3 +3825,4 @@
 2025-08-04 - DrShadyTree - Timestamp
 2025-08-05 - RegExrBot - PERM-BANNED
 2025-08-05 - FreddySwapBot - Timestamp out of date
+2025-08-07 - FunkoSwapUSL - PERM-BANNED
