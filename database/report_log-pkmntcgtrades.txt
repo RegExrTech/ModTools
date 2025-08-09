@@ -13270,3 +13270,11 @@
 2025-08-08 - RandyJack15555 - Correctly formatted timestamps are required for AL
 2025-08-08 - RandyJack15555 - Correctly formatted timestamps are required for AL
 2025-08-08 - pkmntcgtradesUSLbot - PERM-BANNED
+2025-08-08 - RandyJack15555 - Correctly formatted timestamps are required for AL
+2025-08-08 - Letronika - Link requires access and timestamp should be the v
+2025-08-08 - Letronika - Please have your timestamp be the first image in y
+2025-08-08 - Anthon95 - All items for sale and trade must be clearly price
+2025-08-08 - PokeSwapBot - All posts must be for BST of Pokemon Trading Cards
+2025-08-08 - AutoModerator - PayPal Goods & Services is the only approved metho
+2025-08-08 - Letronika - All items for sale and trade must be clearly price
+2025-08-08 - Letronika - Keep trade offers in the comments and personal inf
