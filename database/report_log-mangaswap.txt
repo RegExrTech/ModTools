@@ -3354,3 +3354,10 @@
 2025-08-08 - OnePieceNeverending - Missing, pictures, prices, and timestamps. Edit, d
 2025-08-08 - OnePieceNeverending - Need new pics with timestamp for everything not in
 2025-08-09 - mangaswapbot - Outdated timestamp or missing prices
+2025-08-10 - sinyanmei92 - PERM-BANNED
+2025-08-10 - OnePieceNeverending - PERM-BANNED
+2025-08-10 - sinyanmei92 - other
+2025-08-10 - sinyanmei92 - Bigger set does not have timestamp
+2025-08-10 - mangaswapbot - OPM timestamp missing, edit, dont delete.
+2025-08-11 - mangaswapbot - Rule 4, edit, dont delete.
+2025-08-11 - mangaswapbot - Outdated timestamp, edit, dont delete.
