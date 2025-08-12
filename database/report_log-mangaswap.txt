@@ -3361,3 +3361,4 @@
 2025-08-10 - mangaswapbot - OPM timestamp missing, edit, dont delete.
 2025-08-11 - mangaswapbot - Rule 4, edit, dont delete.
 2025-08-11 - mangaswapbot - Outdated timestamp, edit, dont delete.
+2025-08-12 - mangaswapbot - PERM-BANNED

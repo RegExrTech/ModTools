@@ -5850,3 +5850,5 @@
 2025-08-11 - merkon - Other
 2025-08-11 - [deleted] - PERM-BANNED
 2025-08-11 - ksbot - PERM-BANNED
+2025-08-11 - Knife_swapUSLbot - PERM-BANNED
+2025-08-12 - Knife_swapUSLbot - PERM-BANNED
