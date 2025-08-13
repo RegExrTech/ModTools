@@ -3362,3 +3362,9 @@
 2025-08-11 - mangaswapbot - Rule 4, edit, dont delete.
 2025-08-11 - mangaswapbot - Outdated timestamp, edit, dont delete.
 2025-08-12 - mangaswapbot - PERM-BANNED
+2025-08-12 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-08-12 - sinyanmei92 - All selling/trading posts must include handwritten
+2025-08-12 - sinyanmei92 - PERM-BANNED
+2025-08-13 - mangaswapbot - Missing timestamp for 3 series. Edit, Dont delete
+2025-08-13 - OnePieceNeverending - Need timstamp of volume 6
+2025-08-13 - OnePieceNeverending - All selling/trading posts must include handwritten

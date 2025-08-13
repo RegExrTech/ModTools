@@ -3827,3 +3827,4 @@
 2025-08-05 - FreddySwapBot - Timestamp out of date
 2025-08-07 - FunkoSwapUSL - PERM-BANNED
 2025-08-10 - j007conks - Timestamp - none
+2025-08-12 - FunkoSwapUSL - PERM-BANNED
