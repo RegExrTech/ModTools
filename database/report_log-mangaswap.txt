@@ -3368,3 +3368,8 @@
 2025-08-13 - mangaswapbot - Missing timestamp for 3 series. Edit, Dont delete
 2025-08-13 - OnePieceNeverending - Need timstamp of volume 6
 2025-08-13 - OnePieceNeverending - All selling/trading posts must include handwritten
+2025-08-14 - mangaswapbot - Rule 4, 4th bulletpoint. Edit, dont Delete.
+2025-08-14 - OnePieceNeverending - Link 1 and 3 Missing timestamps on some items
+2025-08-14 - OnePieceNeverending - BANNED - Unknown amount of time.
+2025-08-14 - OnePieceNeverending - All selling/trading posts must include handwritten
+2025-08-15 - OnePieceNeverending - All selling/trading posts must include handwritten
