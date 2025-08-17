@@ -815,3 +815,4 @@
 2025-08-10 - GameSwapUSLbot - PERM-BANNED
 2025-08-12 - GameSwapUSLbot - PERM-BANNED
 2025-08-13 - necrochaos - BANNED - Unknown amount of time.
+2025-08-16 - necrochaos - PERM-BANNED
