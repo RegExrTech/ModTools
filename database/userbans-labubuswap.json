@@ -33,7 +33,8 @@
         "2t7bz2": "2025-08-18 - Missing Multiple Post Requirements",
         "2t7qg4": "2025-08-18 - Photo is Missing Username/Timestamp",
         "2t89k6": "2025-08-18 - Lack of Item Condition Disclosure",
-        "2t8n6g": "2025-08-18 - Lack of Item Condition Disclosure"
+        "2t8n6g": "2025-08-18 - Lack of Item Condition Disclosure",
+        "2tbqcr": "2025-08-19 - Post once every 48 hours"
     },
     "According-Painter717": {
         "2q9wi4": "2025-07-08 - Proof of Possession Photo"
@@ -130,6 +131,9 @@
         "2p41e8": "2025-06-20 - Proof of Possession",
         "2p5o26": "2025-06-21 - Not enough karma to respond to ISOs"
     },
+    "Akabolt": {
+        "2tc0fp": "2025-08-19 - Missing Multiple Post Requirements"
+    },
     "Alarming-Cow-3830": {
         "2rv42b": "2025-07-30 - Unclear or Illegible Handwritten Notecard",
         "2t5k2k": "2025-08-17 - Missing Multiple Post Requirements",
@@ -163,7 +167,9 @@
         "2rbb65": "2025-07-25 - Lack of Item Condition Disclosure"
     },
     "Altruistic_Pipe5739": {
-        "2ta9y6": "2025-08-19 - Missing Trade Details"
+        "2ta9y6": "2025-08-19 - Missing Trade Details",
+        "2tcr0c": "2025-08-20 - Lack of Item Condition Disclosure",
+        "2td4g0": "2025-08-20 - Missing Trade Details"
     },
     "Altruistic_Purpose30": {
         "2qfeai": "2025-07-11 - Missing post requirements"
@@ -723,7 +729,8 @@
         "2sn4l5": "2025-08-10 - Post once every 48 hours"
     },
     "Dugustah": {
-        "2rh3oe": "2025-07-27 - Lack of Item Condition Disclosure"
+        "2rh3oe": "2025-07-27 - Lack of Item Condition Disclosure",
+        "2tchg0": "2025-08-19 - Post once every 48 hours"
     },
     "Dull-Kaleidoscope214": {
         "2suilh": "2025-08-13 - Lack of Item Condition Disclosure"
@@ -782,6 +789,9 @@
     },
     "Enough_Argument": {
         "2puf14": "2025-07-02 - Lack of Image Timestamp"
+    },
+    "Equal_South_7820": {
+        "2tchct": "2025-08-19 - No Accepted Methods of Payment Listed"
     },
     "EspressoRoo": {
         "2p866y": "2025-06-22 - Proof of Possession"
@@ -975,6 +985,10 @@
     "Fukmesillie": {
         "2rfnfa": "2025-07-26 - No Accepted Methods of Payment Listed"
     },
+    "Full-Asparagus1978": {
+        "2tcr7r": "2025-08-20 - Only Trusted Payment Platforms",
+        "2tcr8h": "2025-08-20 - Lack of Item Condition Disclosure"
+    },
     "Full-Sea-535": {
         "2orn7w": "2025-06-14 - Lack of Image Timestamp"
     },
@@ -991,6 +1005,9 @@
     },
     "Gameofthroneschic": {
         "2ppr3p": "2025-06-30 - Item condition disclosure"
+    },
+    "GamingGator11": {
+        "2td4is": "2025-08-20 - Lack of Item Condition Disclosure"
     },
     "General_Swordfish636": {
         "2sqlbu": "2025-08-12 - Missing 1+ Post Requirements"
@@ -1162,8 +1179,14 @@
     "Icarusizzy": {
         "2rw9lg": "2025-07-31 - Missing 1+ Post Requirements"
     },
+    "Icy-Marketing-4831": {
+        "2tcito": "2025-08-19 - Missing Multiple Post Requirements"
+    },
     "Icy-Masterpiece8": {
         "2s7ox9": "2025-08-04 - Missing 1+ Post Requirements"
+    },
+    "Icy_Reward7945": {
+        "2tch63": "2025-08-19 - Missing Trade Details"
     },
     "Icy_Shake_1875": {
         "2rvxdx": "2025-07-31 - Unestablished account"
@@ -1416,6 +1439,9 @@
     "Klopsik3": {
         "2p41cr": "2025-06-20 - Proof of Possession"
     },
+    "Kmrkmr31": {
+        "2tbdkv": "2025-08-19 - Labubu Products Only"
+    },
     "KneePlenty": {
         "2ry6bj": "2025-07-31 - Photo is Missing Username/Timestamp",
         "2s0y0d": "2025-08-02 - Missing 1+ Post Requirements",
@@ -1451,6 +1477,9 @@
     },
     "Labuboohoo": {
         "2srair": "2025-08-12 - Photo is Missing Username/Timestamp"
+    },
+    "Labubu-God": {
+        "2tbzmd": "2025-08-19 - Prices not Listed"
     },
     "Labubu-Life": {
         "2q1l7u": "2025-07-05 - Only Trusted Payment Platforms",
@@ -1703,6 +1732,9 @@
         "2sjlxn": "2025-08-09 - Photo is Missing Username/Timestamp",
         "2skw6f": "2025-08-09 - Only Trusted Payment Platforms",
         "2skwar": "2025-08-09 - BANNED - Unknown amount of time."
+    },
+    "MermaidPorter": {
+        "2tch1e": "2025-08-19 - No ISO Posts Allowed"
     },
     "Meyerrr": {
         "2sl3lr": "2025-08-09 - No Accepted Methods of Payment Listed"
@@ -2075,6 +2107,9 @@
         "2s0xtp": "2025-08-02 - Prices not Listed",
         "2s0ysl": "2025-08-02 - Photo is Missing Username/Timestamp"
     },
+    "Ok_Heart5546": {
+        "2td5qi": "2025-08-20 - Missing Multiple Post Requirements"
+    },
     "Ok_Injury1825": {
         "2ppp4t": "2025-06-30 - Proof of Possession"
     },
@@ -2306,6 +2341,9 @@
     },
     "PurlScout": {
         "2t7qnz": "2025-08-18 - Photo is Missing Username/Timestamp"
+    },
+    "PurpleTurbulent4408": {
+        "2td4v4": "2025-08-20 - Photo is Missing Username/Timestamp"
     },
     "Purrloin": {
         "2pf3yi": "2025-06-25 - Proof of Possession",
@@ -2589,7 +2627,8 @@
         "2pb2iy": "2025-06-23 - Proof of Possession"
     },
     "Snoo_69209": {
-        "2r0thk": "2025-07-20 - Missing Trade Details (Shipped/Local/Both)"
+        "2r0thk": "2025-07-20 - Missing Trade Details (Shipped/Local/Both)",
+        "2tci1y": "2025-08-19 - Proof of Possession Photo"
     },
     "SnowScorpi0n": {
         "2sn3o1": "2025-08-10 - Only Trusted Payment Platforms"
@@ -2768,6 +2807,9 @@
         "2rpx1c": "2025-07-29 - Photo is Missing Username/Timestamp",
         "2sg5gn": "2025-08-07 - Lack of Item Condition Disclosure"
     },
+    "Time_Succotash_1115": {
+        "2td55i": "2025-08-20 - Lack of Item Condition Disclosure"
+    },
     "Tiredportraitartist": {
         "2rbc0s": "2025-07-25 - Missing Trade Details"
     },
@@ -2851,7 +2893,9 @@
     "Valetinadream28": {
         "2sbr07": "2025-08-06 - Missing 1+ Post Requirements",
         "2se4kp": "2025-08-07 - Missing 1+ Post Requirements",
-        "2t6y9t": "2025-08-17 - Missing Trade Details"
+        "2t6y9t": "2025-08-17 - Missing Trade Details",
+        "2tbz5q": "2025-08-19 - Prices not Listed",
+        "2td4nt": "2025-08-20 - Only Trusted Payment Platforms"
     },
     "ValuableSharp6330": {
         "2sw0dv": "2025-08-13 - Missing Multipe Post Requirements"
@@ -2982,6 +3026,10 @@
     },
     "YellowHot0606": {
         "2rv3wk": "2025-07-30 - Lack of Item Condition Disclosure"
+    },
+    "YokaiOppai": {
+        "2tbr8o": "2025-08-19 - Incorrect Title Formatting",
+        "2tc03l": "2025-08-19 - Missing Multiple Post Requirements"
     },
     "Young_Dae0928": {
         "2r0zfi": "2025-07-20 - Only Trusted Payment Platforms"
@@ -3156,6 +3204,9 @@
     },
     "bb-yer17": {
         "2pmgdc": "2025-06-28 - Labubu Products Only"
+    },
+    "bbypaarthurnax": {
+        "2tbzfw": "2025-08-19 - Lack of Item Condition Disclosure"
     },
     "bbyyarii": {
         "2qo1sd": "2025-07-15 - Lack of Image Timestamp"
@@ -3372,6 +3423,9 @@
         "2pl3oo": "2025-06-28 - Proof of Possession",
         "2q9wh1": "2025-07-08 - Lack of Image Timestamp"
     },
+    "claaryy": {
+        "2tcsme": "2025-08-20 - Proof of Possession Photo"
+    },
     "coffeeAndMocha": {
         "2ph3hv": "2025-06-26 - Only Trusted Payment Platforms"
     },
@@ -3389,7 +3443,8 @@
         "2rpwus": "2025-07-29 - Missing 1+ Post Requirements"
     },
     "coolcats1987": {
-        "2pf440": "2025-06-25 - Proof of Possession"
+        "2pf440": "2025-06-25 - Proof of Possession",
+        "2td4p0": "2025-08-20 - Missing Multiple Post Requirements"
     },
     "cottoncandiskies": {
         "2pjr5p": "2025-06-27 - PERM-BANNED"
@@ -3539,7 +3594,8 @@
     "engajin": {
         "2sgnhj": "2025-08-07 - Missing 1+ Post Requirements",
         "2sgrch": "2025-08-08 - No Accepted Methods of Payment Listed",
-        "2sjhtg": "2025-08-09 - Unestablished account"
+        "2sjhtg": "2025-08-09 - Unestablished account",
+        "2tci34": "2025-08-19 - Unclear or Illegible Handwritten Notecard"
     },
     "erollmeup": {
         "2rythp": "2025-08-01 - Labubu Products Only"
@@ -3588,6 +3644,9 @@
     },
     "frsm91": {
         "2sj9wk": "2025-08-09 - Proof of Possession Photo"
+    },
+    "fulljaxattack": {
+        "2tcr22": "2025-08-20 - Missing Trade Details"
     },
     "fumanro": {
         "2t0597": "2025-08-15 - Labubu Products Only"
@@ -3783,6 +3842,11 @@
     },
     "jackiegetaway": {
         "2puvv6": "2025-07-02 - Item condition disclosure"
+    },
+    "jane_2929": {
+        "2tchnv": "2025-08-19 - Missing Multiple Post Requirements",
+        "2tci4h": "2025-08-19 - Missing Multiple Post Requirements",
+        "2tci4x": "2025-08-19 - Duplicate Post"
     },
     "jc_purplesky": {
         "2pdtue": "2025-06-24 - Only Trusted Payment Platforms",
@@ -4086,7 +4150,9 @@
     },
     "mean_gross": {
         "2psso0": "2025-07-01 - Proof of Possession",
-        "2skxa5": "2025-08-09 - No Accepted Methods of Payment Listed"
+        "2skxa5": "2025-08-09 - No Accepted Methods of Payment Listed",
+        "2tbr12": "2025-08-19 - Lack of Item Condition Disclosure",
+        "2tc02c": "2025-08-19 - Only Trusted Payment Platforms"
     },
     "meeghunp": {
         "2s5dpu": "2025-08-03 - Only Trusted Payment Platforms"
@@ -4321,8 +4387,14 @@
     "peanut3672": {
         "2ox5kt": "2025-06-17 - Proof of Possession"
     },
+    "pearlbones123": {
+        "2tcsg7": "2025-08-20 - No Accepted Methods of Payment Listed"
+    },
     "peppermint-butler": {
         "2szafk": "2025-08-14 - Missing Multiple Post Requirements"
+    },
+    "petitebomshell": {
+        "2tchsm": "2025-08-19 - Lack of Item Condition Disclosure"
     },
     "pharmd0214": {
         "2qzncs": "2025-07-20 - No Accepted Methods of Payment Listed"
@@ -4409,8 +4481,14 @@
     "r3setreality": {
         "2rp64p": "2025-07-28 - No Replicas/Lafufus"
     },
+    "rachelmetz": {
+        "2tbqi8": "2025-08-19 - Proof of Possession Photo"
+    },
     "ramblequeen": {
         "2ph0ae": "2025-06-26 - Item condition disclosure"
+    },
+    "raskolnokov789": {
+        "2tcqtz": "2025-08-20 - Post once every 48 hours"
     },
     "rasplemon051": {
         "2ox5k1": "2025-06-17 - Proof of Possession"
@@ -4531,6 +4609,9 @@
     },
     "sleepy_cheese45": {
         "2qo0o3": "2025-07-15 - Missing post requirements"
+    },
+    "slothfully": {
+        "2tci0a": "2025-08-19 - Only Trusted Payment Platforms"
     },
     "smolprincessmari": {
         "2t1w3k": "2025-08-15 - Missing Trade Details"

@@ -3376,3 +3376,6 @@
 2025-08-16 - OnePieceNeverending - All selling/trading posts must include handwritten
 2025-08-17 - OnePieceNeverending - Missing prices or pictures.
 2025-08-17 - mangaswapbot - Rule 4, 4th bulletpoint. Edit, dont delete.
+2025-08-20 - OnePieceNeverending - No external links
+2025-08-20 - OnePieceNeverending - BANNED - Unknown amount of time.
+2025-08-20 - mangaswapbot - Outdated timestamp, edit post, dont delete.
