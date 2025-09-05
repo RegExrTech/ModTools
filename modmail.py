@@ -305,10 +305,11 @@ def main(config):
 			if removing_mod == "USLBot" :
 				archive(mod_conv)
 
-			if infraction == PERM_BANNED:
+			if infraction == PERM_BANNED and "uslbot" not in removing_mod.lower():
 				for copy_sub_name in config.copy_bans_to:
 					try:
-						config.reddit.subreddit(copy_sub_name).banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
+						_config = Config.Config(copy_sub_name.lower())
+						_config.subreddit.banned.add(user, ban_message="You have been banned from r/" + copy_sub_name + " due to a ban from r/" + config.subreddit_name)
 						discord.log("Cross banned u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name)
 					except Exception as e:
 						discord.log("Unable to cross ban u/" + user + " from r/" + config.subreddit_name + " to r/" + copy_sub_name, e, traceback.format_exc())
