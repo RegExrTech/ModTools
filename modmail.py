@@ -302,10 +302,10 @@ def main(config):
 			send_reply(mod_conv, reply)
 
 			# Archive if action is from USLBot. Prevents clutter in modmail
-			if removing_mod == "USLBot" :
+			if "uslbot" in removing_mod.lower():
 				archive(mod_conv)
 
-			if infraction == PERM_BANNED and "uslbot" not in removing_mod.lower():
+			if infraction == PERM_BANNED and "uslbot" not in removing_mod.lower() and removing_mod.lower() != config.bot_username.lower():
 				for copy_sub_name in config.copy_bans_to:
 					try:
 						_config = Config.Config(copy_sub_name.lower())
